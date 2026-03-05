@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/kingcos/Documents/GitHub/ai-daily log --oneline -5)",
+      "Bash(git -C /Users/kingcos/Documents/GitHub/ai-daily remote -v)"
+    ]
+  }
+}

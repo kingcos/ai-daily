@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 日报</title>
+<style>
+  :root {
+    --bg: #f8f9fa;
+    --surface: #ffffff;
+    --border: #e9ecef;
+    --text: #212529;
+    --text-muted: #6c757d;
+    --accent: #0d6efd;
+    --tag-bg: #e9ecef;
+    --tag-text: #495057;
+    --imp1: #adb5bd;
+    --imp2: #74c0fc;
+    --imp3: #69db7c;
+    --imp4: #ffa94d;
+    --imp5: #ff6b6b;
+    --filter-active-bg: #0d6efd;
+    --filter-active-text: #fff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --tag-bg: #21262d;
+      --tag-text: #8b949e;
+      --imp1: #6e7681;
+      --imp2: #1f6feb;
+      --imp3: #238636;
+      --imp4: #9e6a03;
+      --imp5: #b91c1c;
+      --filter-active-bg: #58a6ff;
+      --filter-active-text: #0d1117;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 24px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header-inner {
+    max-width: 860px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .site-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .site-meta {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+  main {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 24px 16px;
+  }
+  .filter-bar {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .filter-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .filter-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    min-width: 36px;
+  }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.78rem;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: var(--tag-bg);
+    color: var(--tag-text);
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+    user-select: none;
+  }
+  .chip:hover { border-color: var(--accent); color: var(--accent); }
+  .chip.active {
+    background: var(--filter-active-bg);
+    color: var(--filter-active-text);
+    border-color: var(--filter-active-bg);
+  }
+  .items-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+    display: flex;
+    gap: 14px;
+  }
+  .imp-badge {
+    flex-shrink: 0;
+    width: 6px;
+    border-radius: 3px;
+    background: var(--imp1);
+  }
+  .imp-1 { background: var(--imp1); }
+  .imp-2 { background: var(--imp2); }
+  .imp-3 { background: var(--imp3); }
+  .imp-4 { background: var(--imp4); }
+  .imp-5 { background: var(--imp5); }
+  .card-body { flex: 1; min-width: 0; }
+  .card-title {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 6px;
+  }
+  .card-title a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  .card-title a:hover { color: var(--accent); }
+  .card-title-en {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+  }
+  .card-summary {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    line-height: 1.55;
+    margin-bottom: 10px;
+  }
+  .card-summary.hidden { display: none; }
+  .toggle-lang {
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    cursor: pointer;
+    margin-bottom: 8px;
+    display: inline-block;
+  }
+  .toggle-lang:hover { color: var(--accent); border-color: var(--accent); }
+  .toggle-lang.hidden { display: none; }
+  .card-footer {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 4px;
+  }
+  .tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.72rem;
+    background: var(--tag-bg);
+    color: var(--tag-text);
+  }
+  .card-source {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-left: auto;
+    white-space: nowrap;
+  }
+  .card-source a { color: var(--text-muted); text-decoration: none; }
+  .card-source a:hover { color: var(--accent); }
+  .card-date {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+  }
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-muted);
+  }
+  .empty-state h2 { font-size: 1.2rem; margin-bottom: 8px; }
+  .empty-state p { font-size: 0.9rem; }
+  .loading {
+    text-align: center;
+    padding: 40px;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+  @media (max-width: 600px) {
+    header { padding: 12px 16px; }
+    .card { padding: 14px; }
+    .filter-bar { padding: 12px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div>
+      <div class="site-title">AI 日报</div>
+      <div class="site-meta" id="site-meta">加载中...</div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="filter-bar" id="filter-bar" style="display:none">
+    <div class="filter-row">
+      <span class="filter-label">语言</span>
+      <span class="chip active" data-filter="lang" data-value="all">全部</span>
+      <span class="chip" data-filter="lang" data-value="en">EN</span>
+      <span class="chip" data-filter="lang" data-value="zh">中文</span>
+    </div>
+    <div class="filter-row" id="tag-filter-row">
+      <span class="filter-label">标签</span>
+    </div>
+    <div class="filter-row" id="source-filter-row">
+      <span class="filter-label">来源</span>
+    </div>
+  </div>
+
+  <div id="content">
+    <div class="loading">正在加载数据...</div>
+  </div>
+</main>
+
+<script>
+  const DATA_URL = '../data/index.json';
+  let allItems = [];
+  let activeFilters = { lang: 'all', tag: null, source: null };
+
+  function formatDate(iso) {
+    if (!iso) return '—';
+    try {
+      const d = new Date(iso);
+      return d.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+    } catch { return iso; }
+  }
+
+  function formatUpdated(iso) {
+    if (!iso) return '';
+    try {
+      const d = new Date(iso);
+      return '更新于 ' + d.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
+    } catch { return ''; }
+  }
+
+  function impClass(n) {
+    return 'imp-' + Math.max(1, Math.min(5, Math.round(n)));
+  }
+
+  function impLabel(n) {
+    const labels = ['', '低', '一般', '中', '重要', '重大'];
+    return labels[Math.max(1, Math.min(5, Math.round(n)))] || '';
+  }
+
+  function renderCard(item) {
+    const hasBothLang = item.summary_en && item.summary_zh;
+    const titleMain = item.title_zh || item.title_en || '（无标题）';
+    const titleSub = item.title_zh && item.title_en ? item.title_en : '';
+    const summaryZH = item.summary_zh || '';
+    const summaryEN = item.summary_en || '';
+
+    const tagsHtml = (item.tags || []).map(t =>
+      `<span class="tag">${escHtml(t)}</span>`
+    ).join('');
+
+    const toggleId = 'toggle-' + item.id;
+    const zhId = 'zh-' + item.id;
+    const enId = 'en-' + item.id;
+
+    return `
+<div class="card" data-lang="${item.lang || 'en'}"
+     data-tags="${(item.tags || []).join(',')}"
+     data-source="${escHtml(item.source_name || '')}">
+  <div class="imp-badge ${impClass(item.importance)}" title="重要性 ${item.importance}/5 · ${impLabel(item.importance)}"></div>
+  <div class="card-body">
+    <div class="card-title">
+      <a href="${escHtml(item.source_url || '#')}" target="_blank" rel="noopener">${escHtml(titleMain)}</a>
+    </div>
+    ${titleSub ? `<div class="card-title-en">${escHtml(titleSub)}</div>` : ''}
+    ${hasBothLang ? `<button class="toggle-lang" id="${toggleId}" onclick="toggleLang('${item.id}')">切换 EN/中</button>` : ''}
+    ${summaryZH ? `<div class="card-summary" id="${zhId}">${escHtml(summaryZH)}</div>` : ''}
+    ${summaryEN ? `<div class="card-summary hidden" id="${enId}">${escHtml(summaryEN)}</div>` : ''}
+    <div class="card-footer">
+      ${tagsHtml}
+      <span class="card-date">${formatDate(item.published_at)}</span>
+      <span class="card-source">
+        <a href="${escHtml(item.source_url || '#')}" target="_blank" rel="noopener">${escHtml(item.source_name || '')}</a>
+      </span>
+    </div>
+  </div>
+</div>`;
+  }
+
+  function escHtml(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function toggleLang(id) {
+    const zh = document.getElementById('zh-' + id);
+    const en = document.getElementById('en-' + id);
+    if (!zh || !en) return;
+    const showingZH = !zh.classList.contains('hidden');
+    zh.classList.toggle('hidden', showingZH);
+    en.classList.toggle('hidden', !showingZH);
+  }
+
+  function applyFilters() {
+    const cards = document.querySelectorAll('.card');
+    cards.forEach(card => {
+      const lang = card.dataset.lang;
+      const tags = card.dataset.tags.split(',');
+      const source = card.dataset.source;
+
+      const langOk = activeFilters.lang === 'all' || lang === activeFilters.lang;
+      const tagOk = !activeFilters.tag || tags.includes(activeFilters.tag);
+      const srcOk = !activeFilters.source || source === activeFilters.source;
+
+      card.style.display = (langOk && tagOk && srcOk) ? '' : 'none';
+    });
+  }
+
+  function buildFilters(items) {
+    const tags = new Set();
+    const sources = new Set();
+    items.forEach(item => {
+      (item.tags || []).forEach(t => tags.add(t));
+      if (item.source_name) sources.add(item.source_name);
+    });
+
+    const tagRow = document.getElementById('tag-filter-row');
+    const srcRow = document.getElementById('source-filter-row');
+
+    // All-tags chip
+    const allTagChip = document.createElement('span');
+    allTagChip.className = 'chip active';
+    allTagChip.dataset.filter = 'tag';
+    allTagChip.dataset.value = 'all';
+    allTagChip.textContent = '全部';
+    tagRow.appendChild(allTagChip);
+
+    [...tags].sort().forEach(t => {
+      const c = document.createElement('span');
+      c.className = 'chip';
+      c.dataset.filter = 'tag';
+      c.dataset.value = t;
+      c.textContent = t;
+      tagRow.appendChild(c);
+    });
+
+    // All-sources chip
+    const allSrcChip = document.createElement('span');
+    allSrcChip.className = 'chip active';
+    allSrcChip.dataset.filter = 'source';
+    allSrcChip.dataset.value = 'all';
+    allSrcChip.textContent = '全部';
+    srcRow.appendChild(allSrcChip);
+
+    [...sources].sort().forEach(s => {
+      const c = document.createElement('span');
+      c.className = 'chip';
+      c.dataset.filter = 'source';
+      c.dataset.value = s;
+      c.textContent = s;
+      srcRow.appendChild(c);
+    });
+
+    document.querySelectorAll('.chip').forEach(chip => {
+      chip.addEventListener('click', () => {
+        const filterType = chip.dataset.filter;
+        const value = chip.dataset.value;
+
+        document.querySelectorAll(`.chip[data-filter="${filterType}"]`).forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+
+        if (filterType === 'lang') activeFilters.lang = value === 'all' ? 'all' : value;
+        if (filterType === 'tag') activeFilters.tag = value === 'all' ? null : value;
+        if (filterType === 'source') activeFilters.source = value === 'all' ? null : value;
+
+        applyFilters();
+      });
+    });
+  }
+
+  function render(data) {
+    const items = (data.items || []).slice().sort((a, b) => {
+      const ia = a.importance || 0, ib = b.importance || 0;
+      if (ib !== ia) return ib - ia;
+      const da = a.published_at ? new Date(a.published_at) : 0;
+      const db = b.published_at ? new Date(b.published_at) : 0;
+      return db - da;
+    });
+
+    allItems = items;
+
+    document.getElementById('site-meta').textContent =
+      data.latest_date
+        ? `${data.latest_date} · ${items.length} 条 · ${formatUpdated(data.updated_at)}`
+        : '暂无数据';
+
+    const content = document.getElementById('content');
+
+    if (!items.length) {
+      content.innerHTML = `
+        <div class="empty-state">
+          <h2>暂无新闻数据</h2>
+          <p>运行 AI 日报流水线以生成第一期数据。</p>
+        </div>`;
+      return;
+    }
+
+    document.getElementById('filter-bar').style.display = '';
+    buildFilters(items);
+
+    content.innerHTML = `<div class="items-list">${items.map(renderCard).join('')}</div>`;
+  }
+
+  async function load() {
+    try {
+      const res = await fetch(DATA_URL);
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      render(data);
+    } catch (err) {
+      document.getElementById('site-meta').textContent = '加载失败';
+      document.getElementById('content').innerHTML = `
+        <div class="empty-state">
+          <h2>数据加载失败</h2>
+          <p>请确认 data/index.json 已生成，或通过 GitHub Pages 访问本页面。</p>
+          <p style="margin-top:8px;font-size:0.8rem;opacity:0.6">${err.message}</p>
+        </div>`;
+    }
+  }
+
+  load();
+</script>
+</body>
+</html>

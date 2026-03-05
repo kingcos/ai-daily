@@ -1,0 +1,8 @@
+{
+  "name": "ai-daily",
+  "version": "1.0.0",
+  "description": "AI industry news pipeline: fetch, deduplicate, summarize, and archive to daily JSON for GitHub Pages",
+  "author": {
+    "name": "kingcos"
+  }
+}
