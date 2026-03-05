@@ -1,6 +1,6 @@
 # JSON Schema Reference
 
-## Daily File: `data/YYYY-MM-DD.json`
+## Daily File: `data/YYYY-MM-DD.json` / `docs/data/YYYY-MM-DD.json`
 
 ```json
 {
@@ -92,7 +92,7 @@ Used for items from 量子位 and 机器之心. Fields `title_en` and `summary_e
 
 ---
 
-## Index File: `data/index.json`
+## Index File: `data/index.json` / `docs/data/index.json`
 
 ```json
 {

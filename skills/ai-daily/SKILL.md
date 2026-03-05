@@ -22,8 +22,10 @@ Fetch → Filter → Semantic Dedup → Time Verify → Summarize (EN+ZH) → Ta
 ```
 
 **Output files:**
-- `data/YYYY-MM-DD.json` — one file per day
-- `data/index.json` — always reflects the latest day's items + metadata
+- `data/YYYY-MM-DD.json` — archive copy per day
+- `data/index.json` — archive index metadata
+- `docs/data/YYYY-MM-DD.json` — GitHub Pages published daily file
+- `docs/data/index.json` — GitHub Pages published latest index
 
 **Default target date:** today (UTC). Accept explicit dates from the user (e.g. "run for 2026-03-05").
 
@@ -46,7 +48,7 @@ Fetch → Filter → Semantic Dedup → Time Verify → Summarize (EN+ZH) → Ta
 1. Read existing `data/YYYY-MM-DD.json` if it exists
 2. Fetch sources, process only new articles not yet in the file
 3. Append new items, sort by `published_at` descending
-4. Rebuild `data/index.json`
+4. Rebuild `data/index.json` and mirror both files into `docs/data/`
 
 **Full re-run:**
 - Delete the daily JSON first, then run the pipeline; all articles reprocessed

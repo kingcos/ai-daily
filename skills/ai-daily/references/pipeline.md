@@ -143,12 +143,13 @@ Assign `importance` as integer 1–5:
 3. Skip any item whose `id` already exists in the file
 4. Append new items
 5. Sort all `items` by `published_at` descending (null values go to end)
-6. Write the updated daily file
+6. Write the updated daily file to `data/YYYY-MM-DD.json`, then copy it to `docs/data/YYYY-MM-DD.json`
 7. Rebuild `data/index.json`:
    - `latest_date` = target date
    - `updated_at` = current UTC time
    - `dates` = sorted list of all existing daily file dates (descending)
    - `items` = items from the latest daily file
+8. Copy `data/index.json` to `docs/data/index.json` so GitHub Pages can serve it
 
 ---
 

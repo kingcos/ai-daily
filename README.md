@@ -20,7 +20,7 @@
 
 > "生成 2026-03-05 的日报数据"
 
-Claude 会自动加载 `ai-daily` skill，按照 Fetch → Filter → Dedup → Verify → Summarize → Tag → Score → Write 的顺序执行，将结果写入 `data/YYYY-MM-DD.json` 并更新 `data/index.json`。
+Claude 会自动加载 `ai-daily` skill，按照 Fetch → Filter → Dedup → Verify → Summarize → Tag → Score → Write 的顺序执行，将结果写入 `data/YYYY-MM-DD.json`、同步发布副本到 `docs/data/YYYY-MM-DD.json`，并更新 `data/index.json` 与 `docs/data/index.json`。
 
 ## 目录结构
 
@@ -46,7 +46,7 @@ ai-daily/
 
 ## 数据格式
 
-### `data/index.json`
+### `data/index.json` / `docs/data/index.json`
 
 ```json
 {
@@ -83,6 +83,7 @@ ai-daily/
 
 1. 推送代码到 GitHub
 2. 仓库 Settings → Pages → Source 选择 **`docs/` 目录**
-3. 访问 `https://<username>.github.io/ai-daily/`
+3. 确保日报 JSON 同步到 `docs/data/`，这样线上才能访问 `/data/index.json`
+4. 访问 `https://<username>.github.io/ai-daily/`
 
-本地预览：在仓库根目录运行 `python3 -m http.server 8000`，访问 `http://localhost:8000/docs/`
+本地预览：在仓库根目录运行 `python3 -m http.server 8000`，访问 `http://localhost:8000/docs/`；页面会读取 `docs/data/` 下的 JSON。
