@@ -221,6 +221,19 @@
     box-shadow: 0 0 0 3px var(--accent-soft);
   }
 
+  .range-pill {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 12px;
+    min-height: 40px;
+    border-radius: 14px;
+    border: 1px solid var(--border);
+    background: var(--surface-strong);
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+
   /* Collapsible filters */
   details.filters > summary {
     list-style: none;
@@ -335,6 +348,28 @@
     display: flex;
     flex-direction: column;
     gap: 12px;
+  }
+
+  .day-section {
+    margin-top: 8px;
+  }
+  .day-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 10px 12px;
+    margin: 6px 4px 10px;
+    color: var(--text);
+  }
+  .day-title {
+    font-size: 0.98rem;
+    font-weight: 780;
+    letter-spacing: -0.01em;
+  }
+  .day-sub {
+    font-size: 0.84rem;
+    color: var(--text-muted);
   }
   .card {
     background: var(--surface);
@@ -512,6 +547,7 @@
         </span>
 
         <input class="date-picker" id="date-picker" type="date" aria-label="快速选择日期">
+        <span class="range-pill" id="range-label" style="display:none" aria-label="时间范围"></span>
       </div>
     </div>
 
@@ -529,6 +565,13 @@
         <div class="row">
           <span class="label">搜索</span>
           <input class="search-input" id="search-input" type="search" placeholder="搜索标题、摘要、标签、来源" autocomplete="off">
+        </div>
+        <div class="row">
+          <span class="label">排序</span>
+          <select class="date-picker" id="sort-select" aria-label="选择排序方式" style="min-width: 160px">
+            <option value="importance" selected>重要性优先</option>
+            <option value="time">时间优先</option>
+          </select>
         </div>
         <div class="row" id="tag-filter-row">
           <span class="label">标签</span>
@@ -560,6 +603,10 @@
   let indexMeta = null;
   let currentDate = null;
   let allItems = [];
+  let viewMode = 'day'; // 'day' | 'week' | 'all'
+  let sortMode = 'importance'; // 'importance' | 'time'
+  const dayCache = new Map(); // date -> daily json
+
   let activeFilters = { tag: null, source: null, search: '' };
 
   function escHtml(str) {
@@ -760,7 +807,34 @@
 
   function syncDatePicker() {
     const dp = document.getElementById('date-picker');
-    if (dp) dp.value = currentDate || '';
+    const range = document.getElementById('range-label');
+
+    if (viewMode === 'day') {
+      if (dp) {
+        dp.style.display = '';
+        dp.value = currentDate || '';
+      }
+      if (range) range.style.display = 'none';
+      return;
+    }
+
+    // week/all modes
+    if (dp) dp.style.display = 'none';
+    if (!range) return;
+
+    if (viewMode === 'all') {
+      const dates = indexMeta?.dates || [];
+      const newest = dates[0];
+      const oldest = dates[dates.length - 1];
+      range.textContent = dates.length ? `${oldest} → ${newest}` : '—';
+    } else if (viewMode === 'week') {
+      const weekDates = getWeekDates(getTodayDate());
+      const newest = weekDates[0];
+      const oldest = weekDates[weekDates.length - 1];
+      range.textContent = weekDates.length ? `${oldest} → ${newest}` : '—';
+    }
+
+    range.style.display = '';
   }
 
   function setSubtitle(text) {
@@ -894,6 +968,24 @@
     });
   }
 
+  function initSort() {
+    const sel = document.getElementById('sort-select');
+    if (!sel) return;
+    sel.addEventListener('change', async () => {
+      sortMode = sel.value === 'time' ? 'time' : 'importance';
+      // Re-render current view
+      if (viewMode === 'all') {
+        await showAll();
+        return;
+      }
+      if (viewMode === 'week') {
+        await showWeek();
+        return;
+      }
+      await switchToDate(currentDate || getTodayDate());
+    });
+  }
+
   function initChipFilters() {
     document.getElementById('filters').addEventListener('click', (event) => {
       const chip = event.target.closest('.chip');
@@ -912,14 +1004,35 @@
     });
   }
 
-  async function loadDate(date) {
+  function sortItems(items) {
+    const arr = (items || []).slice();
+    const getTime = (x) => x?.published_at ? new Date(x.published_at).getTime() : 0;
+    if (sortMode === 'time') {
+      return arr.sort((a, b) => {
+        const ta = getTime(a), tb = getTime(b);
+        if (tb !== ta) return tb - ta;
+        return (b.importance || 0) - (a.importance || 0);
+      });
+    }
+    // default: importance
+    return arr.sort((a, b) => {
+      const ia = a.importance || 0, ib = b.importance || 0;
+      if (ib !== ia) return ib - ia;
+      return getTime(b) - getTime(a);
+    });
+  }
+
+  async function fetchDaily(date) {
+    if (dayCache.has(date)) return dayCache.get(date);
     const res = await fetch(`./data/${date}.json`);
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
-    render(data);
+    dayCache.set(date, data);
+    return data;
   }
 
   function renderNoDataForDate(date) {
+    viewMode = 'day';
     currentDate = date;
     document.getElementById('module').style.display = '';
     syncDatePicker();
@@ -929,45 +1042,145 @@
         <h2>暂无新闻数据</h2>
         <p>${escHtml(date)} 暂无数据。</p>
       </div>`;
-    setSubtitle(date);
+    setSubtitle('AI 日报');
+  }
+
+  function renderDay(daily) {
+    viewMode = 'day';
+    currentDate = daily?.date || currentDate;
+    allItems = sortItems(daily?.items || []);
+
+    const updated = indexMeta?.updated_at ? `更新：${formatDateTimeCN(indexMeta.updated_at)}（北京）` : '';
+    document.getElementById('updated-at').textContent = updated || '—';
+
+    document.getElementById('module').style.display = '';
+    syncDatePicker();
+    buildFilters(allItems);
+
+    const content = document.getElementById('content');
+    if (!allItems.length) {
+      content.innerHTML = `
+        <div class="empty-state">
+          <h2>暂无新闻数据</h2>
+          <p>${escHtml(currentDate)} 暂无数据。</p>
+        </div>`;
+      return;
+    }
+
+    content.innerHTML = `<div class="items-list">${allItems.map(renderCard).join('')}</div>`;
+    applyFilters();
+  }
+
+  function renderSections(sectionDates, byDateItems) {
+    // sectionDates: array in display order (newest -> oldest)
+    const sections = sectionDates.map(d => ({ date: d, items: sortItems(byDateItems.get(d) || []) }));
+    const flat = [];
+    sections.forEach(s => flat.push(...s.items));
+    allItems = flat;
+
+    const updated = indexMeta?.updated_at ? `更新：${formatDateTimeCN(indexMeta.updated_at)}（北京）` : '';
+    document.getElementById('updated-at').textContent = updated || '—';
+
+    document.getElementById('module').style.display = '';
+    syncDatePicker();
+    buildFilters(flat);
+
+    const html = sections.map(s => {
+      const count = s.items.length;
+      return `
+        <section class="day-section">
+          <div class="day-header">
+            <div class="day-title">${escHtml(s.date)}</div>
+            <div class="day-sub">${count ? `${count} 条` : '暂无数据'}</div>
+          </div>
+          <div class="items-list">${(s.items.length ? s.items.map(renderCard).join('') : '')}</div>
+        </section>`;
+    }).join('');
+
+    document.getElementById('content').innerHTML = html || `
+      <div class="empty-state">
+        <h2>暂无新闻数据</h2>
+        <p>当前范围暂无数据。</p>
+      </div>`;
+
+    applyFilters();
   }
 
   async function switchToDate(date) {
-    if (!date || date === currentDate) return;
+    // Selecting a date should jump to that date, even if empty.
+    viewMode = 'day';
+    currentDate = date;
+    syncDatePicker();
+    setUrlState?.({ mode: 'day', date });
 
     const dates = new Set(indexMeta?.dates || []);
-    // If the user asks for a date that doesn't exist, show empty state instead of snapping to latest.
     if (!dates.has(date)) {
       renderNoDataForDate(date);
       return;
     }
 
-    const previousDate = currentDate;
-    currentDate = date;
-    syncDatePicker();
-
     try {
-      await loadDate(date);
+      const daily = await fetchDaily(date);
+      renderDay(daily);
     } catch (err) {
-      currentDate = previousDate;
-      syncDatePicker();
-      setSubtitle('日期加载失败');
       document.getElementById('content').innerHTML = `
         <div class="empty-state">
           <h2>日期数据加载失败</h2>
-          <p>请选择其他日期，或确认对应的日报 JSON 已生成。</p>
+          <p>${escHtml(date)} 加载失败，请稍后重试。</p>
           <p style="margin-top:8px;font-size:0.85rem;opacity:0.7">${escHtml(err.message)}</p>
         </div>`;
     }
+  }
+
+  async function showAll() {
+    viewMode = 'all';
+    currentDate = getTodayDate();
+    syncDatePicker();
+    setUrlState?.({ mode: 'all', date: null });
+
+    const dates = indexMeta?.dates || [];
+    const byDateItems = new Map();
+
+    await Promise.all(dates.map(async (d) => {
+      try {
+        const daily = await fetchDaily(d);
+        byDateItems.set(d, daily?.items || []);
+      } catch {
+        byDateItems.set(d, []);
+      }
+    }));
+
+    renderSections(dates, byDateItems);
+  }
+
+  async function showWeek() {
+    viewMode = 'week';
+    currentDate = getTodayDate();
+    syncDatePicker();
+    setUrlState?.({ mode: 'week', date: null });
+
+    const weekDates = getWeekDates(getTodayDate());
+    const byDateItems = new Map();
+
+    await Promise.all(weekDates.map(async (d) => {
+      try {
+        const daily = await fetchDaily(d);
+        byDateItems.set(d, daily?.items || []);
+      } catch {
+        byDateItems.set(d, []);
+      }
+    }));
+
+    renderSections(weekDates, byDateItems);
   }
 
   function initDateNav() {
     const dp = document.getElementById('date-picker');
 
     document.getElementById('quick-all').addEventListener('click', async () => {
-      // “全部” = 回到默认（最新一期）
+      // “全部” = 全量范围（按天分组）
       setQuickActive('quick-all');
-      await switchToDate(indexMeta?.latest_date || getTodayDate());
+      await showAll();
     });
 
     document.getElementById('quick-today').addEventListener('click', async () => {
@@ -982,47 +1195,76 @@
 
     document.getElementById('quick-week').addEventListener('click', async () => {
       setQuickActive('quick-week');
-      const weekDates = getWeekDates(getTodayDate());
-      if (!weekDates.length) return;
-      // 如果不在本周范围，跳到本周最新（dates 列表最靠前）
-      if (!weekDates.includes(currentDate)) {
-        await switchToDate(weekDates[0]);
-      }
+      await showWeek();
     });
 
     dp.addEventListener('change', async () => {
-      const dates = new Set(indexMeta?.dates || []);
       const picked = dp.value;
-      if (dates.has(picked)) {
-        setQuickActive('quick-all');
-        await switchToDate(picked);
-      } else {
-        // snap back
-        dp.value = currentDate || '';
-      }
+      if (!picked) return;
+      // Selecting a date should always jump, even if empty.
+      setQuickActive('quick-all');
+      await switchToDate(picked);
     });
+  }
+
+  function getUrlState() {
+    const u = new URL(window.location.href);
+    const mode = u.searchParams.get('mode'); // day|week|all
+    const date = u.searchParams.get('date'); // YYYY-MM-DD
+    return { mode, date };
+  }
+
+  function setUrlState(next) {
+    const u = new URL(window.location.href);
+    if (next.mode) u.searchParams.set('mode', next.mode);
+    else u.searchParams.delete('mode');
+    if (next.date) u.searchParams.set('date', next.date);
+    else u.searchParams.delete('date');
+    history.replaceState(null, '', u.toString());
   }
 
   async function load() {
     try {
       initThemeToggle();
       initSearch();
+      initSort();
       initChipFilters();
 
       const res = await fetch(INDEX_URL);
       if (!res.ok) throw new Error('HTTP ' + res.status);
       indexMeta = await res.json();
 
-      // Default view should be calendar-today (Beijing). If there's no data yet, show empty state.
-      const today = getTodayDate();
-      if (!today) {
-        render({ date: null, items: [] });
+      const { mode, date } = getUrlState();
+      initDateNav();
+
+      if (mode === 'all') {
+        setQuickActive('quick-all');
+        await showAll();
+        setUrlState({ mode: 'all', date: null });
         return;
       }
 
-      await switchToDate(today);
-      initDateNav();
-      setQuickActive('quick-today');
+      if (mode === 'week') {
+        setQuickActive('quick-week');
+        await showWeek();
+        setUrlState({ mode: 'week', date: null });
+        return;
+      }
+
+      // Default view: calendar-today (Beijing). If URL provides a date, honor it.
+      const target = date || getTodayDate();
+      if (!target) {
+        document.getElementById('content').innerHTML = `
+          <div class="empty-state">
+            <h2>暂无新闻数据</h2>
+            <p>今天暂无数据。</p>
+          </div>`;
+        return;
+      }
+
+      await switchToDate(target);
+      setQuickActive(date ? 'quick-all' : 'quick-today');
+      setUrlState({ mode: 'day', date: target });
 
     } catch (err) {
       setSubtitle('加载失败');
