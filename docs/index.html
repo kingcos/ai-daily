@@ -494,7 +494,6 @@
   <div class="header-inner">
     <div class="brand">
       <div class="site-title">AI 日报</div>
-      <div class="subtitle" id="subtitle">加载中…</div>
     </div>
 
     <button class="icon-btn" id="theme-toggle" type="button" aria-label="切换暗黑模式" title="切换主题">🌙</button>
@@ -520,7 +519,6 @@
       <summary aria-label="展开筛选">
         <div class="summary-left">
           <span class="summary-title">筛选</span>
-          <span class="summary-meta" id="summary-meta">—</span>
         </div>
         <div class="summary-right">
           <span class="chev" aria-hidden="true">⌄</span>
@@ -766,7 +764,8 @@
   }
 
   function setSubtitle(text) {
-    document.getElementById('subtitle').textContent = text;
+    // Header subtitle removed per UI preference.
+    document.title = text ? `AI 日报 · ${text}` : 'AI 日报';
   }
 
   function setQuickActive(which) {
@@ -779,20 +778,29 @@
     if (target) target.classList.add('active');
   }
 
+  function dateToYMDInBeijing(d) {
+    // format in Beijing TZ as YYYY-MM-DD
+    const parts = new Intl.DateTimeFormat('en-CA', {
+      timeZone: BEIJING_TZ,
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit'
+    }).formatToParts(d);
+    const get = (t) => parts.find(p => p.type === t)?.value;
+    return `${get('year')}-${get('month')}-${get('day')}`;
+  }
+
   function getTodayDate() {
-    // "今日" = indexMeta.latest_date
-    return indexMeta?.latest_date || null;
+    // “今日” = calendar today in Beijing, not latest generated date.
+    return dateToYMDInBeijing(new Date());
   }
 
   function getYesterdayDate() {
-    const dates = indexMeta?.dates || [];
-    const today = getTodayDate();
-    const i = dates.indexOf(today);
-    if (i >= 0 && i + 1 < dates.length) return dates[i + 1];
-    // fallback: if current is today, next in list; else previous day in list
-    const j = dates.indexOf(currentDate);
-    if (j >= 0 && j + 1 < dates.length) return dates[j + 1];
-    return null;
+    const y = new Date();
+    // subtract 1 day in local clock; we only care about date parts in Beijing.
+    y.setDate(y.getDate() - 1);
+    const candidate = dateToYMDInBeijing(y);
+    return candidate;
   }
 
   function getWeekDates(anchorDate) {
@@ -831,9 +839,8 @@
 
     const updated = indexMeta?.updated_at ? `更新：${formatDateTimeCN(indexMeta.updated_at)}（北京）` : '';
     document.getElementById('updated-at').textContent = updated || '—';
-    document.getElementById('summary-meta').textContent = updated || '—';
 
-    setSubtitle(currentDate ? currentDate : '暂无数据');
+    setSubtitle(currentDate ? currentDate : 'AI 日报');
 
     document.getElementById('module').style.display = '';
     syncDatePicker();
@@ -912,11 +919,33 @@
     render(data);
   }
 
+  function renderNoDataForDate(date) {
+    currentDate = date;
+    document.getElementById('module').style.display = '';
+    syncDatePicker();
+    buildFilters([]);
+    document.getElementById('content').innerHTML = `
+      <div class="empty-state">
+        <h2>暂无新闻数据</h2>
+        <p>${escHtml(date)} 暂无数据。</p>
+      </div>`;
+    setSubtitle(date);
+  }
+
   async function switchToDate(date) {
     if (!date || date === currentDate) return;
+
+    const dates = new Set(indexMeta?.dates || []);
+    // If the user asks for a date that doesn't exist, show empty state instead of snapping to latest.
+    if (!dates.has(date)) {
+      renderNoDataForDate(date);
+      return;
+    }
+
     const previousDate = currentDate;
     currentDate = date;
     syncDatePicker();
+
     try {
       await loadDate(date);
     } catch (err) {
@@ -936,9 +965,9 @@
     const dp = document.getElementById('date-picker');
 
     document.getElementById('quick-all').addEventListener('click', async () => {
-      // “全部” = 回到默认（今日/最新），并结束任何临时模式
+      // “全部” = 回到默认（最新一期）
       setQuickActive('quick-all');
-      await switchToDate(getTodayDate());
+      await switchToDate(indexMeta?.latest_date || getTodayDate());
     });
 
     document.getElementById('quick-today').addEventListener('click', async () => {
@@ -983,14 +1012,15 @@
       const res = await fetch(INDEX_URL);
       if (!res.ok) throw new Error('HTTP ' + res.status);
       indexMeta = await res.json();
-      currentDate = indexMeta.latest_date;
 
-      if (!currentDate) {
+      // Default view should be calendar-today (Beijing). If there's no data yet, show empty state.
+      const today = getTodayDate();
+      if (!today) {
         render({ date: null, items: [] });
         return;
       }
 
-      await loadDate(currentDate);
+      await switchToDate(today);
       initDateNav();
       setQuickActive('quick-today');
 
