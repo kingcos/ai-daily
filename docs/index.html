@@ -32,6 +32,7 @@
     --filter-active-bg: #b85c38;
     --filter-active-text: #fff;
     --shadow: 0 16px 40px rgba(78, 50, 22, 0.08);
+    --radius: 16px;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
@@ -76,8 +77,9 @@
     --shadow: 0 18px 42px rgba(0, 0, 0, 0.34);
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { color-scheme: light dark; }
   body {
-    font-family: 'SF Pro Display', 'PingFang SC', 'Noto Sans SC', sans-serif;
+    font-family: 'SF Pro Display', 'PingFang SC', 'Noto Sans SC', system-ui, -apple-system, sans-serif;
     background: var(--bg);
     background-image:
       radial-gradient(circle at top left, var(--accent-soft), transparent 32%),
@@ -86,125 +88,249 @@
     line-height: 1.6;
     min-height: 100vh;
   }
+
+  /* Header */
   header {
     background: var(--surface);
     backdrop-filter: blur(14px);
     border-bottom: 1px solid var(--border);
-    padding: 16px 24px;
+    padding: 14px 18px;
     position: sticky;
     top: 0;
     z-index: 100;
   }
   .header-inner {
-    max-width: 860px;
+    max-width: 920px;
     margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+  .brand {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .site-title {
+    font-size: 1.28rem;
+    font-weight: 780;
+    letter-spacing: -0.03em;
+  }
+  .subtitle {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+  }
+
+  .icon-btn {
+    appearance: none;
+    border: 1px solid var(--border);
+    background: var(--surface-strong);
+    color: var(--text);
+    border-radius: 999px;
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: border-color 0.2s, transform 0.2s, background 0.2s;
+  }
+  .icon-btn:hover { border-color: var(--accent); transform: translateY(-1px); }
+  .icon-btn:active { transform: translateY(0); }
+  .icon-btn:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px var(--accent-soft);
+    border-color: var(--accent);
+  }
+  .icon-btn[disabled] { opacity: 0.45; cursor: not-allowed; transform: none; }
+
+  main {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 18px 16px 24px;
+  }
+
+  /* Date + Filters module */
+  .module {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    margin-bottom: 14px;
+    overflow: clip;
+  }
+  .module-head {
+    padding: 12px 14px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 12px;
     flex-wrap: wrap;
   }
-  .site-title {
-    font-size: 1.35rem;
-    font-weight: 700;
-    letter-spacing: -0.03em;
-  }
-  .site-meta {
-    font-size: 0.8rem;
-    color: var(--text-muted);
-  }
-  .header-actions {
+  .date-nav {
     display: flex;
     align-items: center;
     gap: 10px;
+    flex-wrap: wrap;
   }
-  .theme-toggle {
-    appearance: none;
+  
+  .seg {
+    display: inline-flex;
+    align-items: center;
     border: 1px solid var(--border);
     background: var(--surface-strong);
-    color: var(--text);
     border-radius: 999px;
-    padding: 8px 12px;
+    overflow: hidden;
+  }
+  .seg button {
+    appearance: none;
+    border: 0;
+    background: transparent;
+    color: var(--text-muted);
+    padding: 9px 12px;
+    font-size: 0.84rem;
     cursor: pointer;
-    font-size: 0.78rem;
-    transition: border-color 0.2s, color 0.2s, background 0.2s, transform 0.2s;
+    min-height: 40px;
+    transition: background 0.15s, color 0.15s;
   }
-  .theme-toggle:hover {
-    border-color: var(--accent);
-    color: var(--accent);
-    transform: translateY(-1px);
+  .seg button:hover { color: var(--accent); }
+  .seg button.active {
+    background: var(--filter-active-bg);
+    color: var(--filter-active-text);
   }
-  main {
-    max-width: 860px;
-    margin: 0 auto;
-    padding: 24px 16px;
+  .seg button:focus-visible {
+    outline: none;
+    box-shadow: inset 0 0 0 2px var(--accent);
   }
-  .filter-bar {
-    background: var(--surface);
+
+  .date-picker {
+    appearance: none;
     border: 1px solid var(--border);
-    border-radius: 16px;
-    padding: 14px 16px;
-    margin-bottom: 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    box-shadow: var(--shadow);
+    border-radius: 14px;
+    background: var(--surface-strong);
+    color: var(--text);
+    padding: 10px 12px;
+    font-size: 0.9rem;
+    min-height: 40px;
+    outline: none;
   }
-  .filter-row {
+  .date-picker:focus-visible {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+
+  /* Collapsible filters */
+  details.filters > summary {
+    list-style: none;
+    padding: 12px 14px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    user-select: none;
+    border-top: 1px solid var(--border);
+  }
+  details.filters > summary:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+  details.filters > summary::-webkit-details-marker { display: none; }
+  .summary-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: 0;
+  }
+  .summary-title {
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .summary-meta {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 54ch;
+  }
+  .summary-right {
     display: flex;
     align-items: center;
     gap: 8px;
+  }
+  .chev { color: var(--text-muted); transition: transform 0.18s ease; }
+  details.filters[open] .chev { transform: rotate(180deg); }
+
+  .filters-body {
+    padding: 12px 14px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
     flex-wrap: wrap;
   }
-  .filter-label {
+  .label {
     font-size: 0.75rem;
-    font-weight: 600;
+    font-weight: 700;
     color: var(--text-muted);
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    min-width: 36px;
+    letter-spacing: 0.06em;
+    min-width: 44px;
   }
+
+  .search-input {
+    appearance: none;
+    width: min(100%, 520px);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    background: var(--surface-strong);
+    color: var(--text);
+    padding: 10px 12px;
+    font-size: 0.92rem;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .search-input:focus-visible {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+
   .chip {
     display: inline-flex;
     align-items: center;
-    padding: 4px 10px;
-    border-radius: 20px;
-    font-size: 0.78rem;
+    padding: 7px 12px;
+    border-radius: 999px;
+    font-size: 0.82rem;
     cursor: pointer;
     border: 1px solid var(--border);
     background: var(--tag-bg);
     color: var(--tag-text);
-    transition: background 0.15s, color 0.15s, border-color 0.15s;
+    transition: background 0.15s, color 0.15s, border-color 0.15s, transform 0.15s;
     user-select: none;
+    min-height: 36px;
   }
-  .chip:hover { border-color: var(--accent); color: var(--accent); }
+  .chip:hover { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); }
+  .chip:active { transform: translateY(0); }
   .chip.active {
     background: var(--filter-active-bg);
     color: var(--filter-active-text);
     border-color: var(--filter-active-bg);
   }
-  .search-input,
-  .date-select {
-    appearance: none;
-    width: min(100%, 320px);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    background: var(--surface-strong);
-    color: var(--text);
-    padding: 10px 12px;
-    font-size: 0.9rem;
-    outline: none;
-    transition: border-color 0.2s, box-shadow 0.2s;
-  }
-  .search-input:focus,
-  .date-select:focus {
-    border-color: var(--accent);
-    box-shadow: 0 0 0 3px var(--accent-soft);
-  }
-  .helper-text {
-    font-size: 0.76rem;
+
+  .muted {
+    font-size: 0.82rem;
     color: var(--text-muted);
   }
+
+  /* Items */
   .items-list {
     display: flex;
     flex-direction: column;
@@ -213,7 +339,7 @@
   .card {
     background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 16px;
+    border-radius: var(--radius);
     padding: 16px 18px;
     display: flex;
     gap: 14px;
@@ -222,7 +348,7 @@
   .imp-badge {
     flex-shrink: 0;
     width: 6px;
-    border-radius: 3px;
+    border-radius: 999px;
     background: var(--imp1);
   }
   .imp-1 { background: var(--imp1); }
@@ -230,60 +356,83 @@
   .imp-3 { background: var(--imp3); }
   .imp-4 { background: var(--imp4); }
   .imp-5 { background: var(--imp5); }
+
   .card-body { flex: 1; min-width: 0; }
+  .card-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 10px;
+  }
   .card-title {
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 700;
     line-height: 1.4;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
   }
   .card-title a {
     color: var(--text);
     text-decoration: none;
   }
   .card-title a:hover { color: var(--accent); }
+
   .card-title-en {
-    font-size: 0.82rem;
+    font-size: 0.84rem;
     color: var(--text-muted);
-    margin-bottom: 8px;
+    margin: -2px 0 10px;
   }
+
   .card-summary {
-    font-size: 0.875rem;
+    font-size: 0.92rem;
     color: var(--text-muted);
-    line-height: 1.55;
+    line-height: 1.6;
     margin-bottom: 10px;
   }
   .card-summary.hidden { display: none; }
+
   .toggle-lang {
-    background: none;
+    background: var(--surface-strong);
     border: 1px solid var(--border);
-    border-radius: 4px;
-    padding: 2px 8px;
-    font-size: 0.72rem;
-    color: var(--text-muted);
+    border-radius: 999px;
+    width: 36px;
+    height: 36px;
+    font-size: 16px;
+    line-height: 1;
     cursor: pointer;
-    margin-bottom: 8px;
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text);
+    transition: border-color 0.2s, transform 0.2s;
+    flex-shrink: 0;
+    margin-top: 2px;
   }
-  .toggle-lang:hover { color: var(--accent); border-color: var(--accent); }
+  .toggle-lang:hover { border-color: var(--accent); transform: translateY(-1px); }
+  .toggle-lang:active { transform: translateY(0); }
+  .toggle-lang:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px var(--accent-soft);
+    border-color: var(--accent);
+  }
   .toggle-lang.hidden { display: none; }
+
   .card-footer {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: 6px;
-    margin-top: 4px;
+    gap: 8px;
+    margin-top: 2px;
   }
   .tag {
     display: inline-block;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 0.72rem;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-size: 0.78rem;
     background: var(--tag-bg);
     color: var(--tag-text);
   }
   .card-source {
-    font-size: 0.75rem;
+    font-size: 0.82rem;
     color: var(--text-muted);
     margin-left: auto;
     white-space: nowrap;
@@ -291,28 +440,31 @@
   .card-source a { color: var(--text-muted); text-decoration: none; }
   .card-source a:hover { color: var(--accent); }
   .card-date {
-    font-size: 0.72rem;
+    font-size: 0.78rem;
     color: var(--text-muted);
   }
+
   .empty-state {
     text-align: center;
-    padding: 60px 20px;
+    padding: 56px 20px;
     color: var(--text-muted);
   }
-  .empty-state h2 { font-size: 1.2rem; margin-bottom: 8px; }
-  .empty-state p { font-size: 0.9rem; }
+  .empty-state h2 { font-size: 1.2rem; margin-bottom: 8px; color: var(--text); }
+  .empty-state p { font-size: 0.92rem; }
+
   .loading {
     text-align: center;
-    padding: 40px;
+    padding: 42px;
     color: var(--text-muted);
-    font-size: 0.9rem;
+    font-size: 0.92rem;
   }
+
   footer {
-    max-width: 860px;
+    max-width: 920px;
     margin: 0 auto;
-    padding: 0 16px 32px;
+    padding: 0 16px 34px;
     color: var(--text-muted);
-    font-size: 0.82rem;
+    font-size: 0.84rem;
     text-align: center;
   }
   footer a {
@@ -324,12 +476,15 @@
     color: var(--accent);
     border-color: currentColor;
   }
-  @media (max-width: 600px) {
-    header { padding: 12px 16px; }
-    .card { padding: 14px; }
-    .filter-bar { padding: 12px; }
-    .search-input,
-    .date-select { width: 100%; }
+
+  @media (max-width: 720px) {
+    header { padding: 12px 14px; }
+    main { padding: 14px 14px 22px; }
+    .summary-meta { display: none; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; scroll-behavior: auto !important; }
   }
 </style>
 </head>
@@ -337,96 +492,130 @@
 
 <header>
   <div class="header-inner">
-    <div>
+    <div class="brand">
       <div class="site-title">AI 日报</div>
-      <div class="site-meta" id="site-meta">加载中...</div>
+      <div class="subtitle" id="subtitle">加载中…</div>
     </div>
-    <div class="header-actions">
-      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="切换暗黑模式">暗黑模式</button>
-    </div>
+
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="切换暗黑模式" title="切换主题">🌙</button>
   </div>
 </header>
 
 <main>
-  <div class="filter-bar" id="filter-bar" style="display:none">
-    <div class="filter-row">
-      <span class="filter-label">日期</span>
-      <select class="date-select" id="date-select" aria-label="选择日报日期"></select>
-      <span class="helper-text">按北京时间 08:00 切分</span>
+  <div class="module" id="module" style="display:none">
+    <div class="module-head" aria-label="日期切换">
+      <div class="date-nav">
+        <span class="seg" role="group" aria-label="快捷日期">
+          <button id="quick-all" type="button">全部</button>
+          <button id="quick-today" type="button" class="active">今日</button>
+          <button id="quick-yesterday" type="button">昨日</button>
+          <button id="quick-week" type="button">本周</button>
+        </span>
+
+        <input class="date-picker" id="date-picker" type="date" aria-label="快速选择日期">
+      </div>
     </div>
-    <div class="filter-row">
-      <span class="filter-label">搜索</span>
-      <input class="search-input" id="search-input" type="search" placeholder="搜索标题、摘要、标签、来源">
-    </div>
-    <div class="filter-row">
-      <span class="filter-label">语言</span>
-      <span class="chip active" data-filter="lang" data-value="all">全部</span>
-      <span class="chip" data-filter="lang" data-value="en">EN</span>
-      <span class="chip" data-filter="lang" data-value="zh">中文</span>
-    </div>
-    <div class="filter-row" id="tag-filter-row">
-      <span class="filter-label">标签</span>
-    </div>
-    <div class="filter-row" id="source-filter-row">
-      <span class="filter-label">来源</span>
-    </div>
+
+    <details class="filters" id="filters">
+      <summary aria-label="展开筛选">
+        <div class="summary-left">
+          <span class="summary-title">筛选</span>
+          <span class="summary-meta" id="summary-meta">—</span>
+        </div>
+        <div class="summary-right">
+          <span class="chev" aria-hidden="true">⌄</span>
+        </div>
+      </summary>
+
+      <div class="filters-body">
+        <div class="row">
+          <span class="label">搜索</span>
+          <input class="search-input" id="search-input" type="search" placeholder="搜索标题、摘要、标签、来源" autocomplete="off">
+        </div>
+        <div class="row" id="tag-filter-row">
+          <span class="label">标签</span>
+        </div>
+        <div class="row" id="source-filter-row">
+          <span class="label">来源</span>
+        </div>
+        <div class="row">
+          <span class="label">更新</span>
+          <span class="muted" id="updated-at">—</span>
+        </div>
+      </div>
+    </details>
   </div>
 
   <div id="content">
-    <div class="loading">正在加载数据...</div>
+    <div class="loading">正在加载数据…</div>
   </div>
 </main>
 
 <footer>
-  Powered by <a href="https://kingcos.me" target="_blank" rel="noopener">kingcos.me</a> with ❤️
+  Powered by <a href="https://kingcos.me" target="_blank" rel="noopener">kingcos.me</a> with ❤️ and 🦞
 </footer>
 
 <script>
   const INDEX_URL = './data/index.json';
   const BEIJING_TZ = 'Asia/Shanghai';
+
   let indexMeta = null;
   let currentDate = null;
   let allItems = [];
-  let activeFilters = { lang: 'all', tag: null, source: null, search: '' };
+  let activeFilters = { tag: null, source: null, search: '' };
 
-  function formatDate(iso) {
-    if (!iso) return '—';
+  function escHtml(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function formatDateTimeCN(iso) {
+    if (!iso) return '';
     try {
       const d = new Date(iso);
       return new Intl.DateTimeFormat('zh-CN', {
         timeZone: BEIJING_TZ,
+        year: 'numeric',
         month: '2-digit',
         day: '2-digit',
         hour: '2-digit',
         minute: '2-digit',
         hour12: false
       }).format(d);
-    } catch { return iso; }
+    } catch {
+      return String(iso);
+    }
   }
 
-  function formatUpdated(iso) {
+  function formatHM(iso) {
     if (!iso) return '';
     try {
       const d = new Date(iso);
-      return '更新于 ' + new Intl.DateTimeFormat('zh-CN', {
+      return new Intl.DateTimeFormat('zh-CN', {
         timeZone: BEIJING_TZ,
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric',
         hour: '2-digit',
         minute: '2-digit',
         hour12: false
-      }).format(d) + '（北京时间）';
+      }).format(d);
     } catch { return ''; }
   }
 
   function impClass(n) {
-    return 'imp-' + Math.max(1, Math.min(5, Math.round(n)));
+    return 'imp-' + Math.max(1, Math.min(5, Math.round(n || 3)));
   }
 
-  function impLabel(n) {
-    const labels = ['', '低', '一般', '中', '重要', '重大'];
-    return labels[Math.max(1, Math.min(5, Math.round(n)))] || '';
+  function buildSearchText(item) {
+    return [
+      item.title_zh || '',
+      item.title_en || '',
+      item.summary_zh || '',
+      item.summary_en || '',
+      item.source_name || '',
+      (item.tags || []).join(' ')
+    ].join(' ').toLowerCase();
   }
 
   function renderCard(item) {
@@ -436,52 +625,38 @@
     const summaryZH = item.summary_zh || '';
     const summaryEN = item.summary_en || '';
 
-    const tagsHtml = (item.tags || []).map(t =>
-      `<span class="tag">${escHtml(t)}</span>`
-    ).join('');
+    const tagsHtml = (item.tags || []).map(t => `<span class="tag">${escHtml(t)}</span>`).join('');
 
-    const toggleId = 'toggle-' + item.id;
     const zhId = 'zh-' + item.id;
     const enId = 'en-' + item.id;
 
     return `
-<div class="card" data-lang="${item.lang || 'en'}"
-     data-tags="${(item.tags || []).join(',')}"
-     data-source="${escHtml(item.source_name || '')}"
-     data-search="${escHtml([
-       titleMain,
-       titleSub,
-       summaryZH,
-       summaryEN,
-       item.source_name || '',
-       (item.tags || []).join(' ')
-     ].join(' ').toLowerCase())}">
-  <div class="imp-badge ${impClass(item.importance)}" title="重要性 ${item.importance}/5 · ${impLabel(item.importance)}"></div>
+<div class="card"
+  data-tags="${escHtml((item.tags || []).join(','))}"
+  data-source="${escHtml(item.source_name || '')}"
+  data-search="${escHtml(buildSearchText(item))}">
+  <div class="imp-badge ${impClass(item.importance)}" title="重要性 ${item.importance || 3}/5"></div>
   <div class="card-body">
-    <div class="card-title">
-      <a href="${escHtml(item.source_url || '#')}" target="_blank" rel="noopener">${escHtml(titleMain)}</a>
+    <div class="card-head">
+      <div style="min-width:0">
+        <div class="card-title">
+          <a href="${escHtml(item.source_url || '#')}" target="_blank" rel="noopener">${escHtml(titleMain)}</a>
+        </div>
+        ${titleSub ? `<div class="card-title-en">${escHtml(titleSub)}</div>` : ''}
+      </div>
+      ${hasBothLang ? `<button class="toggle-lang" aria-label="切换中英文摘要" title="切换中英文" onclick="toggleLang('${item.id}')">🌐</button>` : ''}
     </div>
-    ${titleSub ? `<div class="card-title-en">${escHtml(titleSub)}</div>` : ''}
-    ${hasBothLang ? `<button class="toggle-lang" id="${toggleId}" onclick="toggleLang('${item.id}')">切换 EN/中</button>` : ''}
+
     ${summaryZH ? `<div class="card-summary" id="${zhId}">${escHtml(summaryZH)}</div>` : ''}
     ${summaryEN ? `<div class="card-summary hidden" id="${enId}">${escHtml(summaryEN)}</div>` : ''}
+
     <div class="card-footer">
       ${tagsHtml}
-      <span class="card-date">${formatDate(item.published_at)}</span>
-      <span class="card-source">
-        <a href="${escHtml(item.source_url || '#')}" target="_blank" rel="noopener">${escHtml(item.source_name || '')}</a>
-      </span>
+      ${item.published_at ? `<span class=\"card-date\">${formatHM(item.published_at)}</span>` : ''}
+      <span class="card-source"><a href="${escHtml(item.source_url || '#')}" target="_blank" rel="noopener">${escHtml(item.source_name || '')}</a></span>
     </div>
   </div>
 </div>`;
-  }
-
-  function escHtml(str) {
-    return String(str)
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;');
   }
 
   function toggleLang(id) {
@@ -493,22 +668,26 @@
     en.classList.toggle('hidden', !showingZH);
   }
 
+  function updateActiveBadge() {
+    // removed: visual count pill (per UI preference)
+    return;
+  }
+
   function applyFilters() {
     const cards = document.querySelectorAll('.card');
     const keyword = activeFilters.search.trim().toLowerCase();
     let visibleCount = 0;
+
     cards.forEach(card => {
-      const lang = card.dataset.lang;
-      const tags = card.dataset.tags.split(',');
-      const source = card.dataset.source;
+      const tags = (card.dataset.tags || '').split(',').filter(Boolean);
+      const source = card.dataset.source || '';
       const searchable = card.dataset.search || '';
 
-      const langOk = activeFilters.lang === 'all' || lang === activeFilters.lang;
       const tagOk = !activeFilters.tag || tags.includes(activeFilters.tag);
       const srcOk = !activeFilters.source || source === activeFilters.source;
       const searchOk = !keyword || searchable.includes(keyword);
 
-      const isVisible = langOk && tagOk && srcOk && searchOk;
+      const isVisible = tagOk && srcOk && searchOk;
       card.style.display = isVisible ? '' : 'none';
       if (isVisible) visibleCount += 1;
     });
@@ -520,12 +699,14 @@
         emptyNode = document.createElement('div');
         emptyNode.id = emptyId;
         emptyNode.className = 'empty-state';
-        emptyNode.innerHTML = '<h2>没有匹配结果</h2><p>试试切换日期、清空搜索词，或放宽标签和来源筛选。</p>';
+        emptyNode.innerHTML = '<h2>没有匹配结果</h2><p>试试清空搜索词，或放宽标签/来源筛选。</p>';
         document.getElementById('content').appendChild(emptyNode);
       }
     } else if (emptyNode) {
       emptyNode.remove();
     }
+
+    updateActiveBadge();
   }
 
   function buildFilters(items) {
@@ -541,10 +722,9 @@
 
     const tagRow = document.getElementById('tag-filter-row');
     const srcRow = document.getElementById('source-filter-row');
-    tagRow.innerHTML = '<span class="filter-label">标签</span>';
-    srcRow.innerHTML = '<span class="filter-label">来源</span>';
+    tagRow.innerHTML = '<span class="label">标签</span>';
+    srcRow.innerHTML = '<span class="label">来源</span>';
 
-    // All-tags chip
     const allTagChip = document.createElement('span');
     allTagChip.className = 'chip' + (!activeFilters.tag ? ' active' : '');
     allTagChip.dataset.filter = 'tag';
@@ -561,7 +741,6 @@
       tagRow.appendChild(c);
     });
 
-    // All-sources chip
     const allSrcChip = document.createElement('span');
     allSrcChip.className = 'chip' + (!activeFilters.source ? ' active' : '');
     allSrcChip.dataset.filter = 'source';
@@ -577,22 +756,65 @@
       c.textContent = s;
       srcRow.appendChild(c);
     });
+
+    updateActiveBadge();
   }
 
-  function buildDateOptions() {
-    const select = document.getElementById('date-select');
-    if (!indexMeta) return;
-    select.innerHTML = (indexMeta.dates || []).map(date => (
-      `<option value="${escHtml(date)}">${escHtml(date)}</option>`
-    )).join('');
-    if (currentDate) select.value = currentDate;
+  function syncDatePicker() {
+    const dp = document.getElementById('date-picker');
+    if (dp) dp.value = currentDate || '';
   }
 
-  function updateMeta(date, itemCount) {
-    document.getElementById('site-meta').textContent =
-      date
-        ? `${date} · ${itemCount} 条 · 按北京时间 08:00 切分 · ${formatUpdated(indexMeta?.updated_at)}`
-        : '暂无数据';
+  function setSubtitle(text) {
+    document.getElementById('subtitle').textContent = text;
+  }
+
+  function setQuickActive(which) {
+    const ids = ['quick-all','quick-today','quick-yesterday','quick-week'];
+    ids.forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.classList.remove('active');
+    });
+    const target = document.getElementById(which);
+    if (target) target.classList.add('active');
+  }
+
+  function getTodayDate() {
+    // "今日" = indexMeta.latest_date
+    return indexMeta?.latest_date || null;
+  }
+
+  function getYesterdayDate() {
+    const dates = indexMeta?.dates || [];
+    const today = getTodayDate();
+    const i = dates.indexOf(today);
+    if (i >= 0 && i + 1 < dates.length) return dates[i + 1];
+    // fallback: if current is today, next in list; else previous day in list
+    const j = dates.indexOf(currentDate);
+    if (j >= 0 && j + 1 < dates.length) return dates[j + 1];
+    return null;
+  }
+
+  function getWeekDates(anchorDate) {
+    const dates = indexMeta?.dates || [];
+    if (!anchorDate) return [];
+    // parse as UTC midnight
+    const [y,m,d] = anchorDate.split('-').map(Number);
+    const anchor = new Date(Date.UTC(y, m - 1, d));
+    const day = anchor.getUTCDay(); // 0-6 (Sun-Sat)
+    const diffToMonday = (day + 6) % 7; // Monday=0
+    const monday = new Date(anchor);
+    monday.setUTCDate(anchor.getUTCDate() - diffToMonday);
+    const sunday = new Date(monday);
+    sunday.setUTCDate(monday.getUTCDate() + 6);
+
+    const within = [];
+    dates.forEach(dt => {
+      const [yy,mm,dd] = dt.split('-').map(Number);
+      const x = new Date(Date.UTC(yy, mm - 1, dd));
+      if (x >= monday && x <= sunday) within.push(dt);
+    });
+    return within;
   }
 
   function render(data) {
@@ -607,17 +829,22 @@
     currentDate = data.date || currentDate;
     allItems = items;
 
-    const content = document.getElementById('content');
-    updateMeta(currentDate, items.length);
-    document.getElementById('filter-bar').style.display = '';
-    buildDateOptions();
+    const updated = indexMeta?.updated_at ? `更新：${formatDateTimeCN(indexMeta.updated_at)}（北京）` : '';
+    document.getElementById('updated-at').textContent = updated || '—';
+    document.getElementById('summary-meta').textContent = updated || '—';
+
+    setSubtitle(currentDate ? currentDate : '暂无数据');
+
+    document.getElementById('module').style.display = '';
+    syncDatePicker();
     buildFilters(items);
 
+    const content = document.getElementById('content');
     if (!items.length) {
       content.innerHTML = `
         <div class="empty-state">
           <h2>暂无新闻数据</h2>
-          <p>运行 AI 日报流水线以生成第一期数据。</p>
+          <p>运行 AI 日报流水线以生成数据。</p>
         </div>`;
       return;
     }
@@ -628,23 +855,28 @@
 
   function initThemeToggle() {
     const button = document.getElementById('theme-toggle');
-    const syncLabel = () => {
-      const isDark = document.documentElement.dataset.theme === 'dark' ||
-        (!document.documentElement.dataset.theme && window.matchMedia('(prefers-color-scheme: dark)').matches);
-      button.textContent = isDark ? '浅色模式' : '暗黑模式';
+
+    const getCurrentTheme = () => {
+      if (document.documentElement.dataset.theme === 'dark') return 'dark';
+      if (document.documentElement.dataset.theme === 'light') return 'light';
+      return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    };
+
+    const syncIcon = () => {
+      const t = getCurrentTheme();
+      // show the action icon (what you can switch to)
+      button.textContent = t === 'dark' ? '☀️' : '🌙';
     };
 
     button.addEventListener('click', () => {
-      const current = document.documentElement.dataset.theme === 'dark' ? 'dark'
-        : document.documentElement.dataset.theme === 'light' ? 'light'
-        : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      const current = getCurrentTheme();
       const next = current === 'dark' ? 'light' : 'dark';
       document.documentElement.dataset.theme = next;
       localStorage.setItem('ai-daily-theme', next);
-      syncLabel();
+      syncIcon();
     });
 
-    syncLabel();
+    syncIcon();
   }
 
   function initSearch() {
@@ -656,7 +888,7 @@
   }
 
   function initChipFilters() {
-    document.getElementById('filter-bar').addEventListener('click', (event) => {
+    document.getElementById('filters').addEventListener('click', (event) => {
       const chip = event.target.closest('.chip');
       if (!chip) return;
 
@@ -666,7 +898,6 @@
       document.querySelectorAll(`.chip[data-filter="${filterType}"]`).forEach(c => c.classList.remove('active'));
       chip.classList.add('active');
 
-      if (filterType === 'lang') activeFilters.lang = value === 'all' ? 'all' : value;
       if (filterType === 'tag') activeFilters.tag = value === 'all' ? null : value;
       if (filterType === 'source') activeFilters.source = value === 'all' ? null : value;
 
@@ -681,22 +912,64 @@
     render(data);
   }
 
-  function initDateFilter() {
-    document.getElementById('date-select').addEventListener('change', async (event) => {
-      const previousDate = currentDate;
-      currentDate = event.target.value;
-      try {
-        await loadDate(currentDate);
-      } catch (err) {
-        currentDate = previousDate;
-        event.target.value = previousDate;
-        document.getElementById('site-meta').textContent = '日期加载失败';
-        document.getElementById('content').innerHTML = `
-          <div class="empty-state">
-            <h2>日期数据加载失败</h2>
-            <p>请选择其他日期，或确认对应的日报 JSON 已生成。</p>
-            <p style="margin-top:8px;font-size:0.8rem;opacity:0.6">${err.message}</p>
-          </div>`;
+  async function switchToDate(date) {
+    if (!date || date === currentDate) return;
+    const previousDate = currentDate;
+    currentDate = date;
+    syncDatePicker();
+    try {
+      await loadDate(date);
+    } catch (err) {
+      currentDate = previousDate;
+      syncDatePicker();
+      setSubtitle('日期加载失败');
+      document.getElementById('content').innerHTML = `
+        <div class="empty-state">
+          <h2>日期数据加载失败</h2>
+          <p>请选择其他日期，或确认对应的日报 JSON 已生成。</p>
+          <p style="margin-top:8px;font-size:0.85rem;opacity:0.7">${escHtml(err.message)}</p>
+        </div>`;
+    }
+  }
+
+  function initDateNav() {
+    const dp = document.getElementById('date-picker');
+
+    document.getElementById('quick-all').addEventListener('click', async () => {
+      // “全部” = 回到默认（今日/最新），并结束任何临时模式
+      setQuickActive('quick-all');
+      await switchToDate(getTodayDate());
+    });
+
+    document.getElementById('quick-today').addEventListener('click', async () => {
+      setQuickActive('quick-today');
+      await switchToDate(getTodayDate());
+    });
+
+    document.getElementById('quick-yesterday').addEventListener('click', async () => {
+      setQuickActive('quick-yesterday');
+      await switchToDate(getYesterdayDate());
+    });
+
+    document.getElementById('quick-week').addEventListener('click', async () => {
+      setQuickActive('quick-week');
+      const weekDates = getWeekDates(getTodayDate());
+      if (!weekDates.length) return;
+      // 如果不在本周范围，跳到本周最新（dates 列表最靠前）
+      if (!weekDates.includes(currentDate)) {
+        await switchToDate(weekDates[0]);
+      }
+    });
+
+    dp.addEventListener('change', async () => {
+      const dates = new Set(indexMeta?.dates || []);
+      const picked = dp.value;
+      if (dates.has(picked)) {
+        setQuickActive('quick-all');
+        await switchToDate(picked);
+      } else {
+        // snap back
+        dp.value = currentDate || '';
       }
     });
   }
@@ -706,7 +979,6 @@
       initThemeToggle();
       initSearch();
       initChipFilters();
-      initDateFilter();
 
       const res = await fetch(INDEX_URL);
       if (!res.ok) throw new Error('HTTP ' + res.status);
@@ -719,13 +991,16 @@
       }
 
       await loadDate(currentDate);
+      initDateNav();
+      setQuickActive('quick-today');
+
     } catch (err) {
-      document.getElementById('site-meta').textContent = '加载失败';
+      setSubtitle('加载失败');
       document.getElementById('content').innerHTML = `
         <div class="empty-state">
           <h2>数据加载失败</h2>
-          <p>请确认 data/index.json 已生成，或通过 GitHub Pages 访问本页面。</p>
-          <p style="margin-top:8px;font-size:0.8rem;opacity:0.6">${err.message}</p>
+          <p>请确认 <code>docs/data/index.json</code> 已生成，或通过 GitHub Pages 访问本页面。</p>
+          <p style="margin-top:8px;font-size:0.85rem;opacity:0.7">${escHtml(err.message)}</p>
         </div>`;
     }
   }
