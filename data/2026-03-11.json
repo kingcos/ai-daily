@@ -6,9 +6,9 @@
       "id": "a6aa0996",
       "lang": "en",
       "title_en": "Introducing The Anthropic Institute",
-      "title_zh": "Introducing The Anthropic Institute",
-      "summary_en": "Anthropic: Launching The Anthropic Institute, a new effort to confront the most significant challenges in AI safety and policy. (Official)",
-      "summary_zh": "Anthropic：Launching The Anthropic Institute, a new effort to confront the most significant challenges in AI safety and policy.（官方）",
+      "title_zh": "Anthropic 成立 Anthropic Institute",
+      "summary_en": "Anthropic: Launching The Anthropic Institute, a new initiative to address the most significant challenges in AI safety and policy.",
+      "summary_zh": "Anthropic：宣布成立 Anthropic Institute，专注应对 AI 安全与政策领域最重要的挑战。",
       "tags": [
         "产品更新"
       ],
@@ -23,7 +23,7 @@
       "id": "c7c005d4",
       "lang": "zh",
       "title_zh": "ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端",
-      "summary_zh": "：a16z发布Top100 GenAI应用榜（量子位）",
+      "summary_zh": "a16z：发布 Top 100 GenAI 应用榜单，ChatGPT 与 Claude 用户重叠率仅11%，中国应用在移动端强势霸榜。",
       "tags": [
         "模型发布"
       ],
@@ -38,7 +38,7 @@
       "id": "58eb1572",
       "lang": "zh",
       "title_zh": "LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元",
-      "summary_zh": "：成立两个月半，估值35亿！（量子位）",
+      "summary_zh": "AMI：杨立昆（LeCun）旗下 AMI 获超10亿美元种子融资，公司成立仅两个半月，估值已达35亿美元。",
       "tags": [
         "融资"
       ],
@@ -53,7 +53,7 @@
       "id": "e3fa19aa",
       "lang": "zh",
       "title_zh": "让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间",
-      "summary_zh": "：谷歌首个原生多模态（Multimodal）嵌入模型（量子位）",
+      "summary_zh": "谷歌：发布首个原生多模态嵌入模型，将文本、图像、视频、音频统一映射至同一语义空间。",
       "tags": [
         "Agent"
       ],
@@ -68,7 +68,7 @@
       "id": "a583cd07",
       "lang": "zh",
       "title_zh": "499上门装龙虾的人，开始赚299卸载龙虾的钱了",
-      "summary_zh": "：「卸虾」业务太火爆（量子位）",
+      "summary_zh": "量子位：「卸虾」业务异军突起，专门帮用户卸载 MCP 服务的市场需求快速爆发。",
       "tags": [
         "Agent"
       ],
@@ -77,6 +77,40 @@
       "published_at": "2026-03-11T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "d8e3008e",
+      "lang": "en",
+      "title_en": "How we compare model quality in Cursor",
+      "title_zh": "CursorBench：Cursor 如何评估模型质量",
+      "summary_en": "Cursor: Using a hybrid online-offline evaluation process called CursorBench to keep model quality assessments aligned with real developer workflows.",
+      "summary_zh": "Cursor：通过线上线下混合评估体系 CursorBench，持续对齐模型质量评估与开发者真实使用场景。",
+      "tags": [
+        "研究论文"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/cursorbench",
+      "published_at": "2026-03-11T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "725939a3",
+      "lang": "en",
+      "title_en": "Over 30 new plugins join the Cursor Marketplace",
+      "title_zh": "Cursor Marketplace 新增逾 30 款插件",
+      "summary_en": "Cursor: More than 30 new plugins added to the Cursor Marketplace, enabling developers to extend Cursor with prebuilt capabilities.",
+      "summary_zh": "Cursor：Marketplace 新增超过 30 款插件，开发者可直接安装预置能力扩展 Cursor 功能。",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/new-plugins",
+      "published_at": "2026-03-11T10:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]

@@ -6,9 +6,9 @@
       "id": "f4e08c34",
       "lang": "en",
       "title_en": "OpenAI is planning a desktop 'superapp'",
-      "title_zh": "OpenAI is planning a desktop 'superapp'",
-      "summary_en": "OpenAI is working on an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application. (The Verge)",
-      "summary_zh": "OpenAI is working on an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application.（The Verge）",
+      "title_zh": "OpenAI 正在开发桌面端\"超级应用\"",
+      "summary_en": "OpenAI: Developing an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application.",
+      "summary_zh": "OpenAI：正在开发代号为 Atlas 的桌面超级应用，将 ChatGPT、Codex 与浏览器整合为一体化 AI 原生产品。",
       "tags": [
         "产品更新"
       ],
@@ -23,7 +23,7 @@
       "id": "cea48474",
       "lang": "zh",
       "title_zh": "刚刚，全球视频模型新王诞生了！",
-      "summary_zh": "：1个月前，Preview版本才刚拿下全球第2（量子位）",
+      "summary_zh": "量子位：新视频生成模型强势登顶全球榜首，距其 Preview 版本拿下全球第二仅一个月。",
       "tags": [
         "模型发布"
       ],
@@ -38,7 +38,7 @@
       "id": "ec726cf1",
       "lang": "zh",
       "title_zh": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
-      "summary_zh": "：万亿参数、百万上下文（量子位）",
+      "summary_zh": "小米：正式认领此前登顶排行榜的神秘模型 Hunter Alpha，参数达万亿级，支持百万 token 上下文。",
       "tags": [
         "模型发布",
         "Agent"
@@ -54,7 +54,7 @@
       "id": "8ea7a7ce",
       "lang": "zh",
       "title_zh": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
-      "summary_zh": "：持续升级官方 OpenClaw 插件（量子位）",
+      "summary_zh": "飞书：发布多款企业级 Agent，覆盖个人智能助手与业务系统场景，并持续升级官方 MCP 插件。",
       "tags": [
         "Agent"
       ],
@@ -69,7 +69,7 @@
       "id": "1564e1d0",
       "lang": "zh",
       "title_zh": "世界模型+强化学习：轻舟智航于骞在德国定义通向通用物理AI的必由之路",
-      "summary_zh": "世界模型+强化学习：世界模型+强化学习（量子位）",
+      "summary_zh": "轻舟智航：于骞在德国分享“世界模型 + 强化学习”技术路径，将其定义为通向通用物理 AI 的必由之路。",
       "tags": [
         "模型发布"
       ],
@@ -78,6 +78,23 @@
       "published_at": "2026-03-19T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "10ce3a17",
+      "lang": "en",
+      "title_en": "Introducing Composer 2",
+      "title_zh": "Cursor 推出 Composer 2：前沿级编程能力，更高 token 效率",
+      "summary_en": "Cursor: Releasing Composer 2 with frontier-level coding performance on CursorBench, higher token efficiency, and a faster default model variant.",
+      "summary_zh": "Cursor：发布 Composer 2，在 CursorBench 上达到前沿水准，token 效率提升，并推出更快的默认版本。",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/composer-2",
+      "published_at": "2026-03-19T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
       "merged_sources": []
     }
   ]

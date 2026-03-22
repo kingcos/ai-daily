@@ -6,7 +6,7 @@
       "id": "f7e19806",
       "lang": "zh",
       "title_zh": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
-      "summary_zh": "315曝光的“AI投毒”原理：一个虚构的产品，竟然也会出现在AI推荐里？（量子位）",
+      "summary_zh": "量子位：揭秘315曝光的“AI 投毒”原理——GEO（生成引擎优化）可操控大模型推荐结果，甚至虚构产品也会被推荐。",
       "tags": [
         "模型发布"
       ],
@@ -21,7 +21,7 @@
       "id": "557f9455",
       "lang": "zh",
       "title_zh": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
-      "summary_zh": "：养虾真不如养骡子了（量子位）",
+      "summary_zh": "量子位：新型“赛博骡子” AI Agent 平台上线，无需部署、7×24小时在线、支持自进化，或将改变 MCP 生态格局。",
       "tags": [
         "Agent"
       ],
@@ -36,7 +36,7 @@
       "id": "09bbfc3d",
       "lang": "zh",
       "title_zh": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
-      "summary_zh": "一手实测首个龙虾模型：还有龙虾专属套餐（量子位）",
+      "summary_zh": "量子位：实测首个 MCP 专属模型，长路径任务零失误，一人可完成全栈开发，并推出配套专属套餐。",
       "tags": [
         "模型发布",
         "Agent"
@@ -52,7 +52,7 @@
       "id": "c444df44",
       "lang": "zh",
       "title_zh": "天下苦「调参」久矣！MIT师生推出全新RandOpt算法",
-      "summary_zh": "：预训练模型周围早就藏好了大量专家（量子位）",
+      "summary_zh": "MIT：研究团队推出 RandOpt 全新超参数优化算法，揭示预训练模型周围早已“藏匿”大量专家知识。",
       "tags": [
         "研究论文"
       ],
@@ -61,6 +61,23 @@
       "published_at": "2026-03-16T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b9ad6e98",
+      "lang": "en",
+      "title_en": "Securing our codebase with autonomous agents",
+      "title_zh": "Cursor 用自治安全 Agent 守护代码库",
+      "summary_en": "Cursor: Security team deployed a fleet of autonomous agents to automatically find and fix vulnerabilities across a rapidly evolving codebase.",
+      "summary_zh": "Cursor：安全团队构建自治 Agent 集群，在快速迭代的代码库中自动发现并修复安全漏洞。",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/security-agents",
+      "published_at": "2026-03-16T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]

@@ -6,7 +6,7 @@
       "id": "098c40d8",
       "lang": "zh",
       "title_zh": "88岁图灵奖得主，用Claude一小时破解30年数学悬案",
-      "summary_zh": "：向Claude脱帽致敬（Hats off to Claude）！（量子位）",
+      "summary_zh": "量子位：88岁图灵奖得主 Leslie Valiant 用 Claude 一小时破解了困扰30年的数学难题，并向 Claude 致谢。",
       "tags": [
         "模型发布"
       ],
@@ -21,7 +21,7 @@
       "id": "01fd4663",
       "lang": "zh",
       "title_zh": "卡帕西开源Agent自进化训练框架，5分钟一轮实验，48h内揽星9.5k",
-      "summary_zh": "：下一步要模拟整个博士社群（量子位）",
+      "summary_zh": "量子位：Karpathy 开源 Agent 自进化训练框架，5分钟即可完成一轮实验，48小时内在 GitHub 收获9500星。",
       "tags": [
         "Agent",
         "研究论文",
@@ -38,7 +38,7 @@
       "id": "3f0bc09b",
       "lang": "zh",
       "title_zh": "龙虾最佳适配模型，OpenClaw之父给出了推荐",
-      "summary_zh": "：top3里国产占俩（量子位）",
+      "summary_zh": "量子位：MCP（龙虾协议）创始人推荐的最佳适配模型 Top 3 中，国产模型占据两席。",
       "tags": [
         "模型发布",
         "Agent"
@@ -54,7 +54,7 @@
       "id": "69590a1c",
       "lang": "zh",
       "title_zh": "龙虾最大痛点被官方插件升级！对话永不忘记，GPT和Gemini最强模型都可接入",
-      "summary_zh": "：理论上永不失忆（量子位）",
+      "summary_zh": "量子位：MCP 官方记忆插件重大升级，支持接入 GPT 和 Gemini 最强模型，实现对话永久记忆。",
       "tags": [
         "模型发布",
         "Agent"

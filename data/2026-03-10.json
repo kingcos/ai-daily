@@ -6,9 +6,9 @@
       "id": "2c7edba2",
       "lang": "en",
       "title_en": "Anthropic to open Sydney office, its fourth in Asia-Pacific",
-      "title_zh": "Anthropic to open Sydney office, its fourth in Asia-Pacific",
-      "summary_en": "Anthropic: Sydney will become Anthropic's fourth office in Asia-Pacific, expanding its global presence in the region. (Official)",
-      "summary_zh": "Anthropic：Sydney will become Anthropic's fourth office in Asia-Pacific, expanding its global presence in the region.（官方）",
+      "title_zh": "Anthropic 悉尼办公室：亚太区第四站",
+      "summary_en": "Anthropic: Opening a Sydney office as its fourth location in Asia-Pacific, expanding global presence in the region.",
+      "summary_zh": "Anthropic：在悉尼设立亚太区第四个办公室，持续扩大在该地区的全球布局。",
       "tags": [
         "产品更新"
       ],
@@ -23,7 +23,7 @@
       "id": "6859d61e",
       "lang": "zh",
       "title_zh": "OpenAI为龙虾紧急收购了一家23人公司",
-      "summary_zh": "：23人团队两年干出8600万估值（量子位）",
+      "summary_zh": "量子位：OpenAI 为 MCP（龙虾协议）紧急收购一家 23 人团队的公司，该公司成立两年估值已达8600万美元。",
       "tags": [
         "Agent"
       ],
@@ -38,7 +38,7 @@
       "id": "5cd90b1f",
       "lang": "zh",
       "title_zh": "腾讯「鹅虾」紧急上线！一手实测：养虾门槛归零，QQ飞书钉钉全能接",
-      "summary_zh": "腾讯「鹅虾」紧急上线！一手实测：左手养qq虾，右手养微信虾（量子位）",
+      "summary_zh": "腾讯：「鹅虾」MCP 服务紧急上线，支持 QQ、飞书、钉钉等主流平台，大幅降低 MCP 接入门槛。",
       "tags": [
         "Agent"
       ],
@@ -53,7 +53,7 @@
       "id": "287e91bd",
       "lang": "zh",
       "title_zh": "Jeff Dean最新访谈：未来开发者人均50个智能体，写需求成核心技能",
-      "summary_zh": "Jeff Dean最新访谈：还揭秘蒸馏是谷歌Flash模型突破的关键（量子位）",
+      "summary_zh": "Jeff Dean：在最新访谈中预测未来开发者人均管理50个 AI Agent，并透露蒸馏是 Google Flash 系列模型突破的关键。",
       "tags": [
         "产品更新"
       ],
@@ -68,7 +68,7 @@
       "id": "ead32d43",
       "lang": "zh",
       "title_zh": "只要1分钟！电脑装满血龙虾，现在跟下载APP似的",
-      "summary_zh": "：史诗级降低门槛，还专门出了个新模型（量子位）",
+      "summary_zh": "量子位：只需1分钟即可完成 MCP 服务部署，门槛大幅降低，并配套推出专属模型。",
       "tags": [
         "Agent"
       ],

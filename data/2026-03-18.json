@@ -6,7 +6,7 @@
       "id": "14577107",
       "lang": "zh",
       "title_zh": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
-      "summary_zh": "：老黄自己也抄作业了（量子位）",
+      "summary_zh": "普林斯顿：研究显示英伟达最强 B200 GPU 算力利用率仅约40%，团队提出新方案将利用率提升至71%，黄仁勋已关注该研究。",
       "tags": [
         "产品更新"
       ],
@@ -21,7 +21,7 @@
       "id": "4ecc1118",
       "lang": "zh",
       "title_zh": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
-      "summary_zh": "：大模型自我进化时代来了（量子位）",
+      "summary_zh": "MiniMax：发布 M2.7 模型，实现大模型自我进化训练，标志 AI 进入自主迭代新阶段。",
       "tags": [
         "Agent"
       ],
@@ -36,7 +36,7 @@
       "id": "58422b38",
       "lang": "zh",
       "title_zh": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
-      "summary_zh": "：内置“开箱即用”的行业级解决方案（量子位）",
+      "summary_zh": "阿里/钉钉：「悟空」Agent 平台上线，为企业提供内置行业解决方案的 MCP（龙虾）全家桶服务。",
       "tags": [
         "Agent"
       ],
@@ -45,6 +45,23 @@
       "published_at": "2026-03-18T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "e3c91e7f",
+      "lang": "en",
+      "title_en": "Money Forward brings Cursor's coding agents to product, design, and QA",
+      "title_zh": "Money Forward 将 Cursor 编程 Agent 引入产品、设计与 QA 团队",
+      "summary_en": "Cursor: Over 1,000 Money Forward employees now use Cursor daily, extending AI coding agents beyond engineering to product, design, and QA roles.",
+      "summary_zh": "Cursor：Money Forward 超过 1000 名员工每天使用 Cursor，将 AI 编程 Agent 扩展至产品、设计和 QA 岗位。",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/money-forward",
+      "published_at": "2026-03-18T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]

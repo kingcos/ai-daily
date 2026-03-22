@@ -6,9 +6,9 @@
       "id": "9d6a48cc",
       "lang": "en",
       "title_en": "Anthropic invests $100 million into the Claude Partner Network",
-      "title_zh": "Anthropic invests $100 million into the Claude Partner Network",
-      "summary_en": "Anthropic: Launching the Claude Partner Network with $100M investment, helping enterprises adopt Claude through partner organizations. (Official)",
-      "summary_zh": "Anthropic：Launching the Claude Partner Network with $100M investment, helping enterprises adopt Claude through partner organizations.（官方）",
+      "title_zh": "Anthropic 向 Claude 合作伙伴网络投入 1 亿美元",
+      "summary_en": "Anthropic: Launching the Claude Partner Network with $100M investment to help enterprises adopt Claude through certified partner organizations.",
+      "summary_zh": "Anthropic：宣布投入 1 亿美元启动 Claude 合作伙伴网络，帮助企业通过认证合作商落地 Claude。",
       "tags": [
         "产品更新"
       ],
@@ -23,7 +23,7 @@
       "id": "781789f4",
       "lang": "zh",
       "title_zh": "老黄入局吃龙虾！英伟达发布最强开源Agent推理模型",
-      "summary_zh": "：260亿美元投向开源模型（量子位）",
+      "summary_zh": "英伟达：发布最强开源 Agent 推理模型，黄仁勋宣布向开源模型投入260亿美元。",
       "tags": [
         "模型发布",
         "Agent",
@@ -40,7 +40,7 @@
       "id": "20f160f8",
       "lang": "zh",
       "title_zh": "卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法",
-      "summary_zh": "卡帕西：新一代IDE是Agent管理中心（量子位）",
+      "summary_zh": "Karpathy：新一代 IDE 将成为 Agent 管理中心，编程范式正从写代码转变为管理 AI Agent。",
       "tags": [
         "Agent"
       ],
@@ -55,7 +55,7 @@
       "id": "42377cbd",
       "lang": "zh",
       "title_zh": "马斯克官宣数字AI员工！世界首富也来养龙虾，测试阶段员工把它当真人",
-      "summary_zh": "：数字擎天柱官宣，巨硬项目却被曝已停摆\n（量子位）",
+      "summary_zh": "马斯克：官宣「数字 Optimus」AI 员工，xAI 测试阶段员工已将其当真人对待；微软相关项目传出暂停消息。",
       "tags": [
         "Agent"
       ],
@@ -70,7 +70,7 @@
       "id": "7af10b43",
       "lang": "zh",
       "title_zh": "爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元",
-      "summary_zh": "量子位报道：爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元（量子位）",
+      "summary_zh": "爱诗科技：完成 3 亿美元 C 轮融资，鼎晖领投，主打实时交互式视频生成新方向。",
       "tags": [
         "融资"
       ],
