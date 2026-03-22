@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-11",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "a6aa0996",
+      "lang": "en",
+      "title_en": "Introducing The Anthropic Institute",
+      "title_zh": "Introducing The Anthropic Institute",
+      "summary_en": "Anthropic: Launching The Anthropic Institute, a new effort to confront the most significant challenges in AI safety and policy. (Official)",
+      "summary_zh": "Anthropic：Launching The Anthropic Institute, a new effort to confront the most significant challenges in AI safety and policy.（官方）",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/the-anthropic-institute",
+      "published_at": "2026-03-11T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "c7c005d4",
+      "lang": "zh",
+      "title_zh": "ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端",
+      "summary_zh": "：a16z发布Top100 GenAI应用榜（量子位）",
+      "tags": [
+        "模型发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/386114.html",
+      "published_at": "2026-03-11T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "58eb1572",
+      "lang": "zh",
+      "title_zh": "LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元",
+      "summary_zh": "：成立两个月半，估值35亿！（量子位）",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/386308.html",
+      "published_at": "2026-03-11T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e3fa19aa",
+      "lang": "zh",
+      "title_zh": "让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间",
+      "summary_zh": "：谷歌首个原生多模态（Multimodal）嵌入模型（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/386485.html",
+      "published_at": "2026-03-11T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "a583cd07",
+      "lang": "zh",
+      "title_zh": "499上门装龙虾的人，开始赚299卸载龙虾的钱了",
+      "summary_zh": "：「卸虾」业务太火爆（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/386235.html",
+      "published_at": "2026-03-11T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    }
+  ]
+}

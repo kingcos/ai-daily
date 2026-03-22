@@ -1,0 +1,51 @@
+{
+  "date": "2026-03-18",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "14577107",
+      "lang": "zh",
+      "title_zh": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
+      "summary_zh": "：老黄自己也抄作业了（量子位）",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388815.html",
+      "published_at": "2026-03-18T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "4ecc1118",
+      "lang": "zh",
+      "title_zh": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
+      "summary_zh": "：大模型自我进化时代来了（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389024.html",
+      "published_at": "2026-03-18T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "58422b38",
+      "lang": "zh",
+      "title_zh": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
+      "summary_zh": "：内置“开箱即用”的行业级解决方案（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388845.html",
+      "published_at": "2026-03-18T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    }
+  ]
+}

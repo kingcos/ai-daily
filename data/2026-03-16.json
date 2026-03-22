@@ -1,0 +1,67 @@
+{
+  "date": "2026-03-16",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "f7e19806",
+      "lang": "zh",
+      "title_zh": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
+      "summary_zh": "315曝光的“AI投毒”原理：一个虚构的产品，竟然也会出现在AI推荐里？（量子位）",
+      "tags": [
+        "模型发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388387.html",
+      "published_at": "2026-03-16T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "557f9455",
+      "lang": "zh",
+      "title_zh": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
+      "summary_zh": "：养虾真不如养骡子了（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388071.html",
+      "published_at": "2026-03-16T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "09bbfc3d",
+      "lang": "zh",
+      "title_zh": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
+      "summary_zh": "一手实测首个龙虾模型：还有龙虾专属套餐（量子位）",
+      "tags": [
+        "模型发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388352.html",
+      "published_at": "2026-03-16T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "c444df44",
+      "lang": "zh",
+      "title_zh": "天下苦「调参」久矣！MIT师生推出全新RandOpt算法",
+      "summary_zh": "：预训练模型周围早就藏好了大量专家（量子位）",
+      "tags": [
+        "研究论文"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388054.html",
+      "published_at": "2026-03-16T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    }
+  ]
+}

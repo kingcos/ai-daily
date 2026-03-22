@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-10",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "2c7edba2",
+      "lang": "en",
+      "title_en": "Anthropic to open Sydney office, its fourth in Asia-Pacific",
+      "title_zh": "Anthropic to open Sydney office, its fourth in Asia-Pacific",
+      "summary_en": "Anthropic: Sydney will become Anthropic's fourth office in Asia-Pacific, expanding its global presence in the region. (Official)",
+      "summary_zh": "Anthropic：Sydney will become Anthropic's fourth office in Asia-Pacific, expanding its global presence in the region.（官方）",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+      "published_at": "2026-03-10T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6859d61e",
+      "lang": "zh",
+      "title_zh": "OpenAI为龙虾紧急收购了一家23人公司",
+      "summary_zh": "：23人团队两年干出8600万估值（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/385637.html",
+      "published_at": "2026-03-10T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "5cd90b1f",
+      "lang": "zh",
+      "title_zh": "腾讯「鹅虾」紧急上线！一手实测：养虾门槛归零，QQ飞书钉钉全能接",
+      "summary_zh": "腾讯「鹅虾」紧急上线！一手实测：左手养qq虾，右手养微信虾（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/385664.html",
+      "published_at": "2026-03-10T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "287e91bd",
+      "lang": "zh",
+      "title_zh": "Jeff Dean最新访谈：未来开发者人均50个智能体，写需求成核心技能",
+      "summary_zh": "Jeff Dean最新访谈：还揭秘蒸馏是谷歌Flash模型突破的关键（量子位）",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/385569.html",
+      "published_at": "2026-03-10T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "ead32d43",
+      "lang": "zh",
+      "title_zh": "只要1分钟！电脑装满血龙虾，现在跟下载APP似的",
+      "summary_zh": "：史诗级降低门槛，还专门出了个新模型（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/385097.html",
+      "published_at": "2026-03-10T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    }
+  ]
+}

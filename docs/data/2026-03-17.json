@@ -1,0 +1,68 @@
+{
+  "date": "2026-03-17",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "2f03da92",
+      "lang": "zh",
+      "title_zh": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
+      "summary_zh": "黄仁勋：所有人都在等老黄掏出新芯片，但他没有掏，先用一小时教全世界CEO看一张图（量子位）",
+      "tags": [
+        "融资",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388720.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "de32cd69",
+      "lang": "zh",
+      "title_zh": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍",
+      "summary_zh": "：GPT-5.4破纪录了！（量子位）",
+      "tags": [
+        "融资",
+        "模型发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388443.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6fcd379d",
+      "lang": "zh",
+      "title_zh": "Kimi新架构让马斯克叹服！17岁高中生作者一战成名",
+      "summary_zh": "：把注意力机制“旋转90度”（量子位）",
+      "tags": [
+        "模型发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388493.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "355162f1",
+      "lang": "zh",
+      "title_zh": "百度龙虾全家桶火速上桌！出手就是全球最大搜索skill",
+      "summary_zh": "：百度把一整桌龙虾全家桶端上来了（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388672.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    }
+  ]
+}

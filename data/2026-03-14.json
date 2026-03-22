@@ -1,0 +1,36 @@
+{
+  "date": "2026-03-14",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "fe07df14",
+      "lang": "zh",
+      "title_zh": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
+      "summary_zh": "量子位专访陶哲轩：未来可能会有10000个陶哲轩（量子位）",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/387832.html",
+      "published_at": "2026-03-14T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "3c27eafe",
+      "lang": "zh",
+      "title_zh": "Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋",
+      "summary_zh": "Gemini重塑谷歌地图！一句话搞定出行攻略，网友：以后出门有个谷歌地图就够了（量子位）",
+      "tags": [
+        "模型发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/387867.html",
+      "published_at": "2026-03-14T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    }
+  ]
+}

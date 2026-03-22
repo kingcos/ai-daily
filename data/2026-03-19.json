@@ -1,0 +1,84 @@
+{
+  "date": "2026-03-19",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "f4e08c34",
+      "lang": "en",
+      "title_en": "OpenAI is planning a desktop 'superapp'",
+      "title_zh": "OpenAI is planning a desktop 'superapp'",
+      "summary_en": "OpenAI is working on an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application. (The Verge)",
+      "summary_zh": "OpenAI is working on an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application.（The Verge）",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+      "published_at": "2026-03-19T20:09:38Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "cea48474",
+      "lang": "zh",
+      "title_zh": "刚刚，全球视频模型新王诞生了！",
+      "summary_zh": "：1个月前，Preview版本才刚拿下全球第2（量子位）",
+      "tags": [
+        "模型发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389146.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "ec726cf1",
+      "lang": "zh",
+      "title_zh": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
+      "summary_zh": "：万亿参数、百万上下文（量子位）",
+      "tags": [
+        "模型发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389038.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "8ea7a7ce",
+      "lang": "zh",
+      "title_zh": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
+      "summary_zh": "：持续升级官方 OpenClaw 插件（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389311.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1564e1d0",
+      "lang": "zh",
+      "title_zh": "世界模型+强化学习：轻舟智航于骞在德国定义通向通用物理AI的必由之路",
+      "summary_zh": "世界模型+强化学习：世界模型+强化学习（量子位）",
+      "tags": [
+        "模型发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389442.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-09",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "098c40d8",
+      "lang": "zh",
+      "title_zh": "88岁图灵奖得主，用Claude一小时破解30年数学悬案",
+      "summary_zh": "：向Claude脱帽致敬（Hats off to Claude）！（量子位）",
+      "tags": [
+        "模型发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384890.html",
+      "published_at": "2026-03-09T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "01fd4663",
+      "lang": "zh",
+      "title_zh": "卡帕西开源Agent自进化训练框架，5分钟一轮实验，48h内揽星9.5k",
+      "summary_zh": "：下一步要模拟整个博士社群（量子位）",
+      "tags": [
+        "Agent",
+        "研究论文",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384953.html",
+      "published_at": "2026-03-09T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "3f0bc09b",
+      "lang": "zh",
+      "title_zh": "龙虾最佳适配模型，OpenClaw之父给出了推荐",
+      "summary_zh": "：top3里国产占俩（量子位）",
+      "tags": [
+        "模型发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384837.html",
+      "published_at": "2026-03-09T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "69590a1c",
+      "lang": "zh",
+      "title_zh": "龙虾最大痛点被官方插件升级！对话永不忘记，GPT和Gemini最强模型都可接入",
+      "summary_zh": "：理论上永不失忆（量子位）",
+      "tags": [
+        "模型发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384907.html",
+      "published_at": "2026-03-09T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    }
+  ]
+}

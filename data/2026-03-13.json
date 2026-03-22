@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-13",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "fd627486",
+      "lang": "zh",
+      "title_zh": "华人博士4个月干出具身独角兽！斯坦福家务机器人再融11亿，开建中国团队",
+      "summary_zh": "：2026，不再只做demo（量子位）",
+      "tags": [
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/387072.html",
+      "published_at": "2026-03-13T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f4adf6d3",
+      "lang": "zh",
+      "title_zh": "统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言",
+      "summary_zh": "统计学最高荣誉回归华人！苏炜杰：像「剥洋葱」一样优化AI黑盒（量子位）",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/387102.html",
+      "published_at": "2026-03-13T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b8110bd4",
+      "lang": "zh",
+      "title_zh": "马斯克从Cursor挖走两位天才少年",
+      "summary_zh": "：xAI好像一座围城（量子位）",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/387242.html",
+      "published_at": "2026-03-13T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d130ec99",
+      "lang": "zh",
+      "title_zh": "多家资本参投，杨立昆AMI获超10亿美元种子融资",
+      "summary_zh": "量子位报道：多家资本参投，杨立昆AMI获超10亿美元种子融资（量子位）",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/387734.html",
+      "published_at": "2026-03-13T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-03-12",
+  "generated_at": "2026-03-23T03:20:00Z",
+  "items": [
+    {
+      "id": "9d6a48cc",
+      "lang": "en",
+      "title_en": "Anthropic invests $100 million into the Claude Partner Network",
+      "title_zh": "Anthropic invests $100 million into the Claude Partner Network",
+      "summary_en": "Anthropic: Launching the Claude Partner Network with $100M investment, helping enterprises adopt Claude through partner organizations. (Official)",
+      "summary_zh": "Anthropic：Launching the Claude Partner Network with $100M investment, helping enterprises adopt Claude through partner organizations.（官方）",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/claude-partner-network",
+      "published_at": "2026-03-12T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "781789f4",
+      "lang": "zh",
+      "title_zh": "老黄入局吃龙虾！英伟达发布最强开源Agent推理模型",
+      "summary_zh": "：260亿美元投向开源模型（量子位）",
+      "tags": [
+        "模型发布",
+        "Agent",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/386572.html",
+      "published_at": "2026-03-12T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "20f160f8",
+      "lang": "zh",
+      "title_zh": "卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法",
+      "summary_zh": "卡帕西：新一代IDE是Agent管理中心（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/386668.html",
+      "published_at": "2026-03-12T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "42377cbd",
+      "lang": "zh",
+      "title_zh": "马斯克官宣数字AI员工！世界首富也来养龙虾，测试阶段员工把它当真人",
+      "summary_zh": "：数字擎天柱官宣，巨硬项目却被曝已停摆\n（量子位）",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/386615.html",
+      "published_at": "2026-03-12T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7af10b43",
+      "lang": "zh",
+      "title_zh": "爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元",
+      "summary_zh": "量子位报道：爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元（量子位）",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/386664.html",
+      "published_at": "2026-03-12T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    }
+  ]
+}
