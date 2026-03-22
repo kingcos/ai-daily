@@ -61,6 +61,58 @@ Fetch → Filter → Semantic Dedup → Time Verify → Summarize (EN+ZH) → Ta
 - Default `importance` to 3 when ambiguous
 - `summary_en` / `title_en` are **omitted** for ZH-only items (`lang: "zh"`)
 
+## Fetch Strategy (Tool Selection)
+
+Use the fastest available method per source. Fall back in order:
+
+1. **`exec` + `curl`** — fastest; works for most RSS feeds and plain HTML pages
+2. **`browser` tool (profile=user)** — required for JS-heavy or Cloudflare-protected sites (e.g. `openai.com`)
+3. **`web_search`** — fallback when both above fail; requires Brave API key
+
+### Known Fetch Behaviors
+
+| Source | Method | Notes |
+|--------|--------|-------|
+| Anthropic | `curl` | HTML page; date in `<div class="body-3 agate">` near `<h1>` |
+| OpenAI | **browser** | Cloudflare-protected; `curl` returns JS challenge page |
+| Google DeepMind | `curl` | Standard HTML |
+| TechCrunch | `curl` RSS | `https://techcrunch.com/tag/artificial-intelligence/feed/` |
+| The Verge | `curl` RSS | Atom feed; dates in `<published>` tag |
+| MIT Tech Review | `curl` RSS | Standard RSS |
+| Hacker News | `curl` API | Firebase REST; SSL may time out — retry or skip if needed |
+| 量子位 | `curl` with UA | Requires `User-Agent: Mozilla/5.0 ...` header; date in first `2026-\d{2}-\d{2}` match |
+| 机器之心 | `curl` with UA | May return minimal HTML; retry with UA header |
+
+### Browser Tool Setup (when needed)
+
+If `browser` tool fails with "Could not find DevToolsActivePort":
+
+```bash
+# Kill existing Chrome, launch with debug port and temp profile
+pkill -a "Google Chrome" 2>/dev/null; sleep 2
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome \
+  --remote-debugging-port=9222 \
+  --user-data-dir=/tmp/chrome-debug \
+  --no-first-run &
+sleep 5
+# Get WebSocket URL and write DevToolsActivePort to default Chrome dir
+WS=$(curl -s http://localhost:9222/json/version | python3 -c "import sys,json; d=json.load(sys.stdin); print(d['webSocketDebuggerUrl'].replace('ws://localhost:9222',''))")
+echo -e "9222\n$WS" > "/Users/kingcos/Library/Application Support/Google/Chrome/DevToolsActivePort"
+```
+
+Then use `browser` tool with `profile=user` as normal.
+
+### Git Push
+
+After writing JSON files, commit and push with SSH (not HTTPS):
+```bash
+cd /Users/kingcos/Documents/GitHub/ai-daily
+git remote set-url origin git@github.com:kingcos/ai-daily.git  # ensure SSH
+git add data/ docs/data/
+git commit -m "feat: add YYYY-MM-DD AI daily pipeline output (N items)"
+git push
+```
+
 ## Reference Files
 
 Load these as needed during pipeline execution:
