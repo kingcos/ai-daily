@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-23",
-  "updated_at": "2026-03-23T06:56:18Z",
+  "updated_at": "2026-03-23T09:00:00Z",
   "dates": [
     "2026-03-23",
     "2026-03-22",
@@ -24,6 +24,40 @@
   ],
   "items": [
     {
+      "id": "6a8da9dc",
+      "lang": "zh",
+      "title_zh": "别人都在卷视觉，这家具身公司偏要卷「手感」",
+      "summary_zh": "量子位：在具身智能赛道普遍聚焦视觉感知的背景下，一家具身机器人公司另辟蹊径，深耕触觉感知技术。通过高精度触觉传感器与AI控制算法结合，实现机器人在精细操作任务中的突破，有望解决工业场景中的灵巧操作难题。",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "触觉感知"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391314.html",
+      "published_at": "2026-03-23T03:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "45529cfb",
+      "lang": "zh",
+      "title_zh": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
+      "summary_zh": "量子位：字节跳动开源的AI Agent框架在GitHub上迅速走红，获超35k Star。该框架采用MCP架构，内置丰富的Skill工具包，原生支持飞书集成，降低了企业构建AI应用的门槛，引发开发者社区广泛关注。",
+      "tags": [
+        "AI Agent",
+        "开源",
+        "字节跳动"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391361.html",
+      "published_at": "2026-03-23T02:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
       "id": "95ec809e",
       "lang": "en",
       "title_en": "Mark Zuckerberg is an AI CEO now",
@@ -38,6 +72,23 @@
       "published_at": "2026-03-23T01:00:00Z",
       "collected_at": "2026-03-23T06:56:18Z",
       "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "13f0d4a0",
+      "lang": "zh",
+      "title_zh": "Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后",
+      "summary_zh": "量子位：Momenta宣布与大众汽车合作，在自动驾驶领域采用世界模型而非VLA架构，成为全球首家大规模落地世界模型的自动驾驶公司。创始人曹旭东表示，传感器重要性在其技术路线中排序靠后，核心在于数据驱动的世界模型建设。",
+      "tags": [
+        "具身智能",
+        "自动驾驶",
+        "世界模型"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391474.html",
+      "published_at": "2026-03-23T01:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
@@ -147,6 +198,63 @@
       "published_at": "2026-03-23T00:00:00Z",
       "collected_at": "2026-03-23T06:56:18Z",
       "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "116a1398",
+      "lang": "en",
+      "title_en": "Cursor admits its new coding model was built on top of Moonshot AI's Kimi",
+      "title_zh": "Cursor承认新编程模型基于月之暗面Kimi构建",
+      "summary_en": "TechCrunch: Cursor has acknowledged that its recently released coding model is built on top of Moonshot AI's Kimi foundation model. The disclosure came after users and researchers noticed similarities between the two models, raising questions about transparency in AI product development.",
+      "summary_zh": "TechCrunch：代码编辑器Cursor承认其最新编程模型基于月之暗面Kimi基础模型构建，此前有用户和研究人员发现两模型存在相似性。此事引发外界对AI产品开发透明度的讨论。",
+      "tags": [
+        "AI编程",
+        "模型透明度",
+        "Cursor"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "published_at": "2026-03-22T18:41:09Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "464005dc",
+      "lang": "en",
+      "title_en": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "title_zh": "马斯克披露SpaceX和特斯拉芯片制造计划",
+      "summary_en": "TechCrunch: Elon Musk announced plans to build a Terafab chip manufacturing facility in Austin, Texas, jointly operated by SpaceX and Tesla. The goal is to produce chips at scale for robotics, AI, and space-based data centers. Analysts note the project faces significant technical and financial challenges.",
+      "summary_zh": "TechCrunch：马斯克宣布计划在德克萨斯州奥斯汀建设Terafab芯片制造厂，由SpaceX和特斯拉联合运营，目标是为机器人、AI和太空数据中心大规模生产芯片。分析人士指出该项目面临重大挑战。",
+      "tags": [
+        "芯片制造",
+        "xAI",
+        "硬件基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "published_at": "2026-03-22T16:20:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "de321142",
+      "lang": "en",
+      "title_en": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple",
+      "title_zh": "独家探访亚马逊Trainium实验室：赢得Anthropic、OpenAI乃至苹果青睐的芯片",
+      "summary_en": "TechCrunch: An inside look at Amazon's Trainium chip lab reveals how AWS has built a competitive AI accelerator attracting major customers including Anthropic, OpenAI, and Apple. Trainium offers a cost-effective alternative to Nvidia GPUs and is central to Amazon's strategy to reduce AI chip dependency.",
+      "summary_zh": "TechCrunch：对亚马逊Trainium芯片实验室的独家探访揭示，AWS打造的竞争性AI加速器已吸引Anthropic、OpenAI和苹果等顶级客户，提供比英伟达GPU更具成本优势的选择，是亚马逊降低对第三方AI芯片依赖的核心战略。",
+      "tags": [
+        "AI芯片",
+        "Amazon",
+        "云计算"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "published_at": "2026-03-22T12:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
       "merged_sources": []
     }
   ]
