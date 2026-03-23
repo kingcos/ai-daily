@@ -11,7 +11,6 @@
       "summary_zh": "TechCrunch：由 Sam Altman 等投资的核聚变初创 Helion Energy 据报正与 OpenAI 洽谈，拟将 12.5% 发电量出售给 OpenAI，以支持其快速扩张的 AI 基础设施对大规模清洁能源的需求。",
       "tags": [
         "AI基础设施",
-        "OpenAI",
         "能源"
       ],
       "source_name": "TechCrunch",
@@ -49,7 +48,7 @@
       "summary_zh": "The Verge：Grammarly「Expert Review」功能被指借 AI 模仿 The Verge 主编 Nilay Patel 风格，引发争议。Superhuman CEO Shishir Mehrotra 就此作出回应，探讨 AI 冒充真人专家的伦理边界。",
       "tags": [
         "安全对齐",
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
@@ -118,7 +117,7 @@
       "summary_en": "Meta: Mark Zuckerberg's identity and strategic focus have fundamentally shifted toward AI leadership, with Meta's core business bets now centered on AI models, AI assistants, and AI-powered products across its platforms.",
       "summary_zh": "Meta：扎克伯格的战略重心已全面转向 AI，Meta 核心业务赌注集中在 AI 模型、AI 助手和全平台 AI 产品上，其 CEO 定位已从社交媒体转向 AI 领导者。",
       "tags": [
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/898804/ai-ceo-mark-zuckerberg",
@@ -150,8 +149,7 @@
       "title_zh": "马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工，算力产能扩5000%",
       "summary_zh": "马斯克：宣布在德克萨斯州奥斯汀开工建设 Terafab 芯片工厂，目标成为集芯片设计与制造于一体的「英伟达+台积电」，计划将算力产能扩大5000%，缓解 AI 行业芯片短缺。",
       "tags": [
-        "硬件",
-        "xAI"
+        "硬件"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/391045.html",
@@ -166,7 +164,7 @@
       "title_zh": "黄仁勋发 Token 当工资！硅谷兴起刷量大赛，一人烧掉33个维基百科",
       "summary_zh": "英伟达：黄仁勋在 GTC 演讲中提出以 AI Token 作为员工奖励，引发硅谷 AI 算力消耗竞赛，据统计部分工程师单日 Token 消耗量相当于33个完整维基百科的文本量。",
       "tags": [
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/391061.html",
@@ -211,7 +209,7 @@
       "title_zh": "千问上线AI打车，一句话搞定选车、选地点、选时间",
       "summary_zh": "阿里千问：正式上线 AI 打车功能，用户只需一句话即可完成选车型、定地点、定时间全流程，依托 Qwen 大模型实现自然语言打车交互。",
       "tags": [
-        "产品更新",
+        "产品发布",
         "Agent"
       ],
       "source_name": "量子位",
@@ -244,7 +242,7 @@
       "summary_en": "The Verge: AI influencer awards and competitions are emerging as a cultural phenomenon, reflecting the growing mainstream visibility of AI personalities and content creators in social media.",
       "summary_zh": "AI 网红评选活动正在兴起，成为一种文化现象，反映出 AI 个性化内容创作者在社交媒体中日益增长的主流曝光度。",
       "tags": [
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
@@ -332,8 +330,7 @@
       "summary_zh": "TechCrunch：代码编辑器Cursor承认其最新编程模型基于月之暗面Kimi基础模型构建，此前有用户和研究人员发现两模型存在相似性。此事引发外界对AI产品开发透明度的讨论。",
       "tags": [
         "AI编程",
-        "模型透明度",
-        "Cursor"
+        "模型透明度"
       ],
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
@@ -351,7 +348,6 @@
       "summary_zh": "TechCrunch：马斯克宣布计划在德克萨斯州奥斯汀建设Terafab芯片制造厂，由SpaceX和特斯拉联合运营，目标是为机器人、AI和太空数据中心大规模生产芯片。分析人士指出该项目面临重大挑战。",
       "tags": [
         "芯片制造",
-        "xAI",
         "硬件基础设施"
       ],
       "source_name": "TechCrunch",

@@ -10,8 +10,7 @@
       "summary_en": "Google: The company expanded its Personal Intelligence feature—which uses Gemini AI to personalize search and app experiences based on user data—to all US users.",
       "summary_zh": "谷歌：个性化智能功能正式向全体美国用户开放，该功能基于 Gemini AI，通过分析用户数据个性化搜索和应用体验。",
       "tags": [
-        "产品更新",
-        "Google"
+        "产品发布"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
@@ -28,8 +27,7 @@
       "summary_en": "Garry Tan's public Claude Code development setup sparked intense debate in the developer community, with supporters praising its AI-assisted workflow and critics questioning over-reliance on AI for software engineering.",
       "summary_zh": "Garry Tan 公开的 Claude Code 开发配置在开发者社区引发激烈讨论，支持者称赞其 AI 辅助工作流，批评者则质疑软件工程中过度依赖 AI。",
       "tags": [
-        "编程",
-        "Anthropic"
+        "编程"
       ],
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
@@ -63,8 +61,7 @@
       "summary_en": "OpenAI: The company announced a strategic refocus, cutting back on several peripheral projects and initiatives to concentrate resources on its core AI model development and ChatGPT products.",
       "summary_zh": "OpenAI：公司宣布战略收缩，削减多个边缘项目，将资源集中于核心 AI 模型研发和 ChatGPT 产品线。",
       "tags": [
-        "产品更新",
-        "OpenAI"
+        "产品发布"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/895835/openai-cuts-back-on-side-quests",
@@ -81,8 +78,7 @@
       "summary_en": "OpenAI: Reports indicate the company plans to integrate its Sora video generation model directly into ChatGPT, making AI video creation accessible to a broader user base.",
       "summary_zh": "OpenAI：据报道公司计划将 Sora 视频生成模型直接集成进 ChatGPT，让更广泛的用户能够使用 AI 视频创作功能。",
       "tags": [
-        "产品更新",
-        "OpenAI",
+        "产品发布",
         "多模态"
       ],
       "source_name": "The Verge",
@@ -115,7 +111,7 @@
       "summary_zh": "OpenAI：GPT-5.4 上线首周 ARR 突破10亿美元，单次调用成本最高80美元，但任务效率提升32倍。",
       "tags": [
         "融资",
-        "模型发布"
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/388443.html",
@@ -130,7 +126,7 @@
       "title_zh": "Kimi新架构让马斯克叹服！17岁高中生作者一战成名",
       "summary_zh": "Moonshot AI：Kimi 新架构论文引发马斯克称赞，第一作者为17岁高中生，将注意力机制“旋转90度”实现突破。",
       "tags": [
-        "模型发布"
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/388493.html",

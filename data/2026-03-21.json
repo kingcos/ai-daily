@@ -10,9 +10,8 @@
       "summary_en": "Google: Gemini's new task automation feature, tested on Pixel 10 Pro and Galaxy S26 Ultra, allows the assistant to control apps like Uber and DoorDash on behalf of users. Currently limited to a handful of food delivery and rideshare apps and still in beta, the feature is slow and clunky but demonstrates meaningful progress toward on-device AI agents. Compared favorably against Siri's current capabilities.",
       "summary_zh": "Google：Gemini新推出的任务自动化功能在Pixel 10 Pro和Galaxy S26 Ultra上测试，支持代用户操控Uber、DoorDash等外卖和打车应用。功能目前仍处于测试阶段，仅支持少数应用，速度较慢，但展现出设备端AI Agent的实质性进展，被认为远超Siri现有能力。",
       "tags": [
-        "产品更新",
-        "Agent",
-        "Google"
+        "产品发布",
+        "Agent"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
@@ -27,7 +26,7 @@
       "title_zh": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
       "summary_zh": "光轮智能：英伟达GTC大会上，老黄机器人演示demo背后的核心供应商光轮智能首次曝光，该公司正在定义Physical AI基础设施，为多家顶级机器人厂商提供底层平台支持。",
       "tags": [
-        "产品更新",
+        "产品发布",
         "硬件"
       ],
       "source_name": "量子位",
@@ -43,9 +42,7 @@
       "title_zh": "Cursor套壳Kimi被锤，创始人：忘记署名了",
       "summary_zh": "Cursor：Cursor被曝其宣称的「自研最强模型」实为套壳Kimi，经社区对比测试后创始人承认并致歉，称忘记在模型卡片中署名。此事引发社区对AI产品自研宣传真实性的广泛讨论，Kimi方面随即公开回应。",
       "tags": [
-        "产品更新",
-        "模型发布",
-        "Cursor"
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/390619.html",
@@ -93,7 +90,7 @@
       "title_zh": "对话越疆刘培超：具身智能收入已到千万级",
       "summary_zh": "越疆：越疆科技CEO刘培超接受采访，披露公司具身智能业务收入已达千万级，百亿市值目标在望。公司以低调姿态深耕具身AI商业化，在春晚机器人演出中担任幕后支持角色，产品已广泛落地工业场景。",
       "tags": [
-        "产品更新",
+        "产品发布",
         "硬件"
       ],
       "source_name": "量子位",

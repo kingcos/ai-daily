@@ -8,7 +8,7 @@
       "title_zh": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
       "summary_zh": "量子位：揭秘315曝光的“AI 投毒”原理——GEO（生成引擎优化）可操控大模型推荐结果，甚至虚构产品也会被推荐。",
       "tags": [
-        "模型发布"
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/388387.html",
@@ -38,7 +38,7 @@
       "title_zh": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
       "summary_zh": "量子位：实测首个 MCP 专属模型，长路径任务零失误，一人可完成全栈开发，并推出配套专属套餐。",
       "tags": [
-        "模型发布",
+        "产品发布",
         "Agent"
       ],
       "source_name": "量子位",
@@ -71,7 +71,7 @@
       "summary_en": "Cursor: Security team deployed a fleet of autonomous agents to automatically find and fix vulnerabilities across a rapidly evolving codebase.",
       "summary_zh": "Cursor：安全团队构建自治 Agent 集群，在快速迭代的代码库中自动发现并修复安全漏洞。",
       "tags": [
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "Cursor",
       "source_url": "https://cursor.com/blog/security-agents",

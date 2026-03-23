@@ -415,6 +415,7 @@ function applyFilters(){
     c.style.display=ok?'':'none';if(ok)vis++;
   });
   document.querySelectorAll('.day-sec').forEach(s=>{let any=false;s.querySelectorAll('.card').forEach(c=>{if(c.style.display!=='none')any=true});s.style.display=any?'':'none'});
+  document.querySelectorAll('.ad-inline').forEach(a=>{const next=a.nextElementSibling;const prev=a.previousElementSibling;const nextVis=next&&next.classList.contains('day-sec')&&next.style.display!=='none';const prevVis=prev&&prev.classList.contains('day-sec')&&prev.style.display!=='none';a.style.display=(nextVis||prevVis)?'':'none'});
   const ee=$('filt-empty');
   if(!vis){if(!ee){const d=document.createElement('div');d.id='filt-empty';d.className='empty';d.innerHTML='<span class="ei">🔍</span><h2>没有匹配结果</h2><p>试试放宽标签或来源筛选。</p><div class="empty-actions"><button class="empty-btn" onclick="clearAll()">清除所有筛选</button></div>';$('content').appendChild(d)}}else ee?.remove();
   updatePills();
@@ -512,11 +513,9 @@ async function load(){
     const r=await fetch(IDX);if(!r.ok)throw new Error('HTTP '+r.status);meta=await r.json();
     const ds=meta?.dates||[];if(ds.length){dp.min=ds[ds.length-1];dp.max=ds[0]}
     const{mode:um,date:ud}=getUrl();
-    if(um==='all'){await showAll();return}if(um==='week'){await showWeek();return}
-    const td=today(),avail=new Set(ds);
-    if(ud)await goDate(ud);
-    else if(avail.has(td))await goDate(td);
-    else{const lat=ds[0]||td;await goDate(lat,lat!==td?lat:null)}
+    if(um==='day'&&ud){await goDate(ud);return}if(um==='week'){await showWeek();return}
+    if(um==='day'){const td=today(),avail=new Set(ds);if(avail.has(td))await goDate(td);else{const lat=ds[0]||td;await goDate(lat,lat!==td?lat:null)}return}
+    await showAll()
   }catch(e){setTitle('加载失败');$('content').innerHTML=emptyH('数据加载失败','请确认已通过 GitHub Pages 访问，且数据文件已生成。')}
 }
 load();

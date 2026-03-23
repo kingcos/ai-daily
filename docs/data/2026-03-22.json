@@ -10,8 +10,7 @@
       "summary_en": "xAI/Tesla/SpaceX: Elon Musk announced plans to build a Terafab plant in Austin, Texas, to be jointly operated by Tesla and SpaceX. The facility aims to manufacture chips at scale for robotics, AI, and space-based data centers. The announcement comes amid broader industry concerns about AI chip supply constraints.",
       "summary_zh": "xAI/Tesla/SpaceX：埃隆·马斯克宣布将在德克萨斯州奥斯汀建设Terafab工厂，由特斯拉和SpaceX联合运营，目标是大规模生产用于机器人、人工智能及太空数据中心的芯片。马斯克表示此举旨在缓解AI行业芯片供应紧张问题。",
       "tags": [
-        "硬件",
-        "xAI"
+        "硬件"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
@@ -28,7 +27,7 @@
       "summary_en": "The Verge: At GDC 2026, generative AI tools were prominently featured across the show floor, including AI-driven NPCs, auto-generated game worlds, and QA automation. Tencent showcased a pixel-art fantasy world generated entirely by AI. However, developers expressed widespread concern that AI tools remove craft from game-making, and commercially successful games at the conference remained human-crafted.",
       "summary_zh": "The Verge：在GDC 2026上，生成式AI工具大量亮相，涵盖AI驱动NPC、自动生成游戏世界及QA自动化等，腾讯展示了AI生成的像素风奇幻世界Demo。开发者普遍担忧AI削弱游戏制作匠心，大会上的商业成功游戏仍以人工创作为主。",
       "tags": [
-        "产品更新",
+        "产品发布",
         "多模态"
       ],
       "source_name": "The Verge",
@@ -61,7 +60,7 @@
       "title_zh": "阶跃星辰率先适配微信生态，StepClaw即插即养即用",
       "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。",
       "tags": [
-        "产品更新",
+        "产品发布",
         "Agent"
       ],
       "source_name": "量子位",

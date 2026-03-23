@@ -10,8 +10,7 @@
       "summary_en": "Anthropic: CEO Dario Amodei is reportedly still trying to preserve a Pentagon partnership after internal talks over a federal sales team and military use cases broke down. The report says the company is balancing national-security business opportunities against internal opposition and reputational risk. The outcome of the negotiations remains unresolved.",
       "summary_zh": "Anthropic：在联邦销售团队和军事用途争议导致内部谈判破裂后，CEO Dario Amodei 据报仍在推动与五角大楼达成合作。报道显示，公司一边争取国家安全业务，一边处理内部反对意见与声誉风险，相关谈判仍未落定。",
       "tags": [
-        "政策监管",
-        "Anthropic"
+        "政策监管"
       ],
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
@@ -80,8 +79,7 @@
       "summary_en": "OpenAI: OpenAI introduced GPT-5.4 as its newest flagship model for complex tasks and published a matching GPT-5.4 Thinking System Card. The release emphasizes stronger reasoning behavior and updated safety evaluations, with rollout across ChatGPT and API products. The system card details capability testing, risk areas, and mitigations for the new model.",
       "summary_zh": "OpenAI：OpenAI 发布 GPT-5.4，并同步公开 GPT-5.4 Thinking System Card。新模型面向复杂任务，强调更稳定的推理表现和更新后的安全评估，并通过 ChatGPT 与 API 渠道上线。系统卡披露了能力测试、风险点与缓解措施。",
       "tags": [
-        "模型发布",
-        "OpenAI",
+        "产品发布",
         "推理"
       ],
       "source_name": "OpenAI",
@@ -99,8 +97,7 @@
       "summary_en": "Cursor: Cursor launched Automations, a feature for running coding agents automatically in the background. The product lets users trigger recurring or event-driven workflows without keeping the editor open, extending Cursor from interactive assistance to unattended agent execution. The feature is positioned as part of Cursor's broader agent workflow stack.",
       "summary_zh": "Cursor：Cursor 推出 Automations，支持在后台自动运行编程 Agent。该功能可按周期或事件触发工作流，无需持续打开编辑器，进一步把 Cursor 从交互式助手扩展为可无人值守执行任务的 Agent 平台。",
       "tags": [
-        "产品更新",
-        "Cursor",
+        "产品发布",
         "Agent"
       ],
       "source_name": "Cursor",

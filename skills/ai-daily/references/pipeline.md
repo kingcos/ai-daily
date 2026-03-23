@@ -105,10 +105,11 @@ Assign **1–3 tags** from the taxonomy below. Prefer specificity.
 
 | Category | Tags |
 |----------|------|
-| Event type | `模型发布`, `产品更新`, `研究论文`, `融资`, `收购`, `政策监管`, `开源` |
+| Event type | `产品发布`, `研究论文`, `融资`, `收购`, `政策监管`, `开源` |
 | Technology | `推理`, `多模态`, `Agent`, `RAG`, `微调`, `评测基准`, `安全对齐` |
-| Company | `Anthropic`, `OpenAI`, `Google`, `Meta`, `Mistral`, `xAI`, `Cursor` |
 | Domain | `编程`, `医疗`, `教育`, `法律`, `硬件` |
+
+> **Note:** Company/brand tags (Anthropic, OpenAI, Google…) have been removed — use `source_name` for company filtering. `模型发布` and `产品更新` have been merged into `产品发布`.
 
 **Rules:**
 - Max 3 tags per item

@@ -27,8 +27,7 @@
       "summary_en": "The US Department of Defense filed a legal response to Anthropic's lawsuit, disputing the AI company's claims in an ongoing legal proceeding related to AI procurement and policy.",
       "summary_zh": "美国国防部就 Anthropic 提起的诉讼提交法律反驳意见，对这家 AI 公司在 AI 采购与政策相关诉讼中的主张提出异议。",
       "tags": [
-        "政策监管",
-        "Anthropic"
+        "政策监管"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/896622/the-pentagon-filed-a-rebuttal-to-anthropics-lawsuit",
@@ -62,7 +61,7 @@
       "summary_en": "Cursor: Over 1,000 Money Forward employees now use Cursor daily, extending AI coding agents beyond engineering to product, design, and QA roles.",
       "summary_zh": "Cursor：Money Forward 超过 1000 名员工每天使用 Cursor，将 AI 编程 Agent 扩展至产品、设计和 QA 岗位。",
       "tags": [
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "Cursor",
       "source_url": "https://cursor.com/blog/money-forward",
@@ -94,7 +93,7 @@
       "title_zh": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
       "summary_zh": "普林斯顿：研究显示英伟达最强 B200 GPU 算力利用率仅约40%，团队提出新方案将利用率提升至71%，黄仁勋已关注该研究。",
       "tags": [
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/388815.html",

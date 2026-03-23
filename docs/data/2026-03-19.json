@@ -10,7 +10,7 @@
       "summary_en": "OpenAI: Developing an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application.",
       "summary_zh": "OpenAI：正在开发代号为 Atlas 的桌面超级应用，将 ChatGPT、Codex 与浏览器整合为一体化 AI 原生产品。",
       "tags": [
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
@@ -62,7 +62,7 @@
       "summary_en": "Cursor: Releasing Composer 2 with frontier-level coding performance on CursorBench, higher token efficiency, and a faster default model variant.",
       "summary_zh": "Cursor：发布 Composer 2，在 CursorBench 上达到前沿水准，token 效率提升，并推出更快的默认版本。",
       "tags": [
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "Cursor",
       "source_url": "https://cursor.com/blog/composer-2",
@@ -79,7 +79,7 @@
       "summary_en": "Google/Fitbit: The company announced that Fitbit's AI health coach will gain the ability to access and interpret users' electronic medical records, enabling more personalized health guidance.",
       "summary_zh": "Google/Fitbit：Fitbit AI 健康助手即将获得访问和解读用户电子病历的能力，实现更个性化的健康建议。",
       "tags": [
-        "产品更新",
+        "产品发布",
         "医疗"
       ],
       "source_name": "The Verge",
@@ -97,7 +97,7 @@
       "summary_en": "Perplexity: The AI search company launched Comet, an AI-native browser for iOS that integrates search, browsing, and AI assistance into a unified experience.",
       "summary_zh": "Perplexity：AI 搜索公司发布 iOS 端 Comet 浏览器，将搜索、浏览与 AI 助手整合为一体化体验。",
       "tags": [
-        "产品更新"
+        "产品发布"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/897180/perplexity-has-released-its-comet-browser-for-ios",
@@ -112,7 +112,7 @@
       "title_zh": "刚刚，全球视频模型新王诞生了！",
       "summary_zh": "量子位：新视频生成模型强势登顶全球榜首，距其 Preview 版本拿下全球第二仅一个月。",
       "tags": [
-        "模型发布"
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/389146.html",
@@ -127,7 +127,7 @@
       "title_zh": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
       "summary_zh": "小米：正式认领此前登顶排行榜的神秘模型 Hunter Alpha，参数达万亿级，支持百万 token 上下文。",
       "tags": [
-        "模型发布",
+        "产品发布",
         "Agent"
       ],
       "source_name": "量子位",
@@ -158,7 +158,7 @@
       "title_zh": "世界模型+强化学习：轻舟智航于骞在德国定义通向通用物理AI的必由之路",
       "summary_zh": "轻舟智航：于骞在德国分享“世界模型 + 强化学习”技术路径，将其定义为通向通用物理 AI 的必由之路。",
       "tags": [
-        "模型发布"
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/389442.html",
