@@ -7,8 +7,8 @@
       "lang": "en",
       "title_en": "Gemini task automation is slow, clunky, and super impressive",
       "title_zh": "Gemini任务自动化实测：慢但令人印象深刻",
-      "summary_en": "Google: Gemini's new task automation feature, tested on Pixel 10 Pro and Galaxy S26 Ultra, allows the assistant to control apps like Uber and DoorDash on behalf of users. Currently limited to a handful of food delivery and rideshare apps and still in beta, the feature is slow and clunky but demonstrates meaningful progress toward on-device AI agents. Compared favorably against Siri's current capabilities. (The Verge)",
-      "summary_zh": "Google：Gemini新推出的任务自动化功能在Pixel 10 Pro和Galaxy S26 Ultra上测试，支持代用户操控Uber、DoorDash等外卖和打车应用。功能目前仍处于测试阶段，仅支持少数应用，速度较慢，但展现出设备端AI Agent的实质性进展，被认为远超Siri现有能力。（The Verge）",
+      "summary_en": "Google: Gemini's new task automation feature, tested on Pixel 10 Pro and Galaxy S26 Ultra, allows the assistant to control apps like Uber and DoorDash on behalf of users. Currently limited to a handful of food delivery and rideshare apps and still in beta, the feature is slow and clunky but demonstrates meaningful progress toward on-device AI agents. Compared favorably against Siri's current capabilities.",
+      "summary_zh": "Google：Gemini新推出的任务自动化功能在Pixel 10 Pro和Galaxy S26 Ultra上测试，支持代用户操控Uber、DoorDash等外卖和打车应用。功能目前仍处于测试阶段，仅支持少数应用，速度较慢，但展现出设备端AI Agent的实质性进展，被认为远超Siri现有能力。",
       "tags": [
         "产品更新",
         "Agent",
@@ -25,7 +25,7 @@
       "id": "9af58a2d",
       "lang": "zh",
       "title_zh": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
-      "summary_zh": "光轮智能：英伟达GTC大会上，老黄机器人演示demo背后的核心供应商光轮智能首次曝光，该公司正在定义Physical AI基础设施，为多家顶级机器人厂商提供底层平台支持。（量子位）",
+      "summary_zh": "光轮智能：英伟达GTC大会上，老黄机器人演示demo背后的核心供应商光轮智能首次曝光，该公司正在定义Physical AI基础设施，为多家顶级机器人厂商提供底层平台支持。",
       "tags": [
         "产品更新",
         "硬件"
@@ -41,7 +41,7 @@
       "id": "f7d11125",
       "lang": "zh",
       "title_zh": "Cursor套壳Kimi被锤，创始人：忘记署名了",
-      "summary_zh": "Cursor：Cursor被曝其宣称的「自研最强模型」实为套壳Kimi，经社区对比测试后创始人承认并致歉，称忘记在模型卡片中署名。此事引发社区对AI产品自研宣传真实性的广泛讨论，Kimi方面随即公开回应。（量子位）",
+      "summary_zh": "Cursor：Cursor被曝其宣称的「自研最强模型」实为套壳Kimi，经社区对比测试后创始人承认并致歉，称忘记在模型卡片中署名。此事引发社区对AI产品自研宣传真实性的广泛讨论，Kimi方面随即公开回应。",
       "tags": [
         "产品更新",
         "模型发布",
@@ -58,7 +58,7 @@
       "id": "62489f95",
       "lang": "zh",
       "title_zh": "北大团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
-      "summary_zh": "北京大学：北大彭宇新团队提出细粒度树先验方法，使生成式模型具备完整生物类别树（界门纲目科属种）认知，在泛化能力和分层识别精度上取得突破，相关成果投稿至顶会。（量子位）",
+      "summary_zh": "北京大学：北大彭宇新团队提出细粒度树先验方法，使生成式模型具备完整生物类别树（界门纲目科属种）认知，在泛化能力和分层识别精度上取得突破，相关成果投稿至顶会。",
       "tags": [
         "研究论文",
         "多模态"
@@ -74,7 +74,7 @@
       "id": "d070dee7",
       "lang": "zh",
       "title_zh": "北航团队开源ClawGuard，梳理AI Agent 9大高危风险缓解措施",
-      "summary_zh": "北京航空航天大学：北航团队针对主流AI Agent框架发布开源安全防御工具ClawGuard Auditor，系统梳理9大高危风险及缓解措施，覆盖提示注入、权限滥用等核心攻击面，代码已开源。（量子位）",
+      "summary_zh": "北京航空航天大学：北航团队针对主流AI Agent框架发布开源安全防御工具ClawGuard Auditor，系统梳理9大高危风险及缓解措施，覆盖提示注入、权限滥用等核心攻击面，代码已开源。",
       "tags": [
         "开源",
         "安全对齐",
@@ -91,7 +91,7 @@
       "id": "e3325289",
       "lang": "zh",
       "title_zh": "对话越疆刘培超：具身智能收入已到千万级",
-      "summary_zh": "越疆：越疆科技CEO刘培超接受采访，披露公司具身智能业务收入已达千万级，百亿市值目标在望。公司以低调姿态深耕具身AI商业化，在春晚机器人演出中担任幕后支持角色，产品已广泛落地工业场景。（量子位）",
+      "summary_zh": "越疆：越疆科技CEO刘培超接受采访，披露公司具身智能业务收入已达千万级，百亿市值目标在望。公司以低调姿态深耕具身AI商业化，在春晚机器人演出中担任幕后支持角色，产品已广泛落地工业场景。",
       "tags": [
         "产品更新",
         "硬件"

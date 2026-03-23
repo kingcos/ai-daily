@@ -3,6 +3,24 @@
   "generated_at": "2026-03-23T03:20:00Z",
   "items": [
     {
+      "id": "71a1c43d",
+      "lang": "en",
+      "title_en": "The billionaires made a promise, now some want out",
+      "title_zh": "亿万富翁们曾许下承诺，如今有人想反悔",
+      "summary_en": "A growing number of tech billionaires who signed AI safety pledges are reportedly seeking to walk back their commitments as competitive pressures intensify in the AI race.",
+      "summary_zh": "越来越多签署 AI 安全承诺的科技亿万富翁，据报道在 AI 竞争压力加剧之下正试图收回此前的承诺。",
+      "tags": [
+        "政策监管",
+        "安全对齐"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
+      "published_at": "2026-03-15T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "522036a8",
       "lang": "zh",
       "title_zh": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",

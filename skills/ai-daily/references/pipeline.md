@@ -67,13 +67,13 @@ Goal: Merge articles from different sources that cover the same specific event.
 
 **Format template:**
 ```
-{主体}：{核心事实，含具体数据}。{技术/产品亮点}。{落地/上线情况（如有）}。（{报道来源}）
+{主体}：{核心事实，含具体数据}。{技术/产品亮点}。{落地/上线情况（如有）}。
 ```
 
 **Rules:**
 - Strict ≤200 字 (ZH) / ≤200 words (EN), no paragraph breaks
 - Opening `{主体}：` — the organization making the announcement, NOT the media outlet
-- Closing `（{来源}）` — official blog → `（官方）`; media → media name
+- **NO trailing source bracket** — do NOT append `（官方）`、`（The Verge）`、`（量子位）` or any source attribution at the end; source is already captured in `source_name` field
 - Only state facts explicitly from the source article; never infer or estimate
 - Forbidden adjectives: `重磅`、`革命性`、`突破性`、`值得关注`、`首次` (unless the original article uses them)
 - Technical terms follow original article spelling: MoE, RAG, SWE-bench, etc.

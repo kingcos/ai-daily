@@ -3,6 +3,92 @@
   "generated_at": "2026-03-23T03:20:00Z",
   "items": [
     {
+      "id": "4ed426f6",
+      "lang": "en",
+      "title_en": "ChatGPT did not cure a dog's cancer",
+      "title_zh": "ChatGPT 并未治愈这只狗的癌症",
+      "summary_en": "A viral story claiming ChatGPT helped cure a dog's cancer was found to be misleading; the dog's recovery was attributed to veterinary treatment, not AI-generated advice.",
+      "summary_zh": "一则 ChatGPT 帮助治愈狗癌症的病毒式传播故事经核实存在误导，狗的康复实为兽医治疗所致，而非 AI 建议的功劳。",
+      "tags": [
+        "医疗"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "published_at": "2026-03-18T16:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b0e96434",
+      "lang": "en",
+      "title_en": "The Pentagon filed a rebuttal to Anthropic's lawsuit",
+      "title_zh": "五角大楼就 Anthropic 诉讼提出反驳",
+      "summary_en": "The US Department of Defense filed a legal response to Anthropic's lawsuit, disputing the AI company's claims in an ongoing legal proceeding related to AI procurement and policy.",
+      "summary_zh": "美国国防部就 Anthropic 提起的诉讼提交法律反驳意见，对这家 AI 公司在 AI 采购与政策相关诉讼中的主张提出异议。",
+      "tags": [
+        "政策监管",
+        "Anthropic"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896622/the-pentagon-filed-a-rebuttal-to-anthropics-lawsuit",
+      "published_at": "2026-03-18T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "cd58f905",
+      "lang": "en",
+      "title_en": "Nvidia networking division building a multibillion-dollar behemoth to rival its chips business",
+      "title_zh": "英伟达网络部门打造数十亿美元巨头 与芯片业务分庭抗礼",
+      "summary_en": "Nvidia: The company's networking division is rapidly expanding into a multibillion-dollar business unit, developing interconnect and data center networking products that rival its core GPU chip business in scale.",
+      "summary_zh": "英伟达：公司网络部门正迅速扩张为数十亿美元级业务单元，打造数据中心互联和网络产品，规模上可与核心 GPU 芯片业务相抗衡。",
+      "tags": [
+        "硬件"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "published_at": "2026-03-18T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e3c91e7f",
+      "lang": "en",
+      "title_en": "Money Forward brings Cursor's coding agents to product, design, and QA",
+      "title_zh": "Money Forward 将 Cursor 编程 Agent 引入产品、设计与 QA 团队",
+      "summary_en": "Cursor: Over 1,000 Money Forward employees now use Cursor daily, extending AI coding agents beyond engineering to product, design, and QA roles.",
+      "summary_zh": "Cursor：Money Forward 超过 1000 名员工每天使用 Cursor，将 AI 编程 Agent 扩展至产品、设计和 QA 岗位。",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/money-forward",
+      "published_at": "2026-03-18T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c3e54b18",
+      "lang": "en",
+      "title_en": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "title_zh": "Nothing CEO 称 AI Agent 将取代智能手机 App",
+      "summary_en": "Nothing: CEO Carl Pei predicted that traditional smartphone applications will become obsolete as AI agents become sophisticated enough to handle tasks directly, fundamentally changing how users interact with their devices.",
+      "summary_zh": "Nothing：CEO Carl Pei 预测，随着 AI Agent 能力日趋成熟、可直接处理用户任务，传统智能手机 App 将逐渐消失，人机交互方式将发生根本变革。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "published_at": "2026-03-18T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "14577107",
       "lang": "zh",
       "title_zh": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
@@ -45,23 +131,6 @@
       "published_at": "2026-03-18T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "e3c91e7f",
-      "lang": "en",
-      "title_en": "Money Forward brings Cursor's coding agents to product, design, and QA",
-      "title_zh": "Money Forward 将 Cursor 编程 Agent 引入产品、设计与 QA 团队",
-      "summary_en": "Cursor: Over 1,000 Money Forward employees now use Cursor daily, extending AI coding agents beyond engineering to product, design, and QA roles.",
-      "summary_zh": "Cursor：Money Forward 超过 1000 名员工每天使用 Cursor，将 AI 编程 Agent 扩展至产品、设计和 QA 岗位。",
-      "tags": [
-        "产品更新"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/money-forward",
-      "published_at": "2026-03-18T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

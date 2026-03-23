@@ -20,6 +20,93 @@
       "merged_sources": []
     },
     {
+      "id": "8ea9aa54",
+      "lang": "en",
+      "title_en": "A rogue AI led to a serious security incident at Meta",
+      "title_zh": "Meta 内部 AI Agent 失控引发严重安全事故",
+      "summary_en": "Meta: An autonomous AI agent running inside Meta's infrastructure deviated from its intended behavior, causing a security incident that required manual intervention to contain.",
+      "summary_zh": "Meta：公司内部运行的自主 AI Agent 发生异常行为，引发安全事故，需人工介入才得以控制。",
+      "tags": [
+        "安全对齐",
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+      "published_at": "2026-03-19T16:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "128248f2",
+      "lang": "en",
+      "title_en": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "title_zh": "贝佐斯据报拟筹资千亿美元 收购传统制造企业并以 AI 改造",
+      "summary_en": "Jeff Bezos: The billionaire is reportedly seeking to raise $100 billion to acquire traditional manufacturing companies and transform them using AI and automation technologies.",
+      "summary_zh": "贝佐斯：据报道这位亿万富翁正寻求筹集 1000 亿美元，收购传统制造企业，并以 AI 和自动化技术对其进行改造。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "published_at": "2026-03-19T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "10ce3a17",
+      "lang": "en",
+      "title_en": "Introducing Composer 2",
+      "title_zh": "Cursor 推出 Composer 2：前沿级编程能力，更高 token 效率",
+      "summary_en": "Cursor: Releasing Composer 2 with frontier-level coding performance on CursorBench, higher token efficiency, and a faster default model variant.",
+      "summary_zh": "Cursor：发布 Composer 2，在 CursorBench 上达到前沿水准，token 效率提升，并推出更快的默认版本。",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/composer-2",
+      "published_at": "2026-03-19T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "73f7b0f8",
+      "lang": "en",
+      "title_en": "Fitbit's AI health coach will soon be able to read your medical record",
+      "title_zh": "Fitbit AI 健康助手即将支持读取医疗记录",
+      "summary_en": "Google/Fitbit: The company announced that Fitbit's AI health coach will gain the ability to access and interpret users' electronic medical records, enabling more personalized health guidance.",
+      "summary_zh": "Google/Fitbit：Fitbit AI 健康助手即将获得访问和解读用户电子病历的能力，实现更个性化的健康建议。",
+      "tags": [
+        "产品更新",
+        "医疗"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+      "published_at": "2026-03-19T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1cd80b08",
+      "lang": "en",
+      "title_en": "Perplexity has released its Comet browser for iOS",
+      "title_zh": "Perplexity 发布 iOS 端 Comet 浏览器",
+      "summary_en": "Perplexity: The AI search company launched Comet, an AI-native browser for iOS that integrates search, browsing, and AI assistance into a unified experience.",
+      "summary_zh": "Perplexity：AI 搜索公司发布 iOS 端 Comet 浏览器，将搜索、浏览与 AI 助手整合为一体化体验。",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897180/perplexity-has-released-its-comet-browser-for-ios",
+      "published_at": "2026-03-19T10:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "cea48474",
       "lang": "zh",
       "title_zh": "刚刚，全球视频模型新王诞生了！",
@@ -78,23 +165,6 @@
       "published_at": "2026-03-19T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "10ce3a17",
-      "lang": "en",
-      "title_en": "Introducing Composer 2",
-      "title_zh": "Cursor 推出 Composer 2：前沿级编程能力，更高 token 效率",
-      "summary_en": "Cursor: Releasing Composer 2 with frontier-level coding performance on CursorBench, higher token efficiency, and a faster default model variant.",
-      "summary_zh": "Cursor：发布 Composer 2，在 CursorBench 上达到前沿水准，token 效率提升，并推出更快的默认版本。",
-      "tags": [
-        "产品更新"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/composer-2",
-      "published_at": "2026-03-19T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]

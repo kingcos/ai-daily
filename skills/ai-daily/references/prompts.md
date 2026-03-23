@@ -28,7 +28,7 @@ Used in Step 5 for `lang: "zh"` items (量子位, 机器之心).
 格式要求：
 - 开头："{发布方机构名}："（注意：是发布事件的公司/机构，非媒体名）
 - 正文：核心事实密集排列，优先包含原文中的具体数字和指标
-- 结尾："（{报道来源}）"，若为官方博客则写"（官方）"
+- **结尾不加任何括号来源**，`source_name` 字段已单独记录来源
 - 严格不超过200字（含标点），不分段
 
 严格校验：
@@ -54,7 +54,7 @@ Write a news summary following this format exactly:
 Format:
 - Start: "{Publishing entity}:" (the company/org that made the announcement, NOT the media outlet)
 - Body: dense factual content with specific numbers and metrics from the article
-- End: "({Reporting source})" — use "(Official)" if this is the primary source's own blog
+- **No trailing source bracket** — do NOT append "(Official)", "(The Verge)", etc. at the end; source is already in `source_name` field
 - Max 200 words, no paragraph breaks
 
 Strict rules:

@@ -3,6 +3,96 @@
   "generated_at": "2026-03-23T03:20:00Z",
   "items": [
     {
+      "id": "fcc95dc8",
+      "lang": "en",
+      "title_en": "Now everyone in the US is getting Google's personalized Gemini AI",
+      "title_zh": "谷歌个性化 Gemini AI 全面向美国用户开放",
+      "summary_en": "Google: The company expanded its Personal Intelligence feature—which uses Gemini AI to personalize search and app experiences based on user data—to all US users.",
+      "summary_zh": "谷歌：个性化智能功能正式向全体美国用户开放，该功能基于 Gemini AI，通过分析用户数据个性化搜索和应用体验。",
+      "tags": [
+        "产品更新",
+        "Google"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "published_at": "2026-03-17T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "0f672894",
+      "lang": "en",
+      "title_en": "Why Garry Tan's Claude Code setup has gotten so much love and hate",
+      "title_zh": "为何 Garry Tan 的 Claude Code 配置引发如此两极分化的反应",
+      "summary_en": "Garry Tan's public Claude Code development setup sparked intense debate in the developer community, with supporters praising its AI-assisted workflow and critics questioning over-reliance on AI for software engineering.",
+      "summary_zh": "Garry Tan 公开的 Claude Code 开发配置在开发者社区引发激烈讨论，支持者称赞其 AI 辅助工作流，批评者则质疑软件工程中过度依赖 AI。",
+      "tags": [
+        "编程",
+        "Anthropic"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "published_at": "2026-03-17T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "09503aad",
+      "lang": "en",
+      "title_en": "Training Composer for longer horizons",
+      "title_zh": "训练 Composer 应对更长任务：自摘要训练方法",
+      "summary_en": "Cursor: Integrating self-summarization into Composer's training to extract signal from trajectories far longer than the model's context window.",
+      "summary_zh": "Cursor：将自摘要机制融入 Composer 训练流程，从超出上下文窗口的超长任务轨迹中提取训练信号。",
+      "tags": [
+        "研究论文"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/self-summarization",
+      "published_at": "2026-03-17T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "11740e48",
+      "lang": "en",
+      "title_en": "OpenAI cuts back on side quests",
+      "title_zh": "OpenAI 削减非核心业务线",
+      "summary_en": "OpenAI: The company announced a strategic refocus, cutting back on several peripheral projects and initiatives to concentrate resources on its core AI model development and ChatGPT products.",
+      "summary_zh": "OpenAI：公司宣布战略收缩，削减多个边缘项目，将资源集中于核心 AI 模型研发和 ChatGPT 产品线。",
+      "tags": [
+        "产品更新",
+        "OpenAI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/895835/openai-cuts-back-on-side-quests",
+      "published_at": "2026-03-17T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e3ccec42",
+      "lang": "en",
+      "title_en": "OpenAI's Sora video generator is reportedly coming to ChatGPT",
+      "title_zh": "OpenAI Sora 视频生成器据报将集成进 ChatGPT",
+      "summary_en": "OpenAI: Reports indicate the company plans to integrate its Sora video generation model directly into ChatGPT, making AI video creation accessible to a broader user base.",
+      "summary_zh": "OpenAI：据报道公司计划将 Sora 视频生成模型直接集成进 ChatGPT，让更广泛的用户能够使用 AI 视频创作功能。",
+      "tags": [
+        "产品更新",
+        "OpenAI",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
+      "published_at": "2026-03-17T08:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "2f03da92",
       "lang": "zh",
       "title_zh": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
@@ -62,23 +152,6 @@
       "published_at": "2026-03-17T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "09503aad",
-      "lang": "en",
-      "title_en": "Training Composer for longer horizons",
-      "title_zh": "训练 Composer 应对更长任务：自摘要训练方法",
-      "summary_en": "Cursor: Integrating self-summarization into Composer's training to extract signal from trajectories far longer than the model's context window.",
-      "summary_zh": "Cursor：将自摘要机制融入 Composer 训练流程，从超出上下文窗口的超长任务轨迹中提取训练信号。",
-      "tags": [
-        "研究论文"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/self-summarization",
-      "published_at": "2026-03-17T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

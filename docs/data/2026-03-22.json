@@ -7,8 +7,8 @@
       "lang": "en",
       "title_en": "Musk says he's building Terafab chip plant in Austin, Texas",
       "title_zh": "马斯克宣布在德州奥斯汀建设Terafab芯片工厂",
-      "summary_en": "xAI/Tesla/SpaceX: Elon Musk announced plans to build a Terafab plant in Austin, Texas, to be jointly operated by Tesla and SpaceX. The facility aims to manufacture chips at scale for robotics, AI, and space-based data centers. The announcement comes amid broader industry concerns about AI chip supply constraints. (The Verge)",
-      "summary_zh": "xAI/Tesla/SpaceX：埃隆·马斯克宣布将在德克萨斯州奥斯汀建设Terafab工厂，由特斯拉和SpaceX联合运营，目标是大规模生产用于机器人、人工智能及太空数据中心的芯片。马斯克表示此举旨在缓解AI行业芯片供应紧张问题。（The Verge）",
+      "summary_en": "xAI/Tesla/SpaceX: Elon Musk announced plans to build a Terafab plant in Austin, Texas, to be jointly operated by Tesla and SpaceX. The facility aims to manufacture chips at scale for robotics, AI, and space-based data centers. The announcement comes amid broader industry concerns about AI chip supply constraints.",
+      "summary_zh": "xAI/Tesla/SpaceX：埃隆·马斯克宣布将在德克萨斯州奥斯汀建设Terafab工厂，由特斯拉和SpaceX联合运营，目标是大规模生产用于机器人、人工智能及太空数据中心的芯片。马斯克表示此举旨在缓解AI行业芯片供应紧张问题。",
       "tags": [
         "硬件",
         "xAI"
@@ -25,8 +25,8 @@
       "lang": "en",
       "title_en": "AI was everywhere at gaming's big developer conference — except the games",
       "title_zh": "GDC 2026：AI工具泛滥，成功游戏仍靠人工创作",
-      "summary_en": "The Verge: At GDC 2026, generative AI tools were prominently featured across the show floor, including AI-driven NPCs, auto-generated game worlds, and QA automation. Tencent showcased a pixel-art fantasy world generated entirely by AI. However, developers expressed widespread concern that AI tools remove craft from game-making, and commercially successful games at the conference remained human-crafted. (The Verge)",
-      "summary_zh": "The Verge：在GDC 2026上，生成式AI工具大量亮相，涵盖AI驱动NPC、自动生成游戏世界及QA自动化等，腾讯展示了AI生成的像素风奇幻世界Demo。开发者普遍担忧AI削弱游戏制作匠心，大会上的商业成功游戏仍以人工创作为主。（The Verge）",
+      "summary_en": "The Verge: At GDC 2026, generative AI tools were prominently featured across the show floor, including AI-driven NPCs, auto-generated game worlds, and QA automation. Tencent showcased a pixel-art fantasy world generated entirely by AI. However, developers expressed widespread concern that AI tools remove craft from game-making, and commercially successful games at the conference remained human-crafted.",
+      "summary_zh": "The Verge：在GDC 2026上，生成式AI工具大量亮相，涵盖AI驱动NPC、自动生成游戏世界及QA自动化等，腾讯展示了AI生成的像素风奇幻世界Demo。开发者普遍担忧AI削弱游戏制作匠心，大会上的商业成功游戏仍以人工创作为主。",
       "tags": [
         "产品更新",
         "多模态"
@@ -42,7 +42,7 @@
       "id": "4b85be95",
       "lang": "zh",
       "title_zh": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR26",
-      "summary_zh": "浙大：浙江大学团队提出多模态大模型置信度校准新方法，针对模型在图像质量差时仍输出高置信度的问题，通过先校准置信度再动态分配算力的方式提升推理可靠性，相关成果被CVPR 2026接收。（量子位）",
+      "summary_zh": "浙大：浙江大学团队提出多模态大模型置信度校准新方法，针对模型在图像质量差时仍输出高置信度的问题，通过先校准置信度再动态分配算力的方式提升推理可靠性，相关成果被CVPR 2026接收。",
       "tags": [
         "研究论文",
         "多模态",
@@ -59,7 +59,7 @@
       "id": "4ad0c854",
       "lang": "zh",
       "title_zh": "阶跃星辰率先适配微信生态，StepClaw即插即养即用",
-      "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。（量子位）",
+      "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。",
       "tags": [
         "产品更新",
         "Agent"
@@ -75,7 +75,7 @@
       "id": "4c7138cb",
       "lang": "zh",
       "title_zh": "大厂抢郭达雅进行时！DeepSeek核心成员还是个综艺巨佬",
-      "summary_zh": "DeepSeek：DeepSeek核心研究成员郭达雅因综艺节目走红，被多家大厂争相邀请，引发AI圈对顶尖研究人才流动的广泛关注。文章披露其在DeepSeek团队中的技术背景及角色。（量子位）",
+      "summary_zh": "DeepSeek：DeepSeek核心研究成员郭达雅因综艺节目走红，被多家大厂争相邀请，引发AI圈对顶尖研究人才流动的广泛关注。文章披露其在DeepSeek团队中的技术背景及角色。",
       "tags": [
         "Agent"
       ],
@@ -90,7 +90,7 @@
       "id": "538b8163",
       "lang": "zh",
       "title_zh": "上海凭什么敢自封开发者之城？WAIC 2026大会议程解读",
-      "summary_zh": "上海：WAIC 2026将于3月27日开幕，本届大会主打「开发者之城」定位，议程涵盖大模型、Agent、具身智能等核心方向，面向开发者开放WAIC直通卡。（量子位）",
+      "summary_zh": "上海：WAIC 2026将于3月27日开幕，本届大会主打「开发者之城」定位，议程涵盖大模型、Agent、具身智能等核心方向，面向开发者开放WAIC直通卡。",
       "tags": [
         "政策监管"
       ],

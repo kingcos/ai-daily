@@ -1,5 +1,25 @@
 {
   "date": "2026-03-07",
   "generated_at": "2026-03-23T03:20:00Z",
-  "items": []
+  "items": [
+    {
+      "id": "fb5d0cab",
+      "lang": "en",
+      "title_en": "OpenAI is working on ChatGPT smart speakers, cameras, and AI glasses",
+      "title_zh": "OpenAI 正在研发 ChatGPT 智能音箱、摄像头和 AI 眼镜",
+      "summary_en": "OpenAI: The company is developing a range of AI hardware products including smart speakers, cameras, and AI-enabled glasses, signaling a push into the consumer device market powered by ChatGPT.",
+      "summary_zh": "OpenAI：公司正在研发一系列 AI 硬件产品，包括智能音箱、摄像头和 AI 眼镜，标志着其向 ChatGPT 驱动的消费级设备市场进军。",
+      "tags": [
+        "产品更新",
+        "OpenAI",
+        "硬件"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
+      "published_at": "2026-03-07T16:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    }
+  ]
 }

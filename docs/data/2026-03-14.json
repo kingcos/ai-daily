@@ -3,6 +3,25 @@
   "generated_at": "2026-03-23T03:20:00Z",
   "items": [
     {
+      "id": "c1d6a247",
+      "lang": "en",
+      "title_en": "OpenAI is delaying ChatGPT's adult mode",
+      "title_zh": "OpenAI 推迟推出 ChatGPT 成人模式",
+      "summary_en": "OpenAI: The company announced it is delaying the rollout of ChatGPT's adult content mode, citing the need for additional safety review and policy refinement before wider deployment.",
+      "summary_zh": "OpenAI：公司宣布推迟推出 ChatGPT 成人内容模式，原因是在更广泛部署前需要进一步的安全审查和政策完善。",
+      "tags": [
+        "产品更新",
+        "OpenAI",
+        "安全对齐"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/891046/openai-is-delaying-chatgpts-adult-mode",
+      "published_at": "2026-03-14T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
       "id": "fe07df14",
       "lang": "zh",
       "title_zh": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
