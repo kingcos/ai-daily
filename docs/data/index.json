@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-23",
-  "updated_at": "2026-03-23T09:00:00Z",
+  "updated_at": "2026-03-23T15:00:00Z",
   "dates": [
     "2026-03-23",
     "2026-03-22",
@@ -23,6 +23,80 @@
     "2026-03-05"
   ],
   "items": [
+    {
+      "id": "c795aa86",
+      "lang": "en",
+      "title_en": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+      "title_zh": "Altman 支持的核聚变初创公司 Helion 与 OpenAI 洽谈供电协议",
+      "summary_en": "TechCrunch: Helion Energy, the nuclear fusion startup backed by Sam Altman, is reportedly negotiating to sell 12.5% of its power output to OpenAI. The deal underscores OpenAI's aggressive push to secure large-scale clean energy for its expanding AI infrastructure.",
+      "summary_zh": "TechCrunch：由 Sam Altman 等投资的核聚变初创 Helion Energy 据报正与 OpenAI 洽谈，拟将 12.5% 发电量出售给 OpenAI，以支持其快速扩张的 AI 基础设施对大规模清洁能源的需求。",
+      "tags": [
+        "AI基础设施",
+        "OpenAI",
+        "能源"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "published_at": "2026-03-23T15:03:36Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "76109139",
+      "lang": "en",
+      "title_en": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "title_zh": "iPhone 17 Pro 本地运行 4000 亿参数大模型演示",
+      "summary_en": "Hacker News: A demo video shows an iPhone 17 Pro running a 400-billion-parameter LLM locally using Apple's on-device neural engine. The demonstration sparked discussion about the state of edge AI and Apple Silicon's performance trajectory for large model inference.",
+      "summary_zh": "Hacker News：演示视频显示 iPhone 17 Pro 可在本地运行 4000 亿参数大语言模型，借助苹果片上神经引擎实现，引发社区对端侧 AI 能力与苹果芯片性能路线的广泛讨论。",
+      "tags": [
+        "硬件",
+        "边缘AI",
+        "Apple"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/anemll/status/2035901335984611412",
+      "published_at": "2026-03-23T14:30:10Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b4e74e04",
+      "lang": "en",
+      "title_en": "Confronting the CEO of the AI company that impersonated me",
+      "title_zh": "对话那家 AI 公司 CEO：它的产品冒充了我",
+      "summary_en": "The Verge: Grammarly's 'Expert Review' feature sparked controversy after it appeared to impersonate The Verge's Nilay Patel via AI. Superhuman CEO Shishir Mehrotra responds to the incident, discussing the ethics of AI impersonation in productivity tools and whether such systems create or extract value.",
+      "summary_zh": "The Verge：Grammarly「Expert Review」功能被指借 AI 模仿 The Verge 主编 Nilay Patel 风格，引发争议。Superhuman CEO Shishir Mehrotra 就此作出回应，探讨 AI 冒充真人专家的伦理边界。",
+      "tags": [
+        "安全对齐",
+        "产品更新"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "published_at": "2026-03-23T13:30:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "3f7f4d2b",
+      "lang": "en",
+      "title_en": "Snowflake lays off documentation staff after they train AI replacement",
+      "title_zh": "Snowflake 让文档团队训练 AI 后将其裁员",
+      "summary_en": "Hacker News: Snowflake reportedly laid off its documentation team shortly after tasking them with training an AI system to replace their roles. The incident has become a widely cited example of AI-driven workforce displacement and raises ethical questions about companies asking employees to build their own replacements.",
+      "summary_zh": "Hacker News：Snowflake 被报道在安排文档团队训练用于替代其工作的 AI 系统后随即将其裁员，此事件被广泛引用为 AI 驱动劳动力替代的典型案例，引发伦理层面的争议。",
+      "tags": [
+        "行业动态",
+        "安全对齐"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://threadreaderapp.com/thread/2035197183230709874.html",
+      "published_at": "2026-03-23T11:35:30Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "6a8da9dc",
       "lang": "zh",
@@ -197,6 +271,23 @@
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
       "published_at": "2026-03-23T00:00:00Z",
       "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "a27c50e6",
+      "lang": "zh",
+      "title_zh": "寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖",
+      "summary_zh": "量子位：ICRA 2026 机器人竞赛正式开启报名，智元机器人作为官方赞助方提供硬件平台、数据与算力支持，鼓励具身智能研究者参赛角逐国际最高荣誉。",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "学术"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391359.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
       "importance": 2,
       "merged_sources": []
     },
