@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-03-22",
-  "updated_at": "2026-03-23T03:20:00Z",
+  "latest_date": "2026-03-23",
+  "updated_at": "2026-03-23T06:56:18Z",
   "dates": [
+    "2026-03-23",
     "2026-03-22",
     "2026-03-21",
     "2026-03-20",
@@ -23,101 +24,128 @@
   ],
   "items": [
     {
-      "id": "b5b6efbc",
+      "id": "95ec809e",
       "lang": "en",
-      "title_en": "Musk says he's building Terafab chip plant in Austin, Texas",
-      "title_zh": "马斯克宣布在德州奥斯汀建设Terafab芯片工厂",
-      "summary_en": "xAI/Tesla/SpaceX: Elon Musk announced plans to build a Terafab plant in Austin, Texas, to be jointly operated by Tesla and SpaceX. The facility aims to manufacture chips at scale for robotics, AI, and space-based data centers. The announcement comes amid broader industry concerns about AI chip supply constraints. (The Verge)",
-      "summary_zh": "xAI/Tesla/SpaceX：埃隆·马斯克宣布将在德克萨斯州奥斯汀建设Terafab工厂，由特斯拉和SpaceX联合运营，目标是大规模生产用于机器人、人工智能及太空数据中心的芯片。马斯克表示此举旨在缓解AI行业芯片供应紧张问题。（The Verge）",
+      "title_en": "Mark Zuckerberg is an AI CEO now",
+      "title_zh": "扎克伯格已成为一位 AI CEO",
+      "summary_en": "Meta: Mark Zuckerberg's identity and strategic focus have fundamentally shifted toward AI leadership, with Meta's core business bets now centered on AI models, AI assistants, and AI-powered products across its platforms.",
+      "summary_zh": "Meta：扎克伯格的战略重心已全面转向 AI，Meta 核心业务赌注集中在 AI 模型、AI 助手和全平台 AI 产品上，其 CEO 定位已从社交媒体转向 AI 领导者。",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898804/ai-ceo-mark-zuckerberg",
+      "published_at": "2026-03-23T01:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "af9be772",
+      "lang": "zh",
+      "title_zh": "马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工，算力产能扩5000%",
+      "summary_zh": "马斯克：宣布在德克萨斯州奥斯汀开工建设 Terafab 芯片工厂，目标成为集芯片设计与制造于一体的「英伟达+台积电」，计划将算力产能扩大5000%，缓解 AI 行业芯片短缺。",
       "tags": [
         "硬件",
         "xAI"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
-      "published_at": "2026-03-22T14:06:48Z",
-      "collected_at": "2026-03-23T00:00:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391045.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "2f12b72a",
-      "lang": "en",
-      "title_en": "AI was everywhere at gaming's big developer conference — except the games",
-      "title_zh": "GDC 2026：AI工具泛滥，成功游戏仍靠人工创作",
-      "summary_en": "The Verge: At GDC 2026, generative AI tools were prominently featured across the show floor, including AI-driven NPCs, auto-generated game worlds, and QA automation. Tencent showcased a pixel-art fantasy world generated entirely by AI. However, developers expressed widespread concern that AI tools remove craft from game-making, and commercially successful games at the conference remained human-crafted. (The Verge)",
-      "summary_zh": "The Verge：在GDC 2026上，生成式AI工具大量亮相，涵盖AI驱动NPC、自动生成游戏世界及QA自动化等，腾讯展示了AI生成的像素风奇幻世界Demo。开发者普遍担忧AI削弱游戏制作匠心，大会上的商业成功游戏仍以人工创作为主。（The Verge）",
-      "tags": [
-        "产品更新",
-        "多模态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-      "published_at": "2026-03-22T12:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4b85be95",
+      "id": "e7f7b8fc",
       "lang": "zh",
-      "title_zh": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR26",
-      "summary_zh": "浙大：浙江大学团队提出多模态大模型置信度校准新方法，针对模型在图像质量差时仍输出高置信度的问题，通过先校准置信度再动态分配算力的方式提升推理可靠性，相关成果被CVPR 2026接收。（量子位）",
+      "title_zh": "黄仁勋发 Token 当工资！硅谷兴起刷量大赛，一人烧掉33个维基百科",
+      "summary_zh": "英伟达：黄仁勋在 GTC 演讲中提出以 AI Token 作为员工奖励，引发硅谷 AI 算力消耗竞赛，据统计部分工程师单日 Token 消耗量相当于33个完整维基百科的文本量。",
       "tags": [
-        "研究论文",
-        "多模态",
-        "评测基准"
+        "产品更新"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391014.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391061.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "4ad0c854",
+      "id": "3c73930e",
       "lang": "zh",
-      "title_zh": "阶跃星辰率先适配微信生态，StepClaw即插即养即用",
-      "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。（量子位）",
-      "tags": [
-        "产品更新",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391010.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4c7138cb",
-      "lang": "zh",
-      "title_zh": "大厂抢郭达雅进行时！DeepSeek核心成员还是个综艺巨佬",
-      "summary_zh": "DeepSeek：DeepSeek核心研究成员郭达雅因综艺节目走红，被多家大厂争相邀请，引发AI圈对顶尖研究人才流动的广泛关注。文章披露其在DeepSeek团队中的技术背景及角色。（量子位）",
+      "title_zh": "中关村北纬龙虾大赛圆满收官",
+      "summary_zh": "中关村北纬举办的 AI Agent 应用大赛圆满落幕，聚焦智能体时代 AI 应用演进路径，多家企业展示具体落地案例。",
       "tags": [
         "Agent"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390990.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391078.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
       "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "538b8163",
+      "id": "8b919016",
       "lang": "zh",
-      "title_zh": "上海凭什么敢自封开发者之城？WAIC 2026大会议程解读",
-      "summary_zh": "上海：WAIC 2026将于3月27日开幕，本届大会主打「开发者之城」定位，议程涵盖大模型、Agent、具身智能等核心方向，面向开发者开放WAIC直通卡。（量子位）",
+      "title_zh": "OpenClaw 创始人回信确认360独家发现漏洞",
+      "summary_zh": "360：宣布独家发现 OpenClaw 安全漏洞，并获创始人书面确认，360 安全团队已完成漏洞验证与披露流程。",
       "tags": [
-        "政策监管"
+        "安全对齐"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390977.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391303.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4e5af414",
+      "lang": "zh",
+      "title_zh": "千问上线AI打车，一句话搞定选车、选地点、选时间",
+      "summary_zh": "阿里千问：正式上线 AI 打车功能，用户只需一句话即可完成选车型、定地点、定时间全流程，依托 Qwen 大模型实现自然语言打车交互。",
+      "tags": [
+        "产品更新",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391308.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "01d83ff9",
+      "lang": "zh",
+      "title_zh": "院士+教授加盟趋境科技，领跑高效能AI Token生产新生态",
+      "summary_zh": "趋境科技：宣布院士与教授团队重磅加盟，聚焦高效能 AI Token 生产基础设施建设，定位打造新一代 AI 算力生态。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391339.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ba626327",
+      "lang": "en",
+      "title_en": "AI influencer awards season is upon us",
+      "title_zh": "AI 网红评奖季来袭",
+      "summary_en": "The Verge: AI influencer awards and competitions are emerging as a cultural phenomenon, reflecting the growing mainstream visibility of AI personalities and content creators in social media.",
+      "summary_zh": "AI 网红评选活动正在兴起，成为一种文化现象，反映出 AI 个性化内容创作者在社交媒体中日益增长的主流曝光度。",
+      "tags": [
+        "产品更新"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
       "importance": 2,
       "merged_sources": []
     }
