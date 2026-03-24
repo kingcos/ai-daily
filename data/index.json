@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-24",
-  "updated_at": "2026-03-24T09:05:00Z",
+  "updated_at": "2026-03-24T09:00:00Z",
   "dates": [
     "2026-03-24",
     "2026-03-23",
@@ -24,6 +24,25 @@
     "2026-03-05"
   ],
   "items": [
+    {
+      "id": "22db4cab",
+      "lang": "en",
+      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "title_zh": "ProofShot：为AI编程智能体提供UI视觉验证能力",
+      "summary_en": "ProofShot: ProofShot is an open tool that gives AI coding agents visual verification capabilities for the UIs they generate. It enables agents to capture screenshots of their output and compare actual vs. intended UI state, helping detect visual discrepancies without manual review. Submitted as a Show HN project.",
+      "summary_zh": "ProofShot：ProofShot是一款为AI编程智能体提供UI视觉验证能力的开源工具。该工具使智能体能够截图并检查自身生成的界面，帮助识别实际UI与预期之间的视觉差异，降低人工审核成本。",
+      "tags": [
+        "AI编程",
+        "工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://proofshot.argil.io/",
+      "published_at": "2026-03-24T07:46:00Z",
+      "collected_at": "2026-03-24T09:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "580668b1",
       "lang": "en",
