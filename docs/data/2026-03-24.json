@@ -3,6 +3,22 @@
   "generated_at": "2026-03-24T15:00:00Z",
   "items": [
     {
+      "id": "877123e3",
+      "lang": "zh",
+      "title_zh": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
+      "summary_zh": "量子位：一加全新小屏旗舰一加 15T 正式发布，搭载第五代骁龙 8 至尊版处理器与 ColorOS 16 系统，全面集成 AI 功能。机型配备 6.32 英寸屏幕、7500mAh 大电池及 LUMO 凝光影像系统，165Hz 高帧游戏体验，售价 4299 元起。",
+      "tags": [
+        "产品发布",
+        "手机"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391775.html",
+      "published_at": "2026-03-24T14:35:34Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
       "id": "66c9a554",
       "lang": "en",
       "title_en": "Anthropic's Claude Code and Cowork can control your computer",
@@ -19,6 +35,40 @@
       "published_at": "2026-03-24T13:32:23Z",
       "collected_at": "2026-03-24T15:00:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "5ca1f58b",
+      "lang": "en",
+      "title_en": "Anthropic's Claude Code and Cowork can control your computer",
+      "title_zh": "Anthropic Claude Code 与 Cowork 获得电脑控制能力",
+      "summary_en": "Anthropic: Anthropic has expanded Claude Code and its Cowork collaboration tool with computer use capabilities, allowing the AI to autonomously control desktop applications and perform complex multi-step tasks. The update brings agentic capabilities directly into developer workflows.",
+      "summary_zh": "Anthropic：Anthropic 为 Claude Code 和协作工具 Cowork 新增了电脑控制功能，使 AI 能够自主操作桌面应用程序并执行复杂的多步骤任务，将智能体能力直接融入开发者工作流。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-computer-use",
+      "published_at": "2026-03-24T13:32:23Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e77aa854",
+      "lang": "zh",
+      "title_zh": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
+      "summary_zh": "量子位：量子位将于 3 月 26 日举办 AI 初创全球化线下沙龙，邀请小影科技、FluxA、谷歌、京东、声网、Meshy 等企业分享出海实践经验，面向有全球化意向的 AI 创业团队开放报名。",
+      "tags": [
+        "行业活动",
+        "出海"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391760.html",
+      "published_at": "2026-03-24T13:09:56Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 2,
       "merged_sources": []
     },
     {
