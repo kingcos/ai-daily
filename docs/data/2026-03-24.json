@@ -1,0 +1,203 @@
+{
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24T00:00:00Z",
+  "items": [
+    {
+      "lang": "en",
+      "title_en": "Nvidia CEO Jensen Huang says 'I think we've achieved AGI'",
+      "title_zh": "黄仁勋：我认为我们已实现AGI",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+      "published_at": "2026-03-23T19:42:33Z",
+      "summary_en": "Nvidia: At a public event, Nvidia CEO Jensen Huang stated he believes AGI has been achieved, marking a significant declaration from a leading AI hardware figure. Huang did not specify a formal benchmark definition but cited current AI capabilities across reasoning and task execution as evidence. The comment generated widespread discussion about how AGI should be defined and measured.",
+      "summary_zh": "Nvidia：Nvidia CEO 黄仁勋在公开活动上宣称认为 AGI 已经实现，成为首位以此口吻发言的顶级 AI 硬件厂商领导人。黄仁勋未明确说明 AGI 的定义标准，但指出当前 AI 在推理和任务执行方面的能力已满足其判断。此言论引发关于 AGI 定义与评测标准的广泛讨论。",
+      "tags": [
+        "产品更新",
+        "推理",
+        "Nvidia"
+      ],
+      "importance": 4,
+      "merged_sources": [],
+      "id": "b9f640a2",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "en",
+      "title_en": "Confronting the CEO of the AI company that impersonated me",
+      "title_zh": "对话冒充我的AI公司CEO",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "published_at": "2026-03-23T13:30:00Z",
+      "summary_en": "The Verge: A reporter directly confronted the CEO of an AI company whose product impersonated her likeness without consent. The interview explores consent, liability, and the growing problem of AI-powered impersonation tools targeting journalists and public figures. Grammarly and Superhuman were reviewed in the same episode.",
+      "summary_zh": "The Verge：一名记者直面某AI公司CEO，该公司产品未经授权冒充了她的形象。采访探讨了AI仿冒工具带来的授权、法律责任及公众人物隐私保护等议题，折射出AI冒充技术滥用的系统性风险。",
+      "tags": [
+        "安全对齐",
+        "政策监管"
+      ],
+      "importance": 3,
+      "merged_sources": [],
+      "id": "b4e74e04",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "zh",
+      "title_zh": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391361.html",
+      "published_at": "2026-03-23T12:00:00Z",
+      "summary_zh": "量子位：字节跳动开源的「龙虾」Agent 框架在 GitHub 上获得超过 35,000 颗 Star，内置丰富的 Skill 组件库，并原生支持飞书集成。该框架面向企业级 Agent 应用开发，提供标准化工具调用、记忆管理和多步推理能力，受到开发者社区广泛关注。",
+      "tags": [
+        "开源",
+        "Agent"
+      ],
+      "importance": 4,
+      "merged_sources": [],
+      "id": "45529cfb",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "zh",
+      "title_zh": "千问上线AI打车，一句话搞定选车、选地点、选时间",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391308.html",
+      "published_at": "2026-03-23T11:00:00Z",
+      "summary_zh": "量子位：阿里巴巴旗下千问大模型上线 AI 打车功能，用户通过自然语言一句话即可完成选车型、选上车地点、选时间等全流程操作。该功能接入主流出行平台，是千问大模型在出行场景落地应用的最新案例，展示了 AI Agent 在垂直场景的商业化进展。",
+      "tags": [
+        "产品更新",
+        "Agent"
+      ],
+      "importance": 3,
+      "merged_sources": [],
+      "id": "4e5af414",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "zh",
+      "title_zh": "Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391474.html",
+      "published_at": "2026-03-23T10:00:00Z",
+      "summary_zh": "量子位：自动驾驶公司 Momenta 宣布与大众汽车合作，选择以世界模型为核心技术路线而非 VLA（Vision-Language-Action）框架。CEO 曹旭东表示，世界模型在泛化能力上优于 VLA，并认为传感器硬件的重要性相对靠后。这是大众首发的 AI 驾驶解决方案合作。",
+      "tags": [
+        "产品更新",
+        "多模态"
+      ],
+      "importance": 3,
+      "merged_sources": [],
+      "id": "13f0d4a0",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "en",
+      "title_en": "Fast regex search: indexing text for agent tools",
+      "title_zh": "Cursor：Agent工具的快速正则索引",
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/fast-regex-search",
+      "published_at": "2026-03-23T08:00:00Z",
+      "summary_en": "Cursor: Cursor engineering published a deep dive on building fast regex search as a tool for coding agents. The post details how indexing text enables agents to search code and documents efficiently without full re-scans. The technique improves agent tool latency and is integrated into Cursor's agent infrastructure.",
+      "summary_zh": "Cursor：Cursor 工程团队发布文章，介绍为编程 Agent 构建快速正则表达式搜索的技术方案。通过对文本建立索引，Agent 可在不全量扫描的情况下高效检索代码和文档，显著降低工具调用延迟。该技术已集成至 Cursor Agent 基础设施中。",
+      "tags": [
+        "Agent",
+        "编程",
+        "Cursor"
+      ],
+      "importance": 4,
+      "merged_sources": [],
+      "id": "13cd4b0b",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "en",
+      "title_en": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "title_zh": "iPhone 17 Pro演示运行4000亿参数LLM",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/anemll/status/2035901335984611412",
+      "published_at": "2026-03-23T00:00:00Z",
+      "summary_en": "Anemll: A demonstration showed iPhone 17 Pro running a 400 billion parameter language model locally. The demo highlighted advances in mobile hardware enabling on-device LLM inference at a scale previously limited to data centers. No cloud connection was required during inference.",
+      "summary_zh": "Anemll：演示视频展示了 iPhone 17 Pro 在本地运行4000亿参数语言模型的过程，推理全程无需联网。这标志着移动端硬件已具备此前仅数据中心级别的 LLM 推理能力，引发社区对端侧 AI 未来的广泛讨论。",
+      "tags": [
+        "模型发布",
+        "推理",
+        "硬件"
+      ],
+      "importance": 4,
+      "merged_sources": [],
+      "id": "76109139",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "en",
+      "title_en": "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO",
+      "title_zh": "扎克伯格正打造AI Agent辅助管理Meta",
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5",
+      "published_at": "2026-03-23T00:00:00Z",
+      "summary_en": "WSJ: Meta CEO Mark Zuckerberg is personally building an AI agent designed to assist him in running the company. The agent handles tasks including summarizing reports, drafting communications, and tracking strategic priorities. The effort reflects Meta's broader push to integrate AI agents into executive workflows.",
+      "summary_zh": "WSJ：Meta CEO 马克·扎克伯格正在亲自开发一款 AI Agent，用于辅助其管理公司日常事务，包括汇报摘要、起草沟通内容及追踪战略优先级。此举体现了 Meta 将 AI Agent 深度融入高管工作流的整体战略方向。",
+      "tags": [
+        "Agent",
+        "产品更新",
+        "Meta"
+      ],
+      "importance": 4,
+      "merged_sources": [],
+      "id": "6947468d",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "en",
+      "title_en": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
+      "title_zh": "贝莱德Fink：AI繁荣或加剧财富差距",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
+      "published_at": "2026-03-23T00:00:00Z",
+      "summary_en": "The Guardian: BlackRock CEO Larry Fink warned that the AI boom risks significantly widening the wealth divide if productivity gains are not broadly distributed. In his annual letter, Fink called for governments and companies to proactively address AI-driven economic inequality through policy and retraining programs.",
+      "summary_zh": "The Guardian：贝莱德 CEO 拉里·芬克在年度信函中警告，若 AI 带来的生产力红利无法广泛分配，AI 繁荣将显著加剧贫富分化。他呼吁政府和企业通过政策和再培训项目主动应对 AI 驱动的经济不平等问题。",
+      "tags": [
+        "政策监管"
+      ],
+      "importance": 3,
+      "merged_sources": [],
+      "id": "cea750e1",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "en",
+      "title_en": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
+      "title_zh": "Flash-MoE：笔记本运行3970亿参数模型",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/danveloper/flash-moe",
+      "published_at": "2026-03-22T00:00:00Z",
+      "summary_en": "Flash-MoE: An open-source project demonstrates running a 397 billion parameter Mixture-of-Experts model on consumer laptop hardware. The technique leverages sparse activation to reduce memory requirements, making frontier-scale models accessible without specialized hardware. Source code is publicly available on GitHub.",
+      "summary_zh": "Flash-MoE：一个开源项目演示了在消费级笔记本上运行3970亿参数 MoE 模型的方法。通过稀疏激活机制大幅降低内存需求，使前沿规模模型无需专业硬件即可运行。项目代码已在 GitHub 开放。",
+      "tags": [
+        "开源",
+        "模型发布",
+        "推理"
+      ],
+      "importance": 4,
+      "merged_sources": [],
+      "id": "a4ea6ea7",
+      "collected_at": "2026-03-24T00:00:00Z"
+    },
+    {
+      "lang": "en",
+      "title_en": "OpenAI Is Building an Automated Researcher",
+      "title_zh": "OpenAI正在打造自动化科研Agent",
+      "source_name": "Hacker News",
+      "source_url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-full-automated-researcher",
+      "published_at": "2026-03-20T00:00:00Z",
+      "summary_en": "MIT Technology Review: OpenAI is developing a fully automated AI researcher capable of independently running experiments, analyzing results, and generating scientific hypotheses. The system is part of OpenAI's broader agent research agenda. OpenAI cited potential applications in drug discovery and materials science.",
+      "summary_zh": "MIT Technology Review：OpenAI 正在开发一款全自动 AI 科研系统，能够独立执行实验、分析结果并生成科学假说。该系统是 OpenAI 更广泛 Agent 研究战略的组成部分，潜在应用场景包括药物研发与材料科学。",
+      "tags": [
+        "Agent",
+        "研究论文",
+        "OpenAI"
+      ],
+      "importance": 4,
+      "merged_sources": [],
+      "id": "2101561a",
+      "collected_at": "2026-03-24T00:00:00Z"
+    }
+  ]
+}
