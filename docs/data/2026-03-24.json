@@ -1,7 +1,75 @@
 {
   "date": "2026-03-24",
-  "generated_at": "2026-03-24T03:08:59.590728Z",
+  "generated_at": "2026-03-24T09:05:00Z",
   "items": [
+    {
+      "id": "580668b1",
+      "lang": "en",
+      "title_en": "Pool spare GPU capacity to run LLMs at larger scale",
+      "title_zh": "聚合闲置GPU算力以更大规模运行大语言模型",
+      "summary_en": "Hacker News: An open-source project, mesh-llm, proposes pooling idle GPU capacity across machines to run large language models at greater scale without dedicated infrastructure. The approach enables distributed LLM inference by treating spare compute as a shared mesh network.",
+      "summary_zh": "Hacker News：开源项目mesh-llm提出将多台机器闲置GPU算力汇集起来，无需专属基础设施即可大规模运行大语言模型，将空余算力视为共享网格网络，实现分布式LLM推理。",
+      "tags": [
+        "开源",
+        "基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/michaelneale/mesh-llm",
+      "published_at": "2026-03-24T05:43:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "6354345b",
+      "lang": "en",
+      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "title_zh": "ProofShot：让AI编程Agent能看见并验证自己构建的UI",
+      "summary_en": "Hacker News: ProofShot is a new tool that provides AI coding agents with visual verification capabilities, allowing them to take screenshots and validate that the UI they generate matches intended designs. The Show HN post highlights growing demand for closed-loop feedback in AI-assisted software development.",
+      "summary_zh": "Hacker News：ProofShot是一款为AI编程Agent提供视觉验证能力的新工具，使其能截图并确认自动生成的UI是否符合预期设计，体现了AI辅助软件开发中对闭环反馈机制的迫切需求。",
+      "tags": [
+        "AI编程",
+        "工具与平台"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://proofshot.argil.io/",
+      "published_at": "2026-03-24T04:23:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "77da0ae0",
+      "lang": "zh",
+      "title_zh": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
+      "summary_zh": "量子位：英伟达CEO黄仁勋抛出重磅论断，称AGI已经实现，并直言Ilya Sutskever关于预训练触顶的判断是错的，认为合成数据将进一步推动数据规模扩张。他预测全球将出现10亿级AI程序员，并强调推理计算比预训练更难、更重要，引发业界广泛讨论。",
+      "tags": [
+        "行业动态",
+        "模型能力"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391750.html",
+      "published_at": "2026-03-24T03:00:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "6f6397af",
+      "lang": "zh",
+      "title_zh": "RoboChallenge Table30 V2 正式发布，泛化时代开幕",
+      "summary_zh": "量子位：具身智能评测基准RoboChallenge Table30 V2正式发布，新增18个双臂灵巧操作任务，总计30个高难度任务，专注考核模型泛化能力。新版本重构了学习与测试协议，终结了为比赛调参的旧模式，旨在为全球具身智能研究者提供公平开放的真机竞技场。",
+      "tags": [
+        "具身智能",
+        "评测基准"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391744.html",
+      "published_at": "2026-03-24T02:30:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "9355a186",
       "lang": "en",
@@ -36,6 +104,38 @@
       "published_at": "2026-03-24T01:42:38Z",
       "collected_at": "2026-03-24T03:08:59.590728Z",
       "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "6162e5ae",
+      "lang": "zh",
+      "title_zh": "LeCun的世界模型单GPU就能跑了",
+      "summary_zh": "量子位：新研究实现仅需单GPU即可稳定训练LeCun提倡的世界模型（JEPA类架构），只靠像素输入无需复杂技巧，能预测执行某动作后世界的变化。通过SIGReg正则化解决了以往JEPA方案的崩溃问题，可直接用于机器人和智能体规划控制，兼顾速度与稳定性。",
+      "tags": [
+        "具身智能",
+        "模型能力"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391698.html",
+      "published_at": "2026-03-24T01:30:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "12f145df",
+      "lang": "zh",
+      "title_zh": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
+      "summary_zh": "量子位：华为诺亚方舟实验室前研究员周凯文创办具身智能公司，采用视频生成合成数据方式训练家用机器人，首个发布模型即登顶具身基础模型榜单。该公司半年内完成三轮融资，被视为具身智能赛道又一重量级选手入场。",
+      "tags": [
+        "具身智能",
+        "创业融资"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391668.html",
+      "published_at": "2026-03-24T01:00:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
@@ -121,6 +221,22 @@
       "source_url": "https://fedscoop.com/gsa-extends-comments-on-sweeping-ai-clause-after-industry-pushback/",
       "published_at": "2026-03-23T22:29:09Z",
       "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "767903a7",
+      "lang": "zh",
+      "title_zh": "阿里在海外上了个企业级龙虾，我用它30分钟手搓了一家网店",
+      "summary_zh": "量子位：阿里巴巴在海外推出面向中小企业的AI Agent平台，整合选品、营销、客服等多个Agent，可30分钟内搭建完整网店，直连供应商，支持Telegram/Discord实时更新，旨在帮助全球用户低门槛创业。",
+      "tags": [
+        "产品发布",
+        "AI Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391584.html",
+      "published_at": "2026-03-23T22:00:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
       "importance": 3,
       "merged_sources": []
     },
@@ -384,6 +500,24 @@
       "published_at": "2026-03-23T17:44:22Z",
       "collected_at": "2026-03-24T00:00:00Z",
       "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b4e74e04",
+      "lang": "en",
+      "title_en": "Confronting the CEO of the AI company that impersonated me",
+      "title_zh": "与仿冒我的AI公司CEO正面交锋",
+      "summary_en": "The Verge: The Verge podcast confronts Superhuman/Grammarly CEO Shishir Mehrotra over AI tools that impersonated the host's voice and writing style without consent. The episode raises sharp questions about AI identity fraud, consent, and the accountability of AI companies using user data to build personal digital replicas.",
+      "summary_zh": "The Verge：The Verge播客主持人与Superhuman/Grammarly CEO Shishir Mehrotra正面对话，追问其AI工具在未经授权的情况下模仿主持人声音和写作风格一事。本期节目深入探讨了AI身份欺诈、用户同意权及AI公司利用用户数据构建数字分身的责任问题。",
+      "tags": [
+        "AI伦理",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "published_at": "2026-03-23T17:30:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
