@@ -1,6 +1,6 @@
 {
   "date": "2026-03-24",
-  "generated_at": "2026-03-24T03:00:00Z",
+  "generated_at": "2026-03-24T03:08:59.590728Z",
   "items": [
     {
       "id": "9355a186",
@@ -18,6 +18,24 @@
       "published_at": "2026-03-24T01:53:00Z",
       "collected_at": "2026-03-24T03:00:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "4f759cf2",
+      "lang": "en",
+      "title_en": "I Created My First AI-Assisted Pull Request and I Feel Like a Fraud",
+      "title_zh": "我用 AI 辅助完成了第一个 Pull Request，却感觉像个骗子",
+      "summary_en": "Hacker News: A developer reflects on using AI coding tools to submit their first AI-assisted pull request, exploring feelings of imposter syndrome and questions about authenticity in AI-augmented software development. The personal essay resonates with many developers navigating the shift toward AI-assisted workflows.",
+      "summary_zh": "Hacker News：一位开发者分享了使用 AI 编程工具提交第一个 AI 辅助 Pull Request 的心路历程，探讨了在 AI 增强软件开发中关于冒名顶替综合症和真实性的思考，引发了大量开发者对 AI 辅助工作流的共鸣。",
+      "tags": [
+        "工具与平台",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
+      "published_at": "2026-03-24T01:42:38Z",
+      "collected_at": "2026-03-24T03:08:59.590728Z",
+      "importance": 2,
       "merged_sources": []
     },
     {
