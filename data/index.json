@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-24",
-  "updated_at": "2026-03-24T00:00:00Z",
+  "updated_at": "2026-03-24T03:00:00Z",
   "dates": [
     "2026-03-24",
     "2026-03-23",
@@ -24,6 +24,74 @@
     "2026-03-05"
   ],
   "items": [
+    {
+      "id": "9355a186",
+      "lang": "en",
+      "title_en": "Epoch confirms GPT-5.4 Pro solved a Frontier Math Open Problem for the first time",
+      "title_zh": "Epoch AI确认：GPT-5.4 Pro首次解决FrontierMath开放数学难题",
+      "summary_en": "Epoch AI: Epoch confirmed that OpenAI's GPT-5.4 Pro successfully solved an open problem from the FrontierMath benchmark, marking the first time any AI model has cracked a problem in this rigorous mathematical challenge set designed to push beyond current AI capabilities.",
+      "summary_zh": "Epoch AI：研究机构Epoch确认，OpenAI的GPT-5.4 Pro成功解决了FrontierMath基准测试中的一道开放数学难题，标志着AI模型首次攻克该为突破当前AI能力极限而设计的严苛数学挑战赛中的开放性问题。",
+      "tags": [
+        "模型能力",
+        "评测基准"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "published_at": "2026-03-24T01:53:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "28f46213",
+      "lang": "zh",
+      "title_zh": "Claude Code新增Computer Use能力！GUI操控电脑和真人无差别",
+      "summary_zh": "量子位：Anthropic为Claude Code升级了Computer Use能力，使其可通过实时截图看到屏幕内容，并像真人一样模拟鼠标键盘操作。无需API接口或CLI改造，任何传统软件（包括Photoshop、视频剪辑等）都纳入Agent操控范围，被视为对开源竞品的精准反击，公司估值随之暴涨300%。",
+      "tags": [
+        "产品发布",
+        "AI编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391567.html",
+      "published_at": "2026-03-24T00:00:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "b4c1ffd8",
+      "lang": "zh",
+      "title_zh": "OpenClaw 2026.3.22-beta.1发布：插件安全大升级",
+      "summary_zh": "量子位：OpenClaw发布新版本2026.3.22-beta.1，带来史上最大插件安全升级：统一ClawHub插件分发、引入运行时注入机制、新增原生SSH沙盒支持，并全面优化安卓移动端与社交媒体集成。官方提醒已接入微信集成的用户需谨慎升级以避免兼容性问题。",
+      "tags": [
+        "产品发布",
+        "AI工具"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391520.html",
+      "published_at": "2026-03-24T00:00:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "cea750e1",
+      "lang": "en",
+      "title_en": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
+      "title_zh": "贝莱德CEO芬克：AI繁荣可能加剧贫富分化",
+      "summary_en": "The Guardian: BlackRock CEO Larry Fink warned in his annual letter that the AI boom risks significantly widening wealth inequality. He called on companies and policymakers to ensure AI productivity gains are broadly shared, or risk severe social and political backlash.",
+      "summary_zh": "The Guardian：贝莱德CEO拉里·芬克在年度致股东信中警告，AI繁荣可能大幅加剧贫富不均，呼吁企业和政策制定者确保AI生产力红利广泛普惠，否则将面临严重的社会和政治反弹。",
+      "tags": [
+        "产业动态",
+        "政策法规"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
+      "published_at": "2026-03-23T23:32:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "7befec30",
       "lang": "en",
@@ -174,6 +242,24 @@
       "merged_sources": []
     },
     {
+      "id": "db49c0f4",
+      "lang": "en",
+      "title_en": "Elizabeth Warren calls Pentagon's decision to bar Anthropic from defense contracts 'retaliation'",
+      "title_zh": "沃伦批评五角大楼将Anthropic逐出国防合同为政治报复",
+      "summary_en": "TechCrunch: Senator Elizabeth Warren publicly criticized the Pentagon's decision to exclude Anthropic from defense supply chain contracts, calling it political retaliation. The move raised concerns about the government using procurement power to punish AI companies critical of administration policies.",
+      "summary_zh": "TechCrunch：参议员伊丽莎白·沃伦公开批评五角大楼将Anthropic排除在国防供应链合同之外的决定，称其为政治报复行为。此举引发外界对政府利用采购权力打压批评行政当局政策的AI公司的担忧。",
+      "tags": [
+        "政策法规",
+        "产业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "published_at": "2026-03-23T20:08:45Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
       "id": "b9f640a2",
       "lang": "en",
       "title_en": "Nvidia CEO Jensen Huang says 'I think we've achieved AGI'",
@@ -190,6 +276,42 @@
       "published_at": "2026-03-23T19:42:33Z",
       "collected_at": "2026-03-24T00:00:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "72d373b8",
+      "lang": "en",
+      "title_en": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "title_zh": "Sam Altman支持的核聚变初创Helion洽谈向OpenAI供电",
+      "summary_en": "TechCrunch: Helion Energy, a fusion power startup backed by Sam Altman, is reportedly in talks to supply electricity to OpenAI's data centers. The deal highlights OpenAI's aggressive push to secure long-term energy sources to power its growing AI infrastructure demands.",
+      "summary_zh": "TechCrunch：据报道，由Sam Altman投资的核聚变能源初创公司Helion Energy正与OpenAI洽谈向其数据中心供电的协议，彰显了OpenAI为满足AI基础设施日益增长的能源需求而积极寻求长期电力来源的战略布局。",
+      "tags": [
+        "产业动态",
+        "基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+      "published_at": "2026-03-23T19:30:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "33635af9",
+      "lang": "en",
+      "title_en": "Autoresearch on an old research idea",
+      "title_zh": "用AI自动化研究旧课题：从文献检索到实验验证的全流程探索",
+      "summary_en": "Hacker News: A researcher shared their experience using AI-powered autoresearch tools to revisit and extend an old research idea. The post details how LLM-based pipelines handled literature search, hypothesis generation, and preliminary experimental validation with minimal human input.",
+      "summary_zh": "Hacker News：一名研究者分享了使用AI自动化研究工具从零重拾旧课题的经历，详述了基于LLM的流水线如何在极少人工干预下完成文献检索、假设生成和初步实验验证等全流程工作。",
+      "tags": [
+        "AI应用",
+        "研究工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ykumar.me/blog/eclip-autoresearch/",
+      "published_at": "2026-03-23T18:40:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
