@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-24",
-  "updated_at": "2026-03-24T09:00:00Z",
+  "updated_at": "2026-03-24T15:00:00Z",
   "dates": [
     "2026-03-24",
     "2026-03-23",
@@ -24,6 +24,63 @@
     "2026-03-05"
   ],
   "items": [
+    {
+      "id": "66c9a554",
+      "lang": "en",
+      "title_en": "Anthropic's Claude Code and Cowork can control your computer",
+      "title_zh": "Anthropic Claude Code 与 Cowork 现可控制电脑",
+      "summary_en": "Anthropic: Anthropic has announced that Claude Code and its new Cowork feature can now control computers directly, enabling GUI-level automation tasks. The capability allows Claude to interact with desktop applications and perform complex multi-step workflows on behalf of users.",
+      "summary_zh": "Anthropic：Anthropic 宣布 Claude Code 及新功能 Cowork 现可直接控制电脑，实现 GUI 级别的自动化操作，让 Claude 能够与桌面应用程序交互并代替用户执行复杂的多步骤工作流。",
+      "tags": [
+        "产品发布",
+        "AI Agent",
+        "编程工具"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+      "published_at": "2026-03-24T13:32:23Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "d0007d81",
+      "lang": "en",
+      "title_en": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "title_zh": "Mirage 融资 7500 万美元，继续开发 AI 视频编辑应用 Captions",
+      "summary_en": "TechCrunch: Mirage has raised $75 million to further develop AI models powering its video editing application Captions. The funding will be used to advance its AI-driven video production capabilities and expand the app's features for creators.",
+      "summary_zh": "TechCrunch：Mirage 完成 7500 万美元融资，将用于进一步开发其视频编辑应用 Captions 背后的 AI 模型，推进 AI 驱动的视频制作能力，并为创作者拓展更多功能。",
+      "tags": [
+        "融资",
+        "多模态",
+        "产品发布"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+      "published_at": "2026-03-24T13:05:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "dc202831",
+      "lang": "en",
+      "title_en": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "title_zh": "Agile Robots 成为最新与 Google DeepMind 合作的机器人公司",
+      "summary_en": "TechCrunch: Agile Robots has announced a partnership with Google DeepMind, joining a growing list of robotics companies collaborating with the AI research lab. The partnership aims to integrate DeepMind's AI capabilities into Agile Robots' humanoid and legged robot platforms.",
+      "summary_zh": "TechCrunch：Agile Robots 宣布与 Google DeepMind 建立合作关系，加入越来越多与该 AI 研究实验室合作的机器人公司行列，旨在将 DeepMind 的 AI 能力整合到其人形及腿足机器人平台。",
+      "tags": [
+        "机器人",
+        "合作",
+        "Google DeepMind"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "published_at": "2026-03-24T12:05:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "22db4cab",
       "lang": "en",
@@ -208,6 +265,60 @@
       "source_url": "https://www.qbitai.com/2026/03/391520.html",
       "published_at": "2026-03-24T00:00:00Z",
       "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1cddf2bd",
+      "lang": "en",
+      "title_en": "LiteLLM Python package compromised by supply-chain attack",
+      "title_zh": "LiteLLM Python 包遭受供应链攻击",
+      "summary_en": "Hacker News: The popular LiteLLM Python package was compromised through a supply-chain attack. LiteLLM is widely used for routing AI model API calls across providers. Users are advised to audit their dependencies and update to a safe version immediately.",
+      "summary_zh": "Hacker News：广泛用于 AI 模型 API 路由的 Python 包 LiteLLM 遭受供应链攻击，代码被篡改。用户被建议立即审查依赖并升级到安全版本。",
+      "tags": [
+        "安全",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/BerriAI/litellm/issues/24512",
+      "published_at": "2026-03-24T00:00:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "ba73106b",
+      "lang": "en",
+      "title_en": "So where are all the AI apps?",
+      "title_zh": "AI 应用都在哪里？",
+      "summary_en": "Hacker News: Answer.AI poses the question of why truly transformative AI-native consumer applications remain scarce despite the rapid advancement of foundation models. The essay explores the gap between model capabilities and real-world application development, and what might be needed to bridge it.",
+      "summary_zh": "Hacker News：Answer.AI 探讨了尽管基础模型快速发展，但真正变革性的 AI 原生消费应用为何依然稀缺，分析了模型能力与实际应用开发之间的差距。",
+      "tags": [
+        "行业观察",
+        "AI Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+      "published_at": "2026-03-24T00:00:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "40f44cee",
+      "lang": "en",
+      "title_en": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
+      "title_zh": "LLM 神经解剖学 II：现代 LLM 破解与通用语言的线索",
+      "summary_en": "Hacker News: This research post explores interpretability in large language models through the lens of 'neuroanatomy', examining how modern LLMs process information internally and presenting evidence suggesting the possible existence of universal representational structures across different models.",
+      "summary_zh": "Hacker News：本研究从「神经解剖学」视角探索大型语言模型的可解释性，分析 LLM 内部信息处理机制，并提出不同模型间可能存在通用表征结构的证据。",
+      "tags": [
+        "可解释性",
+        "研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://dnhkng.github.io/posts/rys-ii/",
+      "published_at": "2026-03-24T00:00:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
