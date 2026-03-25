@@ -1,6 +1,6 @@
 {
   "date": "2026-03-25",
-  "generated_at": "2026-03-25T03:00:00Z",
+  "generated_at": "2026-03-25T09:00:00Z",
   "items": [
     {
       "id": "0c9c67ce",
@@ -18,6 +18,71 @@
       "published_at": "2026-03-25T00:47:20Z",
       "collected_at": "2026-03-25T03:00:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "42714d8c",
+      "lang": "zh",
+      "title_zh": "它石智航联合六大机构发布OmniVTA视触觉世界模型",
+      "summary_zh": "它石智航：它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村学院及北京航空航天大学，发布OmniVTA视触觉操作框架和OmniViTac大规模视触觉数据集。该系统让机器人从被动感知升级为对触觉进行主动预测和闭环精准控制，支持复杂灵巧操作任务。相关论文已在arXiv发布。",
+      "tags": [
+        "研究论文",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392105.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7bb8054a",
+      "lang": "zh",
+      "title_zh": "DeepSeek急招Agent方向，重度Vibe Coding优先",
+      "summary_zh": "DeepSeek：DeepSeek一口气发布17个招聘岗位，核心聚焦Agent方向，覆盖算法研究、数据评测及基础设施全链条。多个岗位明确要求或优先考虑重度使用Claude Code、Cursor、Copilot等AI编程工具的候选人，全栈开发岗还要求作为Vibe Coding重度用户持续探索模型能力。",
+      "tags": [
+        "Agent",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392024.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "5a0e5ffa",
+      "lang": "zh",
+      "title_zh": "WorkBuddy：微信里的AI专家团队工作流",
+      "summary_zh": "WorkBuddy：WorkBuddy是一款可在微信中使用的AI工作流产品，支持多个AI专家角色协同作业，覆盖运营策略、选题、内容生产等环节。用户可通过配置AI角色分工，在微信内完成自媒体内容全流程，并支持定时推送AI热点摘要等自动化功能。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391894.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "0f161b31",
+      "lang": "zh",
+      "title_zh": "昆仑万维Mureka V8登顶全球AI音乐模型榜",
+      "summary_zh": "昆仑万维：昆仑万维旗下AI音乐模型Mureka V8在Artificial Analysis音乐模型榜单中登顶，超越Suno V4.5、Udio v1.5 Allegro等国际主流模型，实现人声（vocal）与器乐（instrument）双项第一。测试显示其在低复杂度提示词下也具备较强的理解和生成能力。",
+      "tags": [
+        "产品发布",
+        "多模态",
+        "评测基准"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391839.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
