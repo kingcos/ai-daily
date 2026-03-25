@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-03-24",
-  "updated_at": "2026-03-24T15:00:00Z",
+  "latest_date": "2026-03-25",
+  "updated_at": "2026-03-25T01:12:00Z",
   "dates": [
+    "2026-03-25",
     "2026-03-24",
     "2026-03-23",
     "2026-03-22",
@@ -24,6 +25,95 @@
     "2026-03-05"
   ],
   "items": [
+    {
+      "id": "f55cdd45",
+      "lang": "en",
+      "title_en": "Update on the OpenAI Foundation",
+      "title_zh": "OpenAI基金会最新动态",
+      "summary_en": "OpenAI: The OpenAI Foundation announces plans to invest at least $1 billion across four mission areas including curing diseases, jobs and economic impact, AI resilience, and supporting communities, marking a major philanthropic expansion following recapitalization.",
+      "summary_zh": "OpenAI：OpenAI基金会宣布计划在四个使命领域投资至少10亿美元，包括治愈疾病、就业与经济影响、AI韧性以及社区支持，标志着公司重组后的重大慈善扩张。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/update-on-the-openai-foundation/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9ad30de2",
+      "lang": "en",
+      "title_en": "Powering Product Discovery in ChatGPT",
+      "title_zh": "ChatGPT推出沉浸式购物产品发现功能",
+      "summary_en": "OpenAI: ChatGPT launches richer, visually immersive shopping experiences powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and deeper merchant integration within the chat interface.",
+      "summary_zh": "OpenAI：ChatGPT推出基于Agentic Commerce Protocol的沉浸式购物体验，支持产品发现、对比购物及商家深度集成，进一步强化AI购物助手能力。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features"
+      ]
+    },
+    {
+      "id": "56974e3d",
+      "lang": "en",
+      "title_en": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "title_zh": "OpenAI宣布关停Sora并终止与迪士尼的合作",
+      "summary_en": "The Verge: OpenAI is winding down its Sora AI video generation model and app, and ending a recently-announced partnership with Disney, marking a significant strategic retreat from the AI video generation market just 25 months after Sora's debut.",
+      "summary_zh": "The Verge：OpenAI宣布关停Sora AI视频生成模型及应用，并终止与迪士尼的合作协议，距Sora发布仅25个月，是OpenAI在AI视频赛道的重大战略退出。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "published_at": "2026-03-24T10:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 5,
+      "merged_sources": [
+        "https://www.qbitai.com/2026/03/391799.html"
+      ]
+    },
+    {
+      "id": "eabcc45a",
+      "lang": "en",
+      "title_en": "Arm's first CPU ever will plug into Meta's AI data centers later this year",
+      "title_zh": "Arm首款自研CPU将于年内接入Meta的AI数据中心",
+      "summary_en": "The Verge: Arm is launching its first in-house designed CPU called the AGI CPU, which will be deployed by Meta in its AI data centers later this year, signaling Arm's strategic move from licensing architecture to building its own silicon.",
+      "summary_zh": "The Verge：Arm发布首款自研CPU（命名为AGI CPU），将于年内部署在Meta的AI数据中心，标志着Arm从授权架构向自研芯片的战略转型。",
+      "tags": [
+        "模型与技术"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "published_at": "2026-03-24T10:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "336ca8c8qb",
+      "lang": "zh",
+      "title_en": "OpenAI Shuts Down Sora: 25 Months from Launch to Exit",
+      "title_zh": "OpenAI关停Sora！25个月从封神到退场",
+      "summary_en": "QbitAI: OpenAI has officially announced the shutdown of Sora just 25 months after its debut. The Sora team posted a farewell message thanking users. Chinese alternatives like Seedance 2.0 and Kling 3.0 are positioned to fill the void as AI video enters what commentators call a China era.",
+      "summary_zh": "量子位：OpenAI正式宣布关停Sora，距其发布仅25个月。Sora团队发表告别声明感谢用户，网友纷纷质问。也有人淡定表示Seedance 2.0、Kling 3.0等中国模型可填补空缺，AI视频进入中国时间。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391799.html",
+      "published_at": "2026-03-25T00:13:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
     {
       "id": "877123e3",
       "lang": "zh",
