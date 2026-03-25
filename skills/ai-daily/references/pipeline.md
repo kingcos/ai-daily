@@ -52,12 +52,19 @@ Goal: Merge articles from different sources that cover the same specific event.
 **AI deduplication (for non-identical URLs):**
 - Compare article pairs using the deduplication prompt (see `prompts.md`)
 - Criteria: same core event AND published within 48 hours of each other
-- If duplicate detected:
-  - Keep the **Tier 1 source** as primary; if same tier, keep the **earliest** published
-  - Move the other URL to `merged_sources[]`
-  - Regenerate summary incorporating unique details from the merged source
+- If duplicate detected, apply **source priority order** to decide which to keep:
+  1. **Official company blog** (Anthropic, OpenAI, DeepMind, Cursor) — highest priority
+  2. **English tech media** (The Verge, TechCrunch, Hacker News)
+  3. **Chinese media** (量子位, 机器之心) — lowest priority
+  - Keep the highest-priority source as primary; demote the rest to `merged_sources[]`
+  - If same tier, keep the earliest published
+  - Regenerate summary incorporating unique details from all merged sources
 
 **Cross-language rule:** Never merge EN and ZH items even if they cover the same event.
+
+**Incremental run deduplication:** When running in incremental mode (existing JSON already has items), also check new candidates against existing items using the same priority logic. If a new item covers the same event as an existing item:
+- If new item has higher priority source → replace existing item, move old URL to `merged_sources[]`
+- If new item has same or lower priority → skip new item, add its URL to existing `merged_sources[]`
 
 ---
 
@@ -154,6 +161,47 @@ Assign `importance` as integer 1–5:
 
 ---
 
+## Step 9: URL Validation (incremental runs only)
+
+On every incremental run, validate URLs for items already in the daily JSON:
+
+1. For each item in the existing file, send a HEAD request to `source_url`
+2. If HTTP 4xx (404, 410, etc.) → mark the item with `"url_valid": false`
+3. If HTTP 2xx or 3xx redirect → mark `"url_valid": true` (or omit field, defaults to valid)
+4. Timeout per request: 5 seconds; if timeout → skip, leave as-is
+5. After validation, remove items where `url_valid` is false (dead links)
+6. Log how many URLs were checked and how many removed
+
+**Note:** Only validate items from the current day's file — do not re-validate historical files.
+
+---
+
+## Step 10: Pagination Support
+
+The index file supports pagination via `page` parameter. When rebuilding `index.json`:
+
+1. Sort all items from the current daily file by `published_at` descending
+2. Split into pages of **20 items** each
+3. Write `docs/data/index.json` with:
+   - `total_items`: total count across all pages
+   - `page`: 1 (first page)
+   - `page_size`: 20
+   - `total_pages`: ceil(total / 20)
+   - `items`: first 20 items only
+4. Write additional page files as `docs/data/index_page_N.json` for N ≥ 2
+5. Daily files (`YYYY-MM-DD.json`) always contain all items (no pagination)
+
+| Situation | Action |
+|-----------|--------|
+| Article URL unreachable | Summarize from title only; prefix `summary_en` with `[title-only]` |
+| `published_at` unverifiable | Set to `null`; do not discard the item |
+| Deduplication uncertain | Keep both items; do not merge |
+| Tag taxonomy miss | Use closest match; never leave `tags: []` |
+| Importance ambiguous | Default to `3` |
+| Source crawl fails | Log the failure; continue with remaining sources |
+
+---
+
 ## Error Handling
 
 | Situation | Action |
@@ -164,3 +212,4 @@ Assign `importance` as integer 1–5:
 | Tag taxonomy miss | Use closest match; never leave `tags: []` |
 | Importance ambiguous | Default to `3` |
 | Source crawl fails | Log the failure; continue with remaining sources |
+| URL validation 4xx | Remove item from daily file; log count |

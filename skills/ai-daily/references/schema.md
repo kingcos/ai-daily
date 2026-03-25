@@ -99,7 +99,11 @@ Used for items from 量子位 and 机器之心. Fields `title_en` and `summary_e
   "latest_date": "2026-03-05",
   "updated_at": "2026-03-06T12:00:00Z",
   "dates": ["2026-03-05", "2026-03-04", "2026-03-03"],
-  "items": [ /* same as latest daily file items */ ]
+  "total_items": 42,
+  "page": 1,
+  "page_size": 20,
+  "total_pages": 3,
+  "items": [ /* first 20 items from latest daily file, sorted by published_at desc */ ]
 }
 ```
 
@@ -108,7 +112,13 @@ Used for items from 量子位 and 机器之心. Fields `title_en` and `summary_e
 | `latest_date` | Date string of the most recently generated daily file |
 | `updated_at` | ISO8601 timestamp of last pipeline run |
 | `dates` | Array of all dates with existing daily files, descending |
-| `items` | Full items array from the latest daily file |
+| `total_items` | Total item count across all pages |
+| `page` | Current page number (1-based) |
+| `page_size` | Items per page (20) |
+| `total_pages` | Total number of pages |
+| `items` | Items for current page only |
+
+Additional pages: `docs/data/index_page_2.json`, `index_page_3.json`, etc. — same structure with `page` field incremented.
 
 **Empty template** (before first run):
 ```json
