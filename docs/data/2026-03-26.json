@@ -1,6 +1,6 @@
 {
   "date": "2026-03-26",
-  "generated_at": "2026-03-26T00:00:00Z",
+  "generated_at": "2026-03-26T03:00:00Z",
   "items": [
     {
       "id": "48227e4c",
@@ -279,6 +279,45 @@
       "published_at": "2026-03-25T16:10:00Z",
       "collected_at": "2026-03-26T00:00:00Z",
       "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c1df6772",
+      "lang": "en",
+      "title_en": "Cursor self-hosted cloud agents now generally available",
+      "title_zh": "Cursor自托管云端Agent正式发布：代码和工具执行留在企业内网",
+      "summary_en": "Cursor: Self-hosted cloud agents are now generally available, letting enterprises run Cursor's AI coding agents entirely within their own infrastructure—code, secrets, and build artifacts never leave the environment—while still benefiting from Cursor's orchestration and model access. Customers like Brex, Money Forward, and Notion have already adopted this feature.",
+      "summary_zh": "Cursor：自托管云端Agent正式发布，企业可在自有基础设施内运行Cursor AI编程代理，代码、密钥及构建产物全程不离开内网，同时享用Cursor的调度与模型能力，Brex、Money Forward等企业已采用。",
+      "tags": [
+        "产品发布",
+        "代码工具",
+        "Agent",
+        "企业软件"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/self-hosted-cloud-agents",
+      "published_at": "2026-03-25T12:00:00Z",
+      "collected_at": "2026-03-26T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e5781b5d",
+      "lang": "zh",
+      "title_zh": "它石智航用“吉尼斯纶录”交卷：1小时百次完成亚毫米柔性线束装配",
+      "title_en": "Yishi Intelligence delivers Guinness record: 100+ sub-millimeter flexible harness assemblies in one hour",
+      "summary_zh": "量子位：具身智能公司它石智航（天使轮2.42亿美元）发布A1机器人，1小时内完成亚毫米级柔性线束装配任务逆余次，创吉尼斯世界约录；创始人丁文超表示从无Plan B，坚持以技术工程和产业落地为核心。",
+      "summary_en": "Qbitai: Embodied AI startup Yishi Intelligence ($242M angel round) unveiled the A1 robot, completing over 100 sub-millimeter flexible wire harness assembly tasks in one hour to set a Guinness World Record, with founder Ding Wenchao emphasizing industrial deployment as the only strategy with no fallback plan.",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392137.html",
+      "published_at": "2026-03-26T02:00:00Z",
+      "collected_at": "2026-03-26T03:00:00Z",
+      "importance": 4,
       "merged_sources": []
     }
   ]
