@@ -1,0 +1,285 @@
+{
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T00:00:00Z",
+  "items": [
+    {
+      "id": "48227e4c",
+      "lang": "en",
+      "title_en": "Lyria 3 Pro: Create longer AI music tracks across more Google products",
+      "title_zh": "Lyria 3 Pro：创作更长AI音乐，登陆更多谷歌产品",
+      "summary_en": "Google DeepMind: Lyria 3 Pro enables AI music generation of tracks up to three minutes long with structural awareness, expanding beyond the previous 30-second limit, and is being integrated into Gemini, YouTube, and other Google surfaces.",
+      "summary_zh": "Google DeepMind：Lyria 3 Pro支持生成最长3分钟、具备结构感知能力的AI音乐，突破此前30秒上限，并将集成至Gemini、YouTube等谷歌产品。",
+      "tags": [
+        "模型发布",
+        "多模态"
+      ],
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "published_at": "2026-03-25T16:01:39Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "03758a62",
+      "lang": "en",
+      "title_en": "Anthropic's Claude Code gets a safer auto mode",
+      "title_zh": "Anthropic Claude Code新增更安全自动模式",
+      "summary_en": "Anthropic: Claude Code's new auto mode lets the AI make permissions-level decisions on behalf of users, offering a safer alternative to unrestricted agent access for automated coding tasks.",
+      "summary_zh": "Anthropic：Claude Code新增自动模式，允许AI代替用户做出权限层面的决策，为自动化编程任务提供更安全的代理替代方案。",
+      "tags": [
+        "产品更新",
+        "代码工具",
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+      "published_at": "2026-03-25T07:39:46Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "99987d70",
+      "lang": "en",
+      "title_en": "The AI skills gap is here: power users are pulling ahead",
+      "title_zh": "AI技能鸿沟已至：重度用户与普通用户差距加剧",
+      "summary_en": "Anthropic: New research finds AI has not replaced jobs yet, but early data reveals growing inequality as experienced AI users accumulate compounding productivity advantages, raising concerns about widening workforce disparities.",
+      "summary_zh": "Anthropic：最新研究发现AI尚未大规模取代工作，但初步数据显示重度AI用户正积累显著生产力优势，随着AI普及加速，劳动力市场技能鸿沟令人担忧。",
+      "tags": [
+        "AI影响",
+        "行业研究"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "published_at": "2026-03-25T21:44:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "c8de106d",
+      "lang": "en",
+      "title_en": "Google unveils TurboQuant, a new AI memory compression algorithm",
+      "title_zh": "谷歌发布TurboQuant：新一代AI内存压缩算法",
+      "summary_en": "Google Research: TurboQuant significantly reduces large AI model working memory requirements at inference time, promising lower cost and faster performance; the algorithm has drawn internet comparisons to Silicon Valley's Pied Piper.",
+      "summary_zh": "Google Research：TurboQuant算法大幅压缩大型AI模型推理时的工作内存占用，有望降低推理成本并提升速度，被网友戏称为《硅谷》剧中Pied Piper现实版。",
+      "tags": [
+        "技术突破",
+        "推理优化",
+        "基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+      "published_at": "2026-03-25T20:38:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "a9132e9f",
+      "lang": "en",
+      "title_en": "Meta is laying off hundreds of employees as it pours money into AI",
+      "title_zh": "Meta大规模裁员数百人，同时加码AI投入",
+      "summary_en": "Meta: Hundreds of employees are being laid off across departments including recruiting and social media, even as the company continues ramping up AI investment, highlighting the tension between AI spending and cost cutting at large tech firms.",
+      "summary_zh": "Meta：公司在招聘、社交媒体等多个部门裁减数百名员工，同时持续加大AI投入，凸显大型科技企业AI扩张与降本增效之间的内在矛盾。",
+      "tags": [
+        "行业动态",
+        "裁员"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+      "published_at": "2026-03-25T17:10:32Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "75939090",
+      "lang": "en",
+      "title_en": "Zuckerberg and Jensen Huang join Trump's new AI-focused tech advisory panel",
+      "title_zh": "扎克伯格与黄仁勋加入特朗普AI科技顾问委员会",
+      "summary_en": "White House: Meta CEO Mark Zuckerberg, Nvidia CEO Jensen Huang, Oracle's Larry Ellison, and Google co-founder Sergey Brin are among the first members of Trump's President's Council of Advisors on Science and Technology, with a strong AI focus.",
+      "summary_zh": "白宫：Meta CEO扎克伯格、英伟达CEO黄仁勋、甲骨文拉里·埃里森及谷歌联创谢尔盖·布林成为特朗普新设总统科技顾问委员会首批成员，该委员会着重聚焦AI产业。",
+      "tags": [
+        "政策监管",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
+      "published_at": "2026-03-25T10:41:21Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "ed549ebd",
+      "lang": "en",
+      "title_en": "Senate Democrats push bill to codify Anthropic red lines on autonomous weapons",
+      "title_zh": "美国参议院民主党人推动立法，将Anthropic AI红线写入法律",
+      "summary_en": "U.S. Congress: Sen. Adam Schiff is working on legislation to codify Anthropic's self-imposed red lines banning AI in autonomous weapons and mass surveillance decisions, amid growing Pentagon-Anthropic tensions over AI deployment in defense.",
+      "summary_zh": "美国国会：参议员亚当·希夫正推动立法，将Anthropic自设的AI红线——禁止AI参与自主武器及大规模监控——写入法律，背景是Anthropic与五角大楼在AI军事应用上的矛盾升级。",
+      "tags": [
+        "政策监管",
+        "AI安全",
+        "军事AI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+      "published_at": "2026-03-25T11:05:46Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "56d86022",
+      "lang": "en",
+      "title_en": "Harvey confirms $11B valuation as Sequoia triples down on AI legal tech",
+      "title_zh": "AI法律科技公司Harvey估值确认达110亿美元，红杉三度加注",
+      "summary_en": "Harvey: The AI-powered legal tech startup has confirmed an $11 billion valuation with continued backing from Sequoia, Andreessen Horowitz, and Kleiner Perkins, making it one of the highest-valued AI vertical SaaS companies in the legal sector.",
+      "summary_zh": "Harvey：这家AI法律科技初创公司确认估值达110亿美元，获得红杉、a16z、Kleiner Perkins等机构持续加码，成为法律垂直AI领域估值最高的公司之一。",
+      "tags": [
+        "投融资",
+        "AI应用",
+        "法律AI"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+      "published_at": "2026-03-25T15:27:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "bedf0dbb",
+      "lang": "en",
+      "title_en": "Granola raises $125M at $1.5B valuation, expanding to enterprise AI",
+      "title_zh": "AI会议助手Granola融资1.25亿美元，估值15亿挺进企业AI",
+      "summary_en": "Granola: The AI meeting assistant raised $125M at a $1.5B valuation, nearly 6x its previous $250M mark, as it expands from meeting notetaking into a broader enterprise AI platform supporting AI agents.",
+      "summary_zh": "Granola：AI会议助手完成1.25亿美元融资，估值升至15亿美元（较此前2.5亿美元暴涨近6倍），正从会议记录扩展为支持AI代理的企业级AI平台。",
+      "tags": [
+        "投融资",
+        "AI应用",
+        "企业软件"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "published_at": "2026-03-25T14:48:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "934a9484",
+      "lang": "en",
+      "title_en": "Sanders and AOC propose a ban on new data center construction over AI energy concerns",
+      "title_zh": "桑德斯与AOC提议暂停新数据中心建设，应对AI能耗危机",
+      "summary_en": "U.S. Congress: Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced legislation to halt new data center construction until Congress passes laws governing AI energy usage and regulation, citing power grid and environmental concerns.",
+      "summary_zh": "美国国会：参议员桑德斯和众议员AOC联合提出立法，要求在国会出台AI能源使用和监管法规前，暂停新数据中心建设，理由是电网承载能力和环境压力。",
+      "tags": [
+        "政策监管",
+        "基础设施",
+        "环境"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "published_at": "2026-03-25T17:15:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "ce61270d",
+      "lang": "en",
+      "title_en": "Ensu: Ente launches a local LLM app (Hacker News #1)",
+      "title_zh": "Ensu：Ente推出本地LLM应用（Hacker News热榜第一）",
+      "summary_en": "Ente: Ensu is a new local LLM application from the privacy-focused photo storage company, enabling users to run language models entirely on-device without cloud data transfer, topping Hacker News with a score of 322.",
+      "summary_zh": "Ente：隐私照片存储Ente团队推出本地LLM应用Ensu，支持完全在设备端运行大语言模型，无需上传云端，在Hacker News以322分登顶热榜。",
+      "tags": [
+        "开源工具",
+        "本地AI",
+        "隐私"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ente.com/blog/ensu/",
+      "published_at": "2026-03-25T12:49:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "afaa88eb",
+      "lang": "zh",
+      "title_zh": "黄仁勋暴论：AGI已经实现，Ilya错了，程序员将有10亿",
+      "title_en": "Jensen Huang: AGI has been achieved, Ilya is wrong, there will be 1 billion programmers",
+      "summary_zh": "量子位：英伟达CEO黄仁勋公开宣称AGI已经实现，认为Ilya Sutskever对AGI的定义有误；并预测随着AI辅助编程普及，全球程序员数量将迈向10亿规模。",
+      "summary_en": "Qbitai: Nvidia CEO Jensen Huang claimed AGI has already been achieved and that Ilya Sutskever's definition is incorrect; he also predicted that AI-assisted programming will eventually enable one billion people to become programmers.",
+      "tags": [
+        "行业观点",
+        "AGI"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391750.html",
+      "published_at": "2026-03-25T06:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "336ca8c8",
+      "lang": "zh",
+      "title_zh": "OpenAI关停Sora！25个月从封神到退场",
+      "title_en": "OpenAI shuts down Sora: 25 months from hype to exit",
+      "summary_zh": "量子位：OpenAI正式关停视频生成模型Sora，距其发布仅25个月；同步曝光与迪士尼10亿美元合作谈判破裂，折射出AI视频赛道的激烈竞争与商业化困境。",
+      "summary_en": "Qbitai: OpenAI has officially shut down Sora video generation model just 25 months after launch, concurrent with reports that a billion-dollar Disney deal fell through, highlighting fierce competition and commercialization challenges in AI video.",
+      "tags": [
+        "产品动态",
+        "OpenAI",
+        "AI视频"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391799.html",
+      "published_at": "2026-03-25T08:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "fd089818",
+      "lang": "zh",
+      "title_zh": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
+      "title_en": "DeepSeek urgently hiring for Agent roles: 17 positions posted, Vibe Coding a priority",
+      "summary_zh": "量子位：DeepSeek一次性发布17个Agent方向招聘岗位，明确优先考虑有重度Vibe Coding经验的候选人，反映其在智能体研发上的大规模投入与战略紧迫性。",
+      "summary_en": "Qbitai: DeepSeek simultaneously posted 17 open Agent-focused positions, explicitly prioritizing candidates with heavy Vibe Coding experience, signaling a major accelerated push into agentic AI research and development.",
+      "tags": [
+        "行业动态",
+        "DeepSeek",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392024.html",
+      "published_at": "2026-03-25T07:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "81ecd67a",
+      "lang": "en",
+      "title_en": "Reddit introduces human verification requirements to fight AI-driven bots",
+      "title_zh": "Reddit推出人类验证机制，打击AI机器人账号泛滥",
+      "summary_en": "Reddit: CEO Steve Huffman announced new human verification requirements for accounts showing bot-like behavior, as the platform ramps up efforts to combat AI-driven spam, vote manipulation, and automated content generation.",
+      "summary_zh": "Reddit：CEO史蒂夫·霍夫曼宣布对可疑机器人行为账号实施人类验证要求，加大打击AI驱动的垃圾内容、刷量及自动帖子生成等行为。",
+      "tags": [
+        "平台安全",
+        "AI滥用"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
+      "published_at": "2026-03-25T16:10:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    }
+  ]
+}
