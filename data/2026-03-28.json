@@ -1,7 +1,43 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T09:10:00Z",
+  "generated_at": "2026-03-28T15:10:00Z",
   "items": [
+    {
+      "id": "719f4154",
+      "lang": "en",
+      "title_en": "TikTok's policy for AI ads isn't working",
+      "title_zh": "TikTok的AI广告标注政策形同虚设",
+      "summary_en": "The Verge: TikTok's policy requiring AI-generated ad content to be labeled is proving ineffective, with brands like Samsung failing to disclose AI usage in advertising. The investigation reveals widespread non-compliance and raises questions about platform enforcement of AI transparency standards.",
+      "summary_zh": "The Verge：TikTok要求AI生成广告内容加注标签的政策执行不力，三星等品牌在投放AI广告时未进行披露。这一现象暴露了平台在AI透明度监管上的漏洞，引发外界对AI广告治理有效性的广泛质疑。",
+      "tags": [
+        "AI治理",
+        "政策法规"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "published_at": "2026-03-28T14:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b0329c17",
+      "lang": "en",
+      "title_en": "Why OpenAI killed Sora",
+      "title_zh": "OpenAI为何放弃Sora",
+      "summary_en": "The Verge: OpenAI has quietly discontinued Sora, its AI video generation model, amid intensifying competition. The piece examines the strategic and technical reasons behind the decision, including resource allocation priorities and the rise of competing video generation tools from other labs.",
+      "summary_zh": "The Verge：OpenAI悄然终止其AI视频生成模型Sora，背后原因涉及资源分配、竞争压力及战略优先级调整。随着其他实验室推出更具竞争力的视频生成工具，AI视频赛道竞争日趋激烈，Sora最终未能突围。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "e8721992",
       "lang": "en",
@@ -58,6 +94,22 @@
       "merged_sources": []
     },
     {
+      "id": "43de7aa1",
+      "lang": "zh",
+      "title_zh": "中关村论坛\"AI2026：向人立心，向实立命\"特邀闭门会顺利举办",
+      "summary_zh": "量子位：中关村论坛特邀闭门会在北京顺利举办，汇聚AI领域顶尖学者与企业家，围绕2026年AI发展趋势、AI与人文价值融合、AI产业实体化落地等核心议题展开深度讨论。",
+      "tags": [
+        "行业动态",
+        "AI治理"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392981.html",
+      "published_at": "2026-03-28T05:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "42ac3437",
       "lang": "zh",
       "title_zh": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
@@ -72,6 +124,22 @@
       "published_at": "2026-03-28T04:00:00Z",
       "collected_at": "2026-03-28T09:10:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "54de3f55",
+      "lang": "zh",
+      "title_zh": "趋境ATaaS平台发布，打造日均万亿产能的\"Token工厂\"",
+      "summary_zh": "量子位：趋境科技正式发布ATaaS（AI Token即服务）平台，定位为全球领先的高效能AI Token生产服务平台，日均算力产能可达万亿Token级别。该平台旨在为企业提供稳定、低成本的大模型推理算力服务，助力AI应用规模化落地。",
+      "tags": [
+        "算力",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392988.html",
+      "published_at": "2026-03-28T04:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
