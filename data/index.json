@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-03-26",
-  "updated_at": "2026-03-26T03:00:00Z",
+  "latest_date": "2026-03-28",
+  "updated_at": "2026-03-28T00:20:00Z",
   "dates": [
+    "2026-03-28",
     "2026-03-26",
     "2026-03-25",
     "2026-03-24",
@@ -25,11 +26,170 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 12,
+  "total_items": 20,
   "page": 1,
   "page_size": 20,
   "total_pages": 1,
   "items": [
+    {
+      "id": "3bc01457",
+      "lang": "en",
+      "title_en": "The latest in data centers, AI, and energy",
+      "title_zh": "数据中心、AI与能源的最新动态",
+      "summary_en": "The Verge: Senators Warren and Hawley pressed the EIA for mandatory annual energy-use disclosures from data centers. The EIA launched a voluntary pilot in four U.S. regions. This follows major tech giants signing Trump's Ratepayer Protection Pledge to self-fund power for AI data centers.",
+      "summary_zh": "The Verge：两党参议员沃伦与霍利联名致信能源信息署，要求强制数据中心每年披露能源使用数据；EIA同步启动四地区自愿试点。此前谷歌、Meta等已签署特朗普的电费保护承诺，承诺自建AI数据中心供电设施。",
+      "tags": [
+        "data centers",
+        "energy",
+        "AI policy",
+        "US government"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "published_at": "2026-03-27T22:35:53Z",
+      "collected_at": "2026-03-28T00:20:00Z",
+      "importance": 7,
+      "merged_sources": []
+    },
+    {
+      "id": "09328889",
+      "lang": "en",
+      "title_en": "Judge sides with Anthropic to temporarily block the Pentagon's ban",
+      "title_zh": "法院支持Anthropic，暂时阻止五角大楼的禁令",
+      "summary_en": "The Verge: A federal judge granted Anthropic a temporary injunction blocking the Pentagon's supply-chain-based ban on its products. The ruling is a significant legal win for Anthropic against the Defense Department's exclusion order.",
+      "summary_zh": "The Verge：联邦法官裁定支持Anthropic申请，暂时阻止五角大楼以供应链安全为由对Anthropic产品实施的禁令，这是Anthropic对抗国防部排除令的重要法律胜利。",
+      "tags": [
+        "Anthropic",
+        "Pentagon",
+        "legal",
+        "AI policy"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "published_at": "2026-03-27T00:33:44Z",
+      "collected_at": "2026-03-28T00:20:00Z",
+      "importance": 8,
+      "merged_sources": []
+    },
+    {
+      "id": "461f4b13",
+      "lang": "en",
+      "title_en": "David Sacks is no longer the White House AI and Crypto Czar",
+      "title_zh": "戴维·萨克斯不再担任白宫AI与加密货币专员",
+      "summary_en": "The Verge: David Sacks has stepped down as the White House AI and Crypto Czar, ending his tenure overseeing the Trump administration's technology policy.",
+      "summary_zh": "The Verge：戴维·萨克斯辞去白宫AI与加密货币专员职务，结束其监管特朗普政府科技政策议程的任期。",
+      "tags": [
+        "AI policy",
+        "White House",
+        "David Sacks"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "published_at": "2026-03-26T23:40:22Z",
+      "collected_at": "2026-03-28T00:20:00Z",
+      "importance": 7,
+      "merged_sources": []
+    },
+    {
+      "id": "d62db672",
+      "lang": "en",
+      "title_en": "Google is making it easier to import another AI's memory into Gemini",
+      "title_zh": "谷歌让用户更轻松地将其他AI记忆导入Gemini",
+      "summary_en": "The Verge: Google is adding a feature for Gemini to import chat history and memory from competing AI assistants, reducing friction for users switching to Gemini.",
+      "summary_zh": "The Verge：谷歌为Gemini新增从其他AI助手导入聊天记录和记忆的功能，降低用户从竞品切换至Gemini的迁移成本。",
+      "tags": [
+        "Google",
+        "Gemini",
+        "memory",
+        "interoperability"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "published_at": "2026-03-26T21:44:37Z",
+      "collected_at": "2026-03-28T00:20:00Z",
+      "importance": 7,
+      "merged_sources": []
+    },
+    {
+      "id": "a6fb96d5",
+      "lang": "en",
+      "title_en": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "title_zh": "据报道苹果将允许其他AI聊天机器人接入Siri",
+      "summary_en": "The Verge: Apple reportedly plans to let third-party AI chatbots integrate with Siri in iOS 27, potentially including ChatGPT, Claude, and others, opening its voice assistant platform to external models.",
+      "summary_zh": "The Verge：据报道苹果计划在iOS 27中允许第三方AI聊天机器人接入Siri，潜在接入对象包括ChatGPT和Claude等，向外部模型开放语音助手平台。",
+      "tags": [
+        "Apple",
+        "Siri",
+        "iOS 27",
+        "AI assistant"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "published_at": "2026-03-26T21:31:27Z",
+      "collected_at": "2026-03-28T00:20:00Z",
+      "importance": 8,
+      "merged_sources": []
+    },
+    {
+      "id": "776451db",
+      "lang": "en",
+      "title_en": "Google's 'live' AI search assistant can handle conversations in dozens more languages",
+      "title_zh": "谷歌实时AI搜索助手新增支持数十种语言",
+      "summary_en": "The Verge: Google is expanding its AI-powered live search assistant to dozens of additional languages, broadening global access to real-time conversational search.",
+      "summary_zh": "The Verge：谷歌将AI实时搜索助手扩展至数十种新语言，在全球范围内进一步普及实时对话式搜索功能。",
+      "tags": [
+        "Google",
+        "search",
+        "AI assistant",
+        "multilingual"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "published_at": "2026-03-26T18:47:51Z",
+      "collected_at": "2026-03-28T00:20:00Z",
+      "importance": 6,
+      "merged_sources": []
+    },
+    {
+      "id": "946aac5a",
+      "lang": "en",
+      "title_en": "Meta gets ready to launch two new Ray-Ban AI glasses",
+      "title_zh": "Meta准备推出两款新款Ray-Ban AI眼镜",
+      "summary_en": "The Verge: Meta is preparing to launch two new AI-powered Ray-Ban smart glasses models, expanding its wearable AI lineup ahead of an anticipated full AR glasses release.",
+      "summary_zh": "The Verge：Meta准备发布两款新款AI功能Ray-Ban智能眼镜，在全功能AR眼镜正式推出前进一步扩充可穿戴AI产品线。",
+      "tags": [
+        "Meta",
+        "Ray-Ban",
+        "wearables",
+        "AR"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+      "published_at": "2026-03-26T16:30:00Z",
+      "collected_at": "2026-03-28T00:20:00Z",
+      "importance": 7,
+      "merged_sources": []
+    },
+    {
+      "id": "cdc1c375",
+      "lang": "en",
+      "title_en": "Approaching.AI Launches ATaaS: High-Efficiency AI Token Production Service Platform",
+      "title_zh": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
+      "summary_en": "量子位: Chinese AI infrastructure company Approaching.AI launched ATaaS (AI Token as a Service), addressing the gap between hardware investment and actual token output efficiency. The platform integrates four proprietary modules covering heterogeneous compute, intelligent scheduling, and elastic scaling for cost-effective token production.",
+      "summary_zh": "量子位：国内AI基础设施厂商趋境科技正式发布ATaaS高效能AI Token生产服务平台，针对硬件高投入难以转化为优质Token产能的行业痛点，依托四大自研技术模块实现异构算力整合、智能调度与弹性扩容，为国产算力规模化降本增效提供解决方案。",
+      "tags": [
+        "inference",
+        "AI infrastructure",
+        "China AI",
+        "token"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392896.html",
+      "published_at": "2026-03-27T19:14:16Z",
+      "collected_at": "2026-03-28T00:20:00Z",
+      "importance": 6,
+      "merged_sources": []
+    },
     {
       "id": "0c9c67ce",
       "lang": "en",
