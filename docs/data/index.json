@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-28",
-  "updated_at": "2026-03-28T00:20:00Z",
+  "updated_at": "2026-03-28T03:00:00Z",
   "dates": [
     "2026-03-28",
     "2026-03-26",
@@ -26,380 +26,243 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 20,
+  "total_items": 206,
   "page": 1,
   "page_size": 20,
-  "total_pages": 1,
+  "total_pages": 11,
   "items": [
     {
-      "id": "3bc01457",
-      "lang": "en",
-      "title_en": "The latest in data centers, AI, and energy",
-      "title_zh": "数据中心、AI与能源的最新动态",
-      "summary_en": "The Verge: Senators Warren and Hawley pressed the EIA for mandatory annual energy-use disclosures from data centers. The EIA launched a voluntary pilot in four U.S. regions. This follows major tech giants signing Trump's Ratepayer Protection Pledge to self-fund power for AI data centers.",
-      "summary_zh": "The Verge：两党参议员沃伦与霍利联名致信能源信息署，要求强制数据中心每年披露能源使用数据；EIA同步启动四地区自愿试点。此前谷歌、Meta等已签署特朗普的电费保护承诺，承诺自建AI数据中心供电设施。",
-      "tags": [
-        "data centers",
-        "energy",
-        "AI policy",
-        "US government"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "published_at": "2026-03-27T22:35:53Z",
-      "collected_at": "2026-03-28T00:20:00Z",
-      "importance": 7,
-      "merged_sources": []
-    },
-    {
-      "id": "09328889",
+      "id": "2029e402",
       "lang": "en",
       "title_en": "Judge sides with Anthropic to temporarily block the Pentagon's ban",
-      "title_zh": "法院支持Anthropic，暂时阻止五角大楼的禁令",
-      "summary_en": "The Verge: A federal judge granted Anthropic a temporary injunction blocking the Pentagon's supply-chain-based ban on its products. The ruling is a significant legal win for Anthropic against the Defense Department's exclusion order.",
-      "summary_zh": "The Verge：联邦法官裁定支持Anthropic申请，暂时阻止五角大楼以供应链安全为由对Anthropic产品实施的禁令，这是Anthropic对抗国防部排除令的重要法律胜利。",
+      "title_zh": "法院支持Anthropic，暂时阻止五角大楼禁令",
+      "summary_en": "The Verge: A federal judge granted Anthropic a temporary injunction blocking the Pentagon's supply-chain-based ban on its AI products. The ruling marks a significant early legal win for Anthropic against the Defense Department's exclusion order, with the case set to continue.",
+      "summary_zh": "The Verge：联邦法官裁定支持Anthropic申请，暂时阻止五角大楼以供应链安全为由对Anthropic产品实施的禁令，这是Anthropic对抗国防部排除令的重要法律胜利，案件将继续审理。",
       "tags": [
-        "Anthropic",
-        "Pentagon",
-        "legal",
-        "AI policy"
+        "AI政策",
+        "监管"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
       "published_at": "2026-03-27T00:33:44Z",
-      "collected_at": "2026-03-28T00:20:00Z",
-      "importance": 8,
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 5,
       "merged_sources": []
     },
     {
-      "id": "461f4b13",
-      "lang": "en",
-      "title_en": "David Sacks is no longer the White House AI and Crypto Czar",
-      "title_zh": "戴维·萨克斯不再担任白宫AI与加密货币专员",
-      "summary_en": "The Verge: David Sacks has stepped down as the White House AI and Crypto Czar, ending his tenure overseeing the Trump administration's technology policy.",
-      "summary_zh": "The Verge：戴维·萨克斯辞去白宫AI与加密货币专员职务，结束其监管特朗普政府科技政策议程的任期。",
-      "tags": [
-        "AI policy",
-        "White House",
-        "David Sacks"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
-      "published_at": "2026-03-26T23:40:22Z",
-      "collected_at": "2026-03-28T00:20:00Z",
-      "importance": 7,
-      "merged_sources": []
-    },
-    {
-      "id": "d62db672",
-      "lang": "en",
-      "title_en": "Google is making it easier to import another AI's memory into Gemini",
-      "title_zh": "谷歌让用户更轻松地将其他AI记忆导入Gemini",
-      "summary_en": "The Verge: Google is adding a feature for Gemini to import chat history and memory from competing AI assistants, reducing friction for users switching to Gemini.",
-      "summary_zh": "The Verge：谷歌为Gemini新增从其他AI助手导入聊天记录和记忆的功能，降低用户从竞品切换至Gemini的迁移成本。",
-      "tags": [
-        "Google",
-        "Gemini",
-        "memory",
-        "interoperability"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-      "published_at": "2026-03-26T21:44:37Z",
-      "collected_at": "2026-03-28T00:20:00Z",
-      "importance": 7,
-      "merged_sources": []
-    },
-    {
-      "id": "a6fb96d5",
+      "id": "11f58ace",
       "lang": "en",
       "title_en": "Apple will reportedly allow other AI chatbots to plug into Siri",
-      "title_zh": "据报道苹果将允许其他AI聊天机器人接入Siri",
-      "summary_en": "The Verge: Apple reportedly plans to let third-party AI chatbots integrate with Siri in iOS 27, potentially including ChatGPT, Claude, and others, opening its voice assistant platform to external models.",
-      "summary_zh": "The Verge：据报道苹果计划在iOS 27中允许第三方AI聊天机器人接入Siri，潜在接入对象包括ChatGPT和Claude等，向外部模型开放语音助手平台。",
+      "title_zh": "据报道苹果将允许第三方AI聊天机器人接入Siri",
+      "summary_en": "The Verge: Apple is reportedly planning to let third-party AI chatbots—including Google Gemini and Anthropic's Claude—integrate with Siri in iOS 27. The move would open Apple's voice assistant platform to external AI models, extending beyond the existing ChatGPT partnership.",
+      "summary_zh": "The Verge：据报道苹果计划在iOS 27中允许Gemini、Claude等第三方AI聊天机器人接入Siri，将语音助手平台开放给外部AI模型，超越现有ChatGPT独家合作范围。",
       "tags": [
-        "Apple",
-        "Siri",
-        "iOS 27",
-        "AI assistant"
+        "产品发布",
+        "AI助手"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
       "published_at": "2026-03-26T21:31:27Z",
-      "collected_at": "2026-03-28T00:20:00Z",
-      "importance": 8,
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "776451db",
+      "id": "a888f4a1",
       "lang": "en",
-      "title_en": "Google's 'live' AI search assistant can handle conversations in dozens more languages",
-      "title_zh": "谷歌实时AI搜索助手新增支持数十种语言",
-      "summary_en": "The Verge: Google is expanding its AI-powered live search assistant to dozens of additional languages, broadening global access to real-time conversational search.",
-      "summary_zh": "The Verge：谷歌将AI实时搜索助手扩展至数十种新语言，在全球范围内进一步普及实时对话式搜索功能。",
+      "title_en": "David Sacks is no longer the White House AI and Crypto Czar",
+      "title_zh": "戴维·萨克斯卸任白宫AI与加密货币专员",
+      "summary_en": "The Verge: David Sacks has stepped down as the White House AI and Crypto Czar, transitioning to a special tech advisory council to make recommendations to the Trump administration. His departure marks a shift in the executive office's AI policy leadership.",
+      "summary_zh": "The Verge：戴维·萨克斯辞去白宫AI与加密货币专员职务，转入特别科技顾问委员会向特朗普政府提供建议，其离任标志着白宫AI政策领导层的重要变动。",
       "tags": [
-        "Google",
-        "search",
-        "AI assistant",
-        "multilingual"
+        "AI政策",
+        "监管"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
-      "published_at": "2026-03-26T18:47:51Z",
-      "collected_at": "2026-03-28T00:20:00Z",
-      "importance": 6,
+      "source_url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "published_at": "2026-03-26T23:40:22Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "946aac5a",
+      "id": "73100b56",
+      "lang": "en",
+      "title_en": "Anthropic's 'Claude Mythos' leak reveals powerful new AI model raising cybersecurity concerns",
+      "title_zh": "Anthropic「Claude Mythos」泄露：新模型引发网络安全警报",
+      "summary_en": "Hacker News / CoinDesk: An internal leak revealed Anthropic is testing a new model codenamed \"Claude Mythos,\" described as highly capable in ways that spooked cybersecurity investors. Stocks in cybersecurity firms fell sharply on fears the model could automate offensive capabilities previously requiring expert knowledge.",
+      "summary_zh": "Hacker News / CoinDesk：内部泄露显示Anthropic正在测试代号「Claude Mythos」的新模型，其强大能力引发网络安全领域担忧，相关上市公司股价大幅下跌，市场担忧该模型可能使高级网络攻击能力大众化。",
+      "tags": [
+        "模型发布",
+        "AI安全"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare",
+      "published_at": "2026-03-28T02:04:00Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 5,
+      "merged_sources": [
+        "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html"
+      ]
+    },
+    {
+      "id": "a91303fa",
+      "lang": "en",
+      "title_en": "Google is making it easier to import another AI's memory into Gemini",
+      "title_zh": "谷歌新增功能：可将其他AI记忆导入Gemini",
+      "summary_en": "The Verge: Google is introducing a feature that lets users import chat history and memory from competing AI assistants directly into Gemini. The capability lowers switching costs for users moving from ChatGPT or other services, as Gemini can then use that context going forward.",
+      "summary_zh": "The Verge：谷歌为Gemini新增从ChatGPT等竞品AI助手导入聊天记录和记忆的功能，大幅降低用户迁移成本，Gemini可直接利用导入的上下文提供连续性服务。",
+      "tags": [
+        "产品发布",
+        "AI助手"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "published_at": "2026-03-26T21:44:37Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f3fcf5ae",
       "lang": "en",
       "title_en": "Meta gets ready to launch two new Ray-Ban AI glasses",
-      "title_zh": "Meta准备推出两款新款Ray-Ban AI眼镜",
-      "summary_en": "The Verge: Meta is preparing to launch two new AI-powered Ray-Ban smart glasses models, expanding its wearable AI lineup ahead of an anticipated full AR glasses release.",
-      "summary_zh": "The Verge：Meta准备发布两款新款AI功能Ray-Ban智能眼镜，在全功能AR眼镜正式推出前进一步扩充可穿戴AI产品线。",
+      "title_zh": "Meta准备推出两款新Ray-Ban AI眼镜",
+      "summary_en": "The Verge: Two new Meta Ray-Ban smart glasses models codenamed 'Scriber' and 'Blazer' have passed through the FCC, signaling an imminent launch. The new models are expected to expand on the AI assistant capabilities of the current Ray-Ban Meta lineup.",
+      "summary_zh": "The Verge：代号「Scriber」和「Blazer」的两款Meta Ray-Ban新款智能眼镜已通过FCC认证，预示即将发布。新机型预计将在现有Ray-Ban Meta基础上进一步强化AI助手功能。",
       "tags": [
-        "Meta",
-        "Ray-Ban",
-        "wearables",
-        "AR"
+        "硬件",
+        "产品发布"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
       "published_at": "2026-03-26T16:30:00Z",
-      "collected_at": "2026-03-28T00:20:00Z",
-      "importance": 7,
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "cdc1c375",
+      "id": "3dac47ca",
       "lang": "en",
-      "title_en": "Approaching.AI Launches ATaaS: High-Efficiency AI Token Production Service Platform",
-      "title_zh": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
-      "summary_en": "量子位: Chinese AI infrastructure company Approaching.AI launched ATaaS (AI Token as a Service), addressing the gap between hardware investment and actual token output efficiency. The platform integrates four proprietary modules covering heterogeneous compute, intelligent scheduling, and elastic scaling for cost-effective token production.",
-      "summary_zh": "量子位：国内AI基础设施厂商趋境科技正式发布ATaaS高效能AI Token生产服务平台，针对硬件高投入难以转化为优质Token产能的行业痛点，依托四大自研技术模块实现异构算力整合、智能调度与弹性扩容，为国产算力规模化降本增效提供解决方案。",
+      "title_en": "Google's 'live' AI search assistant can handle conversations in dozens more languages",
+      "title_zh": "谷歌实时AI搜索助手新增支持数十种语言",
+      "summary_en": "The Verge: Google is expanding its AI-powered live search assistant to dozens of additional languages globally, broadening real-time conversational search access. The update also brings Google Translate's real-time translation tool to iOS.",
+      "summary_zh": "The Verge：谷歌将AI实时搜索助手扩展至数十种新语言，在全球范围内普及实时对话式搜索，同时将Google翻译的实时翻译功能引入iOS平台。",
       "tags": [
-        "inference",
-        "AI infrastructure",
-        "China AI",
-        "token"
+        "产品发布",
+        "AI助手"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "published_at": "2026-03-26T18:47:51Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7e087842",
+      "lang": "en",
+      "title_en": "Wikipedia bans AI-generated articles",
+      "title_zh": "维基百科禁止AI生成文章",
+      "summary_en": "The Verge: Wikipedia has formally banned the use of AI for generating or rewriting articles, citing that LLM-produced content \"often violates several of Wikipedia's core content policies\" including accuracy, neutrality, and verifiability standards.",
+      "summary_zh": "The Verge：维基百科正式禁止使用AI生成或改写文章，理由是大语言模型产出的内容「往往违反维基百科多项核心内容政策」，包括准确性、中立性和可查证性标准。",
+      "tags": [
+        "AI政策",
+        "内容生成"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "published_at": "2026-03-26T15:02:52Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "310b0cfd",
+      "lang": "en",
+      "title_en": "Apple's AI Playlist Playground is bad at music",
+      "title_zh": "苹果AI Playlist Playground音乐生成效果差",
+      "summary_en": "The Verge: Apple's Playlist Playground beta, which creates Apple Music playlists from AI text prompts, fails to understand genre, era, or mood in any reliable way. The tool represents a weak first-gen AI music curation product from Apple.",
+      "summary_zh": "The Verge：苹果Playlist Playground测试版可通过AI文本提示生成Apple Music播放列表，但在理解流派、年代和情绪方面表现糟糕，被认为是苹果AI音乐策展的薄弱初代产品。",
+      "tags": [
+        "产品发布",
+        "内容生成"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+      "published_at": "2026-03-26T20:26:31Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f8fe21ba",
+      "lang": "en",
+      "title_en": "The latest in data centers, AI, and energy",
+      "title_zh": "数据中心、AI与能源领域最新动态",
+      "summary_en": "The Verge: Senators Warren and Hawley pressed the EIA to mandate annual energy-use disclosures from data centers, while the EIA launched a voluntary pilot in four U.S. regions. Major tech firms had previously signed Trump's Ratepayer Protection Pledge to self-fund AI data center power.",
+      "summary_zh": "The Verge：参议员沃伦与霍利联名致信能源信息署要求强制数据中心披露能耗数据，EIA同步启动四地区自愿试点；此前谷歌、Meta等已签署特朗普电费保护承诺，承诺自建AI数据中心供电设施。",
+      "tags": [
+        "AI政策",
+        "基础设施"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "published_at": "2026-03-27T18:35:53Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8443f89c",
+      "lang": "en",
+      "title_en": "Senators are pushing to find out how much electricity data centers actually use",
+      "title_zh": "美国参议员敦促披露数据中心实际用电量",
+      "summary_en": "The Verge: Senators Warren and Hawley sent a bipartisan letter demanding the Energy Information Administration require mandatory annual electricity-use disclosures from data centers, as AI-driven expansion raises grid and ratepayer concerns.",
+      "summary_zh": "The Verge：沃伦与霍利两党参议员联名致信能源信息署，要求强制数据中心每年披露用电量，原因是AI驱动的数据中心扩张对电网和电费带来持续压力。",
+      "tags": [
+        "AI政策",
+        "基础设施"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+      "published_at": "2026-03-26T14:25:32Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "5df16404",
+      "lang": "en",
+      "title_en": "AI bug reports went from junk to legit overnight, says Linux kernel maintainer",
+      "title_zh": "Linux内核维护者：AI提交的漏洞报告质量突飞猛进",
+      "summary_en": "Hacker News / The Register: Linux kernel maintainer Greg Kroah-Hartman noted that AI-generated bug reports have dramatically improved in quality, going from nearly useless to genuinely actionable. The shift signals growing maturity of AI-assisted security research in open source.",
+      "summary_zh": "Hacker News / The Register：Linux内核维护者Greg Kroah-Hartman指出，AI生成的漏洞报告质量急剧提升，从几乎无用变为真正可操作，标志着AI辅助安全研究在开源领域日趋成熟。",
+      "tags": [
+        "AI安全",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
+      "published_at": "2026-03-27T20:30:00Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "0cfeb43d",
+      "lang": "zh",
+      "title_zh": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
+      "summary_zh": "量子位：趋境科技发布ATaaS（AI Token as a Service）平台，主打高效能AI Token生产服务，致力于解决传统硬件高投入却难以实现高效Token产出的痛点，面向企业提供弹性AI算力服务。",
+      "tags": [
+        "基础设施",
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/392896.html",
-      "published_at": "2026-03-27T19:14:16Z",
-      "collected_at": "2026-03-28T00:20:00Z",
-      "importance": 6,
-      "merged_sources": []
-    },
-    {
-      "id": "0c9c67ce",
-      "lang": "en",
-      "title_en": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "title_zh": "Kleiner Perkins完成35亿美元募资，全力押注AI",
-      "summary_en": "TechCrunch: Kleiner Perkins has closed a $3.5 billion fundraise, allocating $1 billion for early-stage AI startups and $2.5 billion for late-stage growth businesses, signaling a major strategic pivot by one of Silicon Valley's most storied venture firms to double down on AI.",
-      "summary_zh": "TechCrunch：Kleiner Perkins完成35亿美元募资，其中10亿美元用于早期AI创业公司，25亿美元投向成长期企业，标志着这家老牌硅谷风投全面押注AI的战略转型。",
-      "tags": [
-        "行业动态",
-        "投融资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "published_at": "2026-03-25T00:47:20Z",
-      "collected_at": "2026-03-25T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "42714d8c",
-      "lang": "zh",
-      "title_zh": "它石智航联合六大机构发布OmniVTA视触觉世界模型",
-      "summary_zh": "它石智航：它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村学院及北京航空航天大学，发布OmniVTA视触觉操作框架和OmniViTac大规模视触觉数据集。该系统让机器人从被动感知升级为对触觉进行主动预测和闭环精准控制，支持复杂灵巧操作任务。相关论文已在arXiv发布。",
-      "tags": [
-        "研究论文",
-        "多模态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392105.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7bb8054a",
-      "lang": "zh",
-      "title_zh": "DeepSeek急招Agent方向，重度Vibe Coding优先",
-      "summary_zh": "DeepSeek：DeepSeek一口气发布17个招聘岗位，核心聚焦Agent方向，覆盖算法研究、数据评测及基础设施全链条。多个岗位明确要求或优先考虑重度使用Claude Code、Cursor、Copilot等AI编程工具的候选人，全栈开发岗还要求作为Vibe Coding重度用户持续探索模型能力。",
-      "tags": [
-        "Agent",
-        "编程"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392024.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
+      "published_at": "2026-03-28T02:00:00Z",
+      "collected_at": "2026-03-28T03:00:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "5a0e5ffa",
-      "lang": "zh",
-      "title_zh": "WorkBuddy：微信里的AI专家团队工作流",
-      "summary_zh": "WorkBuddy：WorkBuddy是一款可在微信中使用的AI工作流产品，支持多个AI专家角色协同作业，覆盖运营策略、选题、内容生产等环节。用户可通过配置AI角色分工，在微信内完成自媒体内容全流程，并支持定时推送AI热点摘要等自动化功能。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391894.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "0f161b31",
-      "lang": "zh",
-      "title_zh": "昆仑万维Mureka V8登顶全球AI音乐模型榜",
-      "summary_zh": "昆仑万维：昆仑万维旗下AI音乐模型Mureka V8在Artificial Analysis音乐模型榜单中登顶，超越Suno V4.5、Udio v1.5 Allegro等国际主流模型，实现人声（vocal）与器乐（instrument）双项第一。测试显示其在低复杂度提示词下也具备较强的理解和生成能力。",
-      "tags": [
-        "产品发布",
-        "多模态",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391839.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f55cdd45",
-      "lang": "en",
-      "title_en": "Update on the OpenAI Foundation",
-      "title_zh": "OpenAI基金会最新动态",
-      "summary_en": "OpenAI: The OpenAI Foundation announces plans to invest at least $1 billion across four mission areas including curing diseases, jobs and economic impact, AI resilience, and supporting communities, marking a major philanthropic expansion following recapitalization.",
-      "summary_zh": "OpenAI：OpenAI基金会宣布计划在四个使命领域投资至少10亿美元，包括治愈疾病、就业与经济影响、AI韧性以及社区支持，标志着公司重组后的重大慈善扩张。",
-      "tags": [
-        "行业动态"
-      ],
-      "source_name": "OpenAI",
-      "source_url": "https://openai.com/index/update-on-the-openai-foundation/",
-      "published_at": "2026-03-24T12:00:00Z",
-      "collected_at": "2026-03-25T01:12:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "9ad30de2",
-      "lang": "en",
-      "title_en": "Powering Product Discovery in ChatGPT",
-      "title_zh": "ChatGPT推出沉浸式购物产品发现功能",
-      "summary_en": "OpenAI: ChatGPT launches richer, visually immersive shopping experiences powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and deeper merchant integration within the chat interface.",
-      "summary_zh": "OpenAI：ChatGPT推出基于Agentic Commerce Protocol的沉浸式购物体验，支持产品发现、对比购物及商家深度集成，进一步强化AI购物助手能力。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "OpenAI",
-      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt/",
-      "published_at": "2026-03-24T12:00:00Z",
-      "collected_at": "2026-03-25T01:12:00Z",
-      "importance": 4,
-      "merged_sources": [
-        "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features"
-      ]
-    },
-    {
-      "id": "fe256ebf",
-      "lang": "en",
-      "title_en": "Helping developers build safer AI experiences for teens",
-      "title_zh": "OpenAI发布青少年AI安全策略，助力开发者构建更安全的产品",
-      "summary_en": "OpenAI: OpenAI released open-source prompt-based teen safety policies designed for use with gpt-oss-safeguard. The policies cover six risk areas including violent/sexual content, harmful body ideals, dangerous activities, roleplay, and age-restricted goods, helping developers build age-appropriate AI protections for young users without starting from scratch. Developed with input from Common Sense Media and everyone.ai.",
-      "summary_zh": "OpenAI：OpenAI发布基于提示词的青少年安全策略，可直接与gpt-oss-safeguard配合使用。策略涵盖暴力/色情内容、有害体型观念、危险活动、角色扮演、限龄商品六大风险领域，帮助开发者在开源生态中为未成年用户构建年龄适配的安全保护机制。策略由Common Sense Media等机构参与制定，并通过ROOST Model Community开源发布。",
-      "tags": [
-        "AI安全",
-        "开发者工具"
-      ],
-      "source_name": "OpenAI",
-      "source_url": "https://openai.com/index/helping-developers-build-safer-ai-experiences-for-teens/",
-      "published_at": "2026-03-24T12:00:00Z",
-      "collected_at": "2026-03-25T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "28c6dab0",
-      "lang": "en",
-      "title_en": "Anthropic hands Claude Code more control, but keeps it on a leash",
-      "title_zh": "Anthropic为Claude Code新增自动模式，扩大自主执行权限",
-      "summary_en": "TechCrunch: Anthropic has launched auto mode for Claude Code, enabling the AI agent to execute multi-step development tasks with fewer manual approvals. The update reflects a broader industry trend toward more autonomous agentic coding tools, while Anthropic maintains safety guardrails to limit unintended actions.",
-      "summary_zh": "TechCrunch：Anthropic为Claude Code推出自动模式，允许AI代理自主完成多步骤开发任务，减少人工审批环节。此举体现了AI编程工具走向更高自主性的行业趋势，但Anthropic仍保留安全限制。",
-      "tags": [
-        "产品发布",
-        "AI Agent"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-      "published_at": "2026-03-24T12:00:00Z",
-      "collected_at": "2026-03-25T03:00:00Z",
-      "importance": 4,
-      "merged_sources": [
-        "https://claude.com/blog/auto-mode",
-        "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
-      ]
-    },
-    {
-      "id": "dc202831",
-      "lang": "en",
-      "title_en": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
-      "title_zh": "Agile Robots与Google DeepMind合作，引入机器人基础模型",
-      "summary_en": "TechCrunch: Agile Robots has announced a partnership with Google DeepMind to integrate DeepMind's robotics foundation models into its robots. The collaboration also involves data collection to advance DeepMind's AI research, making Agile Robots the latest in a growing list of robotics firms teaming up with the AI lab.",
-      "summary_zh": "TechCrunch：Agile Robots宣布与Google DeepMind合作，将DeepMind机器人基础模型集成到其机器人产品中，同时为DeepMind AI研究提供数据支持，成为又一家与该AI实验室携手的机器人企业。",
-      "tags": [
-        "模型与技术",
-        "行业动态"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
-      "published_at": "2026-03-24T12:00:00Z",
-      "collected_at": "2026-03-25T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "56974e3d",
-      "lang": "en",
-      "title_en": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-      "title_zh": "OpenAI宣布关停Sora并终止与迪士尼的合作",
-      "summary_en": "The Verge: OpenAI is winding down its Sora AI video generation model and app, and ending a recently-announced partnership with Disney, marking a significant strategic retreat from the AI video generation market just 25 months after Sora's debut.",
-      "summary_zh": "The Verge：OpenAI宣布关停Sora AI视频生成模型及应用，并终止与迪士尼的合作协议，距Sora发布仅25个月，是OpenAI在AI视频赛道的重大战略退出。",
-      "tags": [
-        "行业动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-      "published_at": "2026-03-24T10:00:00Z",
-      "collected_at": "2026-03-25T01:12:00Z",
-      "importance": 5,
-      "merged_sources": [
-        "https://www.qbitai.com/2026/03/391799.html"
-      ]
-    },
-    {
-      "id": "eabcc45a",
-      "lang": "en",
-      "title_en": "Arm's first CPU ever will plug into Meta's AI data centers later this year",
-      "title_zh": "Arm首款自研CPU将于年内接入Meta的AI数据中心",
-      "summary_en": "The Verge: Arm is launching its first in-house designed CPU called the AGI CPU, which will be deployed by Meta in its AI data centers later this year, signaling Arm's strategic move from licensing architecture to building its own silicon.",
-      "summary_zh": "The Verge：Arm发布首款自研CPU（命名为AGI CPU），将于年内部署在Meta的AI数据中心，标志着Arm从授权架构向自研芯片的战略转型。",
-      "tags": [
-        "模型与技术"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-      "published_at": "2026-03-24T10:00:00Z",
-      "collected_at": "2026-03-25T01:12:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]
