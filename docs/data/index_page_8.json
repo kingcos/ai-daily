@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T00:10:00Z",
+  "updated_at": "2026-03-29T03:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,59 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 223,
+  "total_items": 226,
   "page": 8,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "4b85be95",
+      "lang": "zh",
+      "title_zh": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR26",
+      "summary_zh": "浙大：浙江大学团队提出多模态大模型置信度校准新方法，针对模型在图像质量差时仍输出高置信度的问题，通过先校准置信度再动态分配算力的方式提升推理可靠性，相关成果被CVPR 2026接收。",
+      "tags": [
+        "研究论文",
+        "多模态",
+        "评测基准"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391014.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4ad0c854",
+      "lang": "zh",
+      "title_zh": "阶跃星辰率先适配微信生态，StepClaw即插即养即用",
+      "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391010.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4c7138cb",
+      "lang": "zh",
+      "title_zh": "大厂抢郭达雅进行时！DeepSeek核心成员还是个综艺巨佬",
+      "summary_zh": "DeepSeek：DeepSeek核心研究成员郭达雅因综艺节目走红，被多家大厂争相邀请，引发AI圈对顶尖研究人才流动的广泛关注。文章披露其在DeepSeek团队中的技术背景及角色。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390990.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "538b8163",
       "lang": "zh",
@@ -312,52 +360,6 @@
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/897180/perplexity-has-released-its-comet-browser-for-ios",
       "published_at": "2026-03-19T10:00:00Z",
       "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "cea48474",
-      "lang": "zh",
-      "title_zh": "刚刚，全球视频模型新王诞生了！",
-      "summary_zh": "量子位：新视频生成模型强势登顶全球榜首，距其 Preview 版本拿下全球第二仅一个月。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389146.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "ec726cf1",
-      "lang": "zh",
-      "title_zh": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
-      "summary_zh": "小米：正式认领此前登顶排行榜的神秘模型 Hunter Alpha，参数达万亿级，支持百万 token 上下文。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389038.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "8ea7a7ce",
-      "lang": "zh",
-      "title_zh": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
-      "summary_zh": "飞书：发布多款企业级 Agent，覆盖个人智能助手与业务系统场景，并持续升级官方 MCP 插件。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389311.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
       "importance": 3,
       "merged_sources": []
     }

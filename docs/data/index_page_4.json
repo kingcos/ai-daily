@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T00:10:00Z",
+  "updated_at": "2026-03-29T03:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,61 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 223,
+  "total_items": 226,
   "page": 4,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "0c9c67ce",
+      "lang": "en",
+      "title_en": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "title_zh": "Kleiner Perkins完成35亿美元募资，全力押注AI",
+      "summary_en": "TechCrunch: Kleiner Perkins has closed a $3.5 billion fundraise, allocating $1 billion for early-stage AI startups and $2.5 billion for late-stage growth businesses, signaling a major strategic pivot by one of Silicon Valley's most storied venture firms to double down on AI.",
+      "summary_zh": "TechCrunch：Kleiner Perkins完成35亿美元募资，其中10亿美元用于早期AI创业公司，25亿美元投向成长期企业，标志着这家老牌硅谷风投全面押注AI的战略转型。",
+      "tags": [
+        "行业动态",
+        "投融资"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "published_at": "2026-03-25T00:47:20Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "42714d8c",
+      "lang": "zh",
+      "title_zh": "它石智航联合六大机构发布OmniVTA视触觉世界模型",
+      "summary_zh": "它石智航：它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村学院及北京航空航天大学，发布OmniVTA视触觉操作框架和OmniViTac大规模视触觉数据集。该系统让机器人从被动感知升级为对触觉进行主动预测和闭环精准控制，支持复杂灵巧操作任务。相关论文已在arXiv发布。",
+      "tags": [
+        "研究论文",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392105.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7bb8054a",
+      "lang": "zh",
+      "title_zh": "DeepSeek急招Agent方向，重度Vibe Coding优先",
+      "summary_zh": "DeepSeek：DeepSeek一口气发布17个招聘岗位，核心聚焦Agent方向，覆盖算法研究、数据评测及基础设施全链条。多个岗位明确要求或优先考虑重度使用Claude Code、Cursor、Copilot等AI编程工具的候选人，全栈开发岗还要求作为Vibe Coding重度用户持续探索模型能力。",
+      "tags": [
+        "Agent",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392024.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "5a0e5ffa",
       "lang": "zh",
@@ -334,56 +384,6 @@
       "source_name": "Hacker News",
       "source_url": "https://github.com/michaelneale/mesh-llm",
       "published_at": "2026-03-24T05:43:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "6354345b",
-      "lang": "en",
-      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-      "title_zh": "ProofShot：让AI编程Agent能看见并验证自己构建的UI",
-      "summary_en": "Hacker News: ProofShot is a new tool that provides AI coding agents with visual verification capabilities, allowing them to take screenshots and validate that the UI they generate matches intended designs. The Show HN post highlights growing demand for closed-loop feedback in AI-assisted software development.",
-      "summary_zh": "Hacker News：ProofShot是一款为AI编程Agent提供视觉验证能力的新工具，使其能截图并确认自动生成的UI是否符合预期设计，体现了AI辅助软件开发中对闭环反馈机制的迫切需求。",
-      "tags": [
-        "AI编程",
-        "工具与平台"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://proofshot.argil.io/",
-      "published_at": "2026-03-24T04:23:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "77da0ae0",
-      "lang": "zh",
-      "title_zh": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
-      "summary_zh": "量子位：英伟达CEO黄仁勋抛出重磅论断，称AGI已经实现，并直言Ilya Sutskever关于预训练触顶的判断是错的，认为合成数据将进一步推动数据规模扩张。他预测全球将出现10亿级AI程序员，并强调推理计算比预训练更难、更重要，引发业界广泛讨论。",
-      "tags": [
-        "行业动态",
-        "模型能力"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391750.html",
-      "published_at": "2026-03-24T03:00:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "6f6397af",
-      "lang": "zh",
-      "title_zh": "RoboChallenge Table30 V2 正式发布，泛化时代开幕",
-      "summary_zh": "量子位：具身智能评测基准RoboChallenge Table30 V2正式发布，新增18个双臂灵巧操作任务，总计30个高难度任务，专注考核模型泛化能力。新版本重构了学习与测试协议，终结了为比赛调参的旧模式，旨在为全球具身智能研究者提供公平开放的真机竞技场。",
-      "tags": [
-        "具身智能",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391744.html",
-      "published_at": "2026-03-24T02:30:00Z",
       "collected_at": "2026-03-24T09:05:00Z",
       "importance": 3,
       "merged_sources": []

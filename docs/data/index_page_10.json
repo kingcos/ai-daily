@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T00:10:00Z",
+  "updated_at": "2026-03-29T03:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,58 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 223,
+  "total_items": 226,
   "page": 10,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "355162f1",
+      "lang": "zh",
+      "title_zh": "百度龙虾全家桶火速上桌！出手就是全球最大搜索skill",
+      "summary_zh": "百度：全套 MCP（龙虾）服务集中上线，接入全球最大搜索数据 Skill，提供行业级开箱即用解决方案。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388672.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b9ad6e98",
+      "lang": "en",
+      "title_en": "Securing our codebase with autonomous agents",
+      "title_zh": "Cursor 用自治安全 Agent 守护代码库",
+      "summary_en": "Cursor: Security team deployed a fleet of autonomous agents to automatically find and fix vulnerabilities across a rapidly evolving codebase.",
+      "summary_zh": "Cursor：安全团队构建自治 Agent 集群，在快速迭代的代码库中自动发现并修复安全漏洞。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/security-agents",
+      "published_at": "2026-03-16T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f7e19806",
+      "lang": "zh",
+      "title_zh": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
+      "summary_zh": "量子位：揭秘315曝光的“AI 投毒”原理——GEO（生成引擎优化）可操控大模型推荐结果，甚至虚构产品也会被推荐。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388387.html",
+      "published_at": "2026-03-16T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "557f9455",
       "lang": "zh",
@@ -294,57 +341,6 @@
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/386664.html",
       "published_at": "2026-03-12T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "a6aa0996",
-      "lang": "en",
-      "title_en": "Introducing The Anthropic Institute",
-      "title_zh": "Anthropic 成立 Anthropic Institute",
-      "summary_en": "Anthropic: Launching The Anthropic Institute, a new initiative to address the most significant challenges in AI safety and policy.",
-      "summary_zh": "Anthropic：宣布成立 Anthropic Institute，专注应对 AI 安全与政策领域最重要的挑战。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/the-anthropic-institute",
-      "published_at": "2026-03-11T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "d8e3008e",
-      "lang": "en",
-      "title_en": "How we compare model quality in Cursor",
-      "title_zh": "CursorBench：Cursor 如何评估模型质量",
-      "summary_en": "Cursor: Using a hybrid online-offline evaluation process called CursorBench to keep model quality assessments aligned with real developer workflows.",
-      "summary_zh": "Cursor：通过线上线下混合评估体系 CursorBench，持续对齐模型质量评估与开发者真实使用场景。",
-      "tags": [
-        "研究论文"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/cursorbench",
-      "published_at": "2026-03-11T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "725939a3",
-      "lang": "en",
-      "title_en": "Over 30 new plugins join the Cursor Marketplace",
-      "title_zh": "Cursor Marketplace 新增逾 30 款插件",
-      "summary_en": "Cursor: More than 30 new plugins added to the Cursor Marketplace, enabling developers to extend Cursor with prebuilt capabilities.",
-      "summary_zh": "Cursor：Marketplace 新增超过 30 款插件，开发者可直接安装预置能力扩展 Cursor 功能。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/new-plugins",
-      "published_at": "2026-03-11T10:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 3,
       "merged_sources": []

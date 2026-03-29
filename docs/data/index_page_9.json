@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T00:10:00Z",
+  "updated_at": "2026-03-29T03:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,57 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 223,
+  "total_items": 226,
   "page": 9,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "cea48474",
+      "lang": "zh",
+      "title_zh": "刚刚，全球视频模型新王诞生了！",
+      "summary_zh": "量子位：新视频生成模型强势登顶全球榜首，距其 Preview 版本拿下全球第二仅一个月。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389146.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "ec726cf1",
+      "lang": "zh",
+      "title_zh": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
+      "summary_zh": "小米：正式认领此前登顶排行榜的神秘模型 Hunter Alpha，参数达万亿级，支持百万 token 上下文。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389038.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "8ea7a7ce",
+      "lang": "zh",
+      "title_zh": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
+      "summary_zh": "飞书：发布多款企业级 Agent，覆盖个人智能助手与业务系统场景，并持续升级官方 MCP 插件。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389311.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "1564e1d0",
       "lang": "zh",
@@ -308,53 +354,6 @@
       "published_at": "2026-03-17T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "355162f1",
-      "lang": "zh",
-      "title_zh": "百度龙虾全家桶火速上桌！出手就是全球最大搜索skill",
-      "summary_zh": "百度：全套 MCP（龙虾）服务集中上线，接入全球最大搜索数据 Skill，提供行业级开箱即用解决方案。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388672.html",
-      "published_at": "2026-03-17T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "b9ad6e98",
-      "lang": "en",
-      "title_en": "Securing our codebase with autonomous agents",
-      "title_zh": "Cursor 用自治安全 Agent 守护代码库",
-      "summary_en": "Cursor: Security team deployed a fleet of autonomous agents to automatically find and fix vulnerabilities across a rapidly evolving codebase.",
-      "summary_zh": "Cursor：安全团队构建自治 Agent 集群，在快速迭代的代码库中自动发现并修复安全漏洞。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/security-agents",
-      "published_at": "2026-03-16T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f7e19806",
-      "lang": "zh",
-      "title_zh": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
-      "summary_zh": "量子位：揭秘315曝光的“AI 投毒”原理——GEO（生成引擎优化）可操控大模型推荐结果，甚至虚构产品也会被推荐。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388387.html",
-      "published_at": "2026-03-16T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
       "merged_sources": []
     }
   ]

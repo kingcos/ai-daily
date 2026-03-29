@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T00:10:00Z",
+  "updated_at": "2026-03-29T03:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,62 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 223,
+  "total_items": 226,
   "page": 7,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "6a8da9dc",
+      "lang": "zh",
+      "title_zh": "别人都在卷视觉，这家具身公司偏要卷「手感」",
+      "summary_zh": "量子位：在具身智能赛道普遍聚焦视觉感知的背景下，一家具身机器人公司另辟蹊径，深耕触觉感知技术。通过高精度触觉传感器与AI控制算法结合，实现机器人在精细操作任务中的突破，有望解决工业场景中的灵巧操作难题。",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "触觉感知"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391314.html",
+      "published_at": "2026-03-23T03:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "45529cfb",
+      "lang": "zh",
+      "title_zh": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
+      "summary_zh": "量子位：字节跳动开源的AI Agent框架在GitHub上迅速走红，获超35k Star。该框架采用MCP架构，内置丰富的Skill工具包，原生支持飞书集成，降低了企业构建AI应用的门槛，引发开发者社区广泛关注。",
+      "tags": [
+        "AI Agent",
+        "开源",
+        "字节跳动"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391361.html",
+      "published_at": "2026-03-23T02:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "95ec809e",
+      "lang": "en",
+      "title_en": "Mark Zuckerberg is an AI CEO now",
+      "title_zh": "扎克伯格已成为一位 AI CEO",
+      "summary_en": "Meta: Mark Zuckerberg's identity and strategic focus have fundamentally shifted toward AI leadership, with Meta's core business bets now centered on AI models, AI assistants, and AI-powered products across its platforms.",
+      "summary_zh": "Meta：扎克伯格的战略重心已全面转向 AI，Meta 核心业务赌注集中在 AI 模型、AI 助手和全平台 AI 产品上，其 CEO 定位已从社交媒体转向 AI 领导者。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898804/ai-ceo-mark-zuckerberg",
+      "published_at": "2026-03-23T01:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "13f0d4a0",
       "lang": "zh",
@@ -315,54 +366,6 @@
       "published_at": "2026-03-22T12:00:00Z",
       "collected_at": "2026-03-23T00:00:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4b85be95",
-      "lang": "zh",
-      "title_zh": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR26",
-      "summary_zh": "浙大：浙江大学团队提出多模态大模型置信度校准新方法，针对模型在图像质量差时仍输出高置信度的问题，通过先校准置信度再动态分配算力的方式提升推理可靠性，相关成果被CVPR 2026接收。",
-      "tags": [
-        "研究论文",
-        "多模态",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391014.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4ad0c854",
-      "lang": "zh",
-      "title_zh": "阶跃星辰率先适配微信生态，StepClaw即插即养即用",
-      "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391010.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4c7138cb",
-      "lang": "zh",
-      "title_zh": "大厂抢郭达雅进行时！DeepSeek核心成员还是个综艺巨佬",
-      "summary_zh": "DeepSeek：DeepSeek核心研究成员郭达雅因综艺节目走红，被多家大厂争相邀请，引发AI圈对顶尖研究人才流动的广泛关注。文章披露其在DeepSeek团队中的技术背景及角色。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390990.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 2,
       "merged_sources": []
     }
   ]

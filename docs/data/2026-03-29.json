@@ -1,7 +1,57 @@
 {
   "date": "2026-03-29",
-  "generated_at": "2026-03-29T00:10:00Z",
+  "generated_at": "2026-03-29T03:00:00Z",
   "items": [
+    {
+      "id": "9a4b01af",
+      "lang": "en",
+      "title_en": "Will the AI data centre boom become a $9T bust?",
+      "title_zh": "AI数据中心热潮会成为9万亿美元泡沫吗？",
+      "summary_en": "Financial Times: Analysts and investors are questioning whether the massive $9 trillion projected investment in AI data centers can be justified by actual AI revenue. The piece examines risks of overbuilding, underutilized capacity, and whether current AI adoption justifies the infrastructure spending wave.",
+      "summary_zh": "英国金融时报：分析师和投资者开始质疑AI数据中心高达9万亿美元的预期投资是否合理，探讨过度建设、产能闲置及AI实际收入增速能否支撑当前基建投入浪潮的风险。",
+      "tags": [
+        "行业动态",
+        "投融资"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
+      "published_at": "2026-03-29T02:35:59Z",
+      "collected_at": "2026-03-29T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "b5d88fe1",
+      "lang": "zh",
+      "title_zh": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
+      "summary_zh": "量子位：论芯科技将AI引入芯片验证产线，实现读取协议文档速度提升25倍，并在真实任务中发现respin级别缺陷及超百条timing违例，有效替代传统人工逐条排查流程，标志AI for EDA从演示走向实际量产应用。",
+      "tags": [
+        "AI应用",
+        "芯片"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393045.html",
+      "published_at": "2026-03-29T01:27:39Z",
+      "collected_at": "2026-03-29T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6a2d8c96",
+      "lang": "zh",
+      "title_zh": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
+      "summary_zh": "量子位：第三届中关村论坛人工智能主题日期间，北京海淀五道口AI原点社区举办系列活动，30余场派对吸引科研青年、创业团队和技术极客，展现海淀作为全球AI创新创业第一站的生态活力。",
+      "tags": [
+        "行业动态",
+        "创业"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392996.html",
+      "published_at": "2026-03-29T01:09:41Z",
+      "collected_at": "2026-03-29T03:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "ac67e459",
       "lang": "en",

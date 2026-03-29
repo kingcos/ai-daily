@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T00:10:00Z",
+  "updated_at": "2026-03-29T03:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,61 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 223,
+  "total_items": 226,
   "page": 1,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "9a4b01af",
+      "lang": "en",
+      "title_en": "Will the AI data centre boom become a $9T bust?",
+      "title_zh": "AI数据中心热潮会成为9万亿美元泡沫吗？",
+      "summary_en": "Financial Times: Analysts and investors are questioning whether the massive $9 trillion projected investment in AI data centers can be justified by actual AI revenue. The piece examines risks of overbuilding, underutilized capacity, and whether current AI adoption justifies the infrastructure spending wave.",
+      "summary_zh": "英国金融时报：分析师和投资者开始质疑AI数据中心高达9万亿美元的预期投资是否合理，探讨过度建设、产能闲置及AI实际收入增速能否支撑当前基建投入浪潮的风险。",
+      "tags": [
+        "行业动态",
+        "投融资"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
+      "published_at": "2026-03-29T02:35:59Z",
+      "collected_at": "2026-03-29T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "b5d88fe1",
+      "lang": "zh",
+      "title_zh": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
+      "summary_zh": "量子位：论芯科技将AI引入芯片验证产线，实现读取协议文档速度提升25倍，并在真实任务中发现respin级别缺陷及超百条timing违例，有效替代传统人工逐条排查流程，标志AI for EDA从演示走向实际量产应用。",
+      "tags": [
+        "AI应用",
+        "芯片"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393045.html",
+      "published_at": "2026-03-29T01:27:39Z",
+      "collected_at": "2026-03-29T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6a2d8c96",
+      "lang": "zh",
+      "title_zh": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
+      "summary_zh": "量子位：第三届中关村论坛人工智能主题日期间，北京海淀五道口AI原点社区举办系列活动，30余场派对吸引科研青年、创业团队和技术极客，展现海淀作为全球AI创新创业第一站的生态活力。",
+      "tags": [
+        "行业动态",
+        "创业"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392996.html",
+      "published_at": "2026-03-29T01:09:41Z",
+      "collected_at": "2026-03-29T03:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "ac67e459",
       "lang": "en",
@@ -329,58 +379,6 @@
       "published_at": "2026-03-28T02:00:00Z",
       "collected_at": "2026-03-28T03:00:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "5df16404",
-      "lang": "en",
-      "title_en": "AI bug reports went from junk to legit overnight, says Linux kernel maintainer",
-      "title_zh": "Linux内核维护者：AI提交的漏洞报告质量突飞猛进",
-      "summary_en": "Hacker News / The Register: Linux kernel maintainer Greg Kroah-Hartman noted that AI-generated bug reports have dramatically improved in quality, going from nearly useless to genuinely actionable. The shift signals growing maturity of AI-assisted security research in open source.",
-      "summary_zh": "Hacker News / The Register：Linux内核维护者Greg Kroah-Hartman指出，AI生成的漏洞报告质量急剧提升，从几乎无用变为真正可操作，标志着AI辅助安全研究在开源领域日趋成熟。",
-      "tags": [
-        "AI安全",
-        "开源"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
-      "published_at": "2026-03-27T20:30:00Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f8fe21ba",
-      "lang": "en",
-      "title_en": "The latest in data centers, AI, and energy",
-      "title_zh": "数据中心、AI与能源领域最新动态",
-      "summary_en": "The Verge: Senators Warren and Hawley pressed the EIA to mandate annual energy-use disclosures from data centers, while the EIA launched a voluntary pilot in four U.S. regions. Major tech firms had previously signed Trump's Ratepayer Protection Pledge to self-fund AI data center power.",
-      "summary_zh": "The Verge：参议员沃伦与霍利联名致信能源信息署要求强制数据中心披露能耗数据，EIA同步启动四地区自愿试点；此前谷歌、Meta等已签署特朗普电费保护承诺，承诺自建AI数据中心供电设施。",
-      "tags": [
-        "AI政策",
-        "基础设施"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "published_at": "2026-03-27T18:35:53Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e6b17f61",
-      "lang": "zh",
-      "title_zh": "钉钉CLI开源！首批开放10项核心产品能力，原生支持Claude Code等",
-      "summary_zh": "量子位：钉钉 CLI 开源项目正式上架 GitHub，采用 Apache-2.0 协议，首批开放 AI 表格、日历、机器人等 10 项核心产品能力，原生支持 Claude Code、Cursor 等主流 AI 编程与 Agent 执行环境。这是国内首个面向 AI Agent 开源全产品能力的国民级应用，开发者一行指令即可调用企业级功能。",
-      "tags": [
-        "开源",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392828.html",
-      "published_at": "2026-03-27T16:00:00Z",
-      "collected_at": "2026-03-29T00:10:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]

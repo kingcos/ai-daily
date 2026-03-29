@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T00:10:00Z",
+  "updated_at": "2026-03-29T03:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,64 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 223,
+  "total_items": 226,
   "page": 12,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "2d40af76",
+      "lang": "en",
+      "title_en": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+      "title_zh": "Anthropic 仍寻求五角大楼合作",
+      "summary_en": "Anthropic: CEO Dario Amodei is reportedly still trying to preserve a Pentagon partnership after internal talks over a federal sales team and military use cases broke down. The report says the company is balancing national-security business opportunities against internal opposition and reputational risk. The outcome of the negotiations remains unresolved.",
+      "summary_zh": "Anthropic：在联邦销售团队和军事用途争议导致内部谈判破裂后，CEO Dario Amodei 据报仍在推动与五角大楼达成合作。报道显示，公司一边争取国家安全业务，一边处理内部反对意见与声誉风险，相关谈判仍未落定。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+      "published_at": "2026-03-05T16:45:00Z",
+      "collected_at": "2026-03-05T18:46:22Z",
+      "importance": 3,
+      "merged_sources": [
+        "https://www.theverge.com/tech/650811/anthropic-makes-last-ditch-effort-to-salvage-deal-with-pentagon-after-blowup"
+      ]
+    },
+    {
+      "id": "96a73e6d",
+      "lang": "zh",
+      "title_zh": "元象开源全球最大MoE多模态推理模型：成本仅为DeepSeek 1/7，Yuan3.0 Ultra",
+      "summary_zh": "元象：元象发布并开源 Yuan3.0 Ultra，多模态 MoE 推理模型主打图像理解与复杂推理。报道援引官方信息称，其推理成本约为同类方案的七分之一，模型已面向开发者开放。",
+      "tags": [
+        "开源",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384330.html",
+      "published_at": "2026-03-05T13:04:02Z",
+      "collected_at": "2026-03-05T18:46:22Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "4c3aedb7",
+      "lang": "en",
+      "title_en": "Lio bags a $30M Series A from Andreessen Horowitz to automate enterprise procurement",
+      "title_zh": "Lio 获 3000 万美元 A 轮",
+      "summary_en": "Lio: Enterprise procurement startup Lio raised a $30 million Series A led by Andreessen Horowitz. The company says its AI agents analyze purchasing data and automate sourcing workflows for large organizations, and it plans to use the new capital to expand product development and go-to-market operations.",
+      "summary_zh": "Lio：企业采购自动化创业公司 Lio 完成由 Andreessen Horowitz 领投的 3000 万美元 A 轮融资。公司表示，其 AI Agent 可分析采购数据并自动化寻源流程，新资金将用于产品研发和市场扩张。",
+      "tags": [
+        "融资",
+        "Agent"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+      "published_at": "2026-03-05T13:00:00Z",
+      "collected_at": "2026-03-05T18:46:22Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "5766268e",
       "lang": "zh",
