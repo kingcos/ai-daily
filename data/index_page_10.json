@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T00:10:00Z",
+  "updated_at": "2026-03-29T09:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,191 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 223,
+  "total_items": 234,
   "page": 10,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "fcc95dc8",
+      "lang": "en",
+      "title_en": "Now everyone in the US is getting Google's personalized Gemini AI",
+      "title_zh": "谷歌个性化 Gemini AI 全面向美国用户开放",
+      "summary_en": "Google: The company expanded its Personal Intelligence feature—which uses Gemini AI to personalize search and app experiences based on user data—to all US users.",
+      "summary_zh": "谷歌：个性化智能功能正式向全体美国用户开放，该功能基于 Gemini AI，通过分析用户数据个性化搜索和应用体验。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "published_at": "2026-03-17T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "0f672894",
+      "lang": "en",
+      "title_en": "Why Garry Tan's Claude Code setup has gotten so much love and hate",
+      "title_zh": "为何 Garry Tan 的 Claude Code 配置引发如此两极分化的反应",
+      "summary_en": "Garry Tan's public Claude Code development setup sparked intense debate in the developer community, with supporters praising its AI-assisted workflow and critics questioning over-reliance on AI for software engineering.",
+      "summary_zh": "Garry Tan 公开的 Claude Code 开发配置在开发者社区引发激烈讨论，支持者称赞其 AI 辅助工作流，批评者则质疑软件工程中过度依赖 AI。",
+      "tags": [
+        "编程"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "published_at": "2026-03-17T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "09503aad",
+      "lang": "en",
+      "title_en": "Training Composer for longer horizons",
+      "title_zh": "训练 Composer 应对更长任务：自摘要训练方法",
+      "summary_en": "Cursor: Integrating self-summarization into Composer's training to extract signal from trajectories far longer than the model's context window.",
+      "summary_zh": "Cursor：将自摘要机制融入 Composer 训练流程，从超出上下文窗口的超长任务轨迹中提取训练信号。",
+      "tags": [
+        "研究论文"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/self-summarization",
+      "published_at": "2026-03-17T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "11740e48",
+      "lang": "en",
+      "title_en": "OpenAI cuts back on side quests",
+      "title_zh": "OpenAI 削减非核心业务线",
+      "summary_en": "OpenAI: The company announced a strategic refocus, cutting back on several peripheral projects and initiatives to concentrate resources on its core AI model development and ChatGPT products.",
+      "summary_zh": "OpenAI：公司宣布战略收缩，削减多个边缘项目，将资源集中于核心 AI 模型研发和 ChatGPT 产品线。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/895835/openai-cuts-back-on-side-quests",
+      "published_at": "2026-03-17T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e3ccec42",
+      "lang": "en",
+      "title_en": "OpenAI's Sora video generator is reportedly coming to ChatGPT",
+      "title_zh": "OpenAI Sora 视频生成器据报将集成进 ChatGPT",
+      "summary_en": "OpenAI: Reports indicate the company plans to integrate its Sora video generation model directly into ChatGPT, making AI video creation accessible to a broader user base.",
+      "summary_zh": "OpenAI：据报道公司计划将 Sora 视频生成模型直接集成进 ChatGPT，让更广泛的用户能够使用 AI 视频创作功能。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
+      "published_at": "2026-03-17T08:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2f03da92",
+      "lang": "zh",
+      "title_zh": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
+      "summary_zh": "黄仁勋：在 GTC 上称 AI Agent 是新操作系统，展示英伟达7种芯片组成的算力矩阵，并放话2027年营收突破万亿美元。",
+      "tags": [
+        "融资",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388720.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "de32cd69",
+      "lang": "zh",
+      "title_zh": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍",
+      "summary_zh": "OpenAI：GPT-5.4 上线首周 ARR 突破10亿美元，单次调用成本最高80美元，但任务效率提升32倍。",
+      "tags": [
+        "融资",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388443.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6fcd379d",
+      "lang": "zh",
+      "title_zh": "Kimi新架构让马斯克叹服！17岁高中生作者一战成名",
+      "summary_zh": "Moonshot AI：Kimi 新架构论文引发马斯克称赞，第一作者为17岁高中生，将注意力机制“旋转90度”实现突破。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388493.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "355162f1",
+      "lang": "zh",
+      "title_zh": "百度龙虾全家桶火速上桌！出手就是全球最大搜索skill",
+      "summary_zh": "百度：全套 MCP（龙虾）服务集中上线，接入全球最大搜索数据 Skill，提供行业级开箱即用解决方案。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388672.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b9ad6e98",
+      "lang": "en",
+      "title_en": "Securing our codebase with autonomous agents",
+      "title_zh": "Cursor 用自治安全 Agent 守护代码库",
+      "summary_en": "Cursor: Security team deployed a fleet of autonomous agents to automatically find and fix vulnerabilities across a rapidly evolving codebase.",
+      "summary_zh": "Cursor：安全团队构建自治 Agent 集群，在快速迭代的代码库中自动发现并修复安全漏洞。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/security-agents",
+      "published_at": "2026-03-16T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f7e19806",
+      "lang": "zh",
+      "title_zh": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
+      "summary_zh": "量子位：揭秘315曝光的“AI 投毒”原理——GEO（生成引擎优化）可操控大模型推荐结果，甚至虚构产品也会被推荐。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388387.html",
+      "published_at": "2026-03-16T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "557f9455",
       "lang": "zh",
@@ -172,181 +352,6 @@
       "published_at": "2026-03-13T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "f4adf6d3",
-      "lang": "zh",
-      "title_zh": "统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言",
-      "summary_zh": "苏炜杰：荣获统计学最高荣誉，主张 AI 需要一门新的数学语言，提出“剥洋葱”式优化黑盒模型方法。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/387102.html",
-      "published_at": "2026-03-13T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "b8110bd4",
-      "lang": "zh",
-      "title_zh": "马斯克从Cursor挖走两位天才少年",
-      "summary_zh": "量子位：马斯克从 Cursor 挖走两位天才少年加入 xAI，引发外界对 xAI 人才流动的关注。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/387242.html",
-      "published_at": "2026-03-13T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "d130ec99",
-      "lang": "zh",
-      "title_zh": "多家资本参投，杨立昆AMI获超10亿美元种子融资",
-      "summary_zh": "AMI：多家资本联合参投，杨立昆（LeCun）创立的 AMI 完成超10亿美元种子轮融资。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/387734.html",
-      "published_at": "2026-03-13T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9d6a48cc",
-      "lang": "en",
-      "title_en": "Anthropic invests $100 million into the Claude Partner Network",
-      "title_zh": "Anthropic 向 Claude 合作伙伴网络投入 1 亿美元",
-      "summary_en": "Anthropic: Launching the Claude Partner Network with $100M investment to help enterprises adopt Claude through certified partner organizations.",
-      "summary_zh": "Anthropic：宣布投入 1 亿美元启动 Claude 合作伙伴网络，帮助企业通过认证合作商落地 Claude。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/claude-partner-network",
-      "published_at": "2026-03-12T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "781789f4",
-      "lang": "zh",
-      "title_zh": "老黄入局吃龙虾！英伟达发布最强开源Agent推理模型",
-      "summary_zh": "英伟达：发布最强开源 Agent 推理模型，黄仁勋宣布向开源模型投入260亿美元。",
-      "tags": [
-        "产品发布",
-        "Agent",
-        "开源"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386572.html",
-      "published_at": "2026-03-12T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "20f160f8",
-      "lang": "zh",
-      "title_zh": "卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法",
-      "summary_zh": "Karpathy：新一代 IDE 将成为 Agent 管理中心，编程范式正从写代码转变为管理 AI Agent。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386668.html",
-      "published_at": "2026-03-12T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "42377cbd",
-      "lang": "zh",
-      "title_zh": "马斯克官宣数字AI员工！世界首富也来养龙虾，测试阶段员工把它当真人",
-      "summary_zh": "马斯克：官宣「数字 Optimus」AI 员工，xAI 测试阶段员工已将其当真人对待；微软相关项目传出暂停消息。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386615.html",
-      "published_at": "2026-03-12T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7af10b43",
-      "lang": "zh",
-      "title_zh": "爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元",
-      "summary_zh": "爱诗科技：完成 3 亿美元 C 轮融资，鼎晖领投，主打实时交互式视频生成新方向。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386664.html",
-      "published_at": "2026-03-12T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "a6aa0996",
-      "lang": "en",
-      "title_en": "Introducing The Anthropic Institute",
-      "title_zh": "Anthropic 成立 Anthropic Institute",
-      "summary_en": "Anthropic: Launching The Anthropic Institute, a new initiative to address the most significant challenges in AI safety and policy.",
-      "summary_zh": "Anthropic：宣布成立 Anthropic Institute，专注应对 AI 安全与政策领域最重要的挑战。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/the-anthropic-institute",
-      "published_at": "2026-03-11T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "d8e3008e",
-      "lang": "en",
-      "title_en": "How we compare model quality in Cursor",
-      "title_zh": "CursorBench：Cursor 如何评估模型质量",
-      "summary_en": "Cursor: Using a hybrid online-offline evaluation process called CursorBench to keep model quality assessments aligned with real developer workflows.",
-      "summary_zh": "Cursor：通过线上线下混合评估体系 CursorBench，持续对齐模型质量评估与开发者真实使用场景。",
-      "tags": [
-        "研究论文"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/cursorbench",
-      "published_at": "2026-03-11T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "725939a3",
-      "lang": "en",
-      "title_en": "Over 30 new plugins join the Cursor Marketplace",
-      "title_zh": "Cursor Marketplace 新增逾 30 款插件",
-      "summary_en": "Cursor: More than 30 new plugins added to the Cursor Marketplace, enabling developers to extend Cursor with prebuilt capabilities.",
-      "summary_zh": "Cursor：Marketplace 新增超过 30 款插件，开发者可直接安装预置能力扩展 Cursor 功能。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/new-plugins",
-      "published_at": "2026-03-11T10:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

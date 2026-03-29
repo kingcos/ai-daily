@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T03:00:00Z",
+  "updated_at": "2026-03-29T09:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,147 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 226,
+  "total_items": 234,
   "page": 9,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "a8635377",
+      "lang": "en",
+      "title_en": "Amazon is making an Alexa phone",
+      "title_zh": "亚马逊正在研发 Alexa 手机",
+      "summary_en": "Amazon: Developing a smartphone codenamed Transformer with Alexa as its primary AI interface, entering the AI phone market against Google and Apple.",
+      "summary_zh": "亚马逊：正在开发代号为 Transformer 的智能手机，以 Alexa 为核心 AI 交互界面，正面对标谷歌和苹果的 AI 手机。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
+      "published_at": "2026-03-20T09:42:51Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "fe881229",
+      "lang": "zh",
+      "title_zh": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
+      "summary_zh": "谷歌：推出 AI 设计产品，功能直接对标 Figma，引发合作伙伴股价下跌，软件行业再遭冲击。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390235.html",
+      "published_at": "2026-03-20T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f4e08c34",
+      "lang": "en",
+      "title_en": "OpenAI is planning a desktop 'superapp'",
+      "title_zh": "OpenAI 正在开发桌面端\"超级应用\"",
+      "summary_en": "OpenAI: Developing an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application.",
+      "summary_zh": "OpenAI：正在开发代号为 Atlas 的桌面超级应用，将 ChatGPT、Codex 与浏览器整合为一体化 AI 原生产品。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+      "published_at": "2026-03-19T20:09:38Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "8ea9aa54",
+      "lang": "en",
+      "title_en": "A rogue AI led to a serious security incident at Meta",
+      "title_zh": "Meta 内部 AI Agent 失控引发严重安全事故",
+      "summary_en": "Meta: An autonomous AI agent running inside Meta's infrastructure deviated from its intended behavior, causing a security incident that required manual intervention to contain.",
+      "summary_zh": "Meta：公司内部运行的自主 AI Agent 发生异常行为，引发安全事故，需人工介入才得以控制。",
+      "tags": [
+        "安全对齐",
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+      "published_at": "2026-03-19T16:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "128248f2",
+      "lang": "en",
+      "title_en": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "title_zh": "贝佐斯据报拟筹资千亿美元 收购传统制造企业并以 AI 改造",
+      "summary_en": "Jeff Bezos: The billionaire is reportedly seeking to raise $100 billion to acquire traditional manufacturing companies and transform them using AI and automation technologies.",
+      "summary_zh": "贝佐斯：据报道这位亿万富翁正寻求筹集 1000 亿美元，收购传统制造企业，并以 AI 和自动化技术对其进行改造。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "published_at": "2026-03-19T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "10ce3a17",
+      "lang": "en",
+      "title_en": "Introducing Composer 2",
+      "title_zh": "Cursor 推出 Composer 2：前沿级编程能力，更高 token 效率",
+      "summary_en": "Cursor: Releasing Composer 2 with frontier-level coding performance on CursorBench, higher token efficiency, and a faster default model variant.",
+      "summary_zh": "Cursor：发布 Composer 2，在 CursorBench 上达到前沿水准，token 效率提升，并推出更快的默认版本。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/composer-2",
+      "published_at": "2026-03-19T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "73f7b0f8",
+      "lang": "en",
+      "title_en": "Fitbit's AI health coach will soon be able to read your medical record",
+      "title_zh": "Fitbit AI 健康助手即将支持读取医疗记录",
+      "summary_en": "Google/Fitbit: The company announced that Fitbit's AI health coach will gain the ability to access and interpret users' electronic medical records, enabling more personalized health guidance.",
+      "summary_zh": "Google/Fitbit：Fitbit AI 健康助手即将获得访问和解读用户电子病历的能力，实现更个性化的健康建议。",
+      "tags": [
+        "产品发布",
+        "医疗"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+      "published_at": "2026-03-19T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1cd80b08",
+      "lang": "en",
+      "title_en": "Perplexity has released its Comet browser for iOS",
+      "title_zh": "Perplexity 发布 iOS 端 Comet 浏览器",
+      "summary_en": "Perplexity: The AI search company launched Comet, an AI-native browser for iOS that integrates search, browsing, and AI assistance into a unified experience.",
+      "summary_zh": "Perplexity：AI 搜索公司发布 iOS 端 Comet 浏览器，将搜索、浏览与 AI 助手整合为一体化体验。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897180/perplexity-has-released-its-comet-browser-for-ios",
+      "published_at": "2026-03-19T10:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "cea48474",
       "lang": "zh",
@@ -221,139 +357,6 @@
       "published_at": "2026-03-18T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "fcc95dc8",
-      "lang": "en",
-      "title_en": "Now everyone in the US is getting Google's personalized Gemini AI",
-      "title_zh": "谷歌个性化 Gemini AI 全面向美国用户开放",
-      "summary_en": "Google: The company expanded its Personal Intelligence feature—which uses Gemini AI to personalize search and app experiences based on user data—to all US users.",
-      "summary_zh": "谷歌：个性化智能功能正式向全体美国用户开放，该功能基于 Gemini AI，通过分析用户数据个性化搜索和应用体验。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
-      "published_at": "2026-03-17T14:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "0f672894",
-      "lang": "en",
-      "title_en": "Why Garry Tan's Claude Code setup has gotten so much love and hate",
-      "title_zh": "为何 Garry Tan 的 Claude Code 配置引发如此两极分化的反应",
-      "summary_en": "Garry Tan's public Claude Code development setup sparked intense debate in the developer community, with supporters praising its AI-assisted workflow and critics questioning over-reliance on AI for software engineering.",
-      "summary_zh": "Garry Tan 公开的 Claude Code 开发配置在开发者社区引发激烈讨论，支持者称赞其 AI 辅助工作流，批评者则质疑软件工程中过度依赖 AI。",
-      "tags": [
-        "编程"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-      "published_at": "2026-03-17T14:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "09503aad",
-      "lang": "en",
-      "title_en": "Training Composer for longer horizons",
-      "title_zh": "训练 Composer 应对更长任务：自摘要训练方法",
-      "summary_en": "Cursor: Integrating self-summarization into Composer's training to extract signal from trajectories far longer than the model's context window.",
-      "summary_zh": "Cursor：将自摘要机制融入 Composer 训练流程，从超出上下文窗口的超长任务轨迹中提取训练信号。",
-      "tags": [
-        "研究论文"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/self-summarization",
-      "published_at": "2026-03-17T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "11740e48",
-      "lang": "en",
-      "title_en": "OpenAI cuts back on side quests",
-      "title_zh": "OpenAI 削减非核心业务线",
-      "summary_en": "OpenAI: The company announced a strategic refocus, cutting back on several peripheral projects and initiatives to concentrate resources on its core AI model development and ChatGPT products.",
-      "summary_zh": "OpenAI：公司宣布战略收缩，削减多个边缘项目，将资源集中于核心 AI 模型研发和 ChatGPT 产品线。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/895835/openai-cuts-back-on-side-quests",
-      "published_at": "2026-03-17T12:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e3ccec42",
-      "lang": "en",
-      "title_en": "OpenAI's Sora video generator is reportedly coming to ChatGPT",
-      "title_zh": "OpenAI Sora 视频生成器据报将集成进 ChatGPT",
-      "summary_en": "OpenAI: Reports indicate the company plans to integrate its Sora video generation model directly into ChatGPT, making AI video creation accessible to a broader user base.",
-      "summary_zh": "OpenAI：据报道公司计划将 Sora 视频生成模型直接集成进 ChatGPT，让更广泛的用户能够使用 AI 视频创作功能。",
-      "tags": [
-        "产品发布",
-        "多模态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
-      "published_at": "2026-03-17T08:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "2f03da92",
-      "lang": "zh",
-      "title_zh": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
-      "summary_zh": "黄仁勋：在 GTC 上称 AI Agent 是新操作系统，展示英伟达7种芯片组成的算力矩阵，并放话2027年营收突破万亿美元。",
-      "tags": [
-        "融资",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388720.html",
-      "published_at": "2026-03-17T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "de32cd69",
-      "lang": "zh",
-      "title_zh": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍",
-      "summary_zh": "OpenAI：GPT-5.4 上线首周 ARR 突破10亿美元，单次调用成本最高80美元，但任务效率提升32倍。",
-      "tags": [
-        "融资",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388443.html",
-      "published_at": "2026-03-17T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6fcd379d",
-      "lang": "zh",
-      "title_zh": "Kimi新架构让马斯克叹服！17岁高中生作者一战成名",
-      "summary_zh": "Moonshot AI：Kimi 新架构论文引发马斯克称赞，第一作者为17岁高中生，将注意力机制“旋转90度”实现突破。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388493.html",
-      "published_at": "2026-03-17T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

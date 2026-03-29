@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T03:00:00Z",
+  "updated_at": "2026-03-29T09:00:00Z",
   "dates": [
     "2026-03-29",
     "2026-03-28",
@@ -27,11 +27,141 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 226,
+  "total_items": 234,
   "page": 12,
   "page_size": 20,
   "total_pages": 12,
   "items": [
+    {
+      "id": "098c40d8",
+      "lang": "zh",
+      "title_zh": "88岁图灵奖得主，用Claude一小时破解30年数学悬案",
+      "summary_zh": "量子位：88岁图灵奖得主 Leslie Valiant 用 Claude 一小时破解了困扰30年的数学难题，并向 Claude 致谢。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384890.html",
+      "published_at": "2026-03-09T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "01fd4663",
+      "lang": "zh",
+      "title_zh": "卡帕西开源Agent自进化训练框架，5分钟一轮实验，48h内揽星9.5k",
+      "summary_zh": "量子位：Karpathy 开源 Agent 自进化训练框架，5分钟即可完成一轮实验，48小时内在 GitHub 收获9500星。",
+      "tags": [
+        "Agent",
+        "研究论文",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384953.html",
+      "published_at": "2026-03-09T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "3f0bc09b",
+      "lang": "zh",
+      "title_zh": "龙虾最佳适配模型，OpenClaw之父给出了推荐",
+      "summary_zh": "量子位：MCP（龙虾协议）创始人推荐的最佳适配模型 Top 3 中，国产模型占据两席。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384837.html",
+      "published_at": "2026-03-09T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "69590a1c",
+      "lang": "zh",
+      "title_zh": "龙虾最大痛点被官方插件升级！对话永不忘记，GPT和Gemini最强模型都可接入",
+      "summary_zh": "量子位：MCP 官方记忆插件重大升级，支持接入 GPT 和 Gemini 最强模型，实现对话永久记忆。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384907.html",
+      "published_at": "2026-03-09T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "79445b1c",
+      "lang": "zh",
+      "title_zh": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
+      "summary_zh": "量子位：20岁大学生用10天 VibeCoding 完成开源项目，获盛大3000万元投资。",
+      "tags": [
+        "融资",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384728.html",
+      "published_at": "2026-03-08T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "645db125",
+      "lang": "zh",
+      "title_zh": "高中生AI创业，现在只招龙虾员工：每月成本2800",
+      "summary_zh": "高中生AI创业公司：全员转为AI Agent（龙虾），设立多个部门，每月运营成本仅2800元。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384797.html",
+      "published_at": "2026-03-08T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "fb5d0cab",
+      "lang": "en",
+      "title_en": "OpenAI is working on ChatGPT smart speakers, cameras, and AI glasses",
+      "title_zh": "OpenAI 正在研发 ChatGPT 智能音箱、摄像头和 AI 眼镜",
+      "summary_en": "OpenAI: The company is developing a range of AI hardware products including smart speakers, cameras, and AI-enabled glasses, signaling a push into the consumer device market powered by ChatGPT.",
+      "summary_zh": "OpenAI：公司正在研发一系列 AI 硬件产品，包括智能音箱、摄像头和 AI 眼镜，标志着其向 ChatGPT 驱动的消费级设备市场进军。",
+      "tags": [
+        "产品发布",
+        "硬件"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
+      "published_at": "2026-03-07T16:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "d3ae286e",
+      "lang": "en",
+      "title_en": "Where things stand with the Department of War",
+      "title_zh": "与国防部门相关事项的最新进展",
+      "summary_en": "Anthropic published an update on its situation and discussions with the U.S. Department of War, outlining its position and guidance for customers.",
+      "summary_zh": "Anthropic 发布公告更新其与美国国防部门相关事项的最新进展，并给出立场说明与对客户的建议。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/where-stand-department-war",
+      "published_at": "2026-03-06T00:40:00Z",
+      "collected_at": "2026-03-06T05:17:22Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "2d40af76",
       "lang": "en",
