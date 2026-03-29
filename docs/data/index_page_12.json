@@ -1,0 +1,88 @@
+{
+  "latest_date": "2026-03-29",
+  "updated_at": "2026-03-29T00:10:00Z",
+  "dates": [
+    "2026-03-29",
+    "2026-03-28",
+    "2026-03-26",
+    "2026-03-25",
+    "2026-03-24",
+    "2026-03-23",
+    "2026-03-22",
+    "2026-03-21",
+    "2026-03-20",
+    "2026-03-19",
+    "2026-03-18",
+    "2026-03-17",
+    "2026-03-16",
+    "2026-03-15",
+    "2026-03-14",
+    "2026-03-13",
+    "2026-03-12",
+    "2026-03-11",
+    "2026-03-10",
+    "2026-03-09",
+    "2026-03-08",
+    "2026-03-07",
+    "2026-03-06",
+    "2026-03-05"
+  ],
+  "total_items": 223,
+  "page": 12,
+  "page_size": 20,
+  "total_pages": 12,
+  "items": [
+    {
+      "id": "5766268e",
+      "lang": "zh",
+      "title_zh": "华为重金押注的世界模型公司，新融了10个亿！又一位技术女将从大厂“杀”出",
+      "summary_zh": "极佳视界：聚焦世界模型与空间智能的极佳视界完成约 10 亿元新融资。报道显示，公司获得产业资本持续押注，资金将用于模型研发、产品化和商业拓展，继续推进具身智能相关布局。",
+      "tags": [
+        "融资",
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/384312.html",
+      "published_at": "2026-03-05T12:27:57Z",
+      "collected_at": "2026-03-05T18:46:22Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "eea6230f",
+      "lang": "en",
+      "title_en": "Introducing GPT-5.4",
+      "title_zh": "OpenAI 发布 GPT-5.4",
+      "summary_en": "OpenAI: OpenAI introduced GPT-5.4 as its newest flagship model for complex tasks and published a matching GPT-5.4 Thinking System Card. The release emphasizes stronger reasoning behavior and updated safety evaluations, with rollout across ChatGPT and API products. The system card details capability testing, risk areas, and mitigations for the new model.",
+      "summary_zh": "OpenAI：OpenAI 发布 GPT-5.4，并同步公开 GPT-5.4 Thinking System Card。新模型面向复杂任务，强调更稳定的推理表现和更新后的安全评估，并通过 ChatGPT 与 API 渠道上线。系统卡披露了能力测试、风险点与缓解措施。",
+      "tags": [
+        "产品发布",
+        "推理"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-gpt-5-4/",
+      "published_at": null,
+      "collected_at": "2026-03-05T18:46:22Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "fa5a665f",
+      "lang": "en",
+      "title_en": "Build agents that run automatically in the background with Automations",
+      "title_zh": "Cursor 推出后台自动化",
+      "summary_en": "Cursor: Cursor launched Automations, a feature for running coding agents automatically in the background. The product lets users trigger recurring or event-driven workflows without keeping the editor open, extending Cursor from interactive assistance to unattended agent execution. The feature is positioned as part of Cursor's broader agent workflow stack.",
+      "summary_zh": "Cursor：Cursor 推出 Automations，支持在后台自动运行编程 Agent。该功能可按周期或事件触发工作流，无需持续打开编辑器，进一步把 Cursor 从交互式助手扩展为可无人值守执行任务的 Agent 平台。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/automations",
+      "published_at": null,
+      "collected_at": "2026-03-05T18:46:22Z",
+      "importance": 4,
+      "merged_sources": []
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T00:10:00Z",
+  "items": [
+    {
+      "id": "ac67e459",
+      "lang": "en",
+      "title_en": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "title_zh": "Bluesky 推出 AI 应用 Attie，助力构建自定义信息流",
+      "summary_en": "TechCrunch: Bluesky launched Attie, an AI-powered app that helps users create custom feeds on the open social networking protocol atproto. The tool lowers the barrier for non-technical users to design personalized content discovery experiences on the decentralized platform.",
+      "summary_zh": "TechCrunch：Bluesky 推出 AI 应用 Attie，帮助用户在其开放社交协议 atproto 上构建个性化信息流。该工具降低了非技术用户在去中心化平台上自定义内容发现体验的门槛。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "published_at": "2026-03-28T23:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d60e6b3e",
+      "lang": "en",
+      "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "title_zh": "斯坦福研究揭示 AI 聊天机器人提供个人建议的危险性",
+      "summary_en": "TechCrunch: Stanford researchers published a study quantifying the harms of AI sycophancy—the tendency of AI chatbots to overly affirm users seeking personal advice. The research measures how this behavior could lead to harmful real-world decisions in domains like health and finance.",
+      "summary_zh": "TechCrunch：斯坦福研究人员发布研究，量化 AI 讨好行为的危害——即 AI 聊天机器人过度迎合寻求个人建议用户的倾向。研究衡量这一行为在健康、财务等领域可能导致有害现实决策的风险。",
+      "tags": [
+        "安全与伦理",
+        "研究"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published_at": "2026-03-28T20:45:54Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "98eb0af9",
+      "lang": "en",
+      "title_en": "Suno leans into customization with v5.5",
+      "title_zh": "Suno AI 音乐模型 v5.5 发布，聚焦个性化定制",
+      "summary_en": "The Verge: Suno released v5.5 of its AI music model, one of its biggest updates yet. Where previous versions focused on fidelity and natural vocals, v5.5 emphasizes user control—including training on your own voice and songs, new customization tools, and expanded creative modes.",
+      "summary_zh": "The Verge：Suno 发布 AI 音乐模型 v5.5，这是迄今最大更新之一。有别于以往侧重音质与自然人声，v5.5 将重点转向用户掌控力，新增基于用户声音与歌曲的训练功能、多项定制工具及扩展创作模式。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "published_at": "2026-03-28T18:33:10Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "90edf7a7",
+      "lang": "en",
+      "title_en": "Elon Musk's last co-founder reportedly leaves xAI",
+      "title_zh": "xAI 最后一位联合创始人据报已离职",
+      "summary_en": "TechCrunch: The final remaining co-founder of xAI has reportedly departed the company. All but two of Musk's 11 original xAI co-founders have now left, signaling leadership instability at the AI venture as it competes with OpenAI, Anthropic, and Google.",
+      "summary_zh": "TechCrunch：xAI 最后一位联合创始人据报已离职，11 位原始联合创始人中已有 9 位相继离开，凸显埃隆·马斯克旗下 AI 公司在激烈竞争中管理层持续动荡。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "published_at": "2026-03-28T16:11:16Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d6a3d8c0",
+      "lang": "en",
+      "title_en": "Anthropic's Claude popularity with paying consumers is skyrocketing",
+      "title_zh": "Anthropic Claude 付费用户规模急速增长",
+      "summary_en": "TechCrunch: New data indicates Anthropic's Claude is experiencing rapid growth among paying consumer users. Total Claude user estimates range from 18 to 30 million, with subscription revenue reportedly surging, reflecting strong market traction for Claude's AI capabilities.",
+      "summary_zh": "TechCrunch：新数据显示 Anthropic Claude 付费消费用户规模急速增长，总用户数估算从 1800 万至 3000 万不等，订阅收入据报大幅攀升，反映出 Claude AI 能力的强烈市场吸引力。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "published_at": "2026-03-28T14:15:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "d37ee334",
+      "lang": "en",
+      "title_en": "Be careful: chatting with AI about your case is discoverable",
+      "title_zh": "警告：与 AI 讨论案情的聊天记录在法庭上可被调取",
+      "summary_en": "Hacker News: A Harvard Law Review analysis of United States v. Heppner finds that AI chat logs about a legal case may be discoverable in court proceedings. The ruling has broad implications for attorneys and litigants using AI tools to discuss sensitive case details.",
+      "summary_zh": "Hacker News：《哈佛法律评论》分析 United States v. Heppner 案指出，当事人与 AI 讨论案情的聊天记录可能在法庭程序中被调取，对使用 AI 工具讨论敏感案件细节的律师和当事人具有广泛影响。",
+      "tags": [
+        "安全与伦理",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
+      "published_at": "2026-03-28T07:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e6b17f61",
+      "lang": "zh",
+      "title_zh": "钉钉CLI开源！首批开放10项核心产品能力，原生支持Claude Code等",
+      "summary_zh": "量子位：钉钉 CLI 开源项目正式上架 GitHub，采用 Apache-2.0 协议，首批开放 AI 表格、日历、机器人等 10 项核心产品能力，原生支持 Claude Code、Cursor 等主流 AI 编程与 Agent 执行环境。这是国内首个面向 AI Agent 开源全产品能力的国民级应用，开发者一行指令即可调用企业级功能。",
+      "tags": [
+        "开源",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392828.html",
+      "published_at": "2026-03-27T16:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    }
+  ]
+}

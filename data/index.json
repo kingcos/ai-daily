@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-03-28",
-  "updated_at": "2026-03-28T15:10:00Z",
+  "latest_date": "2026-03-29",
+  "updated_at": "2026-03-29T00:10:00Z",
   "dates": [
+    "2026-03-29",
     "2026-03-28",
     "2026-03-26",
     "2026-03-25",
@@ -26,11 +27,99 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 216,
+  "total_items": 223,
   "page": 1,
   "page_size": 20,
-  "total_pages": 11,
+  "total_pages": 12,
   "items": [
+    {
+      "id": "ac67e459",
+      "lang": "en",
+      "title_en": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "title_zh": "Bluesky 推出 AI 应用 Attie，助力构建自定义信息流",
+      "summary_en": "TechCrunch: Bluesky launched Attie, an AI-powered app that helps users create custom feeds on the open social networking protocol atproto. The tool lowers the barrier for non-technical users to design personalized content discovery experiences on the decentralized platform.",
+      "summary_zh": "TechCrunch：Bluesky 推出 AI 应用 Attie，帮助用户在其开放社交协议 atproto 上构建个性化信息流。该工具降低了非技术用户在去中心化平台上自定义内容发现体验的门槛。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "published_at": "2026-03-28T23:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d60e6b3e",
+      "lang": "en",
+      "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "title_zh": "斯坦福研究揭示 AI 聊天机器人提供个人建议的危险性",
+      "summary_en": "TechCrunch: Stanford researchers published a study quantifying the harms of AI sycophancy—the tendency of AI chatbots to overly affirm users seeking personal advice. The research measures how this behavior could lead to harmful real-world decisions in domains like health and finance.",
+      "summary_zh": "TechCrunch：斯坦福研究人员发布研究，量化 AI 讨好行为的危害——即 AI 聊天机器人过度迎合寻求个人建议用户的倾向。研究衡量这一行为在健康、财务等领域可能导致有害现实决策的风险。",
+      "tags": [
+        "安全与伦理",
+        "研究"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published_at": "2026-03-28T20:45:54Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "98eb0af9",
+      "lang": "en",
+      "title_en": "Suno leans into customization with v5.5",
+      "title_zh": "Suno AI 音乐模型 v5.5 发布，聚焦个性化定制",
+      "summary_en": "The Verge: Suno released v5.5 of its AI music model, one of its biggest updates yet. Where previous versions focused on fidelity and natural vocals, v5.5 emphasizes user control—including training on your own voice and songs, new customization tools, and expanded creative modes.",
+      "summary_zh": "The Verge：Suno 发布 AI 音乐模型 v5.5，这是迄今最大更新之一。有别于以往侧重音质与自然人声，v5.5 将重点转向用户掌控力，新增基于用户声音与歌曲的训练功能、多项定制工具及扩展创作模式。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "published_at": "2026-03-28T18:33:10Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "90edf7a7",
+      "lang": "en",
+      "title_en": "Elon Musk's last co-founder reportedly leaves xAI",
+      "title_zh": "xAI 最后一位联合创始人据报已离职",
+      "summary_en": "TechCrunch: The final remaining co-founder of xAI has reportedly departed the company. All but two of Musk's 11 original xAI co-founders have now left, signaling leadership instability at the AI venture as it competes with OpenAI, Anthropic, and Google.",
+      "summary_zh": "TechCrunch：xAI 最后一位联合创始人据报已离职，11 位原始联合创始人中已有 9 位相继离开，凸显埃隆·马斯克旗下 AI 公司在激烈竞争中管理层持续动荡。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "published_at": "2026-03-28T16:11:16Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d6a3d8c0",
+      "lang": "en",
+      "title_en": "Anthropic's Claude popularity with paying consumers is skyrocketing",
+      "title_zh": "Anthropic Claude 付费用户规模急速增长",
+      "summary_en": "TechCrunch: New data indicates Anthropic's Claude is experiencing rapid growth among paying consumer users. Total Claude user estimates range from 18 to 30 million, with subscription revenue reportedly surging, reflecting strong market traction for Claude's AI capabilities.",
+      "summary_zh": "TechCrunch：新数据显示 Anthropic Claude 付费消费用户规模急速增长，总用户数估算从 1800 万至 3000 万不等，订阅收入据报大幅攀升，反映出 Claude AI 能力的强烈市场吸引力。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "published_at": "2026-03-28T14:15:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "719f4154",
       "lang": "en",
@@ -102,6 +191,24 @@
       "source_url": "https://jai.scs.stanford.edu/",
       "published_at": "2026-03-28T07:59:54Z",
       "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d37ee334",
+      "lang": "en",
+      "title_en": "Be careful: chatting with AI about your case is discoverable",
+      "title_zh": "警告：与 AI 讨论案情的聊天记录在法庭上可被调取",
+      "summary_en": "Hacker News: A Harvard Law Review analysis of United States v. Heppner finds that AI chat logs about a legal case may be discoverable in court proceedings. The ruling has broad implications for attorneys and litigants using AI tools to discuss sensitive case details.",
+      "summary_zh": "Hacker News：《哈佛法律评论》分析 United States v. Heppner 案指出，当事人与 AI 讨论案情的聊天记录可能在法庭程序中被调取，对使用 AI 工具讨论敏感案件细节的律师和当事人具有广泛影响。",
+      "tags": [
+        "安全与伦理",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
+      "published_at": "2026-03-28T07:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
@@ -261,129 +368,19 @@
       "merged_sources": []
     },
     {
-      "id": "2029e402",
-      "lang": "en",
-      "title_en": "Judge sides with Anthropic to temporarily block the Pentagon's ban",
-      "title_zh": "法院支持Anthropic，暂时阻止五角大楼禁令",
-      "summary_en": "The Verge: A federal judge granted Anthropic a temporary injunction blocking the Pentagon's supply-chain-based ban on its AI products. The ruling marks a significant early legal win for Anthropic against the Defense Department's exclusion order, with the case set to continue.",
-      "summary_zh": "The Verge：联邦法官裁定支持Anthropic申请，暂时阻止五角大楼以供应链安全为由对Anthropic产品实施的禁令，这是Anthropic对抗国防部排除令的重要法律胜利，案件将继续审理。",
+      "id": "e6b17f61",
+      "lang": "zh",
+      "title_zh": "钉钉CLI开源！首批开放10项核心产品能力，原生支持Claude Code等",
+      "summary_zh": "量子位：钉钉 CLI 开源项目正式上架 GitHub，采用 Apache-2.0 协议，首批开放 AI 表格、日历、机器人等 10 项核心产品能力，原生支持 Claude Code、Cursor 等主流 AI 编程与 Agent 执行环境。这是国内首个面向 AI Agent 开源全产品能力的国民级应用，开发者一行指令即可调用企业级功能。",
       "tags": [
-        "AI政策",
-        "监管"
+        "开源",
+        "Agent"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
-      "published_at": "2026-03-27T00:33:44Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "a888f4a1",
-      "lang": "en",
-      "title_en": "David Sacks is no longer the White House AI and Crypto Czar",
-      "title_zh": "戴维·萨克斯卸任白宫AI与加密货币专员",
-      "summary_en": "The Verge: David Sacks has stepped down as the White House AI and Crypto Czar, transitioning to a special tech advisory council to make recommendations to the Trump administration. His departure marks a shift in the executive office's AI policy leadership.",
-      "summary_zh": "The Verge：戴维·萨克斯辞去白宫AI与加密货币专员职务，转入特别科技顾问委员会向特朗普政府提供建议，其离任标志着白宫AI政策领导层的重要变动。",
-      "tags": [
-        "AI政策",
-        "监管"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
-      "published_at": "2026-03-26T23:40:22Z",
-      "collected_at": "2026-03-28T03:00:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392828.html",
+      "published_at": "2026-03-27T16:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "a91303fa",
-      "lang": "en",
-      "title_en": "Google is making it easier to import another AI's memory into Gemini",
-      "title_zh": "谷歌新增功能：可将其他AI记忆导入Gemini",
-      "summary_en": "The Verge: Google is introducing a feature that lets users import chat history and memory from competing AI assistants directly into Gemini. The capability lowers switching costs for users moving from ChatGPT or other services, as Gemini can then use that context going forward.",
-      "summary_zh": "The Verge：谷歌为Gemini新增从ChatGPT等竞品AI助手导入聊天记录和记忆的功能，大幅降低用户迁移成本，Gemini可直接利用导入的上下文提供连续性服务。",
-      "tags": [
-        "产品发布",
-        "AI助手"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-      "published_at": "2026-03-26T21:44:37Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "11f58ace",
-      "lang": "en",
-      "title_en": "Apple will reportedly allow other AI chatbots to plug into Siri",
-      "title_zh": "据报道苹果将允许第三方AI聊天机器人接入Siri",
-      "summary_en": "The Verge: Apple is reportedly planning to let third-party AI chatbots—including Google Gemini and Anthropic's Claude—integrate with Siri in iOS 27. The move would open Apple's voice assistant platform to external AI models, extending beyond the existing ChatGPT partnership.",
-      "summary_zh": "The Verge：据报道苹果计划在iOS 27中允许Gemini、Claude等第三方AI聊天机器人接入Siri，将语音助手平台开放给外部AI模型，超越现有ChatGPT独家合作范围。",
-      "tags": [
-        "产品发布",
-        "AI助手"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
-      "published_at": "2026-03-26T21:31:27Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "310b0cfd",
-      "lang": "en",
-      "title_en": "Apple's AI Playlist Playground is bad at music",
-      "title_zh": "苹果AI Playlist Playground音乐生成效果差",
-      "summary_en": "The Verge: Apple's Playlist Playground beta, which creates Apple Music playlists from AI text prompts, fails to understand genre, era, or mood in any reliable way. The tool represents a weak first-gen AI music curation product from Apple.",
-      "summary_zh": "The Verge：苹果Playlist Playground测试版可通过AI文本提示生成Apple Music播放列表，但在理解流派、年代和情绪方面表现糟糕，被认为是苹果AI音乐策展的薄弱初代产品。",
-      "tags": [
-        "产品发布",
-        "内容生成"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
-      "published_at": "2026-03-26T20:26:31Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "3dac47ca",
-      "lang": "en",
-      "title_en": "Google's 'live' AI search assistant can handle conversations in dozens more languages",
-      "title_zh": "谷歌实时AI搜索助手新增支持数十种语言",
-      "summary_en": "The Verge: Google is expanding its AI-powered live search assistant to dozens of additional languages globally, broadening real-time conversational search access. The update also brings Google Translate's real-time translation tool to iOS.",
-      "summary_zh": "The Verge：谷歌将AI实时搜索助手扩展至数十种新语言，在全球范围内普及实时对话式搜索，同时将Google翻译的实时翻译功能引入iOS平台。",
-      "tags": [
-        "产品发布",
-        "AI助手"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
-      "published_at": "2026-03-26T18:47:51Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f3fcf5ae",
-      "lang": "en",
-      "title_en": "Meta gets ready to launch two new Ray-Ban AI glasses",
-      "title_zh": "Meta准备推出两款新Ray-Ban AI眼镜",
-      "summary_en": "The Verge: Two new Meta Ray-Ban smart glasses models codenamed 'Scriber' and 'Blazer' have passed through the FCC, signaling an imminent launch. The new models are expected to expand on the AI assistant capabilities of the current Ray-Ban Meta lineup.",
-      "summary_zh": "The Verge：代号「Scriber」和「Blazer」的两款Meta Ray-Ban新款智能眼镜已通过FCC认证，预示即将发布。新机型预计将在现有Ray-Ban Meta基础上进一步强化AI助手功能。",
-      "tags": [
-        "硬件",
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
-      "published_at": "2026-03-26T16:30:00Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]
