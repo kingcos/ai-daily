@@ -1,6 +1,6 @@
 {
   "date": "2026-03-29",
-  "generated_at": "2026-03-29T03:00:00Z",
+  "generated_at": "2026-03-29T07:00:00Z",
   "items": [
     {
       "id": "9a4b01af",
@@ -172,6 +172,60 @@
       "published_at": "2026-03-27T16:00:00Z",
       "collected_at": "2026-03-29T00:10:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "eea958c7",
+      "lang": "en",
+      "title_en": "Why OpenAI killed Sora",
+      "title_zh": "OpenAI 为何关停 Sora",
+      "summary_en": "The Verge: OpenAI shut down Sora, its AI video-generation app, effective Tuesday, saying the company needs to concentrate its available compute resources on its AI agent initiatives and enterprise tools rather than consumer video generation.",
+      "summary_zh": "The Verge：OpenAI 正式关停其 AI 视频生成应用 Sora，称公司需将现有算力集中用于 AI Agent 战略及企业级工具，而非消费端视频生成业务。",
+      "tags": [
+        "产品发布",
+        "OpenAI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-29T07:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "ac886654",
+      "lang": "en",
+      "title_en": "Why can't TikTok identify AI generated ads when I can?",
+      "title_zh": "TikTok 为何无法识别 AI 生成广告？",
+      "summary_en": "The Verge: Investigation reveals TikTok consistently fails to label AI-generated advertisements despite regulations requiring disclosure, while human observers can easily identify them. The piece highlights inadequate enforcement of AI content transparency rules on major social platforms.",
+      "summary_zh": "The Verge：调查发现 TikTok 持续未能标注 AI 生成广告，尽管相关法规要求强制披露，而人类观察者往往能轻易识别。此文凸显主流社交平台在 AI 内容透明度监管执行方面的明显不足。",
+      "tags": [
+        "行业动态",
+        "监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "published_at": "2026-03-28T14:00:00Z",
+      "collected_at": "2026-03-29T07:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ddd8f888",
+      "lang": "zh",
+      "title_zh": "小沓AI・智能营销产品 2026GDPS重磅发布",
+      "title_en": "Xiaoda AI Intelligent Marketing Platform Launches at 2026GDPS",
+      "summary_zh": "量子位：壹沓科技在2026GDPS大会发布小沓AI智能营销产品，基于Multi-Agent架构构建涵盖洞察、内容、营销全链路的B2A2C新型营销平台，助力品牌在大模型问答结果中占据核心席位，应对Zero-Click时代的流量变局。",
+      "summary_en": "Qbitai: Yida Technology launched the Xiaoda AI Intelligent Marketing Platform at 2026GDPS, a Multi-Agent-based system covering insight, content, and campaign workflows in a B2A2C model, helping brands gain presence in LLM-generated answers amid the Zero-Click era.",
+      "tags": [
+        "产品发布",
+        "AI应用"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393064.html",
+      "published_at": "2026-03-29T02:49:35Z",
+      "collected_at": "2026-03-29T07:00:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]
