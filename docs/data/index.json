@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-30",
-  "updated_at": "2026-03-30T09:00:00Z",
+  "updated_at": "2026-03-30T15:10:00Z",
   "dates": [
     "2026-03-30",
     "2026-03-29",
@@ -28,7 +28,7 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 26,
+  "total_items": 268,
   "page": 1,
   "page_size": 20,
   "total_pages": 2,
@@ -238,6 +238,70 @@
       "merged_sources": []
     },
     {
+      "id": "7e0f12eb",
+      "lang": "zh",
+      "title_zh": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
+      "summary_zh": "阿里巴巴：阿里巴巴正式发布Qwen3.5-Omni多模态大模型，在视觉、语音、文本等多模态理解能力上超越Google Gemini 3.1 Pro，进一步巩固国产大模型在多模态领域的竞争优势。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393460.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "b38989c1",
+      "lang": "zh",
+      "title_zh": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
+      "summary_zh": "量子位：一款来自中国的开源OCR工具在全球基准测试中夺冠，GitHub星标超73300个，引发广泛关注，彰显中国开源AI社区的强劲实力。",
+      "tags": [
+        "开源",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393433.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "7896db99",
+      "lang": "zh",
+      "title_zh": "DeepSeek网页版大升级，随后宕机11小时崩上热搜",
+      "summary_zh": "量子位：DeepSeek对网页版进行重大功能升级，新功能引发用户大量涌入后服务宕机长达11小时，登上社交媒体热搜。此次升级被认为是新版本模型即将发布的前兆。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393235.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "db4ab720",
+      "lang": "zh",
+      "title_zh": "量子位沙龙：9位大神分享AI工具深度使用技巧",
+      "summary_zh": "量子位：量子位沙龙邀请9位AI深度用户分享Claude等AI工具的使用技巧，涵盖效率提升与收益优化等实战场景，揭示多数用户尚未充分挖掘AI潜力的现象。",
+      "tags": [
+        "行业动态",
+        "应用"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393244.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "d4e5f6g7",
       "lang": "en",
       "title_en": "Coding Agents Could Make Free Software Matter Again",
@@ -311,82 +375,6 @@
       "published_at": "2026-03-29T20:51:55Z",
       "collected_at": "2026-03-30T00:00:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f6g7h8i9",
-      "lang": "en",
-      "title_en": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "title_zh": "ChatGPT 输入框被 Cloudflare 读取 React 状态后才解锁，引发隐私争议",
-      "summary_en": "Hacker News: A technical investigation reveals ChatGPT's input field is blocked until Cloudflare's bot detection script reads React component state, raising privacy and transparency concerns about frontend anti-bot mechanisms intercepting user interaction data.",
-      "summary_zh": "Hacker News：技术调查显示，ChatGPT 输入框在 Cloudflare 机器人检测脚本读取 React 组件状态之前处于锁定状态，引发对前端反机器人机制拦截用户交互数据的隐私与透明度争议。",
-      "tags": [
-        "ChatGPT",
-        "隐私",
-        "AI安全"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "published_at": "2026-03-29T20:21:05Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "g7h8i9j0",
-      "lang": "en",
-      "title_en": "AI Isn't Lightening Workloads. It's Making Them More Intense",
-      "title_zh": "AI 并未减轻工作负担，反而使工作更加繁重",
-      "summary_en": "Hacker News: A Wall Street Journal analysis finds that rather than reducing workload, AI tools are increasing work intensity—workers are expected to handle more tasks, faster, while also managing AI outputs. The effect may be amplifying burnout rather than alleviating it.",
-      "summary_zh": "Hacker News：《华尔街日报》分析发现，AI 工具非但没有减轻工作负担，反而加剧了工作强度——员工被要求更快处理更多任务并审核 AI 输出，可能加剧职业倦怠而非缓解。",
-      "tags": [
-        "AI就业",
-        "AI伦理",
-        "工作效率"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c",
-      "published_at": "2026-03-29T19:44:48Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "h8i9j0k1",
-      "lang": "en",
-      "title_en": "Show HN: DeepRepo – AI architecture diagrams from GitHub repos",
-      "title_zh": "Show HN：DeepRepo —— 从 GitHub 仓库自动生成 AI 架构图",
-      "summary_en": "Hacker News: DeepRepo is a new tool that uses AI to automatically generate architecture diagrams from GitHub repositories, helping developers quickly understand code structure and system design without manual documentation.",
-      "summary_zh": "Hacker News：DeepRepo 是一款利用 AI 自动从 GitHub 仓库生成架构图的工具，帮助开发者无需手动文档即可快速理解代码结构与系统设计。",
-      "tags": [
-        "AI工具",
-        "开发者工具",
-        "代码分析"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://deeprepo.dev",
-      "published_at": "2026-03-29T18:32:56Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "b2c3d4e5",
-      "lang": "en",
-      "title_en": "Sora's shutdown could be a reality check moment for AI video",
-      "title_zh": "Sora 停服：AI 视频生成热潮的冷静时刻",
-      "summary_en": "TechCrunch: OpenAI's decision to shut down Sora raises questions about the broader AI video generation market. The analysis explores whether this reflects normal corporate strategy or signals a wider pullback as AI video tools face monetization challenges.",
-      "summary_zh": "TechCrunch：OpenAI 关闭 Sora 引发对 AI 视频生成赛道的反思。文章分析这究竟是正常的产品策略调整，还是整个行业面临商业化困境的信号，对 AI 视频工具市场前景提出警示。",
-      "tags": [
-        "AI视频",
-        "OpenAI",
-        "产品策略"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-      "published_at": "2026-03-29T16:30:00Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]

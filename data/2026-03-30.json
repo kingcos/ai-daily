@@ -1,6 +1,6 @@
 {
   "date": "2026-03-30",
-  "generated_at": "2026-03-30T09:00:00Z",
+  "generated_at": "2026-03-30T15:10:00Z",
   "items": [
     {
       "id": "73970da2",
@@ -204,6 +204,70 @@
       "published_at": "2026-03-30T00:00:00Z",
       "collected_at": "2026-03-30T09:00:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "7e0f12eb",
+      "lang": "zh",
+      "title_zh": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
+      "summary_zh": "阿里巴巴：阿里巴巴正式发布Qwen3.5-Omni多模态大模型，在视觉、语音、文本等多模态理解能力上超越Google Gemini 3.1 Pro，进一步巩固国产大模型在多模态领域的竞争优势。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393460.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "b38989c1",
+      "lang": "zh",
+      "title_zh": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
+      "summary_zh": "量子位：一款来自中国的开源OCR工具在全球基准测试中夺冠，GitHub星标超73300个，引发广泛关注，彰显中国开源AI社区的强劲实力。",
+      "tags": [
+        "开源",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393433.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "7896db99",
+      "lang": "zh",
+      "title_zh": "DeepSeek网页版大升级，随后宕机11小时崩上热搜",
+      "summary_zh": "量子位：DeepSeek对网页版进行重大功能升级，新功能引发用户大量涌入后服务宕机长达11小时，登上社交媒体热搜。此次升级被认为是新版本模型即将发布的前兆。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393235.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "db4ab720",
+      "lang": "zh",
+      "title_zh": "量子位沙龙：9位大神分享AI工具深度使用技巧",
+      "summary_zh": "量子位：量子位沙龙邀请9位AI深度用户分享Claude等AI工具的使用技巧，涵盖效率提升与收益优化等实战场景，揭示多数用户尚未充分挖掘AI潜力的现象。",
+      "tags": [
+        "行业动态",
+        "应用"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393244.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
