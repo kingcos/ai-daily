@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T15:00:00Z",
+  "latest_date": "2026-03-30",
+  "updated_at": "2026-03-30T09:00:00Z",
   "dates": [
+    "2026-03-30",
     "2026-03-29",
     "2026-03-28",
     "2026-03-26",
@@ -27,42 +28,116 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 22,
+  "total_items": 26,
   "page": 2,
   "page_size": 20,
   "total_pages": 2,
   "items": [
     {
-      "id": "d37ee334",
-      "lang": "en",
-      "title_en": "Be careful: chatting with AI about your case is discoverable",
-      "title_zh": "警告：与 AI 讨论案情的聊天记录在法庭上可被调取",
-      "summary_en": "Hacker News: A Harvard Law Review analysis of United States v. Heppner finds that AI chat logs about a legal case may be discoverable in court proceedings. The ruling has broad implications for attorneys and litigants using AI tools to discuss sensitive case details.",
-      "summary_zh": "Hacker News：《哈佛法律评论》分析 United States v. Heppner 案指出，当事人与 AI 讨论案情的聊天记录可能在法庭程序中被调取，对使用 AI 工具讨论敏感案件细节的律师和当事人具有广泛影响。",
+      "id": "i9j0k1l2",
+      "lang": "zh",
+      "title_zh": "Claude 90分钟挖穿20年漏洞！5w星「安全」系统跌下神坛",
+      "summary_zh": "量子位：Anthropic 研究员指令 Claude 对拥有5万 GitHub Star 的 Ghost CMS 进行漏洞挖掘，90分钟内精准定位首个高危漏洞，并在无身份验证情况下窃取管理员 API 密钥。同类方法在 Linux 内核中同样奏效，研究员感叹 AI 安全能力已远超预期且呈指数级增长。",
       "tags": [
-        "安全与伦理",
-        "行业动态"
+        "AI安全",
+        "漏洞挖掘",
+        "Claude"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
-      "published_at": "2026-03-28T07:00:00Z",
-      "collected_at": "2026-03-29T00:10:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393186.html",
+      "published_at": "2026-03-29T16:17:28Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "j0k1l2m3",
+      "lang": "zh",
+      "title_zh": "打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验全面升级",
+      "summary_zh": "量子位：微软亚洲研究院联合剑桥大学、普林斯顿推出 MicroCoder，针对新一代代码大模型训练中旧经验「失效」问题，从算法、数据、框架、训练经验四维度全面升级，在最新代码测试集取得明显提升，并开源34条训练洞察。",
+      "tags": [
+        "代码大模型",
+        "强化学习",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393164.html",
+      "published_at": "2026-03-29T16:11:35Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "k1l2m3n4",
+      "lang": "zh",
+      "title_zh": "Claude手搓3D建筑编辑器火爆GitHub！专业软件动辄数万年费的时代要变了",
+      "summary_zh": "量子位：一款由 Claude 辅助生成的开源3D建筑编辑器 Pascal Editor 上线 GitHub 数天冲至5.4k stars，支持浏览器直接运行、多视角切换、家居拖拽编辑及实时数据显示，2D/3D无缝联动，被认为有望颠覆 AutoCAD、Revit 等动辄数万元年费的专业建筑软件。",
+      "tags": [
+        "AI编程",
+        "Claude",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393125.html",
+      "published_at": "2026-03-29T16:08:53Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "90edf7a7",
+      "lang": "en",
+      "title_en": "Elon Musk's last co-founder reportedly leaves xAI",
+      "title_zh": "Elon Musk 在 xAI 的最后两位联合创始人相继离开",
+      "summary_en": "TechCrunch: The final two co-founders of Elon Musk's AI startup xAI—Manuel Kroiss and Ross Nordeen—have departed, according to Business Insider. This follows Musk's admission that xAI 'was not built right the first time' and is being rebuilt from the ground up. The company was recently acquired by SpaceX.",
+      "summary_zh": "TechCrunch：据 Business Insider 报道，Elon Musk 旗下 AI 创业公司 xAI 的最后两位联合创始人 Manuel Kroiss 和 Ross Nordeen 已相继离职。此前 Musk 承认 xAI「第一次没有建对」，正从头重建。该公司近期已被 SpaceX 收购。",
+      "tags": [
+        "xAI",
+        "AI公司",
+        "人事变动"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "published_at": "2026-03-28T16:11:00Z",
+      "collected_at": "2026-03-30T03:08:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "e6b17f61",
-      "lang": "zh",
-      "title_zh": "钉钉CLI开源！首批开放10项核心产品能力，原生支持Claude Code等",
-      "summary_zh": "量子位：钉钉 CLI 开源项目正式上架 GitHub，采用 Apache-2.0 协议，首批开放 AI 表格、日历、机器人等 10 项核心产品能力，原生支持 Claude Code、Cursor 等主流 AI 编程与 Agent 执行环境。这是国内首个面向 AI Agent 开源全产品能力的国民级应用，开发者一行指令即可调用企业级功能。",
+      "id": "d6a3d8c0",
+      "lang": "en",
+      "title_en": "Anthropic's Claude popularity with paying consumers is skyrocketing",
+      "title_zh": "Anthropic Claude 付费用户激增，增速创历史新高",
+      "summary_en": "TechCrunch: An analysis of 28 million U.S. consumer credit card transactions found Claude's paid subscriber count reached record highs in January–February 2026. Anthropic confirmed paid subscriptions more than doubled this year, driven by Claude Code's popularity, a viral Super Bowl ad campaign, and the company's high-profile Department of Defense dispute.",
+      "summary_zh": "TechCrunch：对2800万美国消费者信用卡交易的分析显示，Claude 付费订阅用户在2026年1-2月创下历史新高。Anthropic 确认今年付费订阅量翻倍以上，背后驱动力包括 Claude Code 爆红、超级碗广告出圈以及与国防部的高关注度纠纷。",
       "tags": [
-        "开源",
-        "Agent"
+        "Anthropic",
+        "Claude",
+        "商业"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392828.html",
-      "published_at": "2026-03-27T16:00:00Z",
-      "collected_at": "2026-03-29T00:10:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "d60e6b3e",
+      "lang": "en",
+      "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "title_zh": "斯坦福研究警示：向 AI 聊天机器人寻求个人建议存在心理健康风险",
+      "summary_en": "TechCrunch: A Stanford study published in Science found that AI chatbots validate user behavior 49% more often than humans on average, and 51% on situations where humans judged users to be wrong. Researchers warn this 'sycophantic' behavior fosters emotional dependency and erodes interpersonal problem-solving skills, with particular concern for the 12% of U.S. teens who use AI for emotional support.",
+      "summary_zh": "TechCrunch：斯坦福大学发表于《科学》的研究发现，AI 聊天机器人对用户行为的认可率平均比人类高49%，在人类判断用户有错的情境中高达51%。研究警告，这种「奉承行为」会培养情感依赖并削弱人际交往能力，尤其令人担忧的是12%的美国青少年已将 AI 作为情感支持来源。",
+      "tags": [
+        "AI安全",
+        "AI伦理",
+        "AI心理健康"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-30T03:08:00Z",
       "importance": 4,
       "merged_sources": []
     }
