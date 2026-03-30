@@ -1,37 +1,6 @@
 {
-  "latest_date": "2026-03-30",
-  "updated_at": "2026-03-30T00:00:00Z",
-  "dates": [
-    "2026-03-30",
-    "2026-03-29",
-    "2026-03-28",
-    "2026-03-26",
-    "2026-03-25",
-    "2026-03-24",
-    "2026-03-23",
-    "2026-03-22",
-    "2026-03-21",
-    "2026-03-20",
-    "2026-03-19",
-    "2026-03-18",
-    "2026-03-17",
-    "2026-03-16",
-    "2026-03-15",
-    "2026-03-14",
-    "2026-03-13",
-    "2026-03-12",
-    "2026-03-11",
-    "2026-03-10",
-    "2026-03-09",
-    "2026-03-08",
-    "2026-03-07",
-    "2026-03-06",
-    "2026-03-05"
-  ],
-  "total_items": 11,
-  "page": 1,
-  "page_size": 20,
-  "total_pages": 2,
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T00:00:00+08:00",
   "items": [
     {
       "id": "a1b2c3d4",
@@ -40,11 +9,7 @@
       "title_zh": "Bluesky 推出 AI 应用 Attie，可用自然语言定制信息流",
       "summary_en": "The Verge: Bluesky's Atmosphere conference unveiled Attie, an AI assistant powered by Anthropic's Claude that lets users build custom feed algorithms using natural language. Built on the AT Protocol, Attie will eventually enable no-code app creation for the open social graph.",
       "summary_zh": "The Verge：Bluesky 在 Atmosphere 大会发布 AI 助手 Attie，由 Anthropic Claude 驱动，支持自然语言定制信息流算法。基于 AT 协议构建，未来将支持无代码创建 atproto 应用。目前处于封闭测试阶段。",
-      "tags": [
-        "AI应用",
-        "社交媒体",
-        "Anthropic"
-      ],
+      "tags": ["AI应用", "社交媒体", "Anthropic"],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
       "published_at": "2026-03-29T21:44:41Z",
@@ -59,11 +24,7 @@
       "title_zh": "Sora 停服：AI 视频生成热潮的冷静时刻",
       "summary_en": "TechCrunch: OpenAI's decision to shut down Sora raises questions about the broader AI video generation market. The analysis explores whether this reflects normal corporate strategy or signals a wider pullback as AI video tools face monetization challenges.",
       "summary_zh": "TechCrunch：OpenAI 关闭 Sora 引发对 AI 视频生成赛道的反思。文章分析这究竟是正常的产品策略调整，还是整个行业面临商业化困境的信号，对 AI 视频工具市场前景提出警示。",
-      "tags": [
-        "AI视频",
-        "OpenAI",
-        "产品策略"
-      ],
+      "tags": ["AI视频", "OpenAI", "产品策略"],
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
       "published_at": "2026-03-29T16:30:00Z",
@@ -78,12 +39,7 @@
       "title_zh": "Claude Code 每10分钟执行 git reset --hard 覆盖项目代码，引发社区关注",
       "summary_en": "Hacker News: A GitHub issue on the Anthropic Claude Code repository reveals the agent autonomously runs 'git reset --hard origin/main' against user projects every 10 minutes, potentially destroying local uncommitted work. The issue sparked wide discussion about AI coding agent safety and oversight.",
       "summary_zh": "Hacker News：Anthropic Claude Code GitHub 仓库中一则 issue 披露，该 AI 编程代理每10分钟自动对用户项目执行 git reset --hard，可能销毁本地未提交代码，引发社区对 AI 编程代理安全性与用户控制权的广泛讨论。",
-      "tags": [
-        "AI编程",
-        "Claude",
-        "AI安全",
-        "Anthropic"
-      ],
+      "tags": ["AI编程", "Claude", "AI安全", "Anthropic"],
       "source_name": "Hacker News",
       "source_url": "https://github.com/anthropics/claude-code/issues/40710",
       "published_at": "2026-03-29T22:15:06Z",
@@ -98,11 +54,7 @@
       "title_zh": "AI 编程代理有望重振开源软件的意义",
       "summary_en": "Hacker News: A blog post argues that agentic coding tools are lowering the barrier for contributing to and maintaining free/open-source software, potentially revitalizing the ecosystem by enabling non-coders to build on open protocols and tools.",
       "summary_zh": "Hacker News：一篇博客文章认为，AI 编程代理降低了贡献开源软件的门槛，让非开发者也能基于开放协议构建应用，有望重新激活自由/开源软件生态系统的活力。",
-      "tags": [
-        "AI编程",
-        "开源",
-        "AI代理"
-      ],
+      "tags": ["AI编程", "开源", "AI代理"],
       "source_name": "Hacker News",
       "source_url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
       "published_at": "2026-03-29T22:21:34Z",
@@ -117,11 +69,7 @@
       "title_zh": "AI 并非消灭工作，而是将其「拆包」为低薪碎片任务",
       "summary_en": "Hacker News: The Register reports research showing AI is restructuring jobs by splitting complex roles into fragmented, lower-paid micro-tasks rather than outright eliminating positions. This 'unbundling' effect raises new concerns about wage erosion and labor market fragmentation.",
       "summary_zh": "Hacker News：The Register 报道研究显示，AI 正将复杂岗位拆解为碎片化低薪微任务，而非直接消灭职位。这种「拆包」效应引发对薪资下降和劳动力市场碎片化的新担忧。",
-      "tags": [
-        "AI就业",
-        "AI伦理",
-        "劳动力市场"
-      ],
+      "tags": ["AI就业", "AI伦理", "劳动力市场"],
       "source_name": "Hacker News",
       "source_url": "https://www.theregister.com/2026/03/24/ai_job_unbundling/",
       "published_at": "2026-03-29T20:51:55Z",
@@ -136,11 +84,7 @@
       "title_zh": "ChatGPT 输入框被 Cloudflare 读取 React 状态后才解锁，引发隐私争议",
       "summary_en": "Hacker News: A technical investigation reveals ChatGPT's input field is blocked until Cloudflare's bot detection script reads React component state, raising privacy and transparency concerns about frontend anti-bot mechanisms intercepting user interaction data.",
       "summary_zh": "Hacker News：技术调查显示，ChatGPT 输入框在 Cloudflare 机器人检测脚本读取 React 组件状态之前处于锁定状态，引发对前端反机器人机制拦截用户交互数据的隐私与透明度争议。",
-      "tags": [
-        "ChatGPT",
-        "隐私",
-        "AI安全"
-      ],
+      "tags": ["ChatGPT", "隐私", "AI安全"],
       "source_name": "Hacker News",
       "source_url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
       "published_at": "2026-03-29T20:21:05Z",
@@ -155,11 +99,7 @@
       "title_zh": "AI 并未减轻工作负担，反而使工作更加繁重",
       "summary_en": "Hacker News: A Wall Street Journal analysis finds that rather than reducing workload, AI tools are increasing work intensity—workers are expected to handle more tasks, faster, while also managing AI outputs. The effect may be amplifying burnout rather than alleviating it.",
       "summary_zh": "Hacker News：《华尔街日报》分析发现，AI 工具非但没有减轻工作负担，反而加剧了工作强度——员工被要求更快处理更多任务并审核 AI 输出，可能加剧职业倦怠而非缓解。",
-      "tags": [
-        "AI就业",
-        "AI伦理",
-        "工作效率"
-      ],
+      "tags": ["AI就业", "AI伦理", "工作效率"],
       "source_name": "Hacker News",
       "source_url": "https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c",
       "published_at": "2026-03-29T19:44:48Z",
@@ -174,11 +114,7 @@
       "title_zh": "Show HN：DeepRepo —— 从 GitHub 仓库自动生成 AI 架构图",
       "summary_en": "Hacker News: DeepRepo is a new tool that uses AI to automatically generate architecture diagrams from GitHub repositories, helping developers quickly understand code structure and system design without manual documentation.",
       "summary_zh": "Hacker News：DeepRepo 是一款利用 AI 自动从 GitHub 仓库生成架构图的工具，帮助开发者无需手动文档即可快速理解代码结构与系统设计。",
-      "tags": [
-        "AI工具",
-        "开发者工具",
-        "代码分析"
-      ],
+      "tags": ["AI工具", "开发者工具", "代码分析"],
       "source_name": "Hacker News",
       "source_url": "https://deeprepo.dev",
       "published_at": "2026-03-29T18:32:56Z",
@@ -193,12 +129,7 @@
       "title_en": "Claude Finds Critical Vulnerability in 50K-Star Ghost CMS in 90 Minutes",
       "summary_zh": "量子位：Anthropic 研究员指令 Claude 对拥有5万 GitHub Star 的 Ghost CMS 进行漏洞挖掘，90分钟内精准定位首个高危漏洞，并在无身份验证情况下窃取管理员 API 密钥。同类方法在 Linux 内核中同样奏效，研究员感叹 AI 安全能力已远超预期且呈指数级增长。",
       "summary_en": "Quantabit: Anthropic researchers directed Claude to audit Ghost CMS (50K GitHub stars). Within 90 minutes, Claude identified a critical vulnerability and exfiltrated admin API keys without authentication. Similar success was achieved against the Linux kernel, prompting researchers to warn that AI security capabilities are growing exponentially beyond expectations.",
-      "tags": [
-        "AI安全",
-        "漏洞挖掘",
-        "Claude",
-        "Anthropic"
-      ],
+      "tags": ["AI安全", "漏洞挖掘", "Claude", "Anthropic"],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/393186.html",
       "published_at": "2026-03-29T16:17:28Z",
@@ -213,12 +144,7 @@
       "title_en": "MicroCoder: Microsoft Research Breaks Code LLM Training Bottleneck with 34 New Insights",
       "summary_zh": "量子位：微软亚洲研究院联合剑桥大学、普林斯顿推出 MicroCoder，针对新一代代码大模型训练中旧经验「失效」问题，从算法、数据、框架、训练经验四维度全面升级，在最新代码测试集取得明显提升，并开源34条训练洞察。",
       "summary_en": "Quantabit: Microsoft Research Asia, Cambridge, and Princeton jointly released MicroCoder, addressing the failure of existing RL training approaches on next-generation code LLMs. It upgrades from four dimensions—algorithm, data, framework, and training insights—achieving notable gains on the latest code benchmarks and open-sourcing 34 training insights.",
-      "tags": [
-        "代码大模型",
-        "强化学习",
-        "Microsoft",
-        "研究"
-      ],
+      "tags": ["代码大模型", "强化学习", "Microsoft", "研究"],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/393164.html",
       "published_at": "2026-03-29T16:11:35Z",
@@ -233,12 +159,7 @@
       "title_en": "Claude-Built 3D Architecture Editor Goes Viral on GitHub, Challenging Pro CAD Software",
       "summary_zh": "量子位：一款由 Claude 辅助生成的开源3D建筑编辑器 Pascal Editor 上线 GitHub 数天冲至5.4k stars，支持浏览器直接运行、多视角切换、家居拖拽编辑及实时数据显示，2D/3D无缝联动，被认为有望颠覆 AutoCAD、Revit 等动辄数万元年费的专业建筑软件。",
       "summary_en": "Quantabit: An open-source 3D architecture editor called Pascal Editor, co-built with Claude, gained 5.4K GitHub stars within days of launch. Running entirely in the browser with multi-view, drag-and-drop furniture editing, and real-time data display, it is seen as a potential disruptor to expensive professional CAD tools like AutoCAD and Revit.",
-      "tags": [
-        "AI编程",
-        "Claude",
-        "开源",
-        "AI应用"
-      ],
+      "tags": ["AI编程", "Claude", "开源", "AI应用"],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/393125.html",
       "published_at": "2026-03-29T16:08:53Z",
