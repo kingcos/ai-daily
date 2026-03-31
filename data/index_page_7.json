@@ -1,7 +1,9 @@
 {
-  "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T09:00:00Z",
+  "latest_date": "2026-03-31",
+  "updated_at": "2026-03-31T03:10:00Z",
   "dates": [
+    "2026-03-31",
+    "2026-03-30",
     "2026-03-29",
     "2026-03-28",
     "2026-03-26",
@@ -27,350 +29,364 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 234,
+  "total_items": 287,
   "page": 7,
   "page_size": 20,
-  "total_pages": 12,
+  "total_pages": 15,
   "items": [
     {
-      "id": "16e7e33a",
-      "lang": "en",
-      "title_en": "Cq – Stack Overflow for AI coding agents",
-      "title_zh": "Cq：专为 AI 编程代理打造的 Stack Overflow",
-      "summary_en": "Hacker News: Mozilla.ai introduced Cq, an open platform designed as a Stack Overflow equivalent for AI coding agents, allowing agents to query structured knowledge bases and share solutions. The project aims to improve agent reliability by grounding responses in curated, authoritative Q&A rather than raw web data.",
-      "summary_zh": "Hacker News：Mozilla.ai 推出 Cq，这是一个面向 AI 编程代理的开放知识平台，相当于代理版 Stack Overflow。该平台允许 AI 代理查询结构化知识库并共享解决方案，以提升代理回答的准确性与可靠性。",
+      "id": "afaa88eb",
+      "lang": "zh",
+      "title_zh": "黄仁勋暴论：AGI已经实现，Ilya错了，程序员将有10亿",
+      "title_en": "Jensen Huang: AGI has been achieved, Ilya is wrong, there will be 1 billion programmers",
+      "summary_zh": "量子位：英伟达CEO黄仁勋公开宣称AGI已经实现，认为Ilya Sutskever对AGI的定义有误；并预测随着AI辅助编程普及，全球程序员数量将迈向10亿规模。",
+      "summary_en": "Qbitai: Nvidia CEO Jensen Huang claimed AGI has already been achieved and that Ilya Sutskever's definition is incorrect; he also predicted that AI-assisted programming will eventually enable one billion people to become programmers.",
       "tags": [
-        "AI工具",
-        "代理",
-        "开源"
+        "行业观点",
+        "AGI"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-      "published_at": "2026-03-23T16:11:03Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "6947468d",
-      "lang": "en",
-      "title_en": "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO",
-      "title_zh": "扎克伯格正在打造 AI 代理辅助其 CEO 决策",
-      "summary_en": "Hacker News: According to a WSJ report, Meta CEO Mark Zuckerberg is developing an AI agent designed to assist with executive decision-making, including analyzing business data, preparing briefings, and streamlining internal communications. The project reflects broader C-suite interest in AI-augmented leadership.",
-      "summary_zh": "Hacker News：《华尔街日报》报道，Meta CEO 扎克伯格正在开发一款 AI 代理，用于辅助高管决策，包括分析商业数据、准备汇报材料和优化内部沟通。此举折射出高层管理者对 AI 赋能领导力的浓厚兴趣。",
-      "tags": [
-        "代理",
-        "Meta",
-        "AI应用"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5",
-      "published_at": "2026-03-23T16:04:20Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4e744749",
-      "lang": "en",
-      "title_en": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-      "title_zh": "初创公司 Gimlet Labs 以优雅方案破解 AI 推理瓶颈",
-      "summary_en": "TechCrunch: Gimlet Labs raised an $80 million Series A for its chip-agnostic AI inference technology that runs workloads simultaneously across NVIDIA, AMD, Intel, ARM, Cerebras, and d-Matrix chips. The approach addresses the fragmented inference hardware landscape by abstracting away underlying chip differences.",
-      "summary_zh": "TechCrunch：AI 推理初创公司 Gimlet Labs 完成 8000 万美元 A 轮融资，其技术可同时调度 NVIDIA、AMD、Intel、ARM、Cerebras 及 d-Matrix 等多种芯片执行推理任务，有效解决推理硬件碎片化问题。",
-      "tags": [
-        "AI基础设施",
-        "推理",
-        "投资融资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-      "published_at": "2026-03-23T16:00:00Z",
-      "collected_at": "2026-03-24T00:00:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391750.html",
+      "published_at": "2026-03-25T06:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "0722ab48",
+      "id": "0c9c67ce",
       "lang": "en",
-      "title_en": "Littlebird raises $11M for its AI-assisted 'recall' tool that reads your computer screen",
-      "title_zh": "Littlebird 融资 1100 万美元，打造读屏 AI 上下文召回工具",
-      "summary_en": "TechCrunch: Littlebird raised $11M to build an AI tool that reads your screen in real time to capture context, answer questions, and automate tasks without relying on screenshots. The product positions itself as a privacy-aware alternative to AI recall tools, capturing context as text rather than images.",
-      "summary_zh": "TechCrunch：Littlebird 完成 1100 万美元融资，其 AI 产品可实时读取屏幕内容、捕获上下文并自动回答问题，无需截图存储。该产品以隐私友好方式区别于微软 Recall 等竞品。",
-      "tags": [
-        "AI工具",
-        "投资融资",
-        "隐私"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-      "published_at": "2026-03-23T16:00:00Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "c795aa86",
-      "lang": "en",
-      "title_en": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
-      "title_zh": "Altman 支持的核聚变初创公司 Helion 与 OpenAI 洽谈供电协议",
-      "summary_en": "TechCrunch: Helion Energy, the nuclear fusion startup backed by Sam Altman, is reportedly negotiating to sell 12.5% of its power output to OpenAI. The deal underscores OpenAI's aggressive push to secure large-scale clean energy for its expanding AI infrastructure.",
-      "summary_zh": "TechCrunch：由 Sam Altman 等投资的核聚变初创 Helion Energy 据报正与 OpenAI 洽谈，拟将 12.5% 发电量出售给 OpenAI，以支持其快速扩张的 AI 基础设施对大规模清洁能源的需求。",
-      "tags": [
-        "AI基础设施",
-        "能源"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
-      "published_at": "2026-03-23T15:03:36Z",
-      "collected_at": "2026-03-23T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "76109139",
-      "lang": "en",
-      "title_en": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "title_zh": "iPhone 17 Pro 本地运行 4000 亿参数大模型演示",
-      "summary_en": "Hacker News: A demo video shows an iPhone 17 Pro running a 400-billion-parameter LLM locally using Apple's on-device neural engine. The demonstration sparked discussion about the state of edge AI and Apple Silicon's performance trajectory for large model inference.",
-      "summary_zh": "Hacker News：演示视频显示 iPhone 17 Pro 可在本地运行 4000 亿参数大语言模型，借助苹果片上神经引擎实现，引发社区对端侧 AI 能力与苹果芯片性能路线的广泛讨论。",
-      "tags": [
-        "硬件",
-        "边缘AI",
-        "Apple"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://twitter.com/anemll/status/2035901335984611412",
-      "published_at": "2026-03-23T14:30:10Z",
-      "collected_at": "2026-03-23T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b4e74e04",
-      "lang": "en",
-      "title_en": "Confronting the CEO of the AI company that impersonated me",
-      "title_zh": "对话那家 AI 公司 CEO：它的产品冒充了我",
-      "summary_en": "The Verge: Grammarly's 'Expert Review' feature sparked controversy after it appeared to impersonate The Verge's Nilay Patel via AI. Superhuman CEO Shishir Mehrotra responds to the incident, discussing the ethics of AI impersonation in productivity tools and whether such systems create or extract value.",
-      "summary_zh": "The Verge：Grammarly「Expert Review」功能被指借 AI 模仿 The Verge 主编 Nilay Patel 风格，引发争议。Superhuman CEO Shishir Mehrotra 就此作出回应，探讨 AI 冒充真人专家的伦理边界。",
-      "tags": [
-        "安全对齐",
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
-      "published_at": "2026-03-23T13:30:00Z",
-      "collected_at": "2026-03-23T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "3f7f4d2b",
-      "lang": "en",
-      "title_en": "Snowflake lays off documentation staff after they train AI replacement",
-      "title_zh": "Snowflake 让文档团队训练 AI 后将其裁员",
-      "summary_en": "Hacker News: Snowflake reportedly laid off its documentation team shortly after tasking them with training an AI system to replace their roles. The incident has become a widely cited example of AI-driven workforce displacement and raises ethical questions about companies asking employees to build their own replacements.",
-      "summary_zh": "Hacker News：Snowflake 被报道在安排文档团队训练用于替代其工作的 AI 系统后随即将其裁员，此事件被广泛引用为 AI 驱动劳动力替代的典型案例，引发伦理层面的争议。",
+      "title_en": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "title_zh": "Kleiner Perkins完成35亿美元募资，全力押注AI",
+      "summary_en": "TechCrunch: Kleiner Perkins has closed a $3.5 billion fundraise, allocating $1 billion for early-stage AI startups and $2.5 billion for late-stage growth businesses, signaling a major strategic pivot by one of Silicon Valley's most storied venture firms to double down on AI.",
+      "summary_zh": "TechCrunch：Kleiner Perkins完成35亿美元募资，其中10亿美元用于早期AI创业公司，25亿美元投向成长期企业，标志着这家老牌硅谷风投全面押注AI的战略转型。",
       "tags": [
         "行业动态",
-        "安全对齐"
+        "投融资"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://threadreaderapp.com/thread/2035197183230709874.html",
-      "published_at": "2026-03-23T11:35:30Z",
-      "collected_at": "2026-03-23T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "6a8da9dc",
-      "lang": "zh",
-      "title_zh": "别人都在卷视觉，这家具身公司偏要卷「手感」",
-      "summary_zh": "量子位：在具身智能赛道普遍聚焦视觉感知的背景下，一家具身机器人公司另辟蹊径，深耕触觉感知技术。通过高精度触觉传感器与AI控制算法结合，实现机器人在精细操作任务中的突破，有望解决工业场景中的灵巧操作难题。",
-      "tags": [
-        "具身智能",
-        "机器人",
-        "触觉感知"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391314.html",
-      "published_at": "2026-03-23T03:00:00Z",
-      "collected_at": "2026-03-23T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "45529cfb",
-      "lang": "zh",
-      "title_zh": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
-      "summary_zh": "量子位：字节跳动开源的AI Agent框架在GitHub上迅速走红，获超35k Star。该框架采用MCP架构，内置丰富的Skill工具包，原生支持飞书集成，降低了企业构建AI应用的门槛，引发开发者社区广泛关注。",
-      "tags": [
-        "AI Agent",
-        "开源",
-        "字节跳动"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391361.html",
-      "published_at": "2026-03-23T02:00:00Z",
-      "collected_at": "2026-03-23T09:00:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "published_at": "2026-03-25T00:47:20Z",
+      "collected_at": "2026-03-25T03:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "95ec809e",
-      "lang": "en",
-      "title_en": "Mark Zuckerberg is an AI CEO now",
-      "title_zh": "扎克伯格已成为一位 AI CEO",
-      "summary_en": "Meta: Mark Zuckerberg's identity and strategic focus have fundamentally shifted toward AI leadership, with Meta's core business bets now centered on AI models, AI assistants, and AI-powered products across its platforms.",
-      "summary_zh": "Meta：扎克伯格的战略重心已全面转向 AI，Meta 核心业务赌注集中在 AI 模型、AI 助手和全平台 AI 产品上，其 CEO 定位已从社交媒体转向 AI 领导者。",
+      "id": "42714d8c",
+      "lang": "zh",
+      "title_zh": "它石智航联合六大机构发布OmniVTA视触觉世界模型",
+      "summary_zh": "它石智航：它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村学院及北京航空航天大学，发布OmniVTA视触觉操作框架和OmniViTac大规模视触觉数据集。该系统让机器人从被动感知升级为对触觉进行主动预测和闭环精准控制，支持复杂灵巧操作任务。相关论文已在arXiv发布。",
       "tags": [
-        "产品发布"
+        "研究论文",
+        "多模态"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898804/ai-ceo-mark-zuckerberg",
-      "published_at": "2026-03-23T01:00:00Z",
-      "collected_at": "2026-03-23T06:56:18Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392105.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "13f0d4a0",
+      "id": "7bb8054a",
       "lang": "zh",
-      "title_zh": "Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后",
-      "summary_zh": "量子位：Momenta宣布与大众汽车合作，在自动驾驶领域采用世界模型而非VLA架构，成为全球首家大规模落地世界模型的自动驾驶公司。创始人曹旭东表示，传感器重要性在其技术路线中排序靠后，核心在于数据驱动的世界模型建设。",
+      "title_zh": "DeepSeek急招Agent方向，重度Vibe Coding优先",
+      "summary_zh": "DeepSeek：DeepSeek一口气发布17个招聘岗位，核心聚焦Agent方向，覆盖算法研究、数据评测及基础设施全链条。多个岗位明确要求或优先考虑重度使用Claude Code、Cursor、Copilot等AI编程工具的候选人，全栈开发岗还要求作为Vibe Coding重度用户持续探索模型能力。",
       "tags": [
-        "具身智能",
-        "自动驾驶",
-        "世界模型"
+        "Agent",
+        "编程"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391474.html",
-      "published_at": "2026-03-23T01:00:00Z",
-      "collected_at": "2026-03-23T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "af9be772",
-      "lang": "zh",
-      "title_zh": "马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工，算力产能扩5000%",
-      "summary_zh": "马斯克：宣布在德克萨斯州奥斯汀开工建设 Terafab 芯片工厂，目标成为集芯片设计与制造于一体的「英伟达+台积电」，计划将算力产能扩大5000%，缓解 AI 行业芯片短缺。",
-      "tags": [
-        "硬件"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391045.html",
-      "published_at": "2026-03-23T00:00:00Z",
-      "collected_at": "2026-03-23T06:56:18Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "e7f7b8fc",
-      "lang": "zh",
-      "title_zh": "黄仁勋发 Token 当工资！硅谷兴起刷量大赛，一人烧掉33个维基百科",
-      "summary_zh": "英伟达：黄仁勋在 GTC 演讲中提出以 AI Token 作为员工奖励，引发硅谷 AI 算力消耗竞赛，据统计部分工程师单日 Token 消耗量相当于33个完整维基百科的文本量。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391061.html",
-      "published_at": "2026-03-23T00:00:00Z",
-      "collected_at": "2026-03-23T06:56:18Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "3c73930e",
-      "lang": "zh",
-      "title_zh": "中关村北纬龙虾大赛圆满收官",
-      "summary_zh": "中关村北纬举办的 AI Agent 应用大赛圆满落幕，聚焦智能体时代 AI 应用演进路径，多家企业展示具体落地案例。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391078.html",
-      "published_at": "2026-03-23T00:00:00Z",
-      "collected_at": "2026-03-23T06:56:18Z",
+      "source_url": "https://www.qbitai.com/2026/03/392024.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
       "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "8b919016",
+      "id": "5a0e5ffa",
       "lang": "zh",
-      "title_zh": "OpenClaw 创始人回信确认360独家发现漏洞",
-      "summary_zh": "360：宣布独家发现 OpenClaw 安全漏洞，并获创始人书面确认，360 安全团队已完成漏洞验证与披露流程。",
-      "tags": [
-        "安全对齐"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391303.html",
-      "published_at": "2026-03-23T00:00:00Z",
-      "collected_at": "2026-03-23T06:56:18Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4e5af414",
-      "lang": "zh",
-      "title_zh": "千问上线AI打车，一句话搞定选车、选地点、选时间",
-      "summary_zh": "阿里千问：正式上线 AI 打车功能，用户只需一句话即可完成选车型、定地点、定时间全流程，依托 Qwen 大模型实现自然语言打车交互。",
+      "title_zh": "WorkBuddy：微信里的AI专家团队工作流",
+      "summary_zh": "WorkBuddy：WorkBuddy是一款可在微信中使用的AI工作流产品，支持多个AI专家角色协同作业，覆盖运营策略、选题、内容生产等环节。用户可通过配置AI角色分工，在微信内完成自媒体内容全流程，并支持定时推送AI热点摘要等自动化功能。",
       "tags": [
         "产品发布",
         "Agent"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391308.html",
-      "published_at": "2026-03-23T00:00:00Z",
-      "collected_at": "2026-03-23T06:56:18Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "01d83ff9",
-      "lang": "zh",
-      "title_zh": "院士+教授加盟趋境科技，领跑高效能AI Token生产新生态",
-      "summary_zh": "趋境科技：宣布院士与教授团队重磅加盟，聚焦高效能 AI Token 生产基础设施建设，定位打造新一代 AI 算力生态。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391339.html",
-      "published_at": "2026-03-23T00:00:00Z",
-      "collected_at": "2026-03-23T06:56:18Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "ba626327",
-      "lang": "en",
-      "title_en": "AI influencer awards season is upon us",
-      "title_zh": "AI 网红评奖季来袭",
-      "summary_en": "The Verge: AI influencer awards and competitions are emerging as a cultural phenomenon, reflecting the growing mainstream visibility of AI personalities and content creators in social media.",
-      "summary_zh": "AI 网红评选活动正在兴起，成为一种文化现象，反映出 AI 个性化内容创作者在社交媒体中日益增长的主流曝光度。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
-      "published_at": "2026-03-23T00:00:00Z",
-      "collected_at": "2026-03-23T06:56:18Z",
+      "source_url": "https://www.qbitai.com/2026/03/391894.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
       "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "a27c50e6",
+      "id": "0f161b31",
       "lang": "zh",
-      "title_zh": "寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖",
-      "summary_zh": "量子位：ICRA 2026 机器人竞赛正式开启报名，智元机器人作为官方赞助方提供硬件平台、数据与算力支持，鼓励具身智能研究者参赛角逐国际最高荣誉。",
+      "title_zh": "昆仑万维Mureka V8登顶全球AI音乐模型榜",
+      "summary_zh": "昆仑万维：昆仑万维旗下AI音乐模型Mureka V8在Artificial Analysis音乐模型榜单中登顶，超越Suno V4.5、Udio v1.5 Allegro等国际主流模型，实现人声（vocal）与器乐（instrument）双项第一。测试显示其在低复杂度提示词下也具备较强的理解和生成能力。",
       "tags": [
-        "具身智能",
-        "机器人",
-        "学术"
+        "产品发布",
+        "多模态",
+        "评测基准"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391359.html",
-      "published_at": "2026-03-23T00:00:00Z",
-      "collected_at": "2026-03-23T15:00:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391839.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "877123e3",
+      "lang": "zh",
+      "title_zh": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
+      "summary_zh": "量子位：一加全新小屏旗舰一加 15T 正式发布，搭载第五代骁龙 8 至尊版处理器与 ColorOS 16 系统，全面集成 AI 功能。机型配备 6.32 英寸屏幕、7500mAh 大电池及 LUMO 凝光影像系统，165Hz 高帧游戏体验，售价 4299 元起。",
+      "tags": [
+        "产品发布",
+        "手机"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391775.html",
+      "published_at": "2026-03-24T14:35:34Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "66c9a554",
+      "lang": "en",
+      "title_en": "Anthropic's Claude Code and Cowork can control your computer",
+      "title_zh": "Anthropic Claude Code 与 Cowork 现可控制电脑",
+      "summary_en": "Anthropic: Anthropic has announced that Claude Code and its new Cowork feature can now control computers directly, enabling GUI-level automation tasks. The capability allows Claude to interact with desktop applications and perform complex multi-step workflows on behalf of users.",
+      "summary_zh": "Anthropic：Anthropic 宣布 Claude Code 及新功能 Cowork 现可直接控制电脑，实现 GUI 级别的自动化操作，让 Claude 能够与桌面应用程序交互并代替用户执行复杂的多步骤工作流。",
+      "tags": [
+        "产品发布",
+        "AI Agent",
+        "编程工具"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+      "published_at": "2026-03-24T13:32:23Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "5ca1f58b",
+      "lang": "en",
+      "title_en": "Anthropic's Claude Code and Cowork can control your computer",
+      "title_zh": "Anthropic Claude Code 与 Cowork 获得电脑控制能力",
+      "summary_en": "Anthropic: Anthropic has expanded Claude Code and its Cowork collaboration tool with computer use capabilities, allowing the AI to autonomously control desktop applications and perform complex multi-step tasks. The update brings agentic capabilities directly into developer workflows.",
+      "summary_zh": "Anthropic：Anthropic 为 Claude Code 和协作工具 Cowork 新增了电脑控制功能，使 AI 能够自主操作桌面应用程序并执行复杂的多步骤任务，将智能体能力直接融入开发者工作流。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-computer-use",
+      "published_at": "2026-03-24T13:32:23Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e77aa854",
+      "lang": "zh",
+      "title_zh": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
+      "summary_zh": "量子位：量子位将于 3 月 26 日举办 AI 初创全球化线下沙龙，邀请小影科技、FluxA、谷歌、京东、声网、Meshy 等企业分享出海实践经验，面向有全球化意向的 AI 创业团队开放报名。",
+      "tags": [
+        "行业活动",
+        "出海"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391760.html",
+      "published_at": "2026-03-24T13:09:56Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "d0007d81",
+      "lang": "en",
+      "title_en": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "title_zh": "Mirage 融资 7500 万美元，继续开发 AI 视频编辑应用 Captions",
+      "summary_en": "TechCrunch: Mirage has raised $75 million to further develop AI models powering its video editing application Captions. The funding will be used to advance its AI-driven video production capabilities and expand the app's features for creators.",
+      "summary_zh": "TechCrunch：Mirage 完成 7500 万美元融资，将用于进一步开发其视频编辑应用 Captions 背后的 AI 模型，推进 AI 驱动的视频制作能力，并为创作者拓展更多功能。",
+      "tags": [
+        "融资",
+        "多模态",
+        "产品发布"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+      "published_at": "2026-03-24T13:05:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "dc202831",
+      "lang": "en",
+      "title_en": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "title_zh": "Agile Robots 成为最新与 Google DeepMind 合作的机器人公司",
+      "summary_en": "TechCrunch: Agile Robots has announced a partnership with Google DeepMind, joining a growing list of robotics companies collaborating with the AI research lab. The partnership aims to integrate DeepMind's AI capabilities into Agile Robots' humanoid and legged robot platforms.",
+      "summary_zh": "TechCrunch：Agile Robots 宣布与 Google DeepMind 建立合作关系，加入越来越多与该 AI 研究实验室合作的机器人公司行列，旨在将 DeepMind 的 AI 能力整合到其人形及腿足机器人平台。",
+      "tags": [
+        "机器人",
+        "合作",
+        "Google DeepMind"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "published_at": "2026-03-24T12:05:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f55cdd45",
+      "lang": "en",
+      "title_en": "Update on the OpenAI Foundation",
+      "title_zh": "OpenAI基金会最新动态",
+      "summary_en": "OpenAI: The OpenAI Foundation announces plans to invest at least $1 billion across four mission areas including curing diseases, jobs and economic impact, AI resilience, and supporting communities, marking a major philanthropic expansion following recapitalization.",
+      "summary_zh": "OpenAI：OpenAI基金会宣布计划在四个使命领域投资至少10亿美元，包括治愈疾病、就业与经济影响、AI韧性以及社区支持，标志着公司重组后的重大慈善扩张。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/update-on-the-openai-foundation/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9ad30de2",
+      "lang": "en",
+      "title_en": "Powering Product Discovery in ChatGPT",
+      "title_zh": "ChatGPT推出沉浸式购物产品发现功能",
+      "summary_en": "OpenAI: ChatGPT launches richer, visually immersive shopping experiences powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and deeper merchant integration within the chat interface.",
+      "summary_zh": "OpenAI：ChatGPT推出基于Agentic Commerce Protocol的沉浸式购物体验，支持产品发现、对比购物及商家深度集成，进一步强化AI购物助手能力。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features"
+      ]
+    },
+    {
+      "id": "fe256ebf",
+      "lang": "en",
+      "title_en": "Helping developers build safer AI experiences for teens",
+      "title_zh": "OpenAI发布青少年AI安全策略，助力开发者构建更安全的产品",
+      "summary_en": "OpenAI: OpenAI released open-source prompt-based teen safety policies designed for use with gpt-oss-safeguard. The policies cover six risk areas including violent/sexual content, harmful body ideals, dangerous activities, roleplay, and age-restricted goods, helping developers build age-appropriate AI protections for young users without starting from scratch. Developed with input from Common Sense Media and everyone.ai.",
+      "summary_zh": "OpenAI：OpenAI发布基于提示词的青少年安全策略，可直接与gpt-oss-safeguard配合使用。策略涵盖暴力/色情内容、有害体型观念、危险活动、角色扮演、限龄商品六大风险领域，帮助开发者在开源生态中为未成年用户构建年龄适配的安全保护机制。策略由Common Sense Media等机构参与制定，并通过ROOST Model Community开源发布。",
+      "tags": [
+        "AI安全",
+        "开发者工具"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/helping-developers-build-safer-ai-experiences-for-teens/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "28c6dab0",
+      "lang": "en",
+      "title_en": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "title_zh": "Anthropic为Claude Code新增自动模式，扩大自主执行权限",
+      "summary_en": "TechCrunch: Anthropic has launched auto mode for Claude Code, enabling the AI agent to execute multi-step development tasks with fewer manual approvals. The update reflects a broader industry trend toward more autonomous agentic coding tools, while Anthropic maintains safety guardrails to limit unintended actions.",
+      "summary_zh": "TechCrunch：Anthropic为Claude Code推出自动模式，允许AI代理自主完成多步骤开发任务，减少人工审批环节。此举体现了AI编程工具走向更高自主性的行业趋势，但Anthropic仍保留安全限制。",
+      "tags": [
+        "产品发布",
+        "AI Agent"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://claude.com/blog/auto-mode",
+        "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
+      ]
+    },
+    {
+      "id": "dc202831",
+      "lang": "en",
+      "title_en": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "title_zh": "Agile Robots与Google DeepMind合作，引入机器人基础模型",
+      "summary_en": "TechCrunch: Agile Robots has announced a partnership with Google DeepMind to integrate DeepMind's robotics foundation models into its robots. The collaboration also involves data collection to advance DeepMind's AI research, making Agile Robots the latest in a growing list of robotics firms teaming up with the AI lab.",
+      "summary_zh": "TechCrunch：Agile Robots宣布与Google DeepMind合作，将DeepMind机器人基础模型集成到其机器人产品中，同时为DeepMind AI研究提供数据支持，成为又一家与该AI实验室携手的机器人企业。",
+      "tags": [
+        "模型与技术",
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "56974e3d",
+      "lang": "en",
+      "title_en": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "title_zh": "OpenAI宣布关停Sora并终止与迪士尼的合作",
+      "summary_en": "The Verge: OpenAI is winding down its Sora AI video generation model and app, and ending a recently-announced partnership with Disney, marking a significant strategic retreat from the AI video generation market just 25 months after Sora's debut.",
+      "summary_zh": "The Verge：OpenAI宣布关停Sora AI视频生成模型及应用，并终止与迪士尼的合作协议，距Sora发布仅25个月，是OpenAI在AI视频赛道的重大战略退出。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "published_at": "2026-03-24T10:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 5,
+      "merged_sources": [
+        "https://www.qbitai.com/2026/03/391799.html"
+      ]
+    },
+    {
+      "id": "eabcc45a",
+      "lang": "en",
+      "title_en": "Arm's first CPU ever will plug into Meta's AI data centers later this year",
+      "title_zh": "Arm首款自研CPU将于年内接入Meta的AI数据中心",
+      "summary_en": "The Verge: Arm is launching its first in-house designed CPU called the AGI CPU, which will be deployed by Meta in its AI data centers later this year, signaling Arm's strategic move from licensing architecture to building its own silicon.",
+      "summary_zh": "The Verge：Arm发布首款自研CPU（命名为AGI CPU），将于年内部署在Meta的AI数据中心，标志着Arm从授权架构向自研芯片的战略转型。",
+      "tags": [
+        "模型与技术"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "published_at": "2026-03-24T10:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "22db4cab",
+      "lang": "en",
+      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "title_zh": "ProofShot：为AI编程智能体提供UI视觉验证能力",
+      "summary_en": "ProofShot: ProofShot is an open tool that gives AI coding agents visual verification capabilities for the UIs they generate. It enables agents to capture screenshots of their output and compare actual vs. intended UI state, helping detect visual discrepancies without manual review. Submitted as a Show HN project.",
+      "summary_zh": "ProofShot：ProofShot是一款为AI编程智能体提供UI视觉验证能力的开源工具。该工具使智能体能够截图并检查自身生成的界面，帮助识别实际UI与预期之间的视觉差异，降低人工审核成本。",
+      "tags": [
+        "AI编程",
+        "工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://proofshot.argil.io/",
+      "published_at": "2026-03-24T07:46:00Z",
+      "collected_at": "2026-03-24T09:00:00Z",
       "importance": 2,
       "merged_sources": []
     }

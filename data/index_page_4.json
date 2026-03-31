@@ -1,7 +1,9 @@
 {
-  "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T09:00:00Z",
+  "latest_date": "2026-03-31",
+  "updated_at": "2026-03-31T03:10:00Z",
   "dates": [
+    "2026-03-31",
+    "2026-03-30",
     "2026-03-29",
     "2026-03-28",
     "2026-03-26",
@@ -27,368 +29,368 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 234,
+  "total_items": 287,
   "page": 4,
   "page_size": 20,
-  "total_pages": 12,
+  "total_pages": 15,
   "items": [
     {
-      "id": "ce61270d",
+      "id": "d60e6b3e",
       "lang": "en",
-      "title_en": "Ensu: Ente launches a local LLM app (Hacker News #1)",
-      "title_zh": "Ensu：Ente推出本地LLM应用（Hacker News热榜第一）",
-      "summary_en": "Ente: Ensu is a new local LLM application from the privacy-focused photo storage company, enabling users to run language models entirely on-device without cloud data transfer, topping Hacker News with a score of 322.",
-      "summary_zh": "Ente：隐私照片存储Ente团队推出本地LLM应用Ensu，支持完全在设备端运行大语言模型，无需上传云端，在Hacker News以322分登顶热榜。",
+      "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "title_zh": "斯坦福研究揭示 AI 聊天机器人提供个人建议的危险性",
+      "summary_en": "TechCrunch: Stanford researchers published a study quantifying the harms of AI sycophancy—the tendency of AI chatbots to overly affirm users seeking personal advice. The research measures how this behavior could lead to harmful real-world decisions in domains like health and finance.",
+      "summary_zh": "TechCrunch：斯坦福研究人员发布研究，量化 AI 讨好行为的危害——即 AI 聊天机器人过度迎合寻求个人建议用户的倾向。研究衡量这一行为在健康、财务等领域可能导致有害现实决策的风险。",
       "tags": [
-        "开源工具",
-        "本地AI",
-        "隐私"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://ente.com/blog/ensu/",
-      "published_at": "2026-03-25T12:49:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "c1df6772",
-      "lang": "en",
-      "title_en": "Cursor self-hosted cloud agents now generally available",
-      "title_zh": "Cursor自托管云端Agent正式发布：代码和工具执行留在企业内网",
-      "summary_en": "Cursor: Self-hosted cloud agents are now generally available, letting enterprises run Cursor's AI coding agents entirely within their own infrastructure—code, secrets, and build artifacts never leave the environment—while still benefiting from Cursor's orchestration and model access. Customers like Brex, Money Forward, and Notion have already adopted this feature.",
-      "summary_zh": "Cursor：自托管云端Agent正式发布，企业可在自有基础设施内运行Cursor AI编程代理，代码、密钥及构建产物全程不离开内网，同时享用Cursor的调度与模型能力，Brex、Money Forward等企业已采用。",
-      "tags": [
-        "产品发布",
-        "代码工具",
-        "Agent",
-        "企业软件"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/self-hosted-cloud-agents",
-      "published_at": "2026-03-25T12:00:00Z",
-      "collected_at": "2026-03-26T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "ed549ebd",
-      "lang": "en",
-      "title_en": "Senate Democrats push bill to codify Anthropic red lines on autonomous weapons",
-      "title_zh": "美国参议院民主党人推动立法，将Anthropic AI红线写入法律",
-      "summary_en": "U.S. Congress: Sen. Adam Schiff is working on legislation to codify Anthropic's self-imposed red lines banning AI in autonomous weapons and mass surveillance decisions, amid growing Pentagon-Anthropic tensions over AI deployment in defense.",
-      "summary_zh": "美国国会：参议员亚当·希夫正推动立法，将Anthropic自设的AI红线——禁止AI参与自主武器及大规模监控——写入法律，背景是Anthropic与五角大楼在AI军事应用上的矛盾升级。",
-      "tags": [
-        "政策监管",
-        "AI安全",
-        "军事AI"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
-      "published_at": "2026-03-25T11:05:46Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "75939090",
-      "lang": "en",
-      "title_en": "Zuckerberg and Jensen Huang join Trump's new AI-focused tech advisory panel",
-      "title_zh": "扎克伯格与黄仁勋加入特朗普AI科技顾问委员会",
-      "summary_en": "White House: Meta CEO Mark Zuckerberg, Nvidia CEO Jensen Huang, Oracle's Larry Ellison, and Google co-founder Sergey Brin are among the first members of Trump's President's Council of Advisors on Science and Technology, with a strong AI focus.",
-      "summary_zh": "白宫：Meta CEO扎克伯格、英伟达CEO黄仁勋、甲骨文拉里·埃里森及谷歌联创谢尔盖·布林成为特朗普新设总统科技顾问委员会首批成员，该委员会着重聚焦AI产业。",
-      "tags": [
-        "政策监管",
-        "行业动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
-      "published_at": "2026-03-25T10:41:21Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "336ca8c8",
-      "lang": "zh",
-      "title_zh": "OpenAI关停Sora！25个月从封神到退场",
-      "title_en": "OpenAI shuts down Sora: 25 months from hype to exit",
-      "summary_zh": "量子位：OpenAI正式关停视频生成模型Sora，距其发布仅25个月；同步曝光与迪士尼10亿美元合作谈判破裂，折射出AI视频赛道的激烈竞争与商业化困境。",
-      "summary_en": "Qbitai: OpenAI has officially shut down Sora video generation model just 25 months after launch, concurrent with reports that a billion-dollar Disney deal fell through, highlighting fierce competition and commercialization challenges in AI video.",
-      "tags": [
-        "产品动态",
-        "OpenAI",
-        "AI视频"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391799.html",
-      "published_at": "2026-03-25T08:00:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "03758a62",
-      "lang": "en",
-      "title_en": "Anthropic's Claude Code gets a safer auto mode",
-      "title_zh": "Anthropic Claude Code新增更安全自动模式",
-      "summary_en": "Anthropic: Claude Code's new auto mode lets the AI make permissions-level decisions on behalf of users, offering a safer alternative to unrestricted agent access for automated coding tasks.",
-      "summary_zh": "Anthropic：Claude Code新增自动模式，允许AI代替用户做出权限层面的决策，为自动化编程任务提供更安全的代理替代方案。",
-      "tags": [
-        "产品更新",
-        "代码工具",
-        "Agent"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
-      "published_at": "2026-03-25T07:39:46Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "fd089818",
-      "lang": "zh",
-      "title_zh": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
-      "title_en": "DeepSeek urgently hiring for Agent roles: 17 positions posted, Vibe Coding a priority",
-      "summary_zh": "量子位：DeepSeek一次性发布17个Agent方向招聘岗位，明确优先考虑有重度Vibe Coding经验的候选人，反映其在智能体研发上的大规模投入与战略紧迫性。",
-      "summary_en": "Qbitai: DeepSeek simultaneously posted 17 open Agent-focused positions, explicitly prioritizing candidates with heavy Vibe Coding experience, signaling a major accelerated push into agentic AI research and development.",
-      "tags": [
-        "行业动态",
-        "DeepSeek",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392024.html",
-      "published_at": "2026-03-25T07:00:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "afaa88eb",
-      "lang": "zh",
-      "title_zh": "黄仁勋暴论：AGI已经实现，Ilya错了，程序员将有10亿",
-      "title_en": "Jensen Huang: AGI has been achieved, Ilya is wrong, there will be 1 billion programmers",
-      "summary_zh": "量子位：英伟达CEO黄仁勋公开宣称AGI已经实现，认为Ilya Sutskever对AGI的定义有误；并预测随着AI辅助编程普及，全球程序员数量将迈向10亿规模。",
-      "summary_en": "Qbitai: Nvidia CEO Jensen Huang claimed AGI has already been achieved and that Ilya Sutskever's definition is incorrect; he also predicted that AI-assisted programming will eventually enable one billion people to become programmers.",
-      "tags": [
-        "行业观点",
-        "AGI"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391750.html",
-      "published_at": "2026-03-25T06:00:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "0c9c67ce",
-      "lang": "en",
-      "title_en": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "title_zh": "Kleiner Perkins完成35亿美元募资，全力押注AI",
-      "summary_en": "TechCrunch: Kleiner Perkins has closed a $3.5 billion fundraise, allocating $1 billion for early-stage AI startups and $2.5 billion for late-stage growth businesses, signaling a major strategic pivot by one of Silicon Valley's most storied venture firms to double down on AI.",
-      "summary_zh": "TechCrunch：Kleiner Perkins完成35亿美元募资，其中10亿美元用于早期AI创业公司，25亿美元投向成长期企业，标志着这家老牌硅谷风投全面押注AI的战略转型。",
-      "tags": [
-        "行业动态",
-        "投融资"
+        "安全与伦理",
+        "研究"
       ],
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "published_at": "2026-03-25T00:47:20Z",
-      "collected_at": "2026-03-25T03:00:00Z",
+      "source_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published_at": "2026-03-28T20:45:54Z",
+      "collected_at": "2026-03-29T00:10:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "42714d8c",
-      "lang": "zh",
-      "title_zh": "它石智航联合六大机构发布OmniVTA视触觉世界模型",
-      "summary_zh": "它石智航：它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村学院及北京航空航天大学，发布OmniVTA视触觉操作框架和OmniViTac大规模视触觉数据集。该系统让机器人从被动感知升级为对触觉进行主动预测和闭环精准控制，支持复杂灵巧操作任务。相关论文已在arXiv发布。",
+      "id": "98eb0af9",
+      "lang": "en",
+      "title_en": "Suno leans into customization with v5.5",
+      "title_zh": "Suno AI 音乐模型 v5.5 发布，聚焦个性化定制",
+      "summary_en": "The Verge: Suno released v5.5 of its AI music model, one of its biggest updates yet. Where previous versions focused on fidelity and natural vocals, v5.5 emphasizes user control—including training on your own voice and songs, new customization tools, and expanded creative modes.",
+      "summary_zh": "The Verge：Suno 发布 AI 音乐模型 v5.5，这是迄今最大更新之一。有别于以往侧重音质与自然人声，v5.5 将重点转向用户掌控力，新增基于用户声音与歌曲的训练功能、多项定制工具及扩展创作模式。",
       "tags": [
-        "研究论文",
+        "产品发布",
         "多模态"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392105.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7bb8054a",
-      "lang": "zh",
-      "title_zh": "DeepSeek急招Agent方向，重度Vibe Coding优先",
-      "summary_zh": "DeepSeek：DeepSeek一口气发布17个招聘岗位，核心聚焦Agent方向，覆盖算法研究、数据评测及基础设施全链条。多个岗位明确要求或优先考虑重度使用Claude Code、Cursor、Copilot等AI编程工具的候选人，全栈开发岗还要求作为Vibe Coding重度用户持续探索模型能力。",
-      "tags": [
-        "Agent",
-        "编程"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392024.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "5a0e5ffa",
-      "lang": "zh",
-      "title_zh": "WorkBuddy：微信里的AI专家团队工作流",
-      "summary_zh": "WorkBuddy：WorkBuddy是一款可在微信中使用的AI工作流产品，支持多个AI专家角色协同作业，覆盖运营策略、选题、内容生产等环节。用户可通过配置AI角色分工，在微信内完成自媒体内容全流程，并支持定时推送AI热点摘要等自动化功能。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391894.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "0f161b31",
-      "lang": "zh",
-      "title_zh": "昆仑万维Mureka V8登顶全球AI音乐模型榜",
-      "summary_zh": "昆仑万维：昆仑万维旗下AI音乐模型Mureka V8在Artificial Analysis音乐模型榜单中登顶，超越Suno V4.5、Udio v1.5 Allegro等国际主流模型，实现人声（vocal）与器乐（instrument）双项第一。测试显示其在低复杂度提示词下也具备较强的理解和生成能力。",
-      "tags": [
-        "产品发布",
-        "多模态",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391839.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "877123e3",
-      "lang": "zh",
-      "title_zh": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
-      "summary_zh": "量子位：一加全新小屏旗舰一加 15T 正式发布，搭载第五代骁龙 8 至尊版处理器与 ColorOS 16 系统，全面集成 AI 功能。机型配备 6.32 英寸屏幕、7500mAh 大电池及 LUMO 凝光影像系统，165Hz 高帧游戏体验，售价 4299 元起。",
-      "tags": [
-        "产品发布",
-        "手机"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391775.html",
-      "published_at": "2026-03-24T14:35:34Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "66c9a554",
-      "lang": "en",
-      "title_en": "Anthropic's Claude Code and Cowork can control your computer",
-      "title_zh": "Anthropic Claude Code 与 Cowork 现可控制电脑",
-      "summary_en": "Anthropic: Anthropic has announced that Claude Code and its new Cowork feature can now control computers directly, enabling GUI-level automation tasks. The capability allows Claude to interact with desktop applications and perform complex multi-step workflows on behalf of users.",
-      "summary_zh": "Anthropic：Anthropic 宣布 Claude Code 及新功能 Cowork 现可直接控制电脑，实现 GUI 级别的自动化操作，让 Claude 能够与桌面应用程序交互并代替用户执行复杂的多步骤工作流。",
-      "tags": [
-        "产品发布",
-        "AI Agent",
-        "编程工具"
-      ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
-      "published_at": "2026-03-24T13:32:23Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "5ca1f58b",
-      "lang": "en",
-      "title_en": "Anthropic's Claude Code and Cowork can control your computer",
-      "title_zh": "Anthropic Claude Code 与 Cowork 获得电脑控制能力",
-      "summary_en": "Anthropic: Anthropic has expanded Claude Code and its Cowork collaboration tool with computer use capabilities, allowing the AI to autonomously control desktop applications and perform complex multi-step tasks. The update brings agentic capabilities directly into developer workflows.",
-      "summary_zh": "Anthropic：Anthropic 为 Claude Code 和协作工具 Cowork 新增了电脑控制功能，使 AI 能够自主操作桌面应用程序并执行复杂的多步骤任务，将智能体能力直接融入开发者工作流。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-computer-use",
-      "published_at": "2026-03-24T13:32:23Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "e77aa854",
-      "lang": "zh",
-      "title_zh": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
-      "summary_zh": "量子位：量子位将于 3 月 26 日举办 AI 初创全球化线下沙龙，邀请小影科技、FluxA、谷歌、京东、声网、Meshy 等企业分享出海实践经验，面向有全球化意向的 AI 创业团队开放报名。",
-      "tags": [
-        "行业活动",
-        "出海"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391760.html",
-      "published_at": "2026-03-24T13:09:56Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "d0007d81",
-      "lang": "en",
-      "title_en": "Mirage raises $75M to continue building models for its AI video editing app Captions",
-      "title_zh": "Mirage 融资 7500 万美元，继续开发 AI 视频编辑应用 Captions",
-      "summary_en": "TechCrunch: Mirage has raised $75 million to further develop AI models powering its video editing application Captions. The funding will be used to advance its AI-driven video production capabilities and expand the app's features for creators.",
-      "summary_zh": "TechCrunch：Mirage 完成 7500 万美元融资，将用于进一步开发其视频编辑应用 Captions 背后的 AI 模型，推进 AI 驱动的视频制作能力，并为创作者拓展更多功能。",
-      "tags": [
-        "融资",
-        "多模态",
-        "产品发布"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-      "published_at": "2026-03-24T13:05:00Z",
-      "collected_at": "2026-03-24T15:00:00Z",
+      "source_url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "published_at": "2026-03-28T18:33:10Z",
+      "collected_at": "2026-03-29T00:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "dc202831",
+      "id": "90edf7a7",
       "lang": "en",
-      "title_en": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
-      "title_zh": "Agile Robots 成为最新与 Google DeepMind 合作的机器人公司",
-      "summary_en": "TechCrunch: Agile Robots has announced a partnership with Google DeepMind, joining a growing list of robotics companies collaborating with the AI research lab. The partnership aims to integrate DeepMind's AI capabilities into Agile Robots' humanoid and legged robot platforms.",
-      "summary_zh": "TechCrunch：Agile Robots 宣布与 Google DeepMind 建立合作关系，加入越来越多与该 AI 研究实验室合作的机器人公司行列，旨在将 DeepMind 的 AI 能力整合到其人形及腿足机器人平台。",
-      "tags": [
-        "机器人",
-        "合作",
-        "Google DeepMind"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
-      "published_at": "2026-03-24T12:05:00Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f55cdd45",
-      "lang": "en",
-      "title_en": "Update on the OpenAI Foundation",
-      "title_zh": "OpenAI基金会最新动态",
-      "summary_en": "OpenAI: The OpenAI Foundation announces plans to invest at least $1 billion across four mission areas including curing diseases, jobs and economic impact, AI resilience, and supporting communities, marking a major philanthropic expansion following recapitalization.",
-      "summary_zh": "OpenAI：OpenAI基金会宣布计划在四个使命领域投资至少10亿美元，包括治愈疾病、就业与经济影响、AI韧性以及社区支持，标志着公司重组后的重大慈善扩张。",
+      "title_en": "Elon Musk's last co-founder reportedly leaves xAI",
+      "title_zh": "xAI 最后一位联合创始人据报已离职",
+      "summary_en": "TechCrunch: The final remaining co-founder of xAI has reportedly departed the company. All but two of Musk's 11 original xAI co-founders have now left, signaling leadership instability at the AI venture as it competes with OpenAI, Anthropic, and Google.",
+      "summary_zh": "TechCrunch：xAI 最后一位联合创始人据报已离职，11 位原始联合创始人中已有 9 位相继离开，凸显埃隆·马斯克旗下 AI 公司在激烈竞争中管理层持续动荡。",
       "tags": [
         "行业动态"
       ],
-      "source_name": "OpenAI",
-      "source_url": "https://openai.com/index/update-on-the-openai-foundation/",
-      "published_at": "2026-03-24T12:00:00Z",
-      "collected_at": "2026-03-25T01:12:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "published_at": "2026-03-28T16:11:16Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "90edf7a7",
+      "lang": "en",
+      "title_en": "Elon Musk's last co-founder reportedly leaves xAI",
+      "title_zh": "Elon Musk 在 xAI 的最后两位联合创始人相继离开",
+      "summary_en": "TechCrunch: The final two co-founders of Elon Musk's AI startup xAI—Manuel Kroiss and Ross Nordeen—have departed, according to Business Insider. This follows Musk's admission that xAI 'was not built right the first time' and is being rebuilt from the ground up. The company was recently acquired by SpaceX.",
+      "summary_zh": "TechCrunch：据 Business Insider 报道，Elon Musk 旗下 AI 创业公司 xAI 的最后两位联合创始人 Manuel Kroiss 和 Ross Nordeen 已相继离职。此前 Musk 承认 xAI「第一次没有建对」，正从头重建。该公司近期已被 SpaceX 收购。",
+      "tags": [
+        "xAI",
+        "AI公司",
+        "人事变动"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "published_at": "2026-03-28T16:11:00Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d6a3d8c0",
+      "lang": "en",
+      "title_en": "Anthropic's Claude popularity with paying consumers is skyrocketing",
+      "title_zh": "Anthropic Claude 付费用户规模急速增长",
+      "summary_en": "TechCrunch: New data indicates Anthropic's Claude is experiencing rapid growth among paying consumer users. Total Claude user estimates range from 18 to 30 million, with subscription revenue reportedly surging, reflecting strong market traction for Claude's AI capabilities.",
+      "summary_zh": "TechCrunch：新数据显示 Anthropic Claude 付费消费用户规模急速增长，总用户数估算从 1800 万至 3000 万不等，订阅收入据报大幅攀升，反映出 Claude AI 能力的强烈市场吸引力。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "published_at": "2026-03-28T14:15:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
       "importance": 4,
       "merged_sources": []
+    },
+    {
+      "id": "ac886654",
+      "lang": "en",
+      "title_en": "Why can't TikTok identify AI generated ads when I can?",
+      "title_zh": "TikTok 为何无法识别 AI 生成广告？",
+      "summary_en": "The Verge: Investigation reveals TikTok consistently fails to label AI-generated advertisements despite regulations requiring disclosure, while human observers can easily identify them. The piece highlights inadequate enforcement of AI content transparency rules on major social platforms.",
+      "summary_zh": "The Verge：调查发现 TikTok 持续未能标注 AI 生成广告，尽管相关法规要求强制披露，而人类观察者往往能轻易识别。此文凸显主流社交平台在 AI 内容透明度监管执行方面的明显不足。",
+      "tags": [
+        "行业动态",
+        "监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "published_at": "2026-03-28T14:00:00Z",
+      "collected_at": "2026-03-29T07:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "719f4154",
+      "lang": "en",
+      "title_en": "TikTok's policy for AI ads isn't working",
+      "title_zh": "TikTok的AI广告标注政策形同虚设",
+      "summary_en": "The Verge: TikTok's policy requiring AI-generated ad content to be labeled is proving ineffective, with brands like Samsung failing to disclose AI usage in advertising. The investigation reveals widespread non-compliance and raises questions about platform enforcement of AI transparency standards.",
+      "summary_zh": "The Verge：TikTok要求AI生成广告内容加注标签的政策执行不力，三星等品牌在投放AI广告时未进行披露。这一现象暴露了平台在AI透明度监管上的漏洞，引发外界对AI广告治理有效性的广泛质疑。",
+      "tags": [
+        "AI治理",
+        "政策法规"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "published_at": "2026-03-28T14:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d6a3d8c0",
+      "lang": "en",
+      "title_en": "Anthropic's Claude popularity with paying consumers is skyrocketing",
+      "title_zh": "Anthropic Claude 付费用户激增，增速创历史新高",
+      "summary_en": "TechCrunch: An analysis of 28 million U.S. consumer credit card transactions found Claude's paid subscriber count reached record highs in January–February 2026. Anthropic confirmed paid subscriptions more than doubled this year, driven by Claude Code's popularity, a viral Super Bowl ad campaign, and the company's high-profile Department of Defense dispute.",
+      "summary_zh": "TechCrunch：对2800万美国消费者信用卡交易的分析显示，Claude 付费订阅用户在2026年1-2月创下历史新高。Anthropic 确认今年付费订阅量翻倍以上，背后驱动力包括 Claude Code 爆红、超级碗广告出圈以及与国防部的高关注度纠纷。",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "商业"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "d60e6b3e",
+      "lang": "en",
+      "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "title_zh": "斯坦福研究警示：向 AI 聊天机器人寻求个人建议存在心理健康风险",
+      "summary_en": "TechCrunch: A Stanford study published in Science found that AI chatbots validate user behavior 49% more often than humans on average, and 51% on situations where humans judged users to be wrong. Researchers warn this 'sycophantic' behavior fosters emotional dependency and erodes interpersonal problem-solving skills, with particular concern for the 12% of U.S. teens who use AI for emotional support.",
+      "summary_zh": "TechCrunch：斯坦福大学发表于《科学》的研究发现，AI 聊天机器人对用户行为的认可率平均比人类高49%，在人类判断用户有错的情境中高达51%。研究警告，这种「奉承行为」会培养情感依赖并削弱人际交往能力，尤其令人担忧的是12%的美国青少年已将 AI 作为情感支持来源。",
+      "tags": [
+        "AI安全",
+        "AI伦理",
+        "AI心理健康"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "eea958c7",
+      "lang": "en",
+      "title_en": "Why OpenAI killed Sora",
+      "title_zh": "OpenAI 为何关停 Sora",
+      "summary_en": "The Verge: OpenAI shut down Sora, its AI video-generation app, effective Tuesday, saying the company needs to concentrate its available compute resources on its AI agent initiatives and enterprise tools rather than consumer video generation.",
+      "summary_zh": "The Verge：OpenAI 正式关停其 AI 视频生成应用 Sora，称公司需将现有算力集中用于 AI Agent 战略及企业级工具，而非消费端视频生成业务。",
+      "tags": [
+        "产品发布",
+        "OpenAI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-29T07:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "b0329c17",
+      "lang": "en",
+      "title_en": "Why OpenAI killed Sora",
+      "title_zh": "OpenAI为何放弃Sora",
+      "summary_en": "The Verge: OpenAI has quietly discontinued Sora, its AI video generation model, amid intensifying competition. The piece examines the strategic and technical reasons behind the decision, including resource allocation priorities and the rise of competing video generation tools from other labs.",
+      "summary_zh": "The Verge：OpenAI悄然终止其AI视频生成模型Sora，背后原因涉及资源分配、竞争压力及战略优先级调整。随着其他实验室推出更具竞争力的视频生成工具，AI视频赛道竞争日趋激烈，Sora最终未能突围。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e8721992",
+      "lang": "en",
+      "title_en": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "title_zh": "CERN 将微型AI模型烧录进芯片，用于LHC实时数据过滤",
+      "summary_en": "Hacker News: CERN has deployed ultra-compact AI models burned into FPGAs to perform real-time filtering of collision data from the Large Hadron Collider. The approach enables nanosecond-speed inference, far beyond what traditional software achieves, marking a breakthrough in AI-accelerated scientific instrumentation.",
+      "summary_zh": "Hacker News：CERN将超小型AI模型烧录至FPGA芯片，用于大型强子对撞机（LHC）碰撞数据的实时过滤。推理延迟仅为纳秒级，远超传统软件，标志着AI加速科学仪器领域取得重要突破。",
+      "tags": [
+        "AI应用",
+        "科学研究",
+        "硬件"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "published_at": "2026-03-28T08:06:19Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "aa104cd9",
+      "lang": "en",
+      "title_en": "Go hard on agents, not on your filesystem (jai – AI agent containment tool)",
+      "title_zh": "AI Agent 沙箱工具 jai：保护文件系统免受 Agent 误操作",
+      "summary_en": "Hacker News: Stanford researchers released jai, a lightweight Linux containment tool for AI agents. As AI coding agents increasingly cause accidental file deletions and overwrites, jai provides sandboxed execution environments to prevent agents from damaging the host filesystem while retaining full agent capabilities.",
+      "summary_zh": "Hacker News：斯坦福研究人员发布 jai，一款轻量级 Linux AI Agent 沙箱工具。随着AI编程智能体频繁引发意外文件删除和覆写问题，jai 提供沙箱执行环境，在保留Agent完整能力的同时保护宿主文件系统。",
+      "tags": [
+        "AI Agent",
+        "安全",
+        "开发工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://jai.scs.stanford.edu/",
+      "published_at": "2026-03-28T07:59:54Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d37ee334",
+      "lang": "en",
+      "title_en": "Be careful: chatting with AI about your case is discoverable",
+      "title_zh": "警告：与 AI 讨论案情的聊天记录在法庭上可被调取",
+      "summary_en": "Hacker News: A Harvard Law Review analysis of United States v. Heppner finds that AI chat logs about a legal case may be discoverable in court proceedings. The ruling has broad implications for attorneys and litigants using AI tools to discuss sensitive case details.",
+      "summary_zh": "Hacker News：《哈佛法律评论》分析 United States v. Heppner 案指出，当事人与 AI 讨论案情的聊天记录可能在法庭程序中被调取，对使用 AI 工具讨论敏感案件细节的律师和当事人具有广泛影响。",
+      "tags": [
+        "安全与伦理",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
+      "published_at": "2026-03-28T07:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "534b3ee2",
+      "lang": "zh",
+      "title_zh": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
+      "summary_zh": "量子位：零跑汽车宣布将此前只在四五十万豪华车型搭载的世界模型智能辅助驾驶方案下放至8.68万元入门级车型，实现\"车位到车位\"自动驾驶功能，且无需高算力芯片，创下智能驾驶普及新纪录。",
+      "tags": [
+        "自动驾驶",
+        "AI应用",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392948.html",
+      "published_at": "2026-03-28T05:00:00Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "43de7aa1",
+      "lang": "zh",
+      "title_zh": "中关村论坛\"AI2026：向人立心，向实立命\"特邀闭门会顺利举办",
+      "summary_zh": "量子位：中关村论坛特邀闭门会在北京顺利举办，汇聚AI领域顶尖学者与企业家，围绕2026年AI发展趋势、AI与人文价值融合、AI产业实体化落地等核心议题展开深度讨论。",
+      "tags": [
+        "行业动态",
+        "AI治理"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392981.html",
+      "published_at": "2026-03-28T05:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "42ac3437",
+      "lang": "zh",
+      "title_zh": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
+      "summary_zh": "量子位：智谱AI发布GLM-5.1编程模型，已向GLM Coding Plan全体用户（Lite/Pro/Max）开放。该模型编程性能与Claude Opus 4.6仅差2.6分，发布后Coding Plan迅速售罄，展现出强劲的市场需求。",
+      "tags": [
+        "产品发布",
+        "编程助手",
+        "大模型"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392914.html",
+      "published_at": "2026-03-28T04:00:00Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "54de3f55",
+      "lang": "zh",
+      "title_zh": "趋境ATaaS平台发布，打造日均万亿产能的\"Token工厂\"",
+      "summary_zh": "量子位：趋境科技正式发布ATaaS（AI Token即服务）平台，定位为全球领先的高效能AI Token生产服务平台，日均算力产能可达万亿Token级别。该平台旨在为企业提供稳定、低成本的大模型推理算力服务，助力AI应用规模化落地。",
+      "tags": [
+        "算力",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392988.html",
+      "published_at": "2026-03-28T04:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "76eb5a6a",
+      "lang": "zh",
+      "title_zh": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
+      "summary_zh": "量子位：华为诺亚方舟实验室主任、盘古大模型负责人王云鹤正式离职，并被曝出正在进行AI Agent方向的创业。王云鹤2018年博士毕业后加入华为，2025年接棒担任实验室主任，其离职引发业界对国内AI人才流动的广泛关注。",
+      "tags": [
+        "行业动态",
+        "AI Agent",
+        "人才"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392903.html",
+      "published_at": "2026-03-28T03:00:00Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "73100b56",
+      "lang": "en",
+      "title_en": "Anthropic's 'Claude Mythos' leak reveals powerful new AI model raising cybersecurity concerns",
+      "title_zh": "Anthropic「Claude Mythos」泄露：新模型引发网络安全警报",
+      "summary_en": "Hacker News / CoinDesk: An internal leak revealed Anthropic is testing a new model codenamed \"Claude Mythos,\" described as highly capable in ways that spooked cybersecurity investors. Stocks in cybersecurity firms fell sharply on fears the model could automate offensive capabilities previously requiring expert knowledge.",
+      "summary_zh": "Hacker News / CoinDesk：内部泄露显示Anthropic正在测试代号「Claude Mythos」的新模型，其强大能力引发网络安全领域担忧，相关上市公司股价大幅下跌，市场担忧该模型可能使高级网络攻击能力大众化。",
+      "tags": [
+        "模型发布",
+        "AI安全"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare",
+      "published_at": "2026-03-28T02:04:00Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 5,
+      "merged_sources": [
+        "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html"
+      ]
     }
   ]
 }

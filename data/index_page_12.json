@@ -1,7 +1,9 @@
 {
-  "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T09:00:00Z",
+  "latest_date": "2026-03-31",
+  "updated_at": "2026-03-31T03:10:00Z",
   "dates": [
+    "2026-03-31",
+    "2026-03-30",
     "2026-03-29",
     "2026-03-28",
     "2026-03-26",
@@ -27,243 +29,334 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 234,
+  "total_items": 287,
   "page": 12,
   "page_size": 20,
-  "total_pages": 12,
+  "total_pages": 15,
   "items": [
     {
-      "id": "098c40d8",
+      "id": "1cd80b08",
+      "lang": "en",
+      "title_en": "Perplexity has released its Comet browser for iOS",
+      "title_zh": "Perplexity 发布 iOS 端 Comet 浏览器",
+      "summary_en": "Perplexity: The AI search company launched Comet, an AI-native browser for iOS that integrates search, browsing, and AI assistance into a unified experience.",
+      "summary_zh": "Perplexity：AI 搜索公司发布 iOS 端 Comet 浏览器，将搜索、浏览与 AI 助手整合为一体化体验。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897180/perplexity-has-released-its-comet-browser-for-ios",
+      "published_at": "2026-03-19T10:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "cea48474",
       "lang": "zh",
-      "title_zh": "88岁图灵奖得主，用Claude一小时破解30年数学悬案",
-      "summary_zh": "量子位：88岁图灵奖得主 Leslie Valiant 用 Claude 一小时破解了困扰30年的数学难题，并向 Claude 致谢。",
+      "title_zh": "刚刚，全球视频模型新王诞生了！",
+      "summary_zh": "量子位：新视频生成模型强势登顶全球榜首，距其 Preview 版本拿下全球第二仅一个月。",
       "tags": [
         "产品发布"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/384890.html",
-      "published_at": "2026-03-09T00:00:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/389146.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "ec726cf1",
+      "lang": "zh",
+      "title_zh": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
+      "summary_zh": "小米：正式认领此前登顶排行榜的神秘模型 Hunter Alpha，参数达万亿级，支持百万 token 上下文。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389038.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "8ea7a7ce",
+      "lang": "zh",
+      "title_zh": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
+      "summary_zh": "飞书：发布多款企业级 Agent，覆盖个人智能助手与业务系统场景，并持续升级官方 MCP 插件。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389311.html",
+      "published_at": "2026-03-19T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "01fd4663",
+      "id": "1564e1d0",
       "lang": "zh",
-      "title_zh": "卡帕西开源Agent自进化训练框架，5分钟一轮实验，48h内揽星9.5k",
-      "summary_zh": "量子位：Karpathy 开源 Agent 自进化训练框架，5分钟即可完成一轮实验，48小时内在 GitHub 收获9500星。",
+      "title_zh": "世界模型+强化学习：轻舟智航于骞在德国定义通向通用物理AI的必由之路",
+      "summary_zh": "轻舟智航：于骞在德国分享“世界模型 + 强化学习”技术路径，将其定义为通向通用物理 AI 的必由之路。",
       "tags": [
-        "Agent",
-        "研究论文",
-        "开源"
+        "产品发布"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/384953.html",
-      "published_at": "2026-03-09T00:00:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/389442.html",
+      "published_at": "2026-03-19T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "3f0bc09b",
-      "lang": "zh",
-      "title_zh": "龙虾最佳适配模型，OpenClaw之父给出了推荐",
-      "summary_zh": "量子位：MCP（龙虾协议）创始人推荐的最佳适配模型 Top 3 中，国产模型占据两席。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/384837.html",
-      "published_at": "2026-03-09T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "69590a1c",
-      "lang": "zh",
-      "title_zh": "龙虾最大痛点被官方插件升级！对话永不忘记，GPT和Gemini最强模型都可接入",
-      "summary_zh": "量子位：MCP 官方记忆插件重大升级，支持接入 GPT 和 Gemini 最强模型，实现对话永久记忆。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/384907.html",
-      "published_at": "2026-03-09T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "79445b1c",
-      "lang": "zh",
-      "title_zh": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
-      "summary_zh": "量子位：20岁大学生用10天 VibeCoding 完成开源项目，获盛大3000万元投资。",
-      "tags": [
-        "融资",
-        "开源"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/384728.html",
-      "published_at": "2026-03-08T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "645db125",
-      "lang": "zh",
-      "title_zh": "高中生AI创业，现在只招龙虾员工：每月成本2800",
-      "summary_zh": "高中生AI创业公司：全员转为AI Agent（龙虾），设立多个部门，每月运营成本仅2800元。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/384797.html",
-      "published_at": "2026-03-08T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "fb5d0cab",
+      "id": "4ed426f6",
       "lang": "en",
-      "title_en": "OpenAI is working on ChatGPT smart speakers, cameras, and AI glasses",
-      "title_zh": "OpenAI 正在研发 ChatGPT 智能音箱、摄像头和 AI 眼镜",
-      "summary_en": "OpenAI: The company is developing a range of AI hardware products including smart speakers, cameras, and AI-enabled glasses, signaling a push into the consumer device market powered by ChatGPT.",
-      "summary_zh": "OpenAI：公司正在研发一系列 AI 硬件产品，包括智能音箱、摄像头和 AI 眼镜，标志着其向 ChatGPT 驱动的消费级设备市场进军。",
+      "title_en": "ChatGPT did not cure a dog's cancer",
+      "title_zh": "ChatGPT 并未治愈这只狗的癌症",
+      "summary_en": "A viral story claiming ChatGPT helped cure a dog's cancer was found to be misleading; the dog's recovery was attributed to veterinary treatment, not AI-generated advice.",
+      "summary_zh": "一则 ChatGPT 帮助治愈狗癌症的病毒式传播故事经核实存在误导，狗的康复实为兽医治疗所致，而非 AI 建议的功劳。",
       "tags": [
-        "产品发布",
-        "硬件"
+        "医疗"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
-      "published_at": "2026-03-07T16:00:00Z",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "published_at": "2026-03-18T16:00:00Z",
       "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 4,
+      "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "d3ae286e",
+      "id": "b0e96434",
       "lang": "en",
-      "title_en": "Where things stand with the Department of War",
-      "title_zh": "与国防部门相关事项的最新进展",
-      "summary_en": "Anthropic published an update on its situation and discussions with the U.S. Department of War, outlining its position and guidance for customers.",
-      "summary_zh": "Anthropic 发布公告更新其与美国国防部门相关事项的最新进展，并给出立场说明与对客户的建议。",
+      "title_en": "The Pentagon filed a rebuttal to Anthropic's lawsuit",
+      "title_zh": "五角大楼就 Anthropic 诉讼提出反驳",
+      "summary_en": "The US Department of Defense filed a legal response to Anthropic's lawsuit, disputing the AI company's claims in an ongoing legal proceeding related to AI procurement and policy.",
+      "summary_zh": "美国国防部就 Anthropic 提起的诉讼提交法律反驳意见，对这家 AI 公司在 AI 采购与政策相关诉讼中的主张提出异议。",
       "tags": [
         "政策监管"
       ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/where-stand-department-war",
-      "published_at": "2026-03-06T00:40:00Z",
-      "collected_at": "2026-03-06T05:17:22Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2d40af76",
-      "lang": "en",
-      "title_en": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
-      "title_zh": "Anthropic 仍寻求五角大楼合作",
-      "summary_en": "Anthropic: CEO Dario Amodei is reportedly still trying to preserve a Pentagon partnership after internal talks over a federal sales team and military use cases broke down. The report says the company is balancing national-security business opportunities against internal opposition and reputational risk. The outcome of the negotiations remains unresolved.",
-      "summary_zh": "Anthropic：在联邦销售团队和军事用途争议导致内部谈判破裂后，CEO Dario Amodei 据报仍在推动与五角大楼达成合作。报道显示，公司一边争取国家安全业务，一边处理内部反对意见与声誉风险，相关谈判仍未落定。",
-      "tags": [
-        "政策监管"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
-      "published_at": "2026-03-05T16:45:00Z",
-      "collected_at": "2026-03-05T18:46:22Z",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896622/the-pentagon-filed-a-rebuttal-to-anthropics-lawsuit",
+      "published_at": "2026-03-18T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
       "importance": 3,
-      "merged_sources": [
-        "https://www.theverge.com/tech/650811/anthropic-makes-last-ditch-effort-to-salvage-deal-with-pentagon-after-blowup"
-      ]
-    },
-    {
-      "id": "96a73e6d",
-      "lang": "zh",
-      "title_zh": "元象开源全球最大MoE多模态推理模型：成本仅为DeepSeek 1/7，Yuan3.0 Ultra",
-      "summary_zh": "元象：元象发布并开源 Yuan3.0 Ultra，多模态 MoE 推理模型主打图像理解与复杂推理。报道援引官方信息称，其推理成本约为同类方案的七分之一，模型已面向开发者开放。",
-      "tags": [
-        "开源",
-        "多模态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/384330.html",
-      "published_at": "2026-03-05T13:04:02Z",
-      "collected_at": "2026-03-05T18:46:22Z",
-      "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "4c3aedb7",
+      "id": "cd58f905",
       "lang": "en",
-      "title_en": "Lio bags a $30M Series A from Andreessen Horowitz to automate enterprise procurement",
-      "title_zh": "Lio 获 3000 万美元 A 轮",
-      "summary_en": "Lio: Enterprise procurement startup Lio raised a $30 million Series A led by Andreessen Horowitz. The company says its AI agents analyze purchasing data and automate sourcing workflows for large organizations, and it plans to use the new capital to expand product development and go-to-market operations.",
-      "summary_zh": "Lio：企业采购自动化创业公司 Lio 完成由 Andreessen Horowitz 领投的 3000 万美元 A 轮融资。公司表示，其 AI Agent 可分析采购数据并自动化寻源流程，新资金将用于产品研发和市场扩张。",
+      "title_en": "Nvidia networking division building a multibillion-dollar behemoth to rival its chips business",
+      "title_zh": "英伟达网络部门打造数十亿美元巨头 与芯片业务分庭抗礼",
+      "summary_en": "Nvidia: The company's networking division is rapidly expanding into a multibillion-dollar business unit, developing interconnect and data center networking products that rival its core GPU chip business in scale.",
+      "summary_zh": "英伟达：公司网络部门正迅速扩张为数十亿美元级业务单元，打造数据中心互联和网络产品，规模上可与核心 GPU 芯片业务相抗衡。",
       "tags": [
-        "融资",
-        "Agent"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
-      "published_at": "2026-03-05T13:00:00Z",
-      "collected_at": "2026-03-05T18:46:22Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "5766268e",
-      "lang": "zh",
-      "title_zh": "华为重金押注的世界模型公司，新融了10个亿！又一位技术女将从大厂“杀”出",
-      "summary_zh": "极佳视界：聚焦世界模型与空间智能的极佳视界完成约 10 亿元新融资。报道显示，公司获得产业资本持续押注，资金将用于模型研发、产品化和商业拓展，继续推进具身智能相关布局。",
-      "tags": [
-        "融资",
         "硬件"
       ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "published_at": "2026-03-18T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e3c91e7f",
+      "lang": "en",
+      "title_en": "Money Forward brings Cursor's coding agents to product, design, and QA",
+      "title_zh": "Money Forward 将 Cursor 编程 Agent 引入产品、设计与 QA 团队",
+      "summary_en": "Cursor: Over 1,000 Money Forward employees now use Cursor daily, extending AI coding agents beyond engineering to product, design, and QA roles.",
+      "summary_zh": "Cursor：Money Forward 超过 1000 名员工每天使用 Cursor，将 AI 编程 Agent 扩展至产品、设计和 QA 岗位。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/money-forward",
+      "published_at": "2026-03-18T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c3e54b18",
+      "lang": "en",
+      "title_en": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "title_zh": "Nothing CEO 称 AI Agent 将取代智能手机 App",
+      "summary_en": "Nothing: CEO Carl Pei predicted that traditional smartphone applications will become obsolete as AI agents become sophisticated enough to handle tasks directly, fundamentally changing how users interact with their devices.",
+      "summary_zh": "Nothing：CEO Carl Pei 预测，随着 AI Agent 能力日趋成熟、可直接处理用户任务，传统智能手机 App 将逐渐消失，人机交互方式将发生根本变革。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "published_at": "2026-03-18T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "14577107",
+      "lang": "zh",
+      "title_zh": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
+      "summary_zh": "普林斯顿：研究显示英伟达最强 B200 GPU 算力利用率仅约40%，团队提出新方案将利用率提升至71%，黄仁勋已关注该研究。",
+      "tags": [
+        "产品发布"
+      ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/384312.html",
-      "published_at": "2026-03-05T12:27:57Z",
-      "collected_at": "2026-03-05T18:46:22Z",
+      "source_url": "https://www.qbitai.com/2026/03/388815.html",
+      "published_at": "2026-03-18T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "eea6230f",
-      "lang": "en",
-      "title_en": "Introducing GPT-5.4",
-      "title_zh": "OpenAI 发布 GPT-5.4",
-      "summary_en": "OpenAI: OpenAI introduced GPT-5.4 as its newest flagship model for complex tasks and published a matching GPT-5.4 Thinking System Card. The release emphasizes stronger reasoning behavior and updated safety evaluations, with rollout across ChatGPT and API products. The system card details capability testing, risk areas, and mitigations for the new model.",
-      "summary_zh": "OpenAI：OpenAI 发布 GPT-5.4，并同步公开 GPT-5.4 Thinking System Card。新模型面向复杂任务，强调更稳定的推理表现和更新后的安全评估，并通过 ChatGPT 与 API 渠道上线。系统卡披露了能力测试、风险点与缓解措施。",
+      "id": "4ecc1118",
+      "lang": "zh",
+      "title_zh": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
+      "summary_zh": "MiniMax：发布 M2.7 模型，实现大模型自我进化训练，标志 AI 进入自主迭代新阶段。",
       "tags": [
-        "产品发布",
-        "推理"
+        "Agent"
       ],
-      "source_name": "OpenAI",
-      "source_url": "https://openai.com/index/introducing-gpt-5-4/",
-      "published_at": null,
-      "collected_at": "2026-03-05T18:46:22Z",
-      "importance": 5,
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389024.html",
+      "published_at": "2026-03-18T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "fa5a665f",
-      "lang": "en",
-      "title_en": "Build agents that run automatically in the background with Automations",
-      "title_zh": "Cursor 推出后台自动化",
-      "summary_en": "Cursor: Cursor launched Automations, a feature for running coding agents automatically in the background. The product lets users trigger recurring or event-driven workflows without keeping the editor open, extending Cursor from interactive assistance to unattended agent execution. The feature is positioned as part of Cursor's broader agent workflow stack.",
-      "summary_zh": "Cursor：Cursor 推出 Automations，支持在后台自动运行编程 Agent。该功能可按周期或事件触发工作流，无需持续打开编辑器，进一步把 Cursor 从交互式助手扩展为可无人值守执行任务的 Agent 平台。",
+      "id": "58422b38",
+      "lang": "zh",
+      "title_zh": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
+      "summary_zh": "阿里/钉钉：「悟空」Agent 平台上线，为企业提供内置行业解决方案的 MCP（龙虾）全家桶服务。",
       "tags": [
-        "产品发布",
         "Agent"
       ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388845.html",
+      "published_at": "2026-03-18T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "fcc95dc8",
+      "lang": "en",
+      "title_en": "Now everyone in the US is getting Google's personalized Gemini AI",
+      "title_zh": "谷歌个性化 Gemini AI 全面向美国用户开放",
+      "summary_en": "Google: The company expanded its Personal Intelligence feature—which uses Gemini AI to personalize search and app experiences based on user data—to all US users.",
+      "summary_zh": "谷歌：个性化智能功能正式向全体美国用户开放，该功能基于 Gemini AI，通过分析用户数据个性化搜索和应用体验。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "published_at": "2026-03-17T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "0f672894",
+      "lang": "en",
+      "title_en": "Why Garry Tan's Claude Code setup has gotten so much love and hate",
+      "title_zh": "为何 Garry Tan 的 Claude Code 配置引发如此两极分化的反应",
+      "summary_en": "Garry Tan's public Claude Code development setup sparked intense debate in the developer community, with supporters praising its AI-assisted workflow and critics questioning over-reliance on AI for software engineering.",
+      "summary_zh": "Garry Tan 公开的 Claude Code 开发配置在开发者社区引发激烈讨论，支持者称赞其 AI 辅助工作流，批评者则质疑软件工程中过度依赖 AI。",
+      "tags": [
+        "编程"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "published_at": "2026-03-17T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "09503aad",
+      "lang": "en",
+      "title_en": "Training Composer for longer horizons",
+      "title_zh": "训练 Composer 应对更长任务：自摘要训练方法",
+      "summary_en": "Cursor: Integrating self-summarization into Composer's training to extract signal from trajectories far longer than the model's context window.",
+      "summary_zh": "Cursor：将自摘要机制融入 Composer 训练流程，从超出上下文窗口的超长任务轨迹中提取训练信号。",
+      "tags": [
+        "研究论文"
+      ],
       "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/automations",
-      "published_at": null,
-      "collected_at": "2026-03-05T18:46:22Z",
+      "source_url": "https://cursor.com/blog/self-summarization",
+      "published_at": "2026-03-17T12:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "11740e48",
+      "lang": "en",
+      "title_en": "OpenAI cuts back on side quests",
+      "title_zh": "OpenAI 削减非核心业务线",
+      "summary_en": "OpenAI: The company announced a strategic refocus, cutting back on several peripheral projects and initiatives to concentrate resources on its core AI model development and ChatGPT products.",
+      "summary_zh": "OpenAI：公司宣布战略收缩，削减多个边缘项目，将资源集中于核心 AI 模型研发和 ChatGPT 产品线。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/895835/openai-cuts-back-on-side-quests",
+      "published_at": "2026-03-17T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e3ccec42",
+      "lang": "en",
+      "title_en": "OpenAI's Sora video generator is reportedly coming to ChatGPT",
+      "title_zh": "OpenAI Sora 视频生成器据报将集成进 ChatGPT",
+      "summary_en": "OpenAI: Reports indicate the company plans to integrate its Sora video generation model directly into ChatGPT, making AI video creation accessible to a broader user base.",
+      "summary_zh": "OpenAI：据报道公司计划将 Sora 视频生成模型直接集成进 ChatGPT，让更广泛的用户能够使用 AI 视频创作功能。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
+      "published_at": "2026-03-17T08:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2f03da92",
+      "lang": "zh",
+      "title_zh": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
+      "summary_zh": "黄仁勋：在 GTC 上称 AI Agent 是新操作系统，展示英伟达7种芯片组成的算力矩阵，并放话2027年营收突破万亿美元。",
+      "tags": [
+        "融资",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388720.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "de32cd69",
+      "lang": "zh",
+      "title_zh": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍",
+      "summary_zh": "OpenAI：GPT-5.4 上线首周 ARR 突破10亿美元，单次调用成本最高80美元，但任务效率提升32倍。",
+      "tags": [
+        "融资",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/388443.html",
+      "published_at": "2026-03-17T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
       "importance": 4,
       "merged_sources": []
     }

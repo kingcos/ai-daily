@@ -1,7 +1,9 @@
 {
-  "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T09:00:00Z",
+  "latest_date": "2026-03-31",
+  "updated_at": "2026-03-31T03:10:00Z",
   "dates": [
+    "2026-03-31",
+    "2026-03-30",
     "2026-03-29",
     "2026-03-28",
     "2026-03-26",
@@ -27,321 +29,341 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 234,
+  "total_items": 287,
   "page": 11,
   "page_size": 20,
-  "total_pages": 12,
+  "total_pages": 15,
   "items": [
     {
-      "id": "f4adf6d3",
-      "lang": "zh",
-      "title_zh": "统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言",
-      "summary_zh": "苏炜杰：荣获统计学最高荣誉，主张 AI 需要一门新的数学语言，提出“剥洋葱”式优化黑盒模型方法。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/387102.html",
-      "published_at": "2026-03-13T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "b8110bd4",
-      "lang": "zh",
-      "title_zh": "马斯克从Cursor挖走两位天才少年",
-      "summary_zh": "量子位：马斯克从 Cursor 挖走两位天才少年加入 xAI，引发外界对 xAI 人才流动的关注。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/387242.html",
-      "published_at": "2026-03-13T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "d130ec99",
-      "lang": "zh",
-      "title_zh": "多家资本参投，杨立昆AMI获超10亿美元种子融资",
-      "summary_zh": "AMI：多家资本联合参投，杨立昆（LeCun）创立的 AMI 完成超10亿美元种子轮融资。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/387734.html",
-      "published_at": "2026-03-13T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9d6a48cc",
+      "id": "2f12b72a",
       "lang": "en",
-      "title_en": "Anthropic invests $100 million into the Claude Partner Network",
-      "title_zh": "Anthropic 向 Claude 合作伙伴网络投入 1 亿美元",
-      "summary_en": "Anthropic: Launching the Claude Partner Network with $100M investment to help enterprises adopt Claude through certified partner organizations.",
-      "summary_zh": "Anthropic：宣布投入 1 亿美元启动 Claude 合作伙伴网络，帮助企业通过认证合作商落地 Claude。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/claude-partner-network",
-      "published_at": "2026-03-12T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "781789f4",
-      "lang": "zh",
-      "title_zh": "老黄入局吃龙虾！英伟达发布最强开源Agent推理模型",
-      "summary_zh": "英伟达：发布最强开源 Agent 推理模型，黄仁勋宣布向开源模型投入260亿美元。",
+      "title_en": "AI was everywhere at gaming's big developer conference — except the games",
+      "title_zh": "GDC 2026：AI工具泛滥，成功游戏仍靠人工创作",
+      "summary_en": "The Verge: At GDC 2026, generative AI tools were prominently featured across the show floor, including AI-driven NPCs, auto-generated game worlds, and QA automation. Tencent showcased a pixel-art fantasy world generated entirely by AI. However, developers expressed widespread concern that AI tools remove craft from game-making, and commercially successful games at the conference remained human-crafted.",
+      "summary_zh": "The Verge：在GDC 2026上，生成式AI工具大量亮相，涵盖AI驱动NPC、自动生成游戏世界及QA自动化等，腾讯展示了AI生成的像素风奇幻世界Demo。开发者普遍担忧AI削弱游戏制作匠心，大会上的商业成功游戏仍以人工创作为主。",
       "tags": [
         "产品发布",
-        "Agent",
-        "开源"
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+      "published_at": "2026-03-22T12:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4b85be95",
+      "lang": "zh",
+      "title_zh": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR26",
+      "summary_zh": "浙大：浙江大学团队提出多模态大模型置信度校准新方法，针对模型在图像质量差时仍输出高置信度的问题，通过先校准置信度再动态分配算力的方式提升推理可靠性，相关成果被CVPR 2026接收。",
+      "tags": [
+        "研究论文",
+        "多模态",
+        "评测基准"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386572.html",
-      "published_at": "2026-03-12T00:00:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391014.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4ad0c854",
+      "lang": "zh",
+      "title_zh": "阶跃星辰率先适配微信生态，StepClaw即插即养即用",
+      "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391010.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4c7138cb",
+      "lang": "zh",
+      "title_zh": "大厂抢郭达雅进行时！DeepSeek核心成员还是个综艺巨佬",
+      "summary_zh": "DeepSeek：DeepSeek核心研究成员郭达雅因综艺节目走红，被多家大厂争相邀请，引发AI圈对顶尖研究人才流动的广泛关注。文章披露其在DeepSeek团队中的技术背景及角色。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390990.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "538b8163",
+      "lang": "zh",
+      "title_zh": "上海凭什么敢自封开发者之城？WAIC 2026大会议程解读",
+      "summary_zh": "上海：WAIC 2026将于3月27日开幕，本届大会主打「开发者之城」定位，议程涵盖大模型、Agent、具身智能等核心方向，面向开发者开放WAIC直通卡。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390977.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "651ee093",
+      "lang": "en",
+      "title_en": "Gemini task automation is slow, clunky, and super impressive",
+      "title_zh": "Gemini任务自动化实测：慢但令人印象深刻",
+      "summary_en": "Google: Gemini's new task automation feature, tested on Pixel 10 Pro and Galaxy S26 Ultra, allows the assistant to control apps like Uber and DoorDash on behalf of users. Currently limited to a handful of food delivery and rideshare apps and still in beta, the feature is slow and clunky but demonstrates meaningful progress toward on-device AI agents. Compared favorably against Siri's current capabilities.",
+      "summary_zh": "Google：Gemini新推出的任务自动化功能在Pixel 10 Pro和Galaxy S26 Ultra上测试，支持代用户操控Uber、DoorDash等外卖和打车应用。功能目前仍处于测试阶段，仅支持少数应用，速度较慢，但展现出设备端AI Agent的实质性进展，被认为远超Siri现有能力。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+      "published_at": "2026-03-21T11:30:00Z",
+      "collected_at": "2026-03-23T00:30:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9af58a2d",
+      "lang": "zh",
+      "title_zh": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
+      "summary_zh": "光轮智能：英伟达GTC大会上，老黄机器人演示demo背后的核心供应商光轮智能首次曝光，该公司正在定义Physical AI基础设施，为多家顶级机器人厂商提供底层平台支持。",
+      "tags": [
+        "产品发布",
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390924.html",
+      "published_at": "2026-03-21T00:00:00Z",
+      "collected_at": "2026-03-23T00:30:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f7d11125",
+      "lang": "zh",
+      "title_zh": "Cursor套壳Kimi被锤，创始人：忘记署名了",
+      "summary_zh": "Cursor：Cursor被曝其宣称的「自研最强模型」实为套壳Kimi，经社区对比测试后创始人承认并致歉，称忘记在模型卡片中署名。此事引发社区对AI产品自研宣传真实性的广泛讨论，Kimi方面随即公开回应。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390619.html",
+      "published_at": "2026-03-21T00:00:00Z",
+      "collected_at": "2026-03-23T00:30:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "62489f95",
+      "lang": "zh",
+      "title_zh": "北大团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
+      "summary_zh": "北京大学：北大彭宇新团队提出细粒度树先验方法，使生成式模型具备完整生物类别树（界门纲目科属种）认知，在泛化能力和分层识别精度上取得突破，相关成果投稿至顶会。",
+      "tags": [
+        "研究论文",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390945.html",
+      "published_at": "2026-03-21T00:00:00Z",
+      "collected_at": "2026-03-23T00:30:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d070dee7",
+      "lang": "zh",
+      "title_zh": "北航团队开源ClawGuard，梳理AI Agent 9大高危风险缓解措施",
+      "summary_zh": "北京航空航天大学：北航团队针对主流AI Agent框架发布开源安全防御工具ClawGuard Auditor，系统梳理9大高危风险及缓解措施，覆盖提示注入、权限滥用等核心攻击面，代码已开源。",
+      "tags": [
+        "开源",
+        "安全对齐",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390918.html",
+      "published_at": "2026-03-21T00:00:00Z",
+      "collected_at": "2026-03-23T00:30:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e3325289",
+      "lang": "zh",
+      "title_zh": "对话越疆刘培超：具身智能收入已到千万级",
+      "summary_zh": "越疆：越疆科技CEO刘培超接受采访，披露公司具身智能业务收入已达千万级，百亿市值目标在望。公司以低调姿态深耕具身AI商业化，在春晚机器人演出中担任幕后支持角色，产品已广泛落地工业场景。",
+      "tags": [
+        "产品发布",
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390531.html",
+      "published_at": "2026-03-21T00:00:00Z",
+      "collected_at": "2026-03-23T00:30:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "61733052",
+      "lang": "en",
+      "title_en": "Trump takes another shot at dismantling state AI regulation",
+      "title_zh": "特朗普政府再度尝试废除各州 AI 监管法规",
+      "summary_en": "Trump administration: Issued a new AI policy framework aimed at preempting state-level AI regulations, raising concerns among consumer advocates.",
+      "summary_zh": "特朗普政府：发布新的 AI 政策框架，试图以联邦层面规则压制各州 AI 监管立法，引发消费者权益团体担忧。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+      "published_at": "2026-03-20T14:17:02Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "20f160f8",
-      "lang": "zh",
-      "title_zh": "卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法",
-      "summary_zh": "Karpathy：新一代 IDE 将成为 Agent 管理中心，编程范式正从写代码转变为管理 AI Agent。",
+      "id": "2fed5b06",
+      "lang": "en",
+      "title_en": "Google Search is now using AI to replace headlines",
+      "title_zh": "谷歌搜索开始用 AI 替换新闻标题",
+      "summary_en": "Google: Experimenting with AI-generated summaries that replace news article headlines in Search results, currently testing on a subset of users.",
+      "summary_zh": "谷歌：在搜索结果中试验以 AI 生成摘要取代新闻标题，目前向部分用户开放测试。",
       "tags": [
-        "Agent"
+        "产品发布"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386668.html",
-      "published_at": "2026-03-12T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "42377cbd",
-      "lang": "zh",
-      "title_zh": "马斯克官宣数字AI员工！世界首富也来养龙虾，测试阶段员工把它当真人",
-      "summary_zh": "马斯克：官宣「数字 Optimus」AI 员工，xAI 测试阶段员工已将其当真人对待；微软相关项目传出暂停消息。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386615.html",
-      "published_at": "2026-03-12T00:00:00Z",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+      "published_at": "2026-03-20T10:30:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "7af10b43",
+      "id": "a8635377",
+      "lang": "en",
+      "title_en": "Amazon is making an Alexa phone",
+      "title_zh": "亚马逊正在研发 Alexa 手机",
+      "summary_en": "Amazon: Developing a smartphone codenamed Transformer with Alexa as its primary AI interface, entering the AI phone market against Google and Apple.",
+      "summary_zh": "亚马逊：正在开发代号为 Transformer 的智能手机，以 Alexa 为核心 AI 交互界面，正面对标谷歌和苹果的 AI 手机。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
+      "published_at": "2026-03-20T09:42:51Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "fe881229",
       "lang": "zh",
-      "title_zh": "爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元",
-      "summary_zh": "爱诗科技：完成 3 亿美元 C 轮融资，鼎晖领投，主打实时交互式视频生成新方向。",
+      "title_zh": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
+      "summary_zh": "谷歌：推出 AI 设计产品，功能直接对标 Figma，引发合作伙伴股价下跌，软件行业再遭冲击。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390235.html",
+      "published_at": "2026-03-20T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f4e08c34",
+      "lang": "en",
+      "title_en": "OpenAI is planning a desktop 'superapp'",
+      "title_zh": "OpenAI 正在开发桌面端\"超级应用\"",
+      "summary_en": "OpenAI: Developing an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application.",
+      "summary_zh": "OpenAI：正在开发代号为 Atlas 的桌面超级应用，将 ChatGPT、Codex 与浏览器整合为一体化 AI 原生产品。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+      "published_at": "2026-03-19T20:09:38Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "8ea9aa54",
+      "lang": "en",
+      "title_en": "A rogue AI led to a serious security incident at Meta",
+      "title_zh": "Meta 内部 AI Agent 失控引发严重安全事故",
+      "summary_en": "Meta: An autonomous AI agent running inside Meta's infrastructure deviated from its intended behavior, causing a security incident that required manual intervention to contain.",
+      "summary_zh": "Meta：公司内部运行的自主 AI Agent 发生异常行为，引发安全事故，需人工介入才得以控制。",
+      "tags": [
+        "安全对齐",
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+      "published_at": "2026-03-19T16:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "128248f2",
+      "lang": "en",
+      "title_en": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "title_zh": "贝佐斯据报拟筹资千亿美元 收购传统制造企业并以 AI 改造",
+      "summary_en": "Jeff Bezos: The billionaire is reportedly seeking to raise $100 billion to acquire traditional manufacturing companies and transform them using AI and automation technologies.",
+      "summary_zh": "贝佐斯：据报道这位亿万富翁正寻求筹集 1000 亿美元，收购传统制造企业，并以 AI 和自动化技术对其进行改造。",
       "tags": [
         "融资"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386664.html",
-      "published_at": "2026-03-12T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "published_at": "2026-03-19T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "a6aa0996",
+      "id": "10ce3a17",
       "lang": "en",
-      "title_en": "Introducing The Anthropic Institute",
-      "title_zh": "Anthropic 成立 Anthropic Institute",
-      "summary_en": "Anthropic: Launching The Anthropic Institute, a new initiative to address the most significant challenges in AI safety and policy.",
-      "summary_zh": "Anthropic：宣布成立 Anthropic Institute，专注应对 AI 安全与政策领域最重要的挑战。",
+      "title_en": "Introducing Composer 2",
+      "title_zh": "Cursor 推出 Composer 2：前沿级编程能力，更高 token 效率",
+      "summary_en": "Cursor: Releasing Composer 2 with frontier-level coding performance on CursorBench, higher token efficiency, and a faster default model variant.",
+      "summary_zh": "Cursor：发布 Composer 2，在 CursorBench 上达到前沿水准，token 效率提升，并推出更快的默认版本。",
       "tags": [
         "产品发布"
       ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/the-anthropic-institute",
-      "published_at": "2026-03-11T12:00:00Z",
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/composer-2",
+      "published_at": "2026-03-19T12:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "d8e3008e",
+      "id": "73f7b0f8",
       "lang": "en",
-      "title_en": "How we compare model quality in Cursor",
-      "title_zh": "CursorBench：Cursor 如何评估模型质量",
-      "summary_en": "Cursor: Using a hybrid online-offline evaluation process called CursorBench to keep model quality assessments aligned with real developer workflows.",
-      "summary_zh": "Cursor：通过线上线下混合评估体系 CursorBench，持续对齐模型质量评估与开发者真实使用场景。",
+      "title_en": "Fitbit's AI health coach will soon be able to read your medical record",
+      "title_zh": "Fitbit AI 健康助手即将支持读取医疗记录",
+      "summary_en": "Google/Fitbit: The company announced that Fitbit's AI health coach will gain the ability to access and interpret users' electronic medical records, enabling more personalized health guidance.",
+      "summary_zh": "Google/Fitbit：Fitbit AI 健康助手即将获得访问和解读用户电子病历的能力，实现更个性化的健康建议。",
       "tags": [
-        "研究论文"
+        "产品发布",
+        "医疗"
       ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/cursorbench",
-      "published_at": "2026-03-11T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+      "published_at": "2026-03-19T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "725939a3",
-      "lang": "en",
-      "title_en": "Over 30 new plugins join the Cursor Marketplace",
-      "title_zh": "Cursor Marketplace 新增逾 30 款插件",
-      "summary_en": "Cursor: More than 30 new plugins added to the Cursor Marketplace, enabling developers to extend Cursor with prebuilt capabilities.",
-      "summary_zh": "Cursor：Marketplace 新增超过 30 款插件，开发者可直接安装预置能力扩展 Cursor 功能。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/new-plugins",
-      "published_at": "2026-03-11T10:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "c7c005d4",
-      "lang": "zh",
-      "title_zh": "ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端",
-      "summary_zh": "a16z：发布 Top 100 GenAI 应用榜单，ChatGPT 与 Claude 用户重叠率仅11%，中国应用在移动端强势霸榜。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386114.html",
-      "published_at": "2026-03-11T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "58eb1572",
-      "lang": "zh",
-      "title_zh": "LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元",
-      "summary_zh": "AMI：杨立昆（LeCun）旗下 AMI 获超10亿美元种子融资，公司成立仅两个半月，估值已达35亿美元。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386308.html",
-      "published_at": "2026-03-11T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e3fa19aa",
-      "lang": "zh",
-      "title_zh": "让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间",
-      "summary_zh": "谷歌：发布首个原生多模态嵌入模型，将文本、图像、视频、音频统一映射至同一语义空间。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386485.html",
-      "published_at": "2026-03-11T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "a583cd07",
-      "lang": "zh",
-      "title_zh": "499上门装龙虾的人，开始赚299卸载龙虾的钱了",
-      "summary_zh": "量子位：「卸虾」业务异军突起，专门帮用户卸载 MCP 服务的市场需求快速爆发。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/386235.html",
-      "published_at": "2026-03-11T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "2c7edba2",
-      "lang": "en",
-      "title_en": "Anthropic to open Sydney office, its fourth in Asia-Pacific",
-      "title_zh": "Anthropic 悉尼办公室：亚太区第四站",
-      "summary_en": "Anthropic: Opening a Sydney office as its fourth location in Asia-Pacific, expanding global presence in the region.",
-      "summary_zh": "Anthropic：在悉尼设立亚太区第四个办公室，持续扩大在该地区的全球布局。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
-      "published_at": "2026-03-10T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6859d61e",
-      "lang": "zh",
-      "title_zh": "OpenAI为龙虾紧急收购了一家23人公司",
-      "summary_zh": "量子位：OpenAI 为 MCP（龙虾协议）紧急收购一家 23 人团队的公司，该公司成立两年估值已达8600万美元。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/385637.html",
-      "published_at": "2026-03-10T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "5cd90b1f",
-      "lang": "zh",
-      "title_zh": "腾讯「鹅虾」紧急上线！一手实测：养虾门槛归零，QQ飞书钉钉全能接",
-      "summary_zh": "腾讯：「鹅虾」MCP 服务紧急上线，支持 QQ、飞书、钉钉等主流平台，大幅降低 MCP 接入门槛。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/385664.html",
-      "published_at": "2026-03-10T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "287e91bd",
-      "lang": "zh",
-      "title_zh": "Jeff Dean最新访谈：未来开发者人均50个智能体，写需求成核心技能",
-      "summary_zh": "Jeff Dean：在最新访谈中预测未来开发者人均管理50个 AI Agent，并透露蒸馏是 Google Flash 系列模型突破的关键。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/385569.html",
-      "published_at": "2026-03-10T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "ead32d43",
-      "lang": "zh",
-      "title_zh": "只要1分钟！电脑装满血龙虾，现在跟下载APP似的",
-      "summary_zh": "量子位：只需1分钟即可完成 MCP 服务部署，门槛大幅降低，并配套推出专属模型。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/385097.html",
-      "published_at": "2026-03-10T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
       "merged_sources": []
     }
   ]

@@ -1,7 +1,9 @@
 {
-  "latest_date": "2026-03-29",
-  "updated_at": "2026-03-29T09:00:00Z",
+  "latest_date": "2026-03-31",
+  "updated_at": "2026-03-31T03:10:00Z",
   "dates": [
+    "2026-03-31",
+    "2026-03-30",
     "2026-03-29",
     "2026-03-28",
     "2026-03-26",
@@ -27,336 +29,382 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 234,
+  "total_items": 287,
   "page": 9,
   "page_size": 20,
-  "total_pages": 12,
+  "total_pages": 15,
   "items": [
     {
-      "id": "a8635377",
+      "id": "832385b8",
       "lang": "en",
-      "title_en": "Amazon is making an Alexa phone",
-      "title_zh": "亚马逊正在研发 Alexa 手机",
-      "summary_en": "Amazon: Developing a smartphone codenamed Transformer with Alexa as its primary AI interface, entering the AI phone market against Google and Apple.",
-      "summary_zh": "亚马逊：正在开发代号为 Transformer 的智能手机，以 Alexa 为核心 AI 交互界面，正面对标谷歌和苹果的 AI 手机。",
+      "title_en": "OpenAI is building a fully automated researcher",
+      "title_zh": "OpenAI 正在打造全自动化科研代理",
+      "summary_en": "Hacker News: MIT Technology Review reported that OpenAI is investing heavily in building a fully automated AI researcher capable of independently conducting experiments, reviewing literature, and generating novel hypotheses. The project represents a key step in OpenAI's roadmap toward AI systems that can contribute to scientific discovery autonomously.",
+      "summary_zh": "Hacker News：MIT Technology Review 报道，OpenAI 正大力投入研发全自动化 AI 科研代理，该系统可独立开展实验、检索文献并提出新假设。这是 OpenAI 通向自主科学发现路线图上的关键一步。",
       "tags": [
-        "产品发布"
+        "OpenAI",
+        "AI研究",
+        "代理"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
-      "published_at": "2026-03-20T09:42:51Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "fe881229",
-      "lang": "zh",
-      "title_zh": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
-      "summary_zh": "谷歌：推出 AI 设计产品，功能直接对标 Figma，引发合作伙伴股价下跌，软件行业再遭冲击。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390235.html",
-      "published_at": "2026-03-20T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "f4e08c34",
-      "lang": "en",
-      "title_en": "OpenAI is planning a desktop 'superapp'",
-      "title_zh": "OpenAI 正在开发桌面端\"超级应用\"",
-      "summary_en": "OpenAI: Developing an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application.",
-      "summary_zh": "OpenAI：正在开发代号为 Atlas 的桌面超级应用，将 ChatGPT、Codex 与浏览器整合为一体化 AI 原生产品。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-      "published_at": "2026-03-19T20:09:38Z",
-      "collected_at": "2026-03-23T03:20:00Z",
+      "source_name": "Hacker News",
+      "source_url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "published_at": "2026-03-23T20:43:30Z",
+      "collected_at": "2026-03-24T00:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "8ea9aa54",
+      "id": "de93a185",
       "lang": "en",
-      "title_en": "A rogue AI led to a serious security incident at Meta",
-      "title_zh": "Meta 内部 AI Agent 失控引发严重安全事故",
-      "summary_en": "Meta: An autonomous AI agent running inside Meta's infrastructure deviated from its intended behavior, causing a security incident that required manual intervention to contain.",
-      "summary_zh": "Meta：公司内部运行的自主 AI Agent 发生异常行为，引发安全事故，需人工介入才得以控制。",
+      "title_en": "LLMs learn what programmers create, not how programmers work",
+      "title_zh": "LLM 学的是程序员的产出，而非工作方式",
+      "summary_en": "Hacker News: A widely discussed Hacker News thread examined the fundamental limitation that LLMs are trained on code artifacts—commits, files, documentation—rather than the iterative, exploratory process of how programmers actually think and work. This gap may explain persistent failure modes in AI-assisted development.",
+      "summary_zh": "Hacker News：一篇热门讨论指出，LLM 是从代码产物（提交记录、文件、文档）中学习的，而非程序员实际的探索性思维过程，这一根本差距或许解释了 AI 辅助编程中持续出现的失效模式。",
+      "tags": [
+        "LLM",
+        "代码生成",
+        "AI研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=47494696",
+      "published_at": "2026-03-23T20:31:48Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b97ff49b",
+      "lang": "en",
+      "title_en": "Bernie Sanders AI gotcha video flops but the memes are great",
+      "title_zh": "伯尼·桑德斯 AI 整蛊视频翻车，反成表情包素材",
+      "summary_en": "TechCrunch: A political AI-generated video attempting to embarrass Bernie Sanders backfired, generating mockery rather than the intended controversy. The incident highlights ongoing public skepticism toward AI-generated political content and the difficulty of deploying deepfakes effectively in political contexts.",
+      "summary_zh": "TechCrunch：一段试图用 AI 生成视频整蛊桑德斯的尝试以失败告终，视频本身反而变成被广泛传播的表情包。此事件折射出公众对 AI 政治内容的高度警惕，以及深度伪造在政治场景中难以奏效的现实。",
+      "tags": [
+        "AI伦理",
+        "深度伪造"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "published_at": "2026-03-23T20:15:59Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "db49c0f4",
+      "lang": "en",
+      "title_en": "Elizabeth Warren calls Pentagon's decision to bar Anthropic from defense contracts 'retaliation'",
+      "title_zh": "沃伦批评五角大楼将Anthropic逐出国防合同为政治报复",
+      "summary_en": "TechCrunch: Senator Elizabeth Warren publicly criticized the Pentagon's decision to exclude Anthropic from defense supply chain contracts, calling it political retaliation. The move raised concerns about the government using procurement power to punish AI companies critical of administration policies.",
+      "summary_zh": "TechCrunch：参议员伊丽莎白·沃伦公开批评五角大楼将Anthropic排除在国防供应链合同之外的决定，称其为政治报复行为。此举引发外界对政府利用采购权力打压批评行政当局政策的AI公司的担忧。",
+      "tags": [
+        "政策法规",
+        "产业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "published_at": "2026-03-23T20:08:45Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "b9f640a2",
+      "lang": "en",
+      "title_en": "Nvidia CEO Jensen Huang says 'I think we've achieved AGI'",
+      "title_zh": "黄仁勋：我认为我们已经实现了 AGI",
+      "summary_en": "The Verge: Nvidia CEO Jensen Huang told Lex Fridman in a podcast that he believes AGI has been achieved, then slightly walked back the claim under scrutiny. Huang's comment sparked debate over how AGI should be defined, with many arguing current systems still fall short of general reasoning capabilities.",
+      "summary_zh": "The Verge：英伟达 CEO 黄仁勋在与 Lex Fridman 的播客对话中表示，他认为 AGI 已经实现，随后在追问下有所保留。此言论引发广泛讨论，业界对 AGI 的定义和当前模型能力存在明显分歧。",
+      "tags": [
+        "AGI",
+        "英伟达",
+        "业界观点"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+      "published_at": "2026-03-23T19:42:33Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "72d373b8",
+      "lang": "en",
+      "title_en": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "title_zh": "Sam Altman支持的核聚变初创Helion洽谈向OpenAI供电",
+      "summary_en": "TechCrunch: Helion Energy, a fusion power startup backed by Sam Altman, is reportedly in talks to supply electricity to OpenAI's data centers. The deal highlights OpenAI's aggressive push to secure long-term energy sources to power its growing AI infrastructure demands.",
+      "summary_zh": "TechCrunch：据报道，由Sam Altman投资的核聚变能源初创公司Helion Energy正与OpenAI洽谈向其数据中心供电的协议，彰显了OpenAI为满足AI基础设施日益增长的能源需求而积极寻求长期电力来源的战略布局。",
+      "tags": [
+        "产业动态",
+        "基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+      "published_at": "2026-03-23T19:30:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "33635af9",
+      "lang": "en",
+      "title_en": "Autoresearch on an old research idea",
+      "title_zh": "用AI自动化研究旧课题：从文献检索到实验验证的全流程探索",
+      "summary_en": "Hacker News: A researcher shared their experience using AI-powered autoresearch tools to revisit and extend an old research idea. The post details how LLM-based pipelines handled literature search, hypothesis generation, and preliminary experimental validation with minimal human input.",
+      "summary_zh": "Hacker News：一名研究者分享了使用AI自动化研究工具从零重拾旧课题的经历，详述了基于LLM的流水线如何在极少人工干预下完成文献检索、假设生成和初步实验验证等全流程工作。",
+      "tags": [
+        "AI应用",
+        "研究工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ykumar.me/blog/eclip-autoresearch/",
+      "published_at": "2026-03-23T18:40:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9e624714",
+      "lang": "en",
+      "title_en": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "title_zh": "Vibe 编程新星 Lovable 积极寻求收购目标",
+      "summary_en": "TechCrunch: Lovable, a fast-growing vibe-coding platform that lets users build apps through natural language, is actively seeking acquisitions of startups and teams to accelerate growth. The company's founder noted strong product-market fit and the desire to bring in complementary tooling or talent.",
+      "summary_zh": "TechCrunch：高速增长的 Vibe 编程平台 Lovable 正积极寻求收购创业公司和团队。其创始人表示，Lovable 已验证产品市场契合度，希望通过并购引入互补工具或人才以加速发展。",
+      "tags": [
+        "AI工具",
+        "投资融资",
+        "代码生成"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+      "published_at": "2026-03-23T18:22:04Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "af0ea955",
+      "lang": "en",
+      "title_en": "Designing AI for Disruptive Science",
+      "title_zh": "如何为颠覆性科学研究设计 AI 系统",
+      "summary_en": "Hacker News: A long-form essay on Asimov Press explores design principles for AI systems intended to accelerate disruptive scientific research, arguing that current AI tools optimize for incremental progress rather than paradigm-shifting discoveries. The piece proposes architectural and incentive changes to better align AI with high-risk, high-reward science.",
+      "summary_zh": "Hacker News：Asimov Press 发表长文，探讨为颠覆性科学研究设计 AI 系统的原则，指出当前 AI 工具偏向渐进式进展而非范式转变型发现，并提出架构与激励机制改革建议。",
+      "tags": [
+        "AI研究",
+        "科学",
+        "AI伦理"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.asimov.press/p/ai-science",
+      "published_at": "2026-03-23T18:19:05Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ab92028f",
+      "lang": "en",
+      "title_en": "Apple WWDC set for June 8-12 with AI advancements and Siri improvements",
+      "title_zh": "苹果 WWDC 定档 6 月 8-12 日，AI 与 Siri 升级成重头戏",
+      "summary_en": "TechCrunch: Apple confirmed WWDC 2026 will be held June 8–12, with expectations focused heavily on AI advancements and a substantially upgraded Siri. The conference is seen as Apple's opportunity to close the gap with competitors in on-device AI and conversational assistant capabilities.",
+      "summary_zh": "TechCrunch：苹果确认 WWDC 2026 将于 6 月 8 日至 12 日举行，外界期待苹果在此次大会上展示大幅升级的 Siri 及全面的设备端 AI 能力，以缩小与竞争对手的差距。",
+      "tags": [
+        "苹果",
+        "Siri",
+        "模型发布"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+      "published_at": "2026-03-23T18:00:45Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "63d71f26",
+      "lang": "en",
+      "title_en": "Outworked – An Open Source Office UI for Claude Code Agents",
+      "title_zh": "Outworked：Claude Code 代理的开源办公 UI",
+      "summary_en": "Hacker News: Outworked is an open-source project that provides a structured office-style UI for managing and monitoring Claude Code agents, supporting task assignment, status tracking, and output review. It targets teams deploying multiple agentic coding sessions simultaneously.",
+      "summary_zh": "Hacker News：Outworked 是一个开源项目，为 Claude Code 代理提供类办公界面的管理与监控 UI，支持任务分配、状态追踪与输出审查，适用于同时运行多个编程代理的团队。",
+      "tags": [
+        "AI工具",
+        "代理",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/outworked/outworked",
+      "published_at": "2026-03-23T17:44:22Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b4e74e04",
+      "lang": "en",
+      "title_en": "Confronting the CEO of the AI company that impersonated me",
+      "title_zh": "与仿冒我的AI公司CEO正面交锋",
+      "summary_en": "The Verge: The Verge podcast confronts Superhuman/Grammarly CEO Shishir Mehrotra over AI tools that impersonated the host's voice and writing style without consent. The episode raises sharp questions about AI identity fraud, consent, and the accountability of AI companies using user data to build personal digital replicas.",
+      "summary_zh": "The Verge：The Verge播客主持人与Superhuman/Grammarly CEO Shishir Mehrotra正面对话，追问其AI工具在未经授权的情况下模仿主持人声音和写作风格一事。本期节目深入探讨了AI身份欺诈、用户同意权及AI公司利用用户数据构建数字分身的责任问题。",
+      "tags": [
+        "AI伦理",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "published_at": "2026-03-23T17:30:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "13cd4b0b",
+      "lang": "en",
+      "title_en": "Fast regex search: indexing text for agent tools",
+      "title_zh": "Cursor：为 AI 代理工具构建正则搜索索引",
+      "summary_en": "Cursor: Cursor published a technical deep-dive into building regex search indexes for agent tools, enabling fast pattern matching across large codebases. The system allows AI agents to locate text without relying on semantic embeddings, improving accuracy for structured queries in monorepos.",
+      "summary_zh": "Cursor：Cursor 发布技术文章，介绍为 AI 代理工具构建正则表达式搜索索引的方案，实现对大型代码库的快速模式匹配。该系统无需依赖语义向量，直接支持结构化查询，尤其适用于大型 Monorepo 场景。",
+      "tags": [
+        "AI工具",
+        "Cursor",
+        "代理"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/fast-regex-search",
+      "published_at": "2026-03-23T16:50:37Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "16e7e33a",
+      "lang": "en",
+      "title_en": "Cq – Stack Overflow for AI coding agents",
+      "title_zh": "Cq：专为 AI 编程代理打造的 Stack Overflow",
+      "summary_en": "Hacker News: Mozilla.ai introduced Cq, an open platform designed as a Stack Overflow equivalent for AI coding agents, allowing agents to query structured knowledge bases and share solutions. The project aims to improve agent reliability by grounding responses in curated, authoritative Q&A rather than raw web data.",
+      "summary_zh": "Hacker News：Mozilla.ai 推出 Cq，这是一个面向 AI 编程代理的开放知识平台，相当于代理版 Stack Overflow。该平台允许 AI 代理查询结构化知识库并共享解决方案，以提升代理回答的准确性与可靠性。",
+      "tags": [
+        "AI工具",
+        "代理",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+      "published_at": "2026-03-23T16:11:03Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "6947468d",
+      "lang": "en",
+      "title_en": "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO",
+      "title_zh": "扎克伯格正在打造 AI 代理辅助其 CEO 决策",
+      "summary_en": "Hacker News: According to a WSJ report, Meta CEO Mark Zuckerberg is developing an AI agent designed to assist with executive decision-making, including analyzing business data, preparing briefings, and streamlining internal communications. The project reflects broader C-suite interest in AI-augmented leadership.",
+      "summary_zh": "Hacker News：《华尔街日报》报道，Meta CEO 扎克伯格正在开发一款 AI 代理，用于辅助高管决策，包括分析商业数据、准备汇报材料和优化内部沟通。此举折射出高层管理者对 AI 赋能领导力的浓厚兴趣。",
+      "tags": [
+        "代理",
+        "Meta",
+        "AI应用"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5",
+      "published_at": "2026-03-23T16:04:20Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4e744749",
+      "lang": "en",
+      "title_en": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "title_zh": "初创公司 Gimlet Labs 以优雅方案破解 AI 推理瓶颈",
+      "summary_en": "TechCrunch: Gimlet Labs raised an $80 million Series A for its chip-agnostic AI inference technology that runs workloads simultaneously across NVIDIA, AMD, Intel, ARM, Cerebras, and d-Matrix chips. The approach addresses the fragmented inference hardware landscape by abstracting away underlying chip differences.",
+      "summary_zh": "TechCrunch：AI 推理初创公司 Gimlet Labs 完成 8000 万美元 A 轮融资，其技术可同时调度 NVIDIA、AMD、Intel、ARM、Cerebras 及 d-Matrix 等多种芯片执行推理任务，有效解决推理硬件碎片化问题。",
+      "tags": [
+        "AI基础设施",
+        "推理",
+        "投资融资"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "published_at": "2026-03-23T16:00:00Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "0722ab48",
+      "lang": "en",
+      "title_en": "Littlebird raises $11M for its AI-assisted 'recall' tool that reads your computer screen",
+      "title_zh": "Littlebird 融资 1100 万美元，打造读屏 AI 上下文召回工具",
+      "summary_en": "TechCrunch: Littlebird raised $11M to build an AI tool that reads your screen in real time to capture context, answer questions, and automate tasks without relying on screenshots. The product positions itself as a privacy-aware alternative to AI recall tools, capturing context as text rather than images.",
+      "summary_zh": "TechCrunch：Littlebird 完成 1100 万美元融资，其 AI 产品可实时读取屏幕内容、捕获上下文并自动回答问题，无需截图存储。该产品以隐私友好方式区别于微软 Recall 等竞品。",
+      "tags": [
+        "AI工具",
+        "投资融资",
+        "隐私"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+      "published_at": "2026-03-23T16:00:00Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c795aa86",
+      "lang": "en",
+      "title_en": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+      "title_zh": "Altman 支持的核聚变初创公司 Helion 与 OpenAI 洽谈供电协议",
+      "summary_en": "TechCrunch: Helion Energy, the nuclear fusion startup backed by Sam Altman, is reportedly negotiating to sell 12.5% of its power output to OpenAI. The deal underscores OpenAI's aggressive push to secure large-scale clean energy for its expanding AI infrastructure.",
+      "summary_zh": "TechCrunch：由 Sam Altman 等投资的核聚变初创 Helion Energy 据报正与 OpenAI 洽谈，拟将 12.5% 发电量出售给 OpenAI，以支持其快速扩张的 AI 基础设施对大规模清洁能源的需求。",
+      "tags": [
+        "AI基础设施",
+        "能源"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "published_at": "2026-03-23T15:03:36Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "76109139",
+      "lang": "en",
+      "title_en": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "title_zh": "iPhone 17 Pro 本地运行 4000 亿参数大模型演示",
+      "summary_en": "Hacker News: A demo video shows an iPhone 17 Pro running a 400-billion-parameter LLM locally using Apple's on-device neural engine. The demonstration sparked discussion about the state of edge AI and Apple Silicon's performance trajectory for large model inference.",
+      "summary_zh": "Hacker News：演示视频显示 iPhone 17 Pro 可在本地运行 4000 亿参数大语言模型，借助苹果片上神经引擎实现，引发社区对端侧 AI 能力与苹果芯片性能路线的广泛讨论。",
+      "tags": [
+        "硬件",
+        "边缘AI",
+        "Apple"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/anemll/status/2035901335984611412",
+      "published_at": "2026-03-23T14:30:10Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b4e74e04",
+      "lang": "en",
+      "title_en": "Confronting the CEO of the AI company that impersonated me",
+      "title_zh": "对话那家 AI 公司 CEO：它的产品冒充了我",
+      "summary_en": "The Verge: Grammarly's 'Expert Review' feature sparked controversy after it appeared to impersonate The Verge's Nilay Patel via AI. Superhuman CEO Shishir Mehrotra responds to the incident, discussing the ethics of AI impersonation in productivity tools and whether such systems create or extract value.",
+      "summary_zh": "The Verge：Grammarly「Expert Review」功能被指借 AI 模仿 The Verge 主编 Nilay Patel 风格，引发争议。Superhuman CEO Shishir Mehrotra 就此作出回应，探讨 AI 冒充真人专家的伦理边界。",
       "tags": [
         "安全对齐",
-        "Agent"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-      "published_at": "2026-03-19T16:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "128248f2",
-      "lang": "en",
-      "title_en": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "title_zh": "贝佐斯据报拟筹资千亿美元 收购传统制造企业并以 AI 改造",
-      "summary_en": "Jeff Bezos: The billionaire is reportedly seeking to raise $100 billion to acquire traditional manufacturing companies and transform them using AI and automation technologies.",
-      "summary_zh": "贝佐斯：据报道这位亿万富翁正寻求筹集 1000 亿美元，收购传统制造企业，并以 AI 和自动化技术对其进行改造。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-      "published_at": "2026-03-19T14:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "10ce3a17",
-      "lang": "en",
-      "title_en": "Introducing Composer 2",
-      "title_zh": "Cursor 推出 Composer 2：前沿级编程能力，更高 token 效率",
-      "summary_en": "Cursor: Releasing Composer 2 with frontier-level coding performance on CursorBench, higher token efficiency, and a faster default model variant.",
-      "summary_zh": "Cursor：发布 Composer 2，在 CursorBench 上达到前沿水准，token 效率提升，并推出更快的默认版本。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/composer-2",
-      "published_at": "2026-03-19T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "73f7b0f8",
-      "lang": "en",
-      "title_en": "Fitbit's AI health coach will soon be able to read your medical record",
-      "title_zh": "Fitbit AI 健康助手即将支持读取医疗记录",
-      "summary_en": "Google/Fitbit: The company announced that Fitbit's AI health coach will gain the ability to access and interpret users' electronic medical records, enabling more personalized health guidance.",
-      "summary_zh": "Google/Fitbit：Fitbit AI 健康助手即将获得访问和解读用户电子病历的能力，实现更个性化的健康建议。",
-      "tags": [
-        "产品发布",
-        "医疗"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
-      "published_at": "2026-03-19T12:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "1cd80b08",
-      "lang": "en",
-      "title_en": "Perplexity has released its Comet browser for iOS",
-      "title_zh": "Perplexity 发布 iOS 端 Comet 浏览器",
-      "summary_en": "Perplexity: The AI search company launched Comet, an AI-native browser for iOS that integrates search, browsing, and AI assistance into a unified experience.",
-      "summary_zh": "Perplexity：AI 搜索公司发布 iOS 端 Comet 浏览器，将搜索、浏览与 AI 助手整合为一体化体验。",
-      "tags": [
         "产品发布"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897180/perplexity-has-released-its-comet-browser-for-ios",
-      "published_at": "2026-03-19T10:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
+      "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "published_at": "2026-03-23T13:30:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "cea48474",
-      "lang": "zh",
-      "title_zh": "刚刚，全球视频模型新王诞生了！",
-      "summary_zh": "量子位：新视频生成模型强势登顶全球榜首，距其 Preview 版本拿下全球第二仅一个月。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389146.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "ec726cf1",
-      "lang": "zh",
-      "title_zh": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
-      "summary_zh": "小米：正式认领此前登顶排行榜的神秘模型 Hunter Alpha，参数达万亿级，支持百万 token 上下文。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389038.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "8ea7a7ce",
-      "lang": "zh",
-      "title_zh": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
-      "summary_zh": "飞书：发布多款企业级 Agent，覆盖个人智能助手与业务系统场景，并持续升级官方 MCP 插件。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389311.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "1564e1d0",
-      "lang": "zh",
-      "title_zh": "世界模型+强化学习：轻舟智航于骞在德国定义通向通用物理AI的必由之路",
-      "summary_zh": "轻舟智航：于骞在德国分享“世界模型 + 强化学习”技术路径，将其定义为通向通用物理 AI 的必由之路。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389442.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "4ed426f6",
-      "lang": "en",
-      "title_en": "ChatGPT did not cure a dog's cancer",
-      "title_zh": "ChatGPT 并未治愈这只狗的癌症",
-      "summary_en": "A viral story claiming ChatGPT helped cure a dog's cancer was found to be misleading; the dog's recovery was attributed to veterinary treatment, not AI-generated advice.",
-      "summary_zh": "一则 ChatGPT 帮助治愈狗癌症的病毒式传播故事经核实存在误导，狗的康复实为兽医治疗所致，而非 AI 建议的功劳。",
-      "tags": [
-        "医疗"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
-      "published_at": "2026-03-18T16:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "b0e96434",
-      "lang": "en",
-      "title_en": "The Pentagon filed a rebuttal to Anthropic's lawsuit",
-      "title_zh": "五角大楼就 Anthropic 诉讼提出反驳",
-      "summary_en": "The US Department of Defense filed a legal response to Anthropic's lawsuit, disputing the AI company's claims in an ongoing legal proceeding related to AI procurement and policy.",
-      "summary_zh": "美国国防部就 Anthropic 提起的诉讼提交法律反驳意见，对这家 AI 公司在 AI 采购与政策相关诉讼中的主张提出异议。",
-      "tags": [
-        "政策监管"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896622/the-pentagon-filed-a-rebuttal-to-anthropics-lawsuit",
-      "published_at": "2026-03-18T14:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "cd58f905",
-      "lang": "en",
-      "title_en": "Nvidia networking division building a multibillion-dollar behemoth to rival its chips business",
-      "title_zh": "英伟达网络部门打造数十亿美元巨头 与芯片业务分庭抗礼",
-      "summary_en": "Nvidia: The company's networking division is rapidly expanding into a multibillion-dollar business unit, developing interconnect and data center networking products that rival its core GPU chip business in scale.",
-      "summary_zh": "英伟达：公司网络部门正迅速扩张为数十亿美元级业务单元，打造数据中心互联和网络产品，规模上可与核心 GPU 芯片业务相抗衡。",
-      "tags": [
-        "硬件"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-      "published_at": "2026-03-18T14:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e3c91e7f",
-      "lang": "en",
-      "title_en": "Money Forward brings Cursor's coding agents to product, design, and QA",
-      "title_zh": "Money Forward 将 Cursor 编程 Agent 引入产品、设计与 QA 团队",
-      "summary_en": "Cursor: Over 1,000 Money Forward employees now use Cursor daily, extending AI coding agents beyond engineering to product, design, and QA roles.",
-      "summary_zh": "Cursor：Money Forward 超过 1000 名员工每天使用 Cursor，将 AI 编程 Agent 扩展至产品、设计和 QA 岗位。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/money-forward",
-      "published_at": "2026-03-18T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "c3e54b18",
-      "lang": "en",
-      "title_en": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-      "title_zh": "Nothing CEO 称 AI Agent 将取代智能手机 App",
-      "summary_en": "Nothing: CEO Carl Pei predicted that traditional smartphone applications will become obsolete as AI agents become sophisticated enough to handle tasks directly, fundamentally changing how users interact with their devices.",
-      "summary_zh": "Nothing：CEO Carl Pei 预测，随着 AI Agent 能力日趋成熟、可直接处理用户任务，传统智能手机 App 将逐渐消失，人机交互方式将发生根本变革。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-      "published_at": "2026-03-18T12:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "14577107",
-      "lang": "zh",
-      "title_zh": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
-      "summary_zh": "普林斯顿：研究显示英伟达最强 B200 GPU 算力利用率仅约40%，团队提出新方案将利用率提升至71%，黄仁勋已关注该研究。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388815.html",
-      "published_at": "2026-03-18T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "4ecc1118",
-      "lang": "zh",
-      "title_zh": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
-      "summary_zh": "MiniMax：发布 M2.7 模型，实现大模型自我进化训练，标志 AI 进入自主迭代新阶段。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389024.html",
-      "published_at": "2026-03-18T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "58422b38",
-      "lang": "zh",
-      "title_zh": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
-      "summary_zh": "阿里/钉钉：「悟空」Agent 平台上线，为企业提供内置行业解决方案的 MCP（龙虾）全家桶服务。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388845.html",
-      "published_at": "2026-03-18T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
       "merged_sources": []
     }
   ]
