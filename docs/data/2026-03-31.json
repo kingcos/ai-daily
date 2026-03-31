@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T08:50:00Z",
+  "generated_at": "2026-03-31T09:15:00Z",
   "items": [
     {
       "id": "97e39b05",
@@ -18,6 +18,24 @@
       "source_url": "https://substack.com/home/post/p-192665961",
       "published_at": "2026-03-31T09:28:44Z",
       "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "563686cd",
+      "lang": "en",
+      "title_en": "Universal Claude.md – cut Claude output tokens",
+      "title_zh": "通用 Claude.md——大幅削减 Claude 输出 Token",
+      "summary_en": "Community: A GitHub repository proposes a universal Claude.md configuration that significantly reduces Claude's output token usage. The approach applies prompt-level instructions to suppress verbosity and redundant formatting, helping developers cut API costs. Gained 293 upvotes on Hacker News.",
+      "summary_zh": "社区：一个 GitHub 仓库提出通用 Claude.md 配置方案，通过提示级指令抑制冗余输出，有效降低 Claude API Token 消耗，帮助开发者节省成本。该帖在 Hacker News 获得 293 点赞。",
+      "tags": [
+        "工具",
+        "开发者"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/drona23/claude-token-efficient",
+      "published_at": "2026-03-31T09:28:44Z",
+      "collected_at": "2026-03-31T09:15:00Z",
       "importance": 3,
       "merged_sources": []
     },
@@ -40,6 +58,24 @@
       "merged_sources": []
     },
     {
+      "id": "98e6a511",
+      "lang": "en",
+      "title_en": "Claude usage limits hitting faster than expected",
+      "title_zh": "Claude 用量上限比预期更快触达",
+      "summary_en": "Community: A Reddit thread on r/ClaudeCode reports that Claude API usage limits are being reached faster than anticipated by developers. Users discuss patterns in token consumption and strategies to manage limits, reflecting growing adoption of Claude in production coding workflows.",
+      "summary_zh": "社区：Reddit r/ClaudeCode 帖子报告称开发者比预期更快触达 Claude API 用量上限。用户讨论 Token 消耗规律及管理策略，反映 Claude 在生产编程工作流中的使用量快速增长。",
+      "tags": [
+        "开发者",
+        "工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://old.reddit.com/r/ClaudeCode/comments/1s7zg7h/investigating_usage_limits_",
+      "published_at": "2026-03-31T08:15:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
       "id": "6cfda92b",
       "lang": "en",
       "title_en": "Ollama is now powered by MLX on Apple Silicon in preview",
@@ -59,6 +95,24 @@
       "merged_sources": []
     },
     {
+      "id": "8c3ac627",
+      "lang": "en",
+      "title_en": "GitHub backs down, kills Copilot pull-request ads after backlash",
+      "title_zh": "GitHub 撤回决定，取消 Copilot PR 广告植入",
+      "summary_en": "GitHub: GitHub reversed its controversial decision to embed promotional content into Copilot pull request descriptions after significant backlash from developers. The feature had drawn criticism for mixing AI suggestions with advertising. GitHub confirmed the rollback following community pressure.",
+      "summary_zh": "GitHub：在开发者强烈反对后，GitHub 撤回了将推广内容嵌入 Copilot PR 描述的争议性决定。该功能因将 AI 建议与广告混合而饱受批评，GitHub 在社区压力下确认回滚。",
+      "tags": [
+        "产品发布",
+        "开发者"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+      "published_at": "2026-03-31T08:00:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
       "id": "abca6098",
       "lang": "en",
       "title_en": "Claude Code bug can silently 10-20x API costs",
@@ -74,6 +128,60 @@
       "published_at": "2026-03-31T07:37:33Z",
       "collected_at": "2026-03-31T08:50:00Z",
       "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "19a5891a",
+      "lang": "en",
+      "title_en": "Mr. Chatterbox is a Victorian-era ethically trained model",
+      "title_zh": "Mr. Chatterbox：以维多利亚时代伦理训练的 AI 模型",
+      "summary_en": "Simon Willison: Simon Willison writes about Mr. Chatterbox, a language model fine-tuned on Victorian-era texts and ethical frameworks. The experiment explores how training data period and cultural context shape model behavior and responses, offering insights into the relationship between data curation and AI alignment.",
+      "summary_zh": "Simon Willison：Simon Willison 介绍了 Mr. Chatterbox——一个基于维多利亚时代文本和伦理框架微调的语言模型。该实验探索训练数据时代背景如何塑造模型行为，为理解数据筛选与 AI 对齐的关系提供了新视角。",
+      "tags": [
+        "研究",
+        "安全与对齐"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+      "published_at": "2026-03-31T07:30:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2ef279ef",
+      "lang": "en",
+      "title_en": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "title_zh": "Claude Code 源代码因 NPM 注册表中的 map 文件泄露",
+      "summary_en": "Community: A security researcher discovered that Claude Code's minified source code was inadvertently exposed via source map files published to the NPM registry. The leak revealed internal implementation details of Anthropic's coding agent, raising questions about supply chain security practices.",
+      "summary_zh": "社区：一名安全研究人员发现，Claude Code 的压缩源代码通过发布到 NPM 注册表的 source map 文件意外泄露。此次泄露暴露了 Anthropic 编码智能体的内部实现细节，引发对软件供应链安全实践的质疑。",
+      "tags": [
+        "安全与对齐",
+        "开发者"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "published_at": "2026-03-31T07:00:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "a71799ac",
+      "lang": "en",
+      "title_en": "Emerging Litigation Risks in Financing AI Data Centers Boom",
+      "title_zh": "AI 数据中心融资热潮中的新兴诉讼风险",
+      "summary_en": "Quinn Emanuel: Law firm Quinn Emanuel publishes a client alert outlining emerging litigation risks associated with the AI data center financing boom. Topics covered include contract disputes, regulatory exposure, environmental challenges, and lender liability in infrastructure deals. Relevant for investors and developers in the AI infrastructure space.",
+      "summary_zh": "Quinn Emanuel：律师事务所 Quinn Emanuel 发布客户提示，梳理 AI 数据中心融资热潮中的新兴诉讼风险，涵盖合同纠纷、监管敞口、环境挑战及基础设施交易中的出借方责任，对 AI 基础设施投资者和开发商具有参考价值。",
+      "tags": [
+        "分析",
+        "基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.quinnemanuel.com/the-firm/publications/client-alert-emerging-litigation-",
+      "published_at": "2026-03-31T06:30:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 2,
       "merged_sources": []
     },
     {
