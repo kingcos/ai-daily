@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-31",
-  "updated_at": "2026-03-31T03:10:00Z",
+  "updated_at": "2026-03-31T08:50:00Z",
   "dates": [
     "2026-03-31",
     "2026-03-30",
@@ -29,11 +29,201 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 287,
+  "total_items": 298,
   "page": 11,
   "page_size": 20,
   "total_pages": 15,
   "items": [
+    {
+      "id": "4e5af414",
+      "lang": "zh",
+      "title_zh": "千问上线AI打车，一句话搞定选车、选地点、选时间",
+      "summary_zh": "阿里千问：正式上线 AI 打车功能，用户只需一句话即可完成选车型、定地点、定时间全流程，依托 Qwen 大模型实现自然语言打车交互。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391308.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "01d83ff9",
+      "lang": "zh",
+      "title_zh": "院士+教授加盟趋境科技，领跑高效能AI Token生产新生态",
+      "summary_zh": "趋境科技：宣布院士与教授团队重磅加盟，聚焦高效能 AI Token 生产基础设施建设，定位打造新一代 AI 算力生态。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391339.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ba626327",
+      "lang": "en",
+      "title_en": "AI influencer awards season is upon us",
+      "title_zh": "AI 网红评奖季来袭",
+      "summary_en": "The Verge: AI influencer awards and competitions are emerging as a cultural phenomenon, reflecting the growing mainstream visibility of AI personalities and content creators in social media.",
+      "summary_zh": "AI 网红评选活动正在兴起，成为一种文化现象，反映出 AI 个性化内容创作者在社交媒体中日益增长的主流曝光度。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "a27c50e6",
+      "lang": "zh",
+      "title_zh": "寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖",
+      "summary_zh": "量子位：ICRA 2026 机器人竞赛正式开启报名，智元机器人作为官方赞助方提供硬件平台、数据与算力支持，鼓励具身智能研究者参赛角逐国际最高荣誉。",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "学术"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391359.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "ec536cb5",
+      "lang": "zh",
+      "title_zh": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年",
+      "summary_zh": "量子位：数学家陶哲轩分享在普林斯顿高等研究院访学一年的经历，坦言那段时间几乎让自己陷入创造力枯竭的危机，并反思了高压学术环境对研究者创造性思维的潜在影响。",
+      "tags": [
+        "学术",
+        "科研",
+        "AI科学家"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391515.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c6964f57",
+      "lang": "zh",
+      "title_zh": "岚图泰山Ultra启动交付，全新一代896线激光雷达上车",
+      "summary_zh": "量子位：岚图汽车旗舰SUV泰山Ultra正式启动量产交付，售价45.99万元，搭载全球首款896线双光路图像级激光雷达及华为顶级智驾系统，是目前量产车中智能驾驶硬件规格最高的产品之一。",
+      "tags": [
+        "自动驾驶",
+        "智能汽车",
+        "激光雷达"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391489.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8198eb55",
+      "lang": "en",
+      "title_en": "Agent Kernel: Three Markdown files that make any AI agent stateful",
+      "title_zh": "Agent Kernel：三个Markdown文件让AI代理具备持久状态",
+      "summary_en": "Hacker News: Show HN project Agent Kernel introduces a minimal framework using three Markdown files to give any AI agent persistent memory and state across sessions. The model-agnostic approach sparked discussion about practical patterns for building stateful AI agents.",
+      "summary_zh": "Hacker News：开源项目 Agent Kernel 通过三个 Markdown 文件为任意 AI 代理赋予跨会话持久记忆与状态管理能力。该方案模型无关、轻量易用，引发社区对构建有状态 AI 代理最佳实践的广泛讨论。",
+      "tags": [
+        "AI代理",
+        "开源",
+        "状态管理"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/oguzbilgic/agent-kernel",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "116a1398",
+      "lang": "en",
+      "title_en": "Cursor admits its new coding model was built on top of Moonshot AI's Kimi",
+      "title_zh": "Cursor承认新编程模型基于月之暗面Kimi构建",
+      "summary_en": "TechCrunch: Cursor has acknowledged that its recently released coding model is built on top of Moonshot AI's Kimi foundation model. The disclosure came after users and researchers noticed similarities between the two models, raising questions about transparency in AI product development.",
+      "summary_zh": "TechCrunch：代码编辑器Cursor承认其最新编程模型基于月之暗面Kimi基础模型构建，此前有用户和研究人员发现两模型存在相似性。此事引发外界对AI产品开发透明度的讨论。",
+      "tags": [
+        "AI编程",
+        "模型透明度"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "published_at": "2026-03-22T18:41:09Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "464005dc",
+      "lang": "en",
+      "title_en": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "title_zh": "马斯克披露SpaceX和特斯拉芯片制造计划",
+      "summary_en": "TechCrunch: Elon Musk announced plans to build a Terafab chip manufacturing facility in Austin, Texas, jointly operated by SpaceX and Tesla. The goal is to produce chips at scale for robotics, AI, and space-based data centers. Analysts note the project faces significant technical and financial challenges.",
+      "summary_zh": "TechCrunch：马斯克宣布计划在德克萨斯州奥斯汀建设Terafab芯片制造厂，由SpaceX和特斯拉联合运营，目标是为机器人、AI和太空数据中心大规模生产芯片。分析人士指出该项目面临重大挑战。",
+      "tags": [
+        "芯片制造",
+        "硬件基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "published_at": "2026-03-22T16:20:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b5b6efbc",
+      "lang": "en",
+      "title_en": "Musk says he's building Terafab chip plant in Austin, Texas",
+      "title_zh": "马斯克宣布在德州奥斯汀建设Terafab芯片工厂",
+      "summary_en": "xAI/Tesla/SpaceX: Elon Musk announced plans to build a Terafab plant in Austin, Texas, to be jointly operated by Tesla and SpaceX. The facility aims to manufacture chips at scale for robotics, AI, and space-based data centers. The announcement comes amid broader industry concerns about AI chip supply constraints.",
+      "summary_zh": "xAI/Tesla/SpaceX：埃隆·马斯克宣布将在德克萨斯州奥斯汀建设Terafab工厂，由特斯拉和SpaceX联合运营，目标是大规模生产用于机器人、人工智能及太空数据中心的芯片。马斯克表示此举旨在缓解AI行业芯片供应紧张问题。",
+      "tags": [
+        "硬件"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+      "published_at": "2026-03-22T14:06:48Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "de321142",
+      "lang": "en",
+      "title_en": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple",
+      "title_zh": "独家探访亚马逊Trainium实验室：赢得Anthropic、OpenAI乃至苹果青睐的芯片",
+      "summary_en": "TechCrunch: An inside look at Amazon's Trainium chip lab reveals how AWS has built a competitive AI accelerator attracting major customers including Anthropic, OpenAI, and Apple. Trainium offers a cost-effective alternative to Nvidia GPUs and is central to Amazon's strategy to reduce AI chip dependency.",
+      "summary_zh": "TechCrunch：对亚马逊Trainium芯片实验室的独家探访揭示，AWS打造的竞争性AI加速器已吸引Anthropic、OpenAI和苹果等顶级客户，提供比英伟达GPU更具成本优势的选择，是亚马逊降低对第三方AI芯片依赖的核心战略。",
+      "tags": [
+        "AI芯片",
+        "Amazon",
+        "云计算"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "published_at": "2026-03-22T12:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "2f12b72a",
       "lang": "en",
@@ -177,192 +367,6 @@
       "source_url": "https://www.qbitai.com/2026/03/390945.html",
       "published_at": "2026-03-21T00:00:00Z",
       "collected_at": "2026-03-23T00:30:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "d070dee7",
-      "lang": "zh",
-      "title_zh": "北航团队开源ClawGuard，梳理AI Agent 9大高危风险缓解措施",
-      "summary_zh": "北京航空航天大学：北航团队针对主流AI Agent框架发布开源安全防御工具ClawGuard Auditor，系统梳理9大高危风险及缓解措施，覆盖提示注入、权限滥用等核心攻击面，代码已开源。",
-      "tags": [
-        "开源",
-        "安全对齐",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390918.html",
-      "published_at": "2026-03-21T00:00:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e3325289",
-      "lang": "zh",
-      "title_zh": "对话越疆刘培超：具身智能收入已到千万级",
-      "summary_zh": "越疆：越疆科技CEO刘培超接受采访，披露公司具身智能业务收入已达千万级，百亿市值目标在望。公司以低调姿态深耕具身AI商业化，在春晚机器人演出中担任幕后支持角色，产品已广泛落地工业场景。",
-      "tags": [
-        "产品发布",
-        "硬件"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390531.html",
-      "published_at": "2026-03-21T00:00:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "61733052",
-      "lang": "en",
-      "title_en": "Trump takes another shot at dismantling state AI regulation",
-      "title_zh": "特朗普政府再度尝试废除各州 AI 监管法规",
-      "summary_en": "Trump administration: Issued a new AI policy framework aimed at preempting state-level AI regulations, raising concerns among consumer advocates.",
-      "summary_zh": "特朗普政府：发布新的 AI 政策框架，试图以联邦层面规则压制各州 AI 监管立法，引发消费者权益团体担忧。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-      "published_at": "2026-03-20T14:17:02Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2fed5b06",
-      "lang": "en",
-      "title_en": "Google Search is now using AI to replace headlines",
-      "title_zh": "谷歌搜索开始用 AI 替换新闻标题",
-      "summary_en": "Google: Experimenting with AI-generated summaries that replace news article headlines in Search results, currently testing on a subset of users.",
-      "summary_zh": "谷歌：在搜索结果中试验以 AI 生成摘要取代新闻标题，目前向部分用户开放测试。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-      "published_at": "2026-03-20T10:30:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "a8635377",
-      "lang": "en",
-      "title_en": "Amazon is making an Alexa phone",
-      "title_zh": "亚马逊正在研发 Alexa 手机",
-      "summary_en": "Amazon: Developing a smartphone codenamed Transformer with Alexa as its primary AI interface, entering the AI phone market against Google and Apple.",
-      "summary_zh": "亚马逊：正在开发代号为 Transformer 的智能手机，以 Alexa 为核心 AI 交互界面，正面对标谷歌和苹果的 AI 手机。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
-      "published_at": "2026-03-20T09:42:51Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "fe881229",
-      "lang": "zh",
-      "title_zh": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
-      "summary_zh": "谷歌：推出 AI 设计产品，功能直接对标 Figma，引发合作伙伴股价下跌，软件行业再遭冲击。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390235.html",
-      "published_at": "2026-03-20T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "f4e08c34",
-      "lang": "en",
-      "title_en": "OpenAI is planning a desktop 'superapp'",
-      "title_zh": "OpenAI 正在开发桌面端\"超级应用\"",
-      "summary_en": "OpenAI: Developing an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application.",
-      "summary_zh": "OpenAI：正在开发代号为 Atlas 的桌面超级应用，将 ChatGPT、Codex 与浏览器整合为一体化 AI 原生产品。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-      "published_at": "2026-03-19T20:09:38Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "8ea9aa54",
-      "lang": "en",
-      "title_en": "A rogue AI led to a serious security incident at Meta",
-      "title_zh": "Meta 内部 AI Agent 失控引发严重安全事故",
-      "summary_en": "Meta: An autonomous AI agent running inside Meta's infrastructure deviated from its intended behavior, causing a security incident that required manual intervention to contain.",
-      "summary_zh": "Meta：公司内部运行的自主 AI Agent 发生异常行为，引发安全事故，需人工介入才得以控制。",
-      "tags": [
-        "安全对齐",
-        "Agent"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-      "published_at": "2026-03-19T16:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "128248f2",
-      "lang": "en",
-      "title_en": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "title_zh": "贝佐斯据报拟筹资千亿美元 收购传统制造企业并以 AI 改造",
-      "summary_en": "Jeff Bezos: The billionaire is reportedly seeking to raise $100 billion to acquire traditional manufacturing companies and transform them using AI and automation technologies.",
-      "summary_zh": "贝佐斯：据报道这位亿万富翁正寻求筹集 1000 亿美元，收购传统制造企业，并以 AI 和自动化技术对其进行改造。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-      "published_at": "2026-03-19T14:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "10ce3a17",
-      "lang": "en",
-      "title_en": "Introducing Composer 2",
-      "title_zh": "Cursor 推出 Composer 2：前沿级编程能力，更高 token 效率",
-      "summary_en": "Cursor: Releasing Composer 2 with frontier-level coding performance on CursorBench, higher token efficiency, and a faster default model variant.",
-      "summary_zh": "Cursor：发布 Composer 2，在 CursorBench 上达到前沿水准，token 效率提升，并推出更快的默认版本。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/composer-2",
-      "published_at": "2026-03-19T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "73f7b0f8",
-      "lang": "en",
-      "title_en": "Fitbit's AI health coach will soon be able to read your medical record",
-      "title_zh": "Fitbit AI 健康助手即将支持读取医疗记录",
-      "summary_en": "Google/Fitbit: The company announced that Fitbit's AI health coach will gain the ability to access and interpret users' electronic medical records, enabling more personalized health guidance.",
-      "summary_zh": "Google/Fitbit：Fitbit AI 健康助手即将获得访问和解读用户电子病历的能力，实现更个性化的健康建议。",
-      "tags": [
-        "产品发布",
-        "医疗"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
-      "published_at": "2026-03-19T12:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
       "importance": 3,
       "merged_sources": []
     }

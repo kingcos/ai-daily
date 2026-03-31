@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-31",
-  "updated_at": "2026-03-31T03:10:00Z",
+  "updated_at": "2026-03-31T08:50:00Z",
   "dates": [
     "2026-03-31",
     "2026-03-30",
@@ -29,11 +29,213 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 287,
+  "total_items": 298,
   "page": 8,
   "page_size": 20,
   "total_pages": 15,
   "items": [
+    {
+      "id": "e77aa854",
+      "lang": "zh",
+      "title_zh": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
+      "summary_zh": "量子位：量子位将于 3 月 26 日举办 AI 初创全球化线下沙龙，邀请小影科技、FluxA、谷歌、京东、声网、Meshy 等企业分享出海实践经验，面向有全球化意向的 AI 创业团队开放报名。",
+      "tags": [
+        "行业活动",
+        "出海"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391760.html",
+      "published_at": "2026-03-24T13:09:56Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "d0007d81",
+      "lang": "en",
+      "title_en": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "title_zh": "Mirage 融资 7500 万美元，继续开发 AI 视频编辑应用 Captions",
+      "summary_en": "TechCrunch: Mirage has raised $75 million to further develop AI models powering its video editing application Captions. The funding will be used to advance its AI-driven video production capabilities and expand the app's features for creators.",
+      "summary_zh": "TechCrunch：Mirage 完成 7500 万美元融资，将用于进一步开发其视频编辑应用 Captions 背后的 AI 模型，推进 AI 驱动的视频制作能力，并为创作者拓展更多功能。",
+      "tags": [
+        "融资",
+        "多模态",
+        "产品发布"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+      "published_at": "2026-03-24T13:05:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "dc202831",
+      "lang": "en",
+      "title_en": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "title_zh": "Agile Robots 成为最新与 Google DeepMind 合作的机器人公司",
+      "summary_en": "TechCrunch: Agile Robots has announced a partnership with Google DeepMind, joining a growing list of robotics companies collaborating with the AI research lab. The partnership aims to integrate DeepMind's AI capabilities into Agile Robots' humanoid and legged robot platforms.",
+      "summary_zh": "TechCrunch：Agile Robots 宣布与 Google DeepMind 建立合作关系，加入越来越多与该 AI 研究实验室合作的机器人公司行列，旨在将 DeepMind 的 AI 能力整合到其人形及腿足机器人平台。",
+      "tags": [
+        "机器人",
+        "合作",
+        "Google DeepMind"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "published_at": "2026-03-24T12:05:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f55cdd45",
+      "lang": "en",
+      "title_en": "Update on the OpenAI Foundation",
+      "title_zh": "OpenAI基金会最新动态",
+      "summary_en": "OpenAI: The OpenAI Foundation announces plans to invest at least $1 billion across four mission areas including curing diseases, jobs and economic impact, AI resilience, and supporting communities, marking a major philanthropic expansion following recapitalization.",
+      "summary_zh": "OpenAI：OpenAI基金会宣布计划在四个使命领域投资至少10亿美元，包括治愈疾病、就业与经济影响、AI韧性以及社区支持，标志着公司重组后的重大慈善扩张。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/update-on-the-openai-foundation/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9ad30de2",
+      "lang": "en",
+      "title_en": "Powering Product Discovery in ChatGPT",
+      "title_zh": "ChatGPT推出沉浸式购物产品发现功能",
+      "summary_en": "OpenAI: ChatGPT launches richer, visually immersive shopping experiences powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and deeper merchant integration within the chat interface.",
+      "summary_zh": "OpenAI：ChatGPT推出基于Agentic Commerce Protocol的沉浸式购物体验，支持产品发现、对比购物及商家深度集成，进一步强化AI购物助手能力。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features"
+      ]
+    },
+    {
+      "id": "fe256ebf",
+      "lang": "en",
+      "title_en": "Helping developers build safer AI experiences for teens",
+      "title_zh": "OpenAI发布青少年AI安全策略，助力开发者构建更安全的产品",
+      "summary_en": "OpenAI: OpenAI released open-source prompt-based teen safety policies designed for use with gpt-oss-safeguard. The policies cover six risk areas including violent/sexual content, harmful body ideals, dangerous activities, roleplay, and age-restricted goods, helping developers build age-appropriate AI protections for young users without starting from scratch. Developed with input from Common Sense Media and everyone.ai.",
+      "summary_zh": "OpenAI：OpenAI发布基于提示词的青少年安全策略，可直接与gpt-oss-safeguard配合使用。策略涵盖暴力/色情内容、有害体型观念、危险活动、角色扮演、限龄商品六大风险领域，帮助开发者在开源生态中为未成年用户构建年龄适配的安全保护机制。策略由Common Sense Media等机构参与制定，并通过ROOST Model Community开源发布。",
+      "tags": [
+        "AI安全",
+        "开发者工具"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/helping-developers-build-safer-ai-experiences-for-teens/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "28c6dab0",
+      "lang": "en",
+      "title_en": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "title_zh": "Anthropic为Claude Code新增自动模式，扩大自主执行权限",
+      "summary_en": "TechCrunch: Anthropic has launched auto mode for Claude Code, enabling the AI agent to execute multi-step development tasks with fewer manual approvals. The update reflects a broader industry trend toward more autonomous agentic coding tools, while Anthropic maintains safety guardrails to limit unintended actions.",
+      "summary_zh": "TechCrunch：Anthropic为Claude Code推出自动模式，允许AI代理自主完成多步骤开发任务，减少人工审批环节。此举体现了AI编程工具走向更高自主性的行业趋势，但Anthropic仍保留安全限制。",
+      "tags": [
+        "产品发布",
+        "AI Agent"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://claude.com/blog/auto-mode",
+        "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
+      ]
+    },
+    {
+      "id": "dc202831",
+      "lang": "en",
+      "title_en": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "title_zh": "Agile Robots与Google DeepMind合作，引入机器人基础模型",
+      "summary_en": "TechCrunch: Agile Robots has announced a partnership with Google DeepMind to integrate DeepMind's robotics foundation models into its robots. The collaboration also involves data collection to advance DeepMind's AI research, making Agile Robots the latest in a growing list of robotics firms teaming up with the AI lab.",
+      "summary_zh": "TechCrunch：Agile Robots宣布与Google DeepMind合作，将DeepMind机器人基础模型集成到其机器人产品中，同时为DeepMind AI研究提供数据支持，成为又一家与该AI实验室携手的机器人企业。",
+      "tags": [
+        "模型与技术",
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "56974e3d",
+      "lang": "en",
+      "title_en": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "title_zh": "OpenAI宣布关停Sora并终止与迪士尼的合作",
+      "summary_en": "The Verge: OpenAI is winding down its Sora AI video generation model and app, and ending a recently-announced partnership with Disney, marking a significant strategic retreat from the AI video generation market just 25 months after Sora's debut.",
+      "summary_zh": "The Verge：OpenAI宣布关停Sora AI视频生成模型及应用，并终止与迪士尼的合作协议，距Sora发布仅25个月，是OpenAI在AI视频赛道的重大战略退出。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "published_at": "2026-03-24T10:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 5,
+      "merged_sources": [
+        "https://www.qbitai.com/2026/03/391799.html"
+      ]
+    },
+    {
+      "id": "eabcc45a",
+      "lang": "en",
+      "title_en": "Arm's first CPU ever will plug into Meta's AI data centers later this year",
+      "title_zh": "Arm首款自研CPU将于年内接入Meta的AI数据中心",
+      "summary_en": "The Verge: Arm is launching its first in-house designed CPU called the AGI CPU, which will be deployed by Meta in its AI data centers later this year, signaling Arm's strategic move from licensing architecture to building its own silicon.",
+      "summary_zh": "The Verge：Arm发布首款自研CPU（命名为AGI CPU），将于年内部署在Meta的AI数据中心，标志着Arm从授权架构向自研芯片的战略转型。",
+      "tags": [
+        "模型与技术"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "published_at": "2026-03-24T10:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "22db4cab",
+      "lang": "en",
+      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "title_zh": "ProofShot：为AI编程智能体提供UI视觉验证能力",
+      "summary_en": "ProofShot: ProofShot is an open tool that gives AI coding agents visual verification capabilities for the UIs they generate. It enables agents to capture screenshots of their output and compare actual vs. intended UI state, helping detect visual discrepancies without manual review. Submitted as a Show HN project.",
+      "summary_zh": "ProofShot：ProofShot是一款为AI编程智能体提供UI视觉验证能力的开源工具。该工具使智能体能够截图并检查自身生成的界面，帮助识别实际UI与预期之间的视觉差异，降低人工审核成本。",
+      "tags": [
+        "AI编程",
+        "工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://proofshot.argil.io/",
+      "published_at": "2026-03-24T07:46:00Z",
+      "collected_at": "2026-03-24T09:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "580668b1",
       "lang": "en",
@@ -184,203 +386,6 @@
       "published_at": "2026-03-24T00:00:00Z",
       "collected_at": "2026-03-24T03:00:00Z",
       "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "b4c1ffd8",
-      "lang": "zh",
-      "title_zh": "OpenClaw 2026.3.22-beta.1发布：插件安全大升级",
-      "summary_zh": "量子位：OpenClaw发布新版本2026.3.22-beta.1，带来史上最大插件安全升级：统一ClawHub插件分发、引入运行时注入机制、新增原生SSH沙盒支持，并全面优化安卓移动端与社交媒体集成。官方提醒已接入微信集成的用户需谨慎升级以避免兼容性问题。",
-      "tags": [
-        "产品发布",
-        "AI工具"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391520.html",
-      "published_at": "2026-03-24T00:00:00Z",
-      "collected_at": "2026-03-24T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "1cddf2bd",
-      "lang": "en",
-      "title_en": "LiteLLM Python package compromised by supply-chain attack",
-      "title_zh": "LiteLLM Python 包遭受供应链攻击",
-      "summary_en": "Hacker News: The popular LiteLLM Python package was compromised through a supply-chain attack. LiteLLM is widely used for routing AI model API calls across providers. Users are advised to audit their dependencies and update to a safe version immediately.",
-      "summary_zh": "Hacker News：广泛用于 AI 模型 API 路由的 Python 包 LiteLLM 遭受供应链攻击，代码被篡改。用户被建议立即审查依赖并升级到安全版本。",
-      "tags": [
-        "安全",
-        "开源"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/BerriAI/litellm/issues/24512",
-      "published_at": "2026-03-24T00:00:00Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "ba73106b",
-      "lang": "en",
-      "title_en": "So where are all the AI apps?",
-      "title_zh": "AI 应用都在哪里？",
-      "summary_en": "Hacker News: Answer.AI poses the question of why truly transformative AI-native consumer applications remain scarce despite the rapid advancement of foundation models. The essay explores the gap between model capabilities and real-world application development, and what might be needed to bridge it.",
-      "summary_zh": "Hacker News：Answer.AI 探讨了尽管基础模型快速发展，但真正变革性的 AI 原生消费应用为何依然稀缺，分析了模型能力与实际应用开发之间的差距。",
-      "tags": [
-        "行业观察",
-        "AI Agent"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-      "published_at": "2026-03-24T00:00:00Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "40f44cee",
-      "lang": "en",
-      "title_en": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "title_zh": "LLM 神经解剖学 II：现代 LLM 破解与通用语言的线索",
-      "summary_en": "Hacker News: This research post explores interpretability in large language models through the lens of 'neuroanatomy', examining how modern LLMs process information internally and presenting evidence suggesting the possible existence of universal representational structures across different models.",
-      "summary_zh": "Hacker News：本研究从「神经解剖学」视角探索大型语言模型的可解释性，分析 LLM 内部信息处理机制，并提出不同模型间可能存在通用表征结构的证据。",
-      "tags": [
-        "可解释性",
-        "研究"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://dnhkng.github.io/posts/rys-ii/",
-      "published_at": "2026-03-24T00:00:00Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "cea750e1",
-      "lang": "en",
-      "title_en": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-      "title_zh": "贝莱德CEO芬克：AI繁荣可能加剧贫富分化",
-      "summary_en": "The Guardian: BlackRock CEO Larry Fink warned in his annual letter that the AI boom risks significantly widening wealth inequality. He called on companies and policymakers to ensure AI productivity gains are broadly shared, or risk severe social and political backlash.",
-      "summary_zh": "The Guardian：贝莱德CEO拉里·芬克在年度致股东信中警告，AI繁荣可能大幅加剧贫富不均，呼吁企业和政策制定者确保AI生产力红利广泛普惠，否则将面临严重的社会和政治反弹。",
-      "tags": [
-        "产业动态",
-        "政策法规"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
-      "published_at": "2026-03-23T23:32:00Z",
-      "collected_at": "2026-03-24T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7befec30",
-      "lang": "en",
-      "title_en": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-      "title_zh": "Air Street 完成 2.32 亿美元基金，成欧洲最大 AI 专项 VC 之一",
-      "summary_en": "TechCrunch: London-based Air Street Capital closed a $232M Fund III focused exclusively on early-stage AI companies in Europe and North America. The fund signals continued strong investor appetite for AI infrastructure and applied AI startups despite market volatility.",
-      "summary_zh": "TechCrunch：伦敦 AI 专项风投 Air Street Capital 完成 2.32 亿美元第三期基金，专注欧洲和北美早期 AI 创业公司。这一规模使其成为欧洲最大的单人管理 AI 风险基金之一，显示资本对 AI 赛道仍保持高度热情。",
-      "tags": [
-        "投资融资",
-        "AI生态"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-      "published_at": "2026-03-23T22:36:39Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "d0c04e26",
-      "lang": "en",
-      "title_en": "GSA extends comments on AI clause after industry pushback",
-      "title_zh": "行业反弹后，美国 GSA 延长 AI 条款意见征集期",
-      "summary_en": "Hacker News: The U.S. General Services Administration extended its public comment period on a sweeping AI contract clause after significant pushback from industry groups, who argued the requirements were overly burdensome for AI vendors doing business with the federal government.",
-      "summary_zh": "Hacker News：美国总务管理局（GSA）在收到行业团体强烈反对后，延长了一项涵盖广泛 AI 合同条款的公众意见征集期。行业方认为相关要求对与联邦政府合作的 AI 企业过于苛刻。",
-      "tags": [
-        "AI政策",
-        "监管"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://fedscoop.com/gsa-extends-comments-on-sweeping-ai-clause-after-industry-pushback/",
-      "published_at": "2026-03-23T22:29:09Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "767903a7",
-      "lang": "zh",
-      "title_zh": "阿里在海外上了个企业级龙虾，我用它30分钟手搓了一家网店",
-      "summary_zh": "量子位：阿里巴巴在海外推出面向中小企业的AI Agent平台，整合选品、营销、客服等多个Agent，可30分钟内搭建完整网店，直连供应商，支持Telegram/Discord实时更新，旨在帮助全球用户低门槛创业。",
-      "tags": [
-        "产品发布",
-        "AI Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391584.html",
-      "published_at": "2026-03-23T22:00:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7204a8f0",
-      "lang": "en",
-      "title_en": "Claude Code Cheat Sheet",
-      "title_zh": "Claude Code 速查手册上线",
-      "summary_en": "Hacker News: A community-contributed Claude Code cheat sheet surfaced on Hacker News, consolidating key commands, workflows, and tips for using Anthropic's Claude Code agentic coding tool. The resource quickly gained traction among developers integrating Claude Code into daily workflows.",
-      "summary_zh": "Hacker News：一份社区整理的 Claude Code 速查手册在 Hacker News 走红，汇聚了 Anthropic 编程代理工具 Claude Code 的核心命令、工作流与使用技巧，受到广泛开发者关注。",
-      "tags": [
-        "AI工具",
-        "Anthropic",
-        "代码生成"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://cc.storyfox.cz",
-      "published_at": "2026-03-23T21:44:20Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "8dbaa11d",
-      "lang": "en",
-      "title_en": "Flipper Zero gets an AI upgrade",
-      "title_zh": "Flipper Zero 获得 AI 能力升级",
-      "summary_en": "Hacker News: Flipper Zero, the popular open-source multi-tool hacking device, has received an AI-powered upgrade that adds natural language command processing and automated protocol analysis. The integration allows users to describe attack scenarios in plain language, lowering the barrier for security research and testing.",
-      "summary_zh": "Hacker News：广受欢迎的开源多功能安全工具 Flipper Zero 获得 AI 升级，新增自然语言命令处理与自动协议分析功能。用户可用日常语言描述测试场景，进一步降低安全研究的门槛。",
-      "tags": [
-        "AI工具",
-        "安全",
-        "AI应用"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967",
-      "published_at": "2026-03-23T20:56:48Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "55acb1bc",
-      "lang": "en",
-      "title_en": "How I'm Productive with Claude Code",
-      "title_zh": "开发者实战：如何用 Claude Code 提升生产力",
-      "summary_en": "Hacker News: A developer shared a detailed workflow post on how they effectively use Claude Code for daily engineering tasks, including prompt strategies, task scoping, and debugging patterns. The post gained significant engagement as practical, experience-driven guidance on agentic coding tools.",
-      "summary_zh": "Hacker News：一位开发者分享了在日常工程任务中高效使用 Claude Code 的实战工作流，涵盖提示策略、任务拆解和调试模式，因其实践导向而获得大量关注。",
-      "tags": [
-        "AI工具",
-        "代码生成",
-        "Anthropic"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://neilkakkar.com/productive-with-claude-code.html",
-      "published_at": "2026-03-23T20:49:10Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 2,
       "merged_sources": []
     }
   ]

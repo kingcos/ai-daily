@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-31",
-  "updated_at": "2026-03-31T03:10:00Z",
+  "updated_at": "2026-03-31T08:50:00Z",
   "dates": [
     "2026-03-31",
     "2026-03-30",
@@ -29,11 +29,206 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 287,
+  "total_items": 298,
   "page": 5,
   "page_size": 20,
   "total_pages": 15,
   "items": [
+    {
+      "id": "eea958c7",
+      "lang": "en",
+      "title_en": "Why OpenAI killed Sora",
+      "title_zh": "OpenAI 为何关停 Sora",
+      "summary_en": "The Verge: OpenAI shut down Sora, its AI video-generation app, effective Tuesday, saying the company needs to concentrate its available compute resources on its AI agent initiatives and enterprise tools rather than consumer video generation.",
+      "summary_zh": "The Verge：OpenAI 正式关停其 AI 视频生成应用 Sora，称公司需将现有算力集中用于 AI Agent 战略及企业级工具，而非消费端视频生成业务。",
+      "tags": [
+        "产品发布",
+        "OpenAI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-29T07:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "b0329c17",
+      "lang": "en",
+      "title_en": "Why OpenAI killed Sora",
+      "title_zh": "OpenAI为何放弃Sora",
+      "summary_en": "The Verge: OpenAI has quietly discontinued Sora, its AI video generation model, amid intensifying competition. The piece examines the strategic and technical reasons behind the decision, including resource allocation priorities and the rise of competing video generation tools from other labs.",
+      "summary_zh": "The Verge：OpenAI悄然终止其AI视频生成模型Sora，背后原因涉及资源分配、竞争压力及战略优先级调整。随着其他实验室推出更具竞争力的视频生成工具，AI视频赛道竞争日趋激烈，Sora最终未能突围。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e8721992",
+      "lang": "en",
+      "title_en": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "title_zh": "CERN 将微型AI模型烧录进芯片，用于LHC实时数据过滤",
+      "summary_en": "Hacker News: CERN has deployed ultra-compact AI models burned into FPGAs to perform real-time filtering of collision data from the Large Hadron Collider. The approach enables nanosecond-speed inference, far beyond what traditional software achieves, marking a breakthrough in AI-accelerated scientific instrumentation.",
+      "summary_zh": "Hacker News：CERN将超小型AI模型烧录至FPGA芯片，用于大型强子对撞机（LHC）碰撞数据的实时过滤。推理延迟仅为纳秒级，远超传统软件，标志着AI加速科学仪器领域取得重要突破。",
+      "tags": [
+        "AI应用",
+        "科学研究",
+        "硬件"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "published_at": "2026-03-28T08:06:19Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "aa104cd9",
+      "lang": "en",
+      "title_en": "Go hard on agents, not on your filesystem (jai – AI agent containment tool)",
+      "title_zh": "AI Agent 沙箱工具 jai：保护文件系统免受 Agent 误操作",
+      "summary_en": "Hacker News: Stanford researchers released jai, a lightweight Linux containment tool for AI agents. As AI coding agents increasingly cause accidental file deletions and overwrites, jai provides sandboxed execution environments to prevent agents from damaging the host filesystem while retaining full agent capabilities.",
+      "summary_zh": "Hacker News：斯坦福研究人员发布 jai，一款轻量级 Linux AI Agent 沙箱工具。随着AI编程智能体频繁引发意外文件删除和覆写问题，jai 提供沙箱执行环境，在保留Agent完整能力的同时保护宿主文件系统。",
+      "tags": [
+        "AI Agent",
+        "安全",
+        "开发工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://jai.scs.stanford.edu/",
+      "published_at": "2026-03-28T07:59:54Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d37ee334",
+      "lang": "en",
+      "title_en": "Be careful: chatting with AI about your case is discoverable",
+      "title_zh": "警告：与 AI 讨论案情的聊天记录在法庭上可被调取",
+      "summary_en": "Hacker News: A Harvard Law Review analysis of United States v. Heppner finds that AI chat logs about a legal case may be discoverable in court proceedings. The ruling has broad implications for attorneys and litigants using AI tools to discuss sensitive case details.",
+      "summary_zh": "Hacker News：《哈佛法律评论》分析 United States v. Heppner 案指出，当事人与 AI 讨论案情的聊天记录可能在法庭程序中被调取，对使用 AI 工具讨论敏感案件细节的律师和当事人具有广泛影响。",
+      "tags": [
+        "安全与伦理",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
+      "published_at": "2026-03-28T07:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "534b3ee2",
+      "lang": "zh",
+      "title_zh": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
+      "summary_zh": "量子位：零跑汽车宣布将此前只在四五十万豪华车型搭载的世界模型智能辅助驾驶方案下放至8.68万元入门级车型，实现\"车位到车位\"自动驾驶功能，且无需高算力芯片，创下智能驾驶普及新纪录。",
+      "tags": [
+        "自动驾驶",
+        "AI应用",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392948.html",
+      "published_at": "2026-03-28T05:00:00Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "43de7aa1",
+      "lang": "zh",
+      "title_zh": "中关村论坛\"AI2026：向人立心，向实立命\"特邀闭门会顺利举办",
+      "summary_zh": "量子位：中关村论坛特邀闭门会在北京顺利举办，汇聚AI领域顶尖学者与企业家，围绕2026年AI发展趋势、AI与人文价值融合、AI产业实体化落地等核心议题展开深度讨论。",
+      "tags": [
+        "行业动态",
+        "AI治理"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392981.html",
+      "published_at": "2026-03-28T05:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "42ac3437",
+      "lang": "zh",
+      "title_zh": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
+      "summary_zh": "量子位：智谱AI发布GLM-5.1编程模型，已向GLM Coding Plan全体用户（Lite/Pro/Max）开放。该模型编程性能与Claude Opus 4.6仅差2.6分，发布后Coding Plan迅速售罄，展现出强劲的市场需求。",
+      "tags": [
+        "产品发布",
+        "编程助手",
+        "大模型"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392914.html",
+      "published_at": "2026-03-28T04:00:00Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "54de3f55",
+      "lang": "zh",
+      "title_zh": "趋境ATaaS平台发布，打造日均万亿产能的\"Token工厂\"",
+      "summary_zh": "量子位：趋境科技正式发布ATaaS（AI Token即服务）平台，定位为全球领先的高效能AI Token生产服务平台，日均算力产能可达万亿Token级别。该平台旨在为企业提供稳定、低成本的大模型推理算力服务，助力AI应用规模化落地。",
+      "tags": [
+        "算力",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392988.html",
+      "published_at": "2026-03-28T04:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "76eb5a6a",
+      "lang": "zh",
+      "title_zh": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
+      "summary_zh": "量子位：华为诺亚方舟实验室主任、盘古大模型负责人王云鹤正式离职，并被曝出正在进行AI Agent方向的创业。王云鹤2018年博士毕业后加入华为，2025年接棒担任实验室主任，其离职引发业界对国内AI人才流动的广泛关注。",
+      "tags": [
+        "行业动态",
+        "AI Agent",
+        "人才"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392903.html",
+      "published_at": "2026-03-28T03:00:00Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "73100b56",
+      "lang": "en",
+      "title_en": "Anthropic's 'Claude Mythos' leak reveals powerful new AI model raising cybersecurity concerns",
+      "title_zh": "Anthropic「Claude Mythos」泄露：新模型引发网络安全警报",
+      "summary_en": "Hacker News / CoinDesk: An internal leak revealed Anthropic is testing a new model codenamed \"Claude Mythos,\" described as highly capable in ways that spooked cybersecurity investors. Stocks in cybersecurity firms fell sharply on fears the model could automate offensive capabilities previously requiring expert knowledge.",
+      "summary_zh": "Hacker News / CoinDesk：内部泄露显示Anthropic正在测试代号「Claude Mythos」的新模型，其强大能力引发网络安全领域担忧，相关上市公司股价大幅下跌，市场担忧该模型可能使高级网络攻击能力大众化。",
+      "tags": [
+        "模型发布",
+        "AI安全"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare",
+      "published_at": "2026-03-28T02:04:00Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 5,
+      "merged_sources": [
+        "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html"
+      ]
+    },
     {
       "id": "0cfeb43d",
       "lang": "zh",
@@ -190,210 +385,6 @@
       "published_at": "2026-03-26T20:26:31Z",
       "collected_at": "2026-03-28T03:00:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "3dac47ca",
-      "lang": "en",
-      "title_en": "Google's 'live' AI search assistant can handle conversations in dozens more languages",
-      "title_zh": "谷歌实时AI搜索助手新增支持数十种语言",
-      "summary_en": "The Verge: Google is expanding its AI-powered live search assistant to dozens of additional languages globally, broadening real-time conversational search access. The update also brings Google Translate's real-time translation tool to iOS.",
-      "summary_zh": "The Verge：谷歌将AI实时搜索助手扩展至数十种新语言，在全球范围内普及实时对话式搜索，同时将Google翻译的实时翻译功能引入iOS平台。",
-      "tags": [
-        "产品发布",
-        "AI助手"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
-      "published_at": "2026-03-26T18:47:51Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f3fcf5ae",
-      "lang": "en",
-      "title_en": "Meta gets ready to launch two new Ray-Ban AI glasses",
-      "title_zh": "Meta准备推出两款新Ray-Ban AI眼镜",
-      "summary_en": "The Verge: Two new Meta Ray-Ban smart glasses models codenamed 'Scriber' and 'Blazer' have passed through the FCC, signaling an imminent launch. The new models are expected to expand on the AI assistant capabilities of the current Ray-Ban Meta lineup.",
-      "summary_zh": "The Verge：代号「Scriber」和「Blazer」的两款Meta Ray-Ban新款智能眼镜已通过FCC认证，预示即将发布。新机型预计将在现有Ray-Ban Meta基础上进一步强化AI助手功能。",
-      "tags": [
-        "硬件",
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
-      "published_at": "2026-03-26T16:30:00Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7e087842",
-      "lang": "en",
-      "title_en": "Wikipedia bans AI-generated articles",
-      "title_zh": "维基百科禁止AI生成文章",
-      "summary_en": "The Verge: Wikipedia has formally banned the use of AI for generating or rewriting articles, citing that LLM-produced content \"often violates several of Wikipedia's core content policies\" including accuracy, neutrality, and verifiability standards.",
-      "summary_zh": "The Verge：维基百科正式禁止使用AI生成或改写文章，理由是大语言模型产出的内容「往往违反维基百科多项核心内容政策」，包括准确性、中立性和可查证性标准。",
-      "tags": [
-        "AI政策",
-        "内容生成"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
-      "published_at": "2026-03-26T15:02:52Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "8443f89c",
-      "lang": "en",
-      "title_en": "Senators are pushing to find out how much electricity data centers actually use",
-      "title_zh": "美国参议员敦促披露数据中心实际用电量",
-      "summary_en": "The Verge: Senators Warren and Hawley sent a bipartisan letter demanding the Energy Information Administration require mandatory annual electricity-use disclosures from data centers, as AI-driven expansion raises grid and ratepayer concerns.",
-      "summary_zh": "The Verge：沃伦与霍利两党参议员联名致信能源信息署，要求强制数据中心每年披露用电量，原因是AI驱动的数据中心扩张对电网和电费带来持续压力。",
-      "tags": [
-        "AI政策",
-        "基础设施"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
-      "published_at": "2026-03-26T14:25:32Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b87dbb63",
-      "lang": "en",
-      "title_en": "Mistral releases a new open-source model for speech generation",
-      "title_zh": "Mistral发布开源语音生成模型，可在智能手表上运行",
-      "summary_en": "Mistral: Released a lightweight open-source text-to-speech model designed to run on smartphones and smartwatches, continuing the company push toward highly compact on-device AI models.",
-      "summary_zh": "Mistral：发布轻量级开源文字转语音模型，可在智能手机和智能手表上运行，延续公司打造极致轻量端侧AI的战略布局。",
-      "tags": [
-        "模型发布",
-        "语音合成",
-        "开源",
-        "端侧AI"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-      "published_at": "2026-03-26T14:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "629db6f4",
-      "lang": "en",
-      "title_en": "Cohere launches an open-source voice model specifically for transcription",
-      "title_zh": "Cohere发布专为语音转写设计的开源语音模型",
-      "summary_en": "Cohere: Released a 2-billion-parameter open-source speech transcription model optimized for consumer-grade GPUs and self-hosting, supporting 14 languages and targeting enterprise deployments needing local inference.",
-      "summary_zh": "Cohere：发布20亿参数开源语音转写模型，专为消费级GPU和私有化部署优化，支持14种语言，面向需本地推理的企业用户。",
-      "tags": [
-        "模型发布",
-        "语音识别",
-        "开源"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
-      "published_at": "2026-03-26T13:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "79e059fa",
-      "lang": "en",
-      "title_en": "Wikipedia bans AI-generated articles",
-      "title_zh": "维基百科禁止AI生成内容",
-      "summary_en": "Wikipedia: The platform is banning the use of AI for generating or rewriting articles, stating that LLM-generated content often violates core content policies around sourcing, neutrality, and verifiability.",
-      "summary_zh": "维基百科：平台宣布禁止使用AI生成或改写文章，称LLM产生的内容常违反来源、中立性和可核实性等核心内容政策。",
-      "tags": [
-        "AI治理",
-        "内容政策"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
-      "published_at": "2026-03-26T12:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "8ba3ea30",
-      "lang": "en",
-      "title_en": "A pound of flesh from data centers: one senator's answer to AI job losses",
-      "title_zh": "向数据中心征税：参议员提出AI失业补偿方案",
-      "summary_en": "Sen. Mark Warner: Proposed taxing data centers to fund worker transition programs as fears of AI-driven job displacement intensify, framing it as making the AI industry pay for the economic disruption it causes.",
-      "summary_zh": "美国参议员马克·华纳：提议对数据中心征税，用于资助受AI冲击工人的转型项目，要求AI行业为其引发的经济冲击承担责任。",
-      "tags": [
-        "AI政策",
-        "就业影响",
-        "美国"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-      "published_at": "2026-03-26T11:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "8495a270",
-      "lang": "en",
-      "title_en": "EU backs nude app ban and delays to landmark AI rules",
-      "title_zh": "欧盟支持裸体应用禁令，推迟AI法关键条款实施",
-      "summary_en": "EU Parliament: Voted to delay August deadlines for high-risk AI compliance and watermarking requirements by at least a year, while backing bans on nude-image-generating apps under the AI Act.",
-      "summary_zh": "欧洲议会：投票将高风险AI合规及水印要求的8月截止日期延迟至少一年，同时支持依据AI法案禁止裸体图像生成应用。",
-      "tags": [
-        "AI监管",
-        "欧盟AI法"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nude-apps",
-      "published_at": "2026-03-26T10:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6cbd57a8",
-      "lang": "zh",
-      "title_en": "How to claim a share of Tencent's 6 million yuan AI grant",
-      "title_zh": "在线等：如何优雅地分走鹅厂这600+万AI资金",
-      "summary_en": "Tencent: Made over 6 million yuan available for AI-related projects through a developer incentive program, with community tips circulating on qualifying and maximizing grant applications.",
-      "summary_zh": "腾讯：推出逾600万元AI项目资助计划，面向开发者开放申请，业界人士总结高效申请技巧并在网络广泛流传。",
-      "tags": [
-        "行业动态",
-        "资金支持",
-        "腾讯"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392641.html",
-      "published_at": "2026-03-26T10:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4a4ab509",
-      "lang": "en",
-      "title_en": "OpenAI shelves erotic chatbot indefinitely",
-      "title_zh": "OpenAI无限期搁置成人模式情色聊天机器人计划",
-      "summary_en": "OpenAI: Has paused its planned adult mode for ChatGPT indefinitely, citing a refocus on core products as the company faces pressure to demonstrate responsible AI deployment amid rapid growth.",
-      "summary_zh": "OpenAI：无限期搁置ChatGPT成人模式计划，官方表示将重心回归核心产品，此举被解读为公司面对舆论压力主动收缩敏感功能。",
-      "tags": [
-        "OpenAI",
-        "产品动态",
-        "AI伦理"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved",
-      "published_at": "2026-03-26T09:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

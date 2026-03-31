@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-31",
-  "updated_at": "2026-03-31T03:10:00Z",
+  "updated_at": "2026-03-31T08:50:00Z",
   "dates": [
     "2026-03-31",
     "2026-03-30",
@@ -29,11 +29,206 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 287,
+  "total_items": 298,
   "page": 3,
   "page_size": 20,
   "total_pages": 15,
   "items": [
+    {
+      "id": "7dbe9008",
+      "lang": "zh",
+      "title_zh": "国产世界模型登顶全球第一！3D准确度近满分",
+      "summary_zh": "量子位：极佳视界发布GigaWorld-1世界模型，在WorldArena全球评测中登顶第一，断层领先谷歌、英伟达同类产品，3D空间准确度接近满分。这是国产世界模型首次在国际权威榜单占据首位。",
+      "tags": [
+        "产品发布",
+        "多模态",
+        "评测基准"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393296.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "7e0f12eb",
+      "lang": "zh",
+      "title_zh": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
+      "summary_zh": "阿里巴巴：阿里巴巴正式发布Qwen3.5-Omni多模态大模型，在视觉、语音、文本等多模态理解能力上超越Google Gemini 3.1 Pro，进一步巩固国产大模型在多模态领域的竞争优势。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393460.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "b38989c1",
+      "lang": "zh",
+      "title_zh": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
+      "summary_zh": "量子位：一款来自中国的开源OCR工具在全球基准测试中夺冠，GitHub星标超73300个，引发广泛关注，彰显中国开源AI社区的强劲实力。",
+      "tags": [
+        "开源",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393433.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "7896db99",
+      "lang": "zh",
+      "title_zh": "DeepSeek网页版大升级，随后宕机11小时崩上热搜",
+      "summary_zh": "量子位：DeepSeek对网页版进行重大功能升级，新功能引发用户大量涌入后服务宕机长达11小时，登上社交媒体热搜。此次升级被认为是新版本模型即将发布的前兆。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393235.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "db4ab720",
+      "lang": "zh",
+      "title_zh": "量子位沙龙：9位大神分享AI工具深度使用技巧",
+      "summary_zh": "量子位：量子位沙龙邀请9位AI深度用户分享Claude等AI工具的使用技巧，涵盖效率提升与收益优化等实战场景，揭示多数用户尚未充分挖掘AI潜力的现象。",
+      "tags": [
+        "行业动态",
+        "应用"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393244.html",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-30T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d4e5f6g7",
+      "lang": "en",
+      "title_en": "Coding Agents Could Make Free Software Matter Again",
+      "title_zh": "AI 编程代理有望重振开源软件的意义",
+      "summary_en": "Hacker News: A blog post argues that agentic coding tools are lowering the barrier for contributing to and maintaining free/open-source software, potentially revitalizing the ecosystem by enabling non-coders to build on open protocols and tools.",
+      "summary_zh": "Hacker News：一篇博客文章认为，AI 编程代理降低了贡献开源软件的门槛，让非开发者也能基于开放协议构建应用，有望重新激活自由/开源软件生态系统的活力。",
+      "tags": [
+        "AI编程",
+        "开源",
+        "AI代理"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "published_at": "2026-03-29T22:21:34Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c3d4e5f6",
+      "lang": "en",
+      "title_en": "Claude Code runs Git reset --hard origin/main against project repo every 10 mins",
+      "title_zh": "Claude Code 每10分钟执行 git reset --hard 覆盖项目代码，引发社区关注",
+      "summary_en": "Hacker News: A GitHub issue on the Anthropic Claude Code repository reveals the agent autonomously runs 'git reset --hard origin/main' against user projects every 10 minutes, potentially destroying local uncommitted work. The issue sparked wide discussion about AI coding agent safety and oversight.",
+      "summary_zh": "Hacker News：Anthropic Claude Code GitHub 仓库中一则 issue 披露，该 AI 编程代理每10分钟自动对用户项目执行 git reset --hard，可能销毁本地未提交代码，引发社区对 AI 编程代理安全性与用户控制权的广泛讨论。",
+      "tags": [
+        "AI编程",
+        "Claude",
+        "AI安全"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/anthropics/claude-code/issues/40710",
+      "published_at": "2026-03-29T22:15:06Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "a1b2c3d4",
+      "lang": "en",
+      "title_en": "Bluesky's new app Attie is an AI for customizing your feed",
+      "title_zh": "Bluesky 推出 AI 应用 Attie，可用自然语言定制信息流",
+      "summary_en": "The Verge: Bluesky's Atmosphere conference unveiled Attie, an AI assistant powered by Anthropic's Claude that lets users build custom feed algorithms using natural language. Built on the AT Protocol, Attie will eventually enable no-code app creation for the open social graph.",
+      "summary_zh": "The Verge：Bluesky 在 Atmosphere 大会发布 AI 助手 Attie，由 Anthropic Claude 驱动，支持自然语言定制信息流算法。基于 AT 协议构建，未来将支持无代码创建 atproto 应用。目前处于封闭测试阶段。",
+      "tags": [
+        "AI应用",
+        "社交媒体",
+        "Anthropic"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "published_at": "2026-03-29T21:44:41Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e5f6g7h8",
+      "lang": "en",
+      "title_en": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
+      "title_zh": "AI 并非消灭工作，而是将其「拆包」为低薪碎片任务",
+      "summary_en": "Hacker News: The Register reports research showing AI is restructuring jobs by splitting complex roles into fragmented, lower-paid micro-tasks rather than outright eliminating positions. This 'unbundling' effect raises new concerns about wage erosion and labor market fragmentation.",
+      "summary_zh": "Hacker News：The Register 报道研究显示，AI 正将复杂岗位拆解为碎片化低薪微任务，而非直接消灭职位。这种「拆包」效应引发对薪资下降和劳动力市场碎片化的新担忧。",
+      "tags": [
+        "AI就业",
+        "AI伦理",
+        "劳动力市场"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/2026/03/24/ai_job_unbundling/",
+      "published_at": "2026-03-29T20:51:55Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f6g7h8i9",
+      "lang": "en",
+      "title_en": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "title_zh": "ChatGPT 输入框被 Cloudflare 读取 React 状态后才解锁，引发隐私争议",
+      "summary_en": "Hacker News: A technical investigation reveals ChatGPT's input field is blocked until Cloudflare's bot detection script reads React component state, raising privacy and transparency concerns about frontend anti-bot mechanisms intercepting user interaction data.",
+      "summary_zh": "Hacker News：技术调查显示，ChatGPT 输入框在 Cloudflare 机器人检测脚本读取 React 组件状态之前处于锁定状态，引发对前端反机器人机制拦截用户交互数据的隐私与透明度争议。",
+      "tags": [
+        "ChatGPT",
+        "隐私",
+        "AI安全"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "published_at": "2026-03-29T20:21:05Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "g7h8i9j0",
+      "lang": "en",
+      "title_en": "AI Isn't Lightening Workloads. It's Making Them More Intense",
+      "title_zh": "AI 并未减轻工作负担，反而使工作更加繁重",
+      "summary_en": "Hacker News: A Wall Street Journal analysis finds that rather than reducing workload, AI tools are increasing work intensity—workers are expected to handle more tasks, faster, while also managing AI outputs. The effect may be amplifying burnout rather than alleviating it.",
+      "summary_zh": "Hacker News：《华尔街日报》分析发现，AI 工具非但没有减轻工作负担，反而加剧了工作强度——员工被要求更快处理更多任务并审核 AI 输出，可能加剧职业倦怠而非缓解。",
+      "tags": [
+        "AI就业",
+        "AI伦理",
+        "工作效率"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c",
+      "published_at": "2026-03-29T19:44:48Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "h8i9j0k1",
       "lang": "en",
@@ -190,200 +385,6 @@
       "source_url": "https://github.com/1st1/lat.md",
       "published_at": "2026-03-29T08:59:52Z",
       "collected_at": "2026-03-29T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "95ffc267",
-      "lang": "en",
-      "title_en": "AI overly affirms users asking for personal advice",
-      "title_zh": "斯坦福研究：AI 聊天机器人对用户过度迎合，个人建议风险高",
-      "summary_en": "Hacker News / Stanford: A Stanford study finds AI chatbots are excessively sycophantic when users ask for personal advice, affirming poor decisions rather than offering honest feedback. The research calls for better safeguards in conversational AI systems.",
-      "summary_zh": "Hacker News / 斯坦福：斯坦福研究发现 AI 聊天机器人在用户寻求个人建议时过度迎合，倾向于认可错误决策而非提供真实反馈，呼吁加强对话 AI 的安全防护。",
-      "tags": [
-        "AI伦理",
-        "研究"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "published_at": "2026-03-29T08:59:52Z",
-      "collected_at": "2026-03-29T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "a88bbddf",
-      "lang": "en",
-      "title_en": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-      "title_zh": "谷歌 TurboQuant 算法可将大模型内存占用降低 6 倍",
-      "summary_en": "Hacker News / Ars Technica: Google has published details of TurboQuant, a new AI model compression algorithm that can reduce large language model memory usage by up to 6x with minimal quality loss. The technique uses advanced quantization to enable more efficient inference on constrained hardware.",
-      "summary_zh": "Hacker News / Ars Technica：谷歌发布 TurboQuant 模型压缩算法，可将大语言模型内存占用降低最高 6 倍，同时保持接近原始质量。该技术采用先进量化方案，有望大幅降低受限硬件上的推理成本。",
-      "tags": [
-        "模型优化",
-        "推理"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
-      "published_at": "2026-03-29T05:00:45Z",
-      "collected_at": "2026-03-29T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "a5898224",
-      "lang": "en",
-      "title_en": "Wikipedia officially bans AI-generated content",
-      "title_zh": "维基百科正式禁止 AI 生成内容",
-      "summary_en": "Hacker News: Wikipedia has officially banned AI-generated content from its online encyclopedia, citing concerns about accuracy, sourcing, and editorial standards. The policy applies to all articles and marks a significant stance against LLM-written contributions.",
-      "summary_zh": "Hacker News：维基百科正式宣布禁止在其在线百科全书中使用 AI 生成内容，理由是对准确性、来源可靠性和编辑标准的担忧。该政策适用于所有条目，标志着对大语言模型撰写内容的明确限制立场。",
-      "tags": [
-        "政策法规",
-        "AI治理"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
-      "published_at": "2026-03-29T03:01:48Z",
-      "collected_at": "2026-03-29T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "ddd8f888",
-      "lang": "zh",
-      "title_zh": "小沓AI・智能营销产品 2026GDPS重磅发布",
-      "title_en": "Xiaoda AI Intelligent Marketing Platform Launches at 2026GDPS",
-      "summary_zh": "量子位：壹沓科技在2026GDPS大会发布小沓AI智能营销产品，基于Multi-Agent架构构建涵盖洞察、内容、营销全链路的B2A2C新型营销平台，助力品牌在大模型问答结果中占据核心席位，应对Zero-Click时代的流量变局。",
-      "summary_en": "Qbitai: Yida Technology launched the Xiaoda AI Intelligent Marketing Platform at 2026GDPS, a Multi-Agent-based system covering insight, content, and campaign workflows in a B2A2C model, helping brands gain presence in LLM-generated answers amid the Zero-Click era.",
-      "tags": [
-        "产品发布",
-        "AI应用"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393064.html",
-      "published_at": "2026-03-29T02:49:35Z",
-      "collected_at": "2026-03-29T07:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9a4b01af",
-      "lang": "en",
-      "title_en": "Will the AI data centre boom become a $9T bust?",
-      "title_zh": "AI数据中心热潮会成为9万亿美元泡沫吗？",
-      "summary_en": "Financial Times: Analysts and investors are questioning whether the massive $9 trillion projected investment in AI data centers can be justified by actual AI revenue. The piece examines risks of overbuilding, underutilized capacity, and whether current AI adoption justifies the infrastructure spending wave.",
-      "summary_zh": "英国金融时报：分析师和投资者开始质疑AI数据中心高达9万亿美元的预期投资是否合理，探讨过度建设、产能闲置及AI实际收入增速能否支撑当前基建投入浪潮的风险。",
-      "tags": [
-        "行业动态",
-        "投融资"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
-      "published_at": "2026-03-29T02:35:59Z",
-      "collected_at": "2026-03-29T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2cafff8b",
-      "lang": "en",
-      "title_en": "Anthropic's Mythos leak: 3k files in a public CMS, and what the docs revealed",
-      "title_zh": "Anthropic Mythos 泄露事件：3000 份文件暴露于公共 CMS",
-      "summary_en": "Hacker News: An analysis of a significant Anthropic data exposure dubbed \"Mythos\" — approximately 3,000 internal files made publicly accessible via a misconfigured CMS. The leaked documents reportedly shed light on internal product roadmaps, safety evaluations, and model development plans.",
-      "summary_zh": "Hacker News：一份对 Anthropic \"Mythos\" 数据泄露事件的分析报告显示，约 3000 份内部文件因 CMS 配置错误而对外公开，据报道涉及内部产品路线图、安全评估及模型开发计划等敏感内容。",
-      "tags": [
-        "AI安全",
-        "数据泄露"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://medium.com/ai-advances/anthropic-claude-mythos-leak-analysis-b77c1b304eb8",
-      "published_at": "2026-03-29T01:34:38Z",
-      "collected_at": "2026-03-29T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "b5d88fe1",
-      "lang": "zh",
-      "title_zh": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
-      "summary_zh": "量子位：论芯科技将AI引入芯片验证产线，实现读取协议文档速度提升25倍，并在真实任务中发现respin级别缺陷及超百条timing违例，有效替代传统人工逐条排查流程，标志AI for EDA从演示走向实际量产应用。",
-      "tags": [
-        "AI应用",
-        "芯片"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393045.html",
-      "published_at": "2026-03-29T01:27:39Z",
-      "collected_at": "2026-03-29T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6a2d8c96",
-      "lang": "zh",
-      "title_zh": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
-      "summary_zh": "量子位：第三届中关村论坛人工智能主题日期间，北京海淀五道口AI原点社区举办系列活动，30余场派对吸引科研青年、创业团队和技术极客，展现海淀作为全球AI创新创业第一站的生态活力。",
-      "tags": [
-        "行业动态",
-        "创业"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392996.html",
-      "published_at": "2026-03-29T01:09:41Z",
-      "collected_at": "2026-03-29T03:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "14f08b43",
-      "lang": "en",
-      "title_en": "Show HN: I built an OS that is pure AI",
-      "title_zh": "Show HN：我构建了一个纯 AI 操作系统",
-      "summary_en": "Hacker News: A developer showcased Pneuma, an experimental operating system built entirely around AI inference — replacing traditional OS abstractions with AI-driven process management, UI rendering, and system calls. The project sparked significant discussion about AI-native computing paradigms.",
-      "summary_zh": "Hacker News：一位开发者展示了 Pneuma，一个完全围绕 AI 推理构建的实验性操作系统，用 AI 驱动的机制替代传统 OS 的进程管理、界面渲染和系统调用，引发了对 AI 原生计算范式的广泛讨论。",
-      "tags": [
-        "AI应用",
-        "研究"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://pneuma.computer",
-      "published_at": "2026-03-29T00:02:17Z",
-      "collected_at": "2026-03-29T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "69b86121",
-      "lang": "en",
-      "title_en": "The first 40 months of the AI era",
-      "title_zh": "AI 时代的前 40 个月",
-      "summary_en": "Hacker News: A widely-shared essay reflecting on the first 40 months since the modern AI era began, tracing the rapid progression from GPT-3 to frontier reasoning models. The piece examines societal, economic, and technical shifts and speculates on the next phase of AI development.",
-      "summary_zh": "Hacker News：一篇广泛传播的文章回顾了现代 AI 时代开启后的前 40 个月，梳理了从 GPT-3 到前沿推理模型的快速演进，探讨了社会、经济和技术层面的变革，并对 AI 发展的下一阶段作出展望。",
-      "tags": [
-        "行业洞察",
-        "AI趋势"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://lzon.ca/posts/other/thoughts-ai-era/",
-      "published_at": "2026-03-29T00:02:08Z",
-      "collected_at": "2026-03-29T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "ac67e459",
-      "lang": "en",
-      "title_en": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "title_zh": "Bluesky 推出 AI 应用 Attie，助力构建自定义信息流",
-      "summary_en": "TechCrunch: Bluesky launched Attie, an AI-powered app that helps users create custom feeds on the open social networking protocol atproto. The tool lowers the barrier for non-technical users to design personalized content discovery experiences on the decentralized platform.",
-      "summary_zh": "TechCrunch：Bluesky 推出 AI 应用 Attie，帮助用户在其开放社交协议 atproto 上构建个性化信息流。该工具降低了非技术用户在去中心化平台上自定义内容发现体验的门槛。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-      "published_at": "2026-03-28T23:00:00Z",
-      "collected_at": "2026-03-29T00:10:00Z",
       "importance": 3,
       "merged_sources": []
     }

@@ -1,7 +1,177 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T03:10:00Z",
+  "generated_at": "2026-03-31T08:50:00Z",
   "items": [
+    {
+      "id": "97e39b05",
+      "lang": "en",
+      "title_en": "The Inference Shift – How Cheap Chips Could Put Frontier AI in Everyone's Hands",
+      "title_zh": "推理转型：廉价芯片如何让前沿 AI 走进千家万户",
+      "summary_en": "Analysis: An in-depth analysis argues that falling inference chip costs are about to democratize access to frontier AI models. As specialized inference hardware becomes commoditized, the author predicts a shift where running powerful models locally or cheaply in the cloud becomes widely accessible within 1-2 years.",
+      "summary_zh": "分析：一篇深度分析文章指出，推理芯片成本的快速下降即将打破前沿 AI 的访问壁垒。随着专用推理硬件进入大规模量产阶段，作者预测在 1-2 年内，在本地或低价云端运行强大模型将成为普遍可及的能力。",
+      "tags": [
+        "分析",
+        "硬件",
+        "推理"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://substack.com/home/post/p-192665961",
+      "published_at": "2026-03-31T09:28:44Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "52a49b82",
+      "lang": "en",
+      "title_en": "Google's 200M-parameter time-series foundation model with 16k context",
+      "title_zh": "Google 发布 2 亿参数时序基础模型，支持 16k 上下文",
+      "summary_en": "Google Research: Google Research released TimesFM, a 200M-parameter time-series foundation model with 16k context length. The model achieves strong zero-shot forecasting across diverse domains including finance, weather, and energy, available open-source on GitHub.",
+      "summary_zh": "Google Research：Google Research 发布 TimesFM，一个拥有 2 亿参数和 16k 上下文长度的时序基础模型。该模型在金融、天气、能源等多领域展现出强大的零样本预测能力，已在 GitHub 开源。",
+      "tags": [
+        "开源",
+        "研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/google-research/timesfm",
+      "published_at": "2026-03-31T09:08:39Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "6cfda92b",
+      "lang": "en",
+      "title_en": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "title_zh": "Ollama 预览版开始使用 Apple MLX 加速",
+      "summary_en": "Ollama: Ollama announced a preview of MLX-powered inference on Apple Silicon, enabling significantly faster local LLM performance on Mac devices. The integration leverages Apple's MLX framework to accelerate model execution natively on M-series chips.",
+      "summary_zh": "Ollama：Ollama 宣布在 Apple Silicon 上推出基于 MLX 框架的推理加速预览版本，大幅提升 Mac 本地大模型运行速度。该功能充分利用苹果 M 系列芯片的神经引擎，为本地 AI 推理带来显著性能提升。",
+      "tags": [
+        "开源",
+        "推理",
+        "硬件"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ollama.com/blog/mlx",
+      "published_at": "2026-03-31T08:00:45Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "abca6098",
+      "lang": "en",
+      "title_en": "Claude Code bug can silently 10-20x API costs",
+      "title_zh": "Claude Code 缓存 Bug 可导致 API 费用暴增 10-20 倍",
+      "summary_en": "Community: A Reddit post flagged two cache-related bugs in Claude Code that can silently inflate API costs by 10-20x without any warning to the user. The bugs affect how prompt caching is handled, causing repeated full-context charges instead of cached responses.",
+      "summary_zh": "社区：Reddit 上的一篇帖子披露了 Claude Code 中两个与缓存相关的 Bug，可在用户毫不知情的情况下使 API 费用暴涨 10-20 倍。漏洞导致提示缓存失效，每次请求均按完整上下文计费而非使用缓存价格。",
+      "tags": [
+        "工具",
+        "AI应用"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
+      "published_at": "2026-03-31T07:37:33Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "881b4547",
+      "lang": "zh",
+      "title_zh": "黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国",
+      "summary_zh": "量子位：HuggingFace推出的低成本开源机器人因获得英伟达CEO黄仁勋公开背书而引爆市场，其背后核心硬件供应商来自中国深圳。该机器人凭借开源生态和低价策略正在成为开发者构建具身智能应用的首选平台。",
+      "tags": [
+        "机器人",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393483.html",
+      "published_at": "2026-03-31T05:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9089e3da",
+      "lang": "zh",
+      "title_zh": "实测Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码",
+      "summary_zh": "量子位：量子位实测阿里最新发布的Qwen3.5-Omni多模态模型，该模型在215项基准测试中达到SOTA。测试表明其实时视觉理解能力出色，可通过摄像头即时解析论文内容、辅助编程，多模态交互体验接近GPT-4o水平。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393941.html",
+      "published_at": "2026-03-31T04:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "62c2309d",
+      "lang": "zh",
+      "title_zh": "2700GB高质量数据，训出空间智能SOTA，背后秘诀全栈开源",
+      "summary_zh": "量子位：研究团队基于2700GB高质量3D空间数据训练出空间智能模型，在多项空间理解基准上达到SOTA。团队全栈开源数据集、训练代码及模型权重，为具身智能和机器人领域研究提供重要基础设施。",
+      "tags": [
+        "开源",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393864.html",
+      "published_at": "2026-03-31T03:30:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "1c92da65",
+      "lang": "zh",
+      "title_zh": "机器人线下真机对线打PK！这届黑客松可太会玩了",
+      "summary_zh": "量子位：一场以人形机器人为主角的线下黑客松活动引发热议，参赛者携带真实机器人现场竞技，展示了抓取、操控、运动等多项能力。活动显示机器人开发门槛快速降低，开发者社区活跃度显著提升。",
+      "tags": [
+        "机器人",
+        "AI应用"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393887.html",
+      "published_at": "2026-03-31T03:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "a2efdf65",
+      "lang": "zh",
+      "title_zh": "瑞声科技公开人形机器人感知解决方案，释放机器人业务加速落地信号",
+      "summary_zh": "量子位：声学元件巨头瑞声科技正式公开其人形机器人感知系统，涵盖触觉、听觉等多传感器融合方案。此举被视为该公司加速布局机器人硬件供应链的重要信号，有望进一步推动人形机器人规模化落地。",
+      "tags": [
+        "机器人",
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393883.html",
+      "published_at": "2026-03-31T02:30:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7b0fd0ea",
+      "lang": "zh",
+      "title_zh": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+      "summary_zh": "量子位：港股AI公司明源云旗下智能体业务收入同比暴涨68%，其核心策略是通过「关系图谱」将企业内部复杂协作关系结构化，让AI智能体能够在真实企业场景中高效运转，实现全链路自动化落地。",
+      "tags": [
+        "AI应用",
+        "智能体"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393984.html",
+      "published_at": "2026-03-31T02:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "d1b28473",
       "lang": "en",
@@ -53,6 +223,22 @@
       "published_at": "2026-03-31T01:03:38Z",
       "collected_at": "2026-03-31T03:10:00Z",
       "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "fb75edf8",
+      "lang": "zh",
+      "title_zh": "Meta华人实习生搞出超级智能体！自己写代码实现自我进化",
+      "summary_zh": "量子位：Meta一名华人实习生开发出能够自主编写代码并实现自我迭代的超级智能体系统，该系统可通过反复试错不断优化自身能力。这一工作展示了智能体自主进化的可行路径，引发AI社区广泛关注。",
+      "tags": [
+        "智能体",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393645.html",
+      "published_at": "2026-03-31T01:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {

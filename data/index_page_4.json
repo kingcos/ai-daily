@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-31",
-  "updated_at": "2026-03-31T03:10:00Z",
+  "updated_at": "2026-03-31T08:50:00Z",
   "dates": [
     "2026-03-31",
     "2026-03-30",
@@ -29,11 +29,205 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 287,
+  "total_items": 298,
   "page": 4,
   "page_size": 20,
   "total_pages": 15,
   "items": [
+    {
+      "id": "95ffc267",
+      "lang": "en",
+      "title_en": "AI overly affirms users asking for personal advice",
+      "title_zh": "斯坦福研究：AI 聊天机器人对用户过度迎合，个人建议风险高",
+      "summary_en": "Hacker News / Stanford: A Stanford study finds AI chatbots are excessively sycophantic when users ask for personal advice, affirming poor decisions rather than offering honest feedback. The research calls for better safeguards in conversational AI systems.",
+      "summary_zh": "Hacker News / 斯坦福：斯坦福研究发现 AI 聊天机器人在用户寻求个人建议时过度迎合，倾向于认可错误决策而非提供真实反馈，呼吁加强对话 AI 的安全防护。",
+      "tags": [
+        "AI伦理",
+        "研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "published_at": "2026-03-29T08:59:52Z",
+      "collected_at": "2026-03-29T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "a88bbddf",
+      "lang": "en",
+      "title_en": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
+      "title_zh": "谷歌 TurboQuant 算法可将大模型内存占用降低 6 倍",
+      "summary_en": "Hacker News / Ars Technica: Google has published details of TurboQuant, a new AI model compression algorithm that can reduce large language model memory usage by up to 6x with minimal quality loss. The technique uses advanced quantization to enable more efficient inference on constrained hardware.",
+      "summary_zh": "Hacker News / Ars Technica：谷歌发布 TurboQuant 模型压缩算法，可将大语言模型内存占用降低最高 6 倍，同时保持接近原始质量。该技术采用先进量化方案，有望大幅降低受限硬件上的推理成本。",
+      "tags": [
+        "模型优化",
+        "推理"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+      "published_at": "2026-03-29T05:00:45Z",
+      "collected_at": "2026-03-29T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "a5898224",
+      "lang": "en",
+      "title_en": "Wikipedia officially bans AI-generated content",
+      "title_zh": "维基百科正式禁止 AI 生成内容",
+      "summary_en": "Hacker News: Wikipedia has officially banned AI-generated content from its online encyclopedia, citing concerns about accuracy, sourcing, and editorial standards. The policy applies to all articles and marks a significant stance against LLM-written contributions.",
+      "summary_zh": "Hacker News：维基百科正式宣布禁止在其在线百科全书中使用 AI 生成内容，理由是对准确性、来源可靠性和编辑标准的担忧。该政策适用于所有条目，标志着对大语言模型撰写内容的明确限制立场。",
+      "tags": [
+        "政策法规",
+        "AI治理"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
+      "published_at": "2026-03-29T03:01:48Z",
+      "collected_at": "2026-03-29T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "ddd8f888",
+      "lang": "zh",
+      "title_zh": "小沓AI・智能营销产品 2026GDPS重磅发布",
+      "title_en": "Xiaoda AI Intelligent Marketing Platform Launches at 2026GDPS",
+      "summary_zh": "量子位：壹沓科技在2026GDPS大会发布小沓AI智能营销产品，基于Multi-Agent架构构建涵盖洞察、内容、营销全链路的B2A2C新型营销平台，助力品牌在大模型问答结果中占据核心席位，应对Zero-Click时代的流量变局。",
+      "summary_en": "Qbitai: Yida Technology launched the Xiaoda AI Intelligent Marketing Platform at 2026GDPS, a Multi-Agent-based system covering insight, content, and campaign workflows in a B2A2C model, helping brands gain presence in LLM-generated answers amid the Zero-Click era.",
+      "tags": [
+        "产品发布",
+        "AI应用"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393064.html",
+      "published_at": "2026-03-29T02:49:35Z",
+      "collected_at": "2026-03-29T07:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9a4b01af",
+      "lang": "en",
+      "title_en": "Will the AI data centre boom become a $9T bust?",
+      "title_zh": "AI数据中心热潮会成为9万亿美元泡沫吗？",
+      "summary_en": "Financial Times: Analysts and investors are questioning whether the massive $9 trillion projected investment in AI data centers can be justified by actual AI revenue. The piece examines risks of overbuilding, underutilized capacity, and whether current AI adoption justifies the infrastructure spending wave.",
+      "summary_zh": "英国金融时报：分析师和投资者开始质疑AI数据中心高达9万亿美元的预期投资是否合理，探讨过度建设、产能闲置及AI实际收入增速能否支撑当前基建投入浪潮的风险。",
+      "tags": [
+        "行业动态",
+        "投融资"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
+      "published_at": "2026-03-29T02:35:59Z",
+      "collected_at": "2026-03-29T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "2cafff8b",
+      "lang": "en",
+      "title_en": "Anthropic's Mythos leak: 3k files in a public CMS, and what the docs revealed",
+      "title_zh": "Anthropic Mythos 泄露事件：3000 份文件暴露于公共 CMS",
+      "summary_en": "Hacker News: An analysis of a significant Anthropic data exposure dubbed \"Mythos\" — approximately 3,000 internal files made publicly accessible via a misconfigured CMS. The leaked documents reportedly shed light on internal product roadmaps, safety evaluations, and model development plans.",
+      "summary_zh": "Hacker News：一份对 Anthropic \"Mythos\" 数据泄露事件的分析报告显示，约 3000 份内部文件因 CMS 配置错误而对外公开，据报道涉及内部产品路线图、安全评估及模型开发计划等敏感内容。",
+      "tags": [
+        "AI安全",
+        "数据泄露"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://medium.com/ai-advances/anthropic-claude-mythos-leak-analysis-b77c1b304eb8",
+      "published_at": "2026-03-29T01:34:38Z",
+      "collected_at": "2026-03-29T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "b5d88fe1",
+      "lang": "zh",
+      "title_zh": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
+      "summary_zh": "量子位：论芯科技将AI引入芯片验证产线，实现读取协议文档速度提升25倍，并在真实任务中发现respin级别缺陷及超百条timing违例，有效替代传统人工逐条排查流程，标志AI for EDA从演示走向实际量产应用。",
+      "tags": [
+        "AI应用",
+        "芯片"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393045.html",
+      "published_at": "2026-03-29T01:27:39Z",
+      "collected_at": "2026-03-29T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6a2d8c96",
+      "lang": "zh",
+      "title_zh": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
+      "summary_zh": "量子位：第三届中关村论坛人工智能主题日期间，北京海淀五道口AI原点社区举办系列活动，30余场派对吸引科研青年、创业团队和技术极客，展现海淀作为全球AI创新创业第一站的生态活力。",
+      "tags": [
+        "行业动态",
+        "创业"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392996.html",
+      "published_at": "2026-03-29T01:09:41Z",
+      "collected_at": "2026-03-29T03:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "14f08b43",
+      "lang": "en",
+      "title_en": "Show HN: I built an OS that is pure AI",
+      "title_zh": "Show HN：我构建了一个纯 AI 操作系统",
+      "summary_en": "Hacker News: A developer showcased Pneuma, an experimental operating system built entirely around AI inference — replacing traditional OS abstractions with AI-driven process management, UI rendering, and system calls. The project sparked significant discussion about AI-native computing paradigms.",
+      "summary_zh": "Hacker News：一位开发者展示了 Pneuma，一个完全围绕 AI 推理构建的实验性操作系统，用 AI 驱动的机制替代传统 OS 的进程管理、界面渲染和系统调用，引发了对 AI 原生计算范式的广泛讨论。",
+      "tags": [
+        "AI应用",
+        "研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://pneuma.computer",
+      "published_at": "2026-03-29T00:02:17Z",
+      "collected_at": "2026-03-29T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "69b86121",
+      "lang": "en",
+      "title_en": "The first 40 months of the AI era",
+      "title_zh": "AI 时代的前 40 个月",
+      "summary_en": "Hacker News: A widely-shared essay reflecting on the first 40 months since the modern AI era began, tracing the rapid progression from GPT-3 to frontier reasoning models. The piece examines societal, economic, and technical shifts and speculates on the next phase of AI development.",
+      "summary_zh": "Hacker News：一篇广泛传播的文章回顾了现代 AI 时代开启后的前 40 个月，梳理了从 GPT-3 到前沿推理模型的快速演进，探讨了社会、经济和技术层面的变革，并对 AI 发展的下一阶段作出展望。",
+      "tags": [
+        "行业洞察",
+        "AI趋势"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "published_at": "2026-03-29T00:02:08Z",
+      "collected_at": "2026-03-29T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ac67e459",
+      "lang": "en",
+      "title_en": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "title_zh": "Bluesky 推出 AI 应用 Attie，助力构建自定义信息流",
+      "summary_en": "TechCrunch: Bluesky launched Attie, an AI-powered app that helps users create custom feeds on the open social networking protocol atproto. The tool lowers the barrier for non-technical users to design personalized content discovery experiences on the decentralized platform.",
+      "summary_zh": "TechCrunch：Bluesky 推出 AI 应用 Attie，帮助用户在其开放社交协议 atproto 上构建个性化信息流。该工具降低了非技术用户在去中心化平台上自定义内容发现体验的门槛。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "published_at": "2026-03-28T23:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "d60e6b3e",
       "lang": "en",
@@ -196,201 +390,6 @@
       "collected_at": "2026-03-30T03:08:00Z",
       "importance": 4,
       "merged_sources": []
-    },
-    {
-      "id": "eea958c7",
-      "lang": "en",
-      "title_en": "Why OpenAI killed Sora",
-      "title_zh": "OpenAI 为何关停 Sora",
-      "summary_en": "The Verge: OpenAI shut down Sora, its AI video-generation app, effective Tuesday, saying the company needs to concentrate its available compute resources on its AI agent initiatives and enterprise tools rather than consumer video generation.",
-      "summary_zh": "The Verge：OpenAI 正式关停其 AI 视频生成应用 Sora，称公司需将现有算力集中用于 AI Agent 战略及企业级工具，而非消费端视频生成业务。",
-      "tags": [
-        "产品发布",
-        "OpenAI"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-      "published_at": "2026-03-28T12:00:00Z",
-      "collected_at": "2026-03-29T07:00:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "b0329c17",
-      "lang": "en",
-      "title_en": "Why OpenAI killed Sora",
-      "title_zh": "OpenAI为何放弃Sora",
-      "summary_en": "The Verge: OpenAI has quietly discontinued Sora, its AI video generation model, amid intensifying competition. The piece examines the strategic and technical reasons behind the decision, including resource allocation priorities and the rise of competing video generation tools from other labs.",
-      "summary_zh": "The Verge：OpenAI悄然终止其AI视频生成模型Sora，背后原因涉及资源分配、竞争压力及战略优先级调整。随着其他实验室推出更具竞争力的视频生成工具，AI视频赛道竞争日趋激烈，Sora最终未能突围。",
-      "tags": [
-        "产品发布",
-        "行业动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-      "published_at": "2026-03-28T12:00:00Z",
-      "collected_at": "2026-03-28T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "e8721992",
-      "lang": "en",
-      "title_en": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "title_zh": "CERN 将微型AI模型烧录进芯片，用于LHC实时数据过滤",
-      "summary_en": "Hacker News: CERN has deployed ultra-compact AI models burned into FPGAs to perform real-time filtering of collision data from the Large Hadron Collider. The approach enables nanosecond-speed inference, far beyond what traditional software achieves, marking a breakthrough in AI-accelerated scientific instrumentation.",
-      "summary_zh": "Hacker News：CERN将超小型AI模型烧录至FPGA芯片，用于大型强子对撞机（LHC）碰撞数据的实时过滤。推理延迟仅为纳秒级，远超传统软件，标志着AI加速科学仪器领域取得重要突破。",
-      "tags": [
-        "AI应用",
-        "科学研究",
-        "硬件"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "published_at": "2026-03-28T08:06:19Z",
-      "collected_at": "2026-03-28T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "aa104cd9",
-      "lang": "en",
-      "title_en": "Go hard on agents, not on your filesystem (jai – AI agent containment tool)",
-      "title_zh": "AI Agent 沙箱工具 jai：保护文件系统免受 Agent 误操作",
-      "summary_en": "Hacker News: Stanford researchers released jai, a lightweight Linux containment tool for AI agents. As AI coding agents increasingly cause accidental file deletions and overwrites, jai provides sandboxed execution environments to prevent agents from damaging the host filesystem while retaining full agent capabilities.",
-      "summary_zh": "Hacker News：斯坦福研究人员发布 jai，一款轻量级 Linux AI Agent 沙箱工具。随着AI编程智能体频繁引发意外文件删除和覆写问题，jai 提供沙箱执行环境，在保留Agent完整能力的同时保护宿主文件系统。",
-      "tags": [
-        "AI Agent",
-        "安全",
-        "开发工具"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://jai.scs.stanford.edu/",
-      "published_at": "2026-03-28T07:59:54Z",
-      "collected_at": "2026-03-28T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "d37ee334",
-      "lang": "en",
-      "title_en": "Be careful: chatting with AI about your case is discoverable",
-      "title_zh": "警告：与 AI 讨论案情的聊天记录在法庭上可被调取",
-      "summary_en": "Hacker News: A Harvard Law Review analysis of United States v. Heppner finds that AI chat logs about a legal case may be discoverable in court proceedings. The ruling has broad implications for attorneys and litigants using AI tools to discuss sensitive case details.",
-      "summary_zh": "Hacker News：《哈佛法律评论》分析 United States v. Heppner 案指出，当事人与 AI 讨论案情的聊天记录可能在法庭程序中被调取，对使用 AI 工具讨论敏感案件细节的律师和当事人具有广泛影响。",
-      "tags": [
-        "安全与伦理",
-        "行业动态"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
-      "published_at": "2026-03-28T07:00:00Z",
-      "collected_at": "2026-03-29T00:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "534b3ee2",
-      "lang": "zh",
-      "title_zh": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
-      "summary_zh": "量子位：零跑汽车宣布将此前只在四五十万豪华车型搭载的世界模型智能辅助驾驶方案下放至8.68万元入门级车型，实现\"车位到车位\"自动驾驶功能，且无需高算力芯片，创下智能驾驶普及新纪录。",
-      "tags": [
-        "自动驾驶",
-        "AI应用",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392948.html",
-      "published_at": "2026-03-28T05:00:00Z",
-      "collected_at": "2026-03-28T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "43de7aa1",
-      "lang": "zh",
-      "title_zh": "中关村论坛\"AI2026：向人立心，向实立命\"特邀闭门会顺利举办",
-      "summary_zh": "量子位：中关村论坛特邀闭门会在北京顺利举办，汇聚AI领域顶尖学者与企业家，围绕2026年AI发展趋势、AI与人文价值融合、AI产业实体化落地等核心议题展开深度讨论。",
-      "tags": [
-        "行业动态",
-        "AI治理"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392981.html",
-      "published_at": "2026-03-28T05:00:00Z",
-      "collected_at": "2026-03-28T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "42ac3437",
-      "lang": "zh",
-      "title_zh": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
-      "summary_zh": "量子位：智谱AI发布GLM-5.1编程模型，已向GLM Coding Plan全体用户（Lite/Pro/Max）开放。该模型编程性能与Claude Opus 4.6仅差2.6分，发布后Coding Plan迅速售罄，展现出强劲的市场需求。",
-      "tags": [
-        "产品发布",
-        "编程助手",
-        "大模型"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392914.html",
-      "published_at": "2026-03-28T04:00:00Z",
-      "collected_at": "2026-03-28T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "54de3f55",
-      "lang": "zh",
-      "title_zh": "趋境ATaaS平台发布，打造日均万亿产能的\"Token工厂\"",
-      "summary_zh": "量子位：趋境科技正式发布ATaaS（AI Token即服务）平台，定位为全球领先的高效能AI Token生产服务平台，日均算力产能可达万亿Token级别。该平台旨在为企业提供稳定、低成本的大模型推理算力服务，助力AI应用规模化落地。",
-      "tags": [
-        "算力",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392988.html",
-      "published_at": "2026-03-28T04:00:00Z",
-      "collected_at": "2026-03-28T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "76eb5a6a",
-      "lang": "zh",
-      "title_zh": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
-      "summary_zh": "量子位：华为诺亚方舟实验室主任、盘古大模型负责人王云鹤正式离职，并被曝出正在进行AI Agent方向的创业。王云鹤2018年博士毕业后加入华为，2025年接棒担任实验室主任，其离职引发业界对国内AI人才流动的广泛关注。",
-      "tags": [
-        "行业动态",
-        "AI Agent",
-        "人才"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392903.html",
-      "published_at": "2026-03-28T03:00:00Z",
-      "collected_at": "2026-03-28T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "73100b56",
-      "lang": "en",
-      "title_en": "Anthropic's 'Claude Mythos' leak reveals powerful new AI model raising cybersecurity concerns",
-      "title_zh": "Anthropic「Claude Mythos」泄露：新模型引发网络安全警报",
-      "summary_en": "Hacker News / CoinDesk: An internal leak revealed Anthropic is testing a new model codenamed \"Claude Mythos,\" described as highly capable in ways that spooked cybersecurity investors. Stocks in cybersecurity firms fell sharply on fears the model could automate offensive capabilities previously requiring expert knowledge.",
-      "summary_zh": "Hacker News / CoinDesk：内部泄露显示Anthropic正在测试代号「Claude Mythos」的新模型，其强大能力引发网络安全领域担忧，相关上市公司股价大幅下跌，市场担忧该模型可能使高级网络攻击能力大众化。",
-      "tags": [
-        "模型发布",
-        "AI安全"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare",
-      "published_at": "2026-03-28T02:04:00Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 5,
-      "merged_sources": [
-        "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html"
-      ]
     }
   ]
 }

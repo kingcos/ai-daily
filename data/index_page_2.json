@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-31",
-  "updated_at": "2026-03-31T03:10:00Z",
+  "updated_at": "2026-03-31T08:50:00Z",
   "dates": [
     "2026-03-31",
     "2026-03-30",
@@ -29,11 +29,202 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 287,
+  "total_items": 298,
   "page": 2,
   "page_size": 20,
   "total_pages": 15,
   "items": [
+    {
+      "id": "7896db99",
+      "lang": "zh",
+      "title_zh": "DeepSeek网页版大升级后宕机11小时，被解读为新模型前兆",
+      "summary_zh": "DeepSeek：DeepSeek网页版在3月29日出现大规模宕机，持续超过8小时并登上热搜。宕机前大量用户报告模型能力大幅提升，经典SVG绘图任务的构图和色彩明显改善，且模型开始稳定自报为DeepSeek-V3。DeepSeek此前已有多次不预告静默升级记录，此次宕机被业界普遍解读为新版本模型上线的前兆。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393235.html",
+      "published_at": "2026-03-30T03:30:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b38989c1",
+      "lang": "zh",
+      "title_zh": "全球OCR新王来自中国开源！PaddleOCR GitHub狂揽73300+Star",
+      "summary_zh": "百度：PaddleOCR以73300+Star登顶GitHub全球OCR项目榜，终结谷歌Tesseract OCR近40年的霸榜地位。同步在Hugging Face长期位居OCR与文档解析领域头部。此次升级官网免费每日解析页数从1万提升至2万，并发布PaddleOCR OCEAN生态联盟，面向核心贡献者、企业用户、模型托管平台及硬件厂商开放合作。",
+      "tags": [
+        "开源",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393433.html",
+      "published_at": "2026-03-30T03:00:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7e0f12eb",
+      "lang": "zh",
+      "title_zh": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
+      "summary_zh": "阿里巴巴：阿里发布千问新一代全模态大模型Qwen3.5-Omni，在音视频理解、识别、交互等215项第三方测试任务中取得SOTA，超越Gemini-3.1 Pro。新模型采用混合注意力MoE架构，支持113种语言及方言语音识别、36种语言语音生成，具备音视频Vibe Coding能力，API定价每百万Tokens输入不到0.8元。目前已在阿里云百炼平台上线Plus、Flash、Light三个版本，普通用户可通过Qwen Chat免费体验。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393460.html",
+      "published_at": "2026-03-30T02:00:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "73970da2",
+      "lang": "en",
+      "title_en": "All the latest in AI 'music'",
+      "title_zh": "AI「音乐」最新动态：Bandcamp 封禁 AI 内容、Suno 发布 v5.5",
+      "summary_en": "The Verge: A roundup of the latest in AI-generated music: Bandcamp becomes the first major platform to ban AI content; Suno releases v5.5 with voice cloning and personalization; musicians push back against AI audio clones; and a study finds 97% of people struggle to identify AI-made music.",
+      "summary_zh": "The Verge：AI 音乐领域最新动态汇总：Bandcamp 成为首个封禁 AI 内容的主要音乐平台；Suno 发布 v5.5，支持用户声音克隆与个性化；音乐人持续抵制 AI 音频克隆；研究显示97%的人难以识别 AI 生成音乐。",
+      "tags": [
+        "AI音乐",
+        "版权",
+        "AI应用"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+      "published_at": "2026-03-30T01:32:14Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8022be03",
+      "lang": "en",
+      "title_en": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
+      "title_zh": "OpenAI 最受期待产品的意外落幕：Sora 为何沉寂",
+      "summary_en": "Hacker News (via WSJ): A Wall Street Journal investigation into the sudden decline of Sora, OpenAI's AI video generation tool once billed as its biggest product since ChatGPT. The story traces internal priorities, competitive pressure from Kling and other players, and OpenAI's pivot toward other revenue streams.",
+      "summary_zh": "Hacker News（WSJ）：《华尔街日报》深度调查 Sora 的意外没落——这款曾被誉为 OpenAI 继 ChatGPT 后最受期待产品的 AI 视频生成工具，因内部优先级调整、Kling 等竞品压力及 OpenAI 向其他收入来源转型而迅速沉寂。",
+      "tags": [
+        "OpenAI",
+        "AI视频",
+        "产品策略"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt",
+      "published_at": "2026-03-30T01:23:17Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "b0489665",
+      "lang": "zh",
+      "title_zh": "Agentic AI 安全指南：龙虾如何被三层硬核架构「焊死」",
+      "summary_zh": "量子位：随着高权限 AI 代理应用爆发，本文提供一份面向开发者的 Agentic AI 安全实战指南，深入剖析自主性失控的根源，并介绍三层硬核安全架构：过程黑箱穿透、价值对齐保障与权限最小化原则，帮助开发者在生产环境中构建可控、可审计的 AI 代理系统。",
+      "tags": [
+        "AI安全",
+        "AI代理",
+        "开发者工具"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393226.html",
+      "published_at": "2026-03-30T00:41:45Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "729eb8ee",
+      "lang": "en",
+      "title_en": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "title_zh": "ScaleOps 融资 1.3 亿美元，自动化优化 AI 基础设施效率",
+      "summary_en": "TechCrunch: ScaleOps raised $130M in a Series C round to tackle GPU shortages and soaring AI cloud costs by automating Kubernetes infrastructure optimization in real time, helping companies reduce compute waste amid surging AI workload demand.",
+      "summary_zh": "TechCrunch：ScaleOps 完成 1.3 亿美元 C 轮融资，通过实时自动化 Kubernetes 基础设施优化，帮助企业应对 AI 需求激增带来的 GPU 短缺与云计算成本飙升问题，减少计算资源浪费。",
+      "tags": [
+        "融资",
+        "AI基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-31T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "198ab0ea",
+      "lang": "en",
+      "title_en": "Starcloud raises $170 million Series A to build data centers in space",
+      "title_zh": "Starcloud 完成 1.7 亿美元 A 轮融资，计划建造太空数据中心",
+      "summary_en": "TechCrunch: Starcloud raised $170M in a Series A round to build AI data centers in space, becoming the fastest Y Combinator startup to reach unicorn status just 17 months after demo day. The company aims to leverage orbital infrastructure to meet surging AI compute demand.",
+      "summary_zh": "TechCrunch：Starcloud 完成 1.7 亿美元 A 轮融资，计划在太空建造 AI 数据中心，成为 YC 史上最快达到独角兽估值的初创公司（Demo Day 后仅 17 个月）。公司旨在通过轨道基础设施满足 AI 算力需求。",
+      "tags": [
+        "融资",
+        "AI基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-31T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7012a6b0",
+      "lang": "en",
+      "title_en": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "title_zh": "美国 AI 使用率上升，但信任度反而下滑",
+      "summary_en": "TechCrunch: A new poll finds that AI adoption is rising across the U.S., but trust in AI outputs is declining simultaneously. Most Americans remain concerned about AI transparency, regulation, and the technology's broader societal impact despite increased usage.",
+      "summary_zh": "TechCrunch：最新民调显示，美国 AI 工具使用率持续上升，但用户对 AI 结果的信任度却同步下降。多数美国人对 AI 的透明度、监管及其社会影响表示担忧。",
+      "tags": [
+        "行业观察",
+        "AI治理"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-31T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "95a48935",
+      "lang": "en",
+      "title_en": "15% of Americans say they'd be willing to work for an AI boss, according to new poll",
+      "title_zh": "调查：仅 15% 美国人愿意接受 AI 担任直属上司",
+      "summary_en": "TechCrunch: A Quinnipiac University poll finds that only 15% of Americans say they'd be willing to have an AI program as their direct workplace supervisor, highlighting widespread hesitancy toward AI authority in professional settings.",
+      "summary_zh": "TechCrunch：昆尼皮亚克大学民调显示，仅 15% 的美国人表示愿意接受 AI 程序担任直属上司，反映公众对 AI 在职场中行使管理权力仍持普遍观望态度。",
+      "tags": [
+        "行业观察"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-31T03:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "599447a1",
+      "lang": "en",
+      "title_en": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "title_zh": "AI 网关 LiteLLM 与安全供应商 Delve 切断合作",
+      "summary_en": "TechCrunch: LiteLLM, a widely-used AI gateway, severed its partnership with security compliance startup Delve after Delve was hit by credential-stealing malware last week, raising concerns about supply chain security risks in the AI tooling ecosystem.",
+      "summary_zh": "TechCrunch：广泛使用的 AI 网关 LiteLLM 宣布终止与安全合规初创公司 Delve 的合作。Delve 上周遭凭据窃取恶意软件攻击，事件引发对 AI 工具供应链安全风险的广泛关注。",
+      "tags": [
+        "AI安全",
+        "行业观察"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-31T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "b1274b04",
       "lang": "en",
@@ -182,201 +373,6 @@
       "published_at": "2026-03-30T00:00:00Z",
       "collected_at": "2026-03-30T09:00:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "7dbe9008",
-      "lang": "zh",
-      "title_zh": "国产世界模型登顶全球第一！3D准确度近满分",
-      "summary_zh": "量子位：极佳视界发布GigaWorld-1世界模型，在WorldArena全球评测中登顶第一，断层领先谷歌、英伟达同类产品，3D空间准确度接近满分。这是国产世界模型首次在国际权威榜单占据首位。",
-      "tags": [
-        "产品发布",
-        "多模态",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393296.html",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-30T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "7e0f12eb",
-      "lang": "zh",
-      "title_zh": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
-      "summary_zh": "阿里巴巴：阿里巴巴正式发布Qwen3.5-Omni多模态大模型，在视觉、语音、文本等多模态理解能力上超越Google Gemini 3.1 Pro，进一步巩固国产大模型在多模态领域的竞争优势。",
-      "tags": [
-        "产品发布",
-        "多模态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393460.html",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-30T15:10:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "b38989c1",
-      "lang": "zh",
-      "title_zh": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
-      "summary_zh": "量子位：一款来自中国的开源OCR工具在全球基准测试中夺冠，GitHub星标超73300个，引发广泛关注，彰显中国开源AI社区的强劲实力。",
-      "tags": [
-        "开源",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393433.html",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-30T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "7896db99",
-      "lang": "zh",
-      "title_zh": "DeepSeek网页版大升级，随后宕机11小时崩上热搜",
-      "summary_zh": "量子位：DeepSeek对网页版进行重大功能升级，新功能引发用户大量涌入后服务宕机长达11小时，登上社交媒体热搜。此次升级被认为是新版本模型即将发布的前兆。",
-      "tags": [
-        "产品发布",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393235.html",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-30T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "db4ab720",
-      "lang": "zh",
-      "title_zh": "量子位沙龙：9位大神分享AI工具深度使用技巧",
-      "summary_zh": "量子位：量子位沙龙邀请9位AI深度用户分享Claude等AI工具的使用技巧，涵盖效率提升与收益优化等实战场景，揭示多数用户尚未充分挖掘AI潜力的现象。",
-      "tags": [
-        "行业动态",
-        "应用"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393244.html",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-30T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "d4e5f6g7",
-      "lang": "en",
-      "title_en": "Coding Agents Could Make Free Software Matter Again",
-      "title_zh": "AI 编程代理有望重振开源软件的意义",
-      "summary_en": "Hacker News: A blog post argues that agentic coding tools are lowering the barrier for contributing to and maintaining free/open-source software, potentially revitalizing the ecosystem by enabling non-coders to build on open protocols and tools.",
-      "summary_zh": "Hacker News：一篇博客文章认为，AI 编程代理降低了贡献开源软件的门槛，让非开发者也能基于开放协议构建应用，有望重新激活自由/开源软件生态系统的活力。",
-      "tags": [
-        "AI编程",
-        "开源",
-        "AI代理"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "published_at": "2026-03-29T22:21:34Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "c3d4e5f6",
-      "lang": "en",
-      "title_en": "Claude Code runs Git reset --hard origin/main against project repo every 10 mins",
-      "title_zh": "Claude Code 每10分钟执行 git reset --hard 覆盖项目代码，引发社区关注",
-      "summary_en": "Hacker News: A GitHub issue on the Anthropic Claude Code repository reveals the agent autonomously runs 'git reset --hard origin/main' against user projects every 10 minutes, potentially destroying local uncommitted work. The issue sparked wide discussion about AI coding agent safety and oversight.",
-      "summary_zh": "Hacker News：Anthropic Claude Code GitHub 仓库中一则 issue 披露，该 AI 编程代理每10分钟自动对用户项目执行 git reset --hard，可能销毁本地未提交代码，引发社区对 AI 编程代理安全性与用户控制权的广泛讨论。",
-      "tags": [
-        "AI编程",
-        "Claude",
-        "AI安全"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/anthropics/claude-code/issues/40710",
-      "published_at": "2026-03-29T22:15:06Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "a1b2c3d4",
-      "lang": "en",
-      "title_en": "Bluesky's new app Attie is an AI for customizing your feed",
-      "title_zh": "Bluesky 推出 AI 应用 Attie，可用自然语言定制信息流",
-      "summary_en": "The Verge: Bluesky's Atmosphere conference unveiled Attie, an AI assistant powered by Anthropic's Claude that lets users build custom feed algorithms using natural language. Built on the AT Protocol, Attie will eventually enable no-code app creation for the open social graph.",
-      "summary_zh": "The Verge：Bluesky 在 Atmosphere 大会发布 AI 助手 Attie，由 Anthropic Claude 驱动，支持自然语言定制信息流算法。基于 AT 协议构建，未来将支持无代码创建 atproto 应用。目前处于封闭测试阶段。",
-      "tags": [
-        "AI应用",
-        "社交媒体",
-        "Anthropic"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-      "published_at": "2026-03-29T21:44:41Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e5f6g7h8",
-      "lang": "en",
-      "title_en": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-      "title_zh": "AI 并非消灭工作，而是将其「拆包」为低薪碎片任务",
-      "summary_en": "Hacker News: The Register reports research showing AI is restructuring jobs by splitting complex roles into fragmented, lower-paid micro-tasks rather than outright eliminating positions. This 'unbundling' effect raises new concerns about wage erosion and labor market fragmentation.",
-      "summary_zh": "Hacker News：The Register 报道研究显示，AI 正将复杂岗位拆解为碎片化低薪微任务，而非直接消灭职位。这种「拆包」效应引发对薪资下降和劳动力市场碎片化的新担忧。",
-      "tags": [
-        "AI就业",
-        "AI伦理",
-        "劳动力市场"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.theregister.com/2026/03/24/ai_job_unbundling/",
-      "published_at": "2026-03-29T20:51:55Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f6g7h8i9",
-      "lang": "en",
-      "title_en": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "title_zh": "ChatGPT 输入框被 Cloudflare 读取 React 状态后才解锁，引发隐私争议",
-      "summary_en": "Hacker News: A technical investigation reveals ChatGPT's input field is blocked until Cloudflare's bot detection script reads React component state, raising privacy and transparency concerns about frontend anti-bot mechanisms intercepting user interaction data.",
-      "summary_zh": "Hacker News：技术调查显示，ChatGPT 输入框在 Cloudflare 机器人检测脚本读取 React 组件状态之前处于锁定状态，引发对前端反机器人机制拦截用户交互数据的隐私与透明度争议。",
-      "tags": [
-        "ChatGPT",
-        "隐私",
-        "AI安全"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "published_at": "2026-03-29T20:21:05Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "g7h8i9j0",
-      "lang": "en",
-      "title_en": "AI Isn't Lightening Workloads. It's Making Them More Intense",
-      "title_zh": "AI 并未减轻工作负担，反而使工作更加繁重",
-      "summary_en": "Hacker News: A Wall Street Journal analysis finds that rather than reducing workload, AI tools are increasing work intensity—workers are expected to handle more tasks, faster, while also managing AI outputs. The effect may be amplifying burnout rather than alleviating it.",
-      "summary_zh": "Hacker News：《华尔街日报》分析发现，AI 工具非但没有减轻工作负担，反而加剧了工作强度——员工被要求更快处理更多任务并审核 AI 输出，可能加剧职业倦怠而非缓解。",
-      "tags": [
-        "AI就业",
-        "AI伦理",
-        "工作效率"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c",
-      "published_at": "2026-03-29T19:44:48Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]
