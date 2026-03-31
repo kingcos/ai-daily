@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-03-31",
-  "updated_at": "2026-03-31T09:11:30Z",
+  "updated_at": "2026-03-31T15:15:00Z",
   "dates": [
     "2026-03-31",
     "2026-03-30",
@@ -29,11 +29,201 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 36,
+  "total_items": 315,
   "page": 2,
   "page_size": 20,
-  "total_pages": 2,
+  "total_pages": 16,
   "items": [
+    {
+      "id": "7b0fd0ea",
+      "lang": "zh",
+      "title_zh": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+      "summary_zh": "量子位：港股AI公司明源云旗下智能体业务收入同比暴涨68%，其核心策略是通过「关系图谱」将企业内部复杂协作关系结构化，让AI智能体能够在真实企业场景中高效运转，实现全链路自动化落地。",
+      "tags": [
+        "AI应用",
+        "智能体"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393984.html",
+      "published_at": "2026-03-31T02:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d1b28473",
+      "lang": "en",
+      "title_en": "Learn Claude Code by doing, not reading",
+      "title_zh": "通过实践学习Claude Code",
+      "summary_en": "Community: An interactive tutorial site teaches developers how to use Claude Code through hands-on exercises rather than documentation reading. The resource gained significant traction on Hacker News with 109 upvotes, reflecting strong community interest in practical AI coding assistant education.",
+      "summary_zh": "社区：交互式教程网站claude.nagdy.me通过动手实践而非文档阅读方式教授开发者使用Claude Code，在Hacker News获得109票关注，反映出开发者社区对AI编程助手实践教程的强烈需求。",
+      "tags": [
+        "编程",
+        "Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://claude.nagdy.me/",
+      "published_at": "2026-03-31T01:19:43Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f515d6ca",
+      "lang": "en",
+      "title_en": "Agentic AI and the next intelligence explosion",
+      "title_zh": "Agent AI与下一次智能爆炸",
+      "summary_en": "Researchers: A preprint on arXiv argues that the AI singularity should not be conceived as a monolithic godlike mind, but as a plural, social, relational phenomenon. The paper highlights that frontier reasoning models like DeepSeek-R1 improve not by thinking longer but by simulating internal societies of thought as spontaneous cognitive debates. The authors propose that scaling intelligence requires shifting from dyadic alignment to managing collective human-AI agency, describing an era of human-AI centaurs.",
+      "summary_zh": "研究人员：arXiv预印本论文提出，AI奇点不应被理解为单一的神级智能，而是多元化的社会性现象。文章指出DeepSeek-R1等前沿推理模型通过模拟内部思想社会而非单纯更长思考来提升能力，并提出扩展智能需要从双边对齐转向管理集体人机协同，描述即将到来的人机半人马时代。",
+      "tags": [
+        "研究论文",
+        "推理",
+        "Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://arxiv.org/abs/2603.20639",
+      "published_at": "2026-03-31T01:14:17Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9dd374a0",
+      "lang": "zh",
+      "title_zh": "别再让AI只干零活了！AI工具正在接管投放全链路",
+      "summary_zh": "量子位：艾瑞咨询报告显示，中国AI营销市场规模达669亿元，年复合增长率26.2%。当前多环节协同成为AI营销引擎新趋势，快手等平台已实现从素材生产、策略制定到实时投放、诊断复盘的全链路AI化，推动营销行业从单点AI工具向全流程智能化演进。",
+      "tags": [
+        "行业观察",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393471.html",
+      "published_at": "2026-03-31T01:03:38Z",
+      "collected_at": "2026-03-31T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "fb75edf8",
+      "lang": "zh",
+      "title_zh": "Meta华人实习生搞出超级智能体！自己写代码实现自我进化",
+      "summary_zh": "量子位：Meta一名华人实习生开发出能够自主编写代码并实现自我迭代的超级智能体系统，该系统可通过反复试错不断优化自身能力。这一工作展示了智能体自主进化的可行路径，引发AI社区广泛关注。",
+      "tags": [
+        "智能体",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393645.html",
+      "published_at": "2026-03-31T01:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "d0eee8cd",
+      "lang": "en",
+      "title_en": "Like it or not, AI is part of art school curriculums",
+      "title_zh": "无论喜不喜欢，AI 已成为艺术院校课程的一部分",
+      "summary_en": "The Verge: Art schools across the US are integrating generative AI tools into their curriculums despite student protests. From CalArts to University of Alaska Fairbanks, students and faculty grapple with AI's impact on creative education and job prospects as text-to-image, music, and video generation tools become ubiquitous.",
+      "summary_zh": "The Verge：美国各大艺术院校正将生成式 AI 工具纳入课程体系，尽管引发学生抗议。从加州艺术学院到阿拉斯加费尔班克斯大学，师生们正在与 AI 对创意教育和就业前景的冲击抗争，而文生图、音乐和视频生成工具已日趋普及。",
+      "tags": [
+        "AI伦理",
+        "教育",
+        "生成式AI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-practice",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "da7f95ac",
+      "lang": "en",
+      "title_en": "You can order Grubhub and Uber Eats 'conversationally' with Alexa Plus",
+      "title_zh": "Alexa Plus 支持与 Grubhub 和 Uber Eats 对话式下单",
+      "summary_en": "The Verge: Amazon has added conversational food ordering to Alexa Plus, letting users place Grubhub and Uber Eats orders through natural dialogue rather than rigid call-and-response prompts. The feature rolls out to Echo Show 8 and larger devices for Alexa Plus subscribers, part of Amazon's broader push to make its AI assistant more genuinely useful.",
+      "summary_zh": "The Verge：亚马逊为 Alexa Plus 新增对话式点餐功能，用户可通过自然语言对话在 Grubhub 和 Uber Eats 下单，而非依赖固定指令。该功能面向 Echo Show 8 及更大屏幕设备的 Alexa Plus 订阅用户推出，是亚马逊提升 AI 助手实用性的重要举措。",
+      "tags": [
+        "AI助手",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-delivery-conversational-grubhub-uber-eats",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "71d7e1d3",
+      "lang": "zh",
+      "title_zh": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
+      "summary_zh": "量子位：智谱 AI 发布上市后首份财报，营收超 7.24 亿元，成为国内收入最高的大模型公司。财报显示 MaaS（模型即服务）业务快速增长，标志着国内大模型商业化进入新阶段。",
+      "tags": [
+        "产业动态",
+        "大模型",
+        "商业化"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394135.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "67557a7d",
+      "lang": "zh",
+      "title_zh": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
+      "summary_zh": "量子位：字节跳动旗下 AI 编程工具 TRAE SOLO 正式推出独立 PC 端和 Web 端，功能从代码编写延伸至跨领域任务执行，展现出超越传统 IDE 的智能体能力，进一步与 Cursor 等产品展开竞争。",
+      "tags": [
+        "AI编码",
+        "产品发布",
+        "AI智能体"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394014.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "2f297545",
+      "lang": "zh",
+      "title_zh": "ClawTip来了！京东科技首发推出AI智能体的专属自主零钱包",
+      "summary_zh": "量子位：京东科技发布 ClawTip，定位为 AI 智能体专属的自主支付钱包，支持智能体在无人工干预下自主完成小额支付。这是国内首款面向 AI Agent 的原生支付产品，标志着智能体经济基础设施建设提速。",
+      "tags": [
+        "AI智能体",
+        "金融科技",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394011.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "1beb075c",
+      "lang": "zh",
+      "title_zh": "玻色量子完成10亿元B轮融资，十五五规划量子计算机赛道唯一代表",
+      "summary_zh": "量子位：量子计算公司玻色量子完成 10 亿元 B 轮融资，成为十五五规划专用量子计算机赛道的唯一入选企业。本轮融资将用于加速量子计算硬件研发与商业化落地，标志着国内量子计算赛道进入重资本投入阶段。",
+      "tags": [
+        "量子计算",
+        "融资",
+        "产业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393856.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "df4c40d4",
       "lang": "en",
@@ -181,129 +371,6 @@
       "published_at": "2026-03-30T02:00:00Z",
       "collected_at": "2026-03-31T00:15:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "729eb8ee",
-      "lang": "en",
-      "title_en": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-      "title_zh": "ScaleOps 融资 1.3 亿美元，自动化优化 AI 基础设施效率",
-      "summary_en": "TechCrunch: ScaleOps raised $130M in a Series C round to tackle GPU shortages and soaring AI cloud costs by automating Kubernetes infrastructure optimization in real time, helping companies reduce compute waste amid surging AI workload demand.",
-      "summary_zh": "TechCrunch：ScaleOps 完成 1.3 亿美元 C 轮融资，通过实时自动化 Kubernetes 基础设施优化，帮助企业应对 AI 需求激增带来的 GPU 短缺与云计算成本飙升问题，减少计算资源浪费。",
-      "tags": [
-        "融资",
-        "AI基础设施"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "198ab0ea",
-      "lang": "en",
-      "title_en": "Starcloud raises $170 million Series A to build data centers in space",
-      "title_zh": "Starcloud 完成 1.7 亿美元 A 轮融资，计划建造太空数据中心",
-      "summary_en": "TechCrunch: Starcloud raised $170M in a Series A round to build AI data centers in space, becoming the fastest Y Combinator startup to reach unicorn status just 17 months after demo day. The company aims to leverage orbital infrastructure to meet surging AI compute demand.",
-      "summary_zh": "TechCrunch：Starcloud 完成 1.7 亿美元 A 轮融资，计划在太空建造 AI 数据中心，成为 YC 史上最快达到独角兽估值的初创公司（Demo Day 后仅 17 个月）。公司旨在通过轨道基础设施满足 AI 算力需求。",
-      "tags": [
-        "融资",
-        "AI基础设施"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7012a6b0",
-      "lang": "en",
-      "title_en": "As more Americans adopt AI tools, fewer say they can trust the results",
-      "title_zh": "美国 AI 使用率上升，但信任度反而下滑",
-      "summary_en": "TechCrunch: A new poll finds that AI adoption is rising across the U.S., but trust in AI outputs is declining simultaneously. Most Americans remain concerned about AI transparency, regulation, and the technology's broader societal impact despite increased usage.",
-      "summary_zh": "TechCrunch：最新民调显示，美国 AI 工具使用率持续上升，但用户对 AI 结果的信任度却同步下降。多数美国人对 AI 的透明度、监管及其社会影响表示担忧。",
-      "tags": [
-        "行业观察",
-        "AI治理"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "95a48935",
-      "lang": "en",
-      "title_en": "15% of Americans say they'd be willing to work for an AI boss, according to new poll",
-      "title_zh": "调查：仅 15% 美国人愿意接受 AI 担任直属上司",
-      "summary_en": "TechCrunch: A Quinnipiac University poll finds that only 15% of Americans say they'd be willing to have an AI program as their direct workplace supervisor, highlighting widespread hesitancy toward AI authority in professional settings.",
-      "summary_zh": "TechCrunch：昆尼皮亚克大学民调显示，仅 15% 的美国人表示愿意接受 AI 程序担任直属上司，反映公众对 AI 在职场中行使管理权力仍持普遍观望态度。",
-      "tags": [
-        "行业观察"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "599447a1",
-      "lang": "en",
-      "title_en": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-      "title_zh": "AI 网关 LiteLLM 与安全供应商 Delve 切断合作",
-      "summary_en": "TechCrunch: LiteLLM, a widely-used AI gateway, severed its partnership with security compliance startup Delve after Delve was hit by credential-stealing malware last week, raising concerns about supply chain security risks in the AI tooling ecosystem.",
-      "summary_zh": "TechCrunch：广泛使用的 AI 网关 LiteLLM 宣布终止与安全合规初创公司 Delve 的合作。Delve 上周遭凭据窃取恶意软件攻击，事件引发对 AI 工具供应链安全风险的广泛关注。",
-      "tags": [
-        "AI安全",
-        "行业观察"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b1274b04",
-      "lang": "en",
-      "title_en": "Mantis Biotech is making 'digital twins' of humans to help solve medicine's data availability problem",
-      "title_zh": "Mantis Biotech 打造人体数字孪生，破解医疗数据稀缺难题",
-      "summary_en": "TechCrunch: Mantis Biotech combines disparate health data to generate synthetic datasets representing human anatomy, physiology, and behavior as 'digital twins,' aiming to address medicine's chronic shortage of training data for AI-driven drug discovery and clinical research.",
-      "summary_zh": "TechCrunch：Mantis Biotech 整合多源健康数据，生成人体解剖、生理与行为的合成数据集，构建「数字孪生」模型，旨在解决 AI 药物发现与临床研究中长期存在的数据稀缺问题。",
-      "tags": [
-        "医疗AI",
-        "行业观察"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f904cc1f",
-      "lang": "zh",
-      "title_zh": "上海AI实验室发布AGI4S珠穆朗玛计划",
-      "summary_zh": "上海人工智能实验室：在第二届浦江AI学术年会上发布面向重大科学突破的AGI for Science珠穆朗玛计划，旨在构建科学智能创新中枢。计划构建设施层-模型层-服务层-场景层全栈技术体系，包括DeepLink超智融合算力平台、Sciverse科学智能数据库及自主实验平台三大基础设施。同步启动攀登者计划2.0，构建从种子期到产业化的三级项目支持体系，并面向全球开放算力、数据、模型等全维度合作通道。",
-      "tags": [
-        "研究论文",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393344.html",
-      "published_at": "2026-03-29T10:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]
