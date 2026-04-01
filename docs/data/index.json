@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-01",
-  "updated_at": "2026-04-01T09:08:00Z",
+  "updated_at": "2026-04-01T15:00:00Z",
   "dates": [
     "2026-04-01",
     "2026-03-31",
@@ -30,11 +30,79 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 26,
+  "total_items": 346,
   "page": 1,
   "page_size": 20,
-  "total_pages": 2,
+  "total_pages": 18,
   "items": [
+    {
+      "id": "671e066a",
+      "lang": "en",
+      "title_en": "AI can push your Stream Deck buttons for you",
+      "title_zh": "AI 可为你自动触发 Stream Deck 按钮",
+      "summary_en": "The Verge: Elgato's Stream Deck 7.4 software update introduces MCP (Model Context Protocol) support, enabling AI assistants to discover and activate Stream Deck actions on behalf of users. The update bridges AI agent workflows directly with physical shortcut hardware, opening new automation possibilities.",
+      "summary_zh": "The Verge：Elgato 发布 Stream Deck 7.4 软件更新，引入 MCP（模型上下文协议）支持，允许 AI 助手自动识别并触发 Stream Deck 操作，将 AI 智能体工作流与物理快捷键硬件直接打通，拓展了自动化使用场景。",
+      "tags": [
+        "工具与开发",
+        "AI 应用"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "published_at": "2026-04-01T12:38:58Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "575f1907",
+      "lang": "zh",
+      "title_zh": "为啥武汉无人车也呆了一次",
+      "summary_zh": "量子位：3月31日晚，武汉萝卜快跑无人驾驶车在市区停摆，乘客安全疏散，无人员伤亡。据知情人士透露，停摆系车辆自检到潜在风险后主动触发的安全策略，而非系统故障。文章深入分析了自动驾驶系统的安全逻辑，并与 Waymo 此前停摆事件作对比，探讨安全停车机制的必要性与公众认知差距。",
+      "tags": [
+        "自动驾驶",
+        "安全"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394554.html",
+      "published_at": "2026-04-01T12:06:03Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "70b4c06e",
+      "lang": "en",
+      "title_en": "Baidu's robotaxis froze in traffic, creating chaos",
+      "title_zh": "百度 Apollo 无人车集体停摆，引发交通混乱",
+      "summary_en": "The Verge: Baidu Apollo Go robotaxis froze in traffic in Wuhan, China, forcing passengers to exit stranded vehicles and creating significant traffic disruption. Authorities and Baidu staff responded quickly; no injuries were reported. The incident echoes a similar Waymo fleet-wide stoppage and raises questions about autonomous vehicle safety protocols.",
+      "summary_zh": "The Verge：百度旗下 Apollo Go 无人驾驶出租车在武汉市区集体停摆，乘客被迫步行离车，交通一度受阻。交管部门与百度工作人员迅速处置，无人员伤亡。此事件与数月前 Waymo 停摆事件高度相似，引发外界对自动驾驶安全机制的广泛讨论。",
+      "tags": [
+        "自动驾驶",
+        "安全"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "published_at": "2026-04-01T10:39:52Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "10c544ee",
+      "lang": "zh",
+      "title_zh": "国内最强生图模型Wan2.7-Image来了",
+      "summary_zh": "量子位：Wan 团队发布 Wan2.7-Image，具备文生图、图生组图、图像指令编辑和交互式编辑全链路能力。人类偏好盲测中文生图能力超越 GPT-Image1.5 及国内主流模型，文本渲染与照片级成像指标接近顶尖水准，并强化了虚拟形象定制功能，支持骨相、眼眸到五官全方位捏脸。",
+      "tags": [
+        "图像生成",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394530.html",
+      "published_at": "2026-04-01T09:34:25Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "8b20fd9e",
       "lang": "en",
@@ -137,6 +205,22 @@
       "published_at": "2026-04-01T01:42:59Z",
       "collected_at": "2026-04-01T09:08:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "2ea0207a",
+      "lang": "zh",
+      "title_zh": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
+      "summary_zh": "量子位：OpenAI 完成 1220 亿美元融资，投后估值达 8520 亿美元，创下科技史上最大单笔融资纪录。亚马逊出资 500 亿、英伟达与软银各投 300 亿，微软也参与本轮。OpenAI 还首次通过银行渠道向个人投资者开放，筹得逾 30 亿美元。市场对其 IPO 预期进一步升温。",
+      "tags": [
+        "融资",
+        "OpenAI"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394169.html",
+      "published_at": "2026-04-01T00:56:13Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 5,
       "merged_sources": []
     },
     {
@@ -316,106 +400,6 @@
       "published_at": "2026-03-31T21:01:00Z",
       "collected_at": "2026-04-01T03:20:00Z",
       "importance": 4
-    },
-    {
-      "id": "f656d9ee",
-      "lang": "en",
-      "title_en": "AI seed startups are commanding significantly higher valuations in 2026",
-      "title_zh": "AI 种子轮估值大幅走高：2026 年投资人只看 AI，$10M 融资普遍对应 $40M+ 估值",
-      "summary_en": "TechCrunch: AI seed startups in 2026 are routinely raising $10M rounds at $40–45M post-money valuations — up from $5M at $25M just two years ago. Investors at YC W26 Demo Day showed near-exclusive appetite for AI companies, reflecting intense competition for early-stage AI deals.",
-      "summary_zh": "TechCrunch：2026 年 AI 种子轮普遍以 1000 万美元融资对应 4000–4500 万美元估值收场，比两年前翻了近一倍。YC W26 演示日上，投资人几乎只关注 AI 公司，早期 AI 创业赛道竞争白热化。",
-      "tags": [
-        "融资",
-        "AI创业",
-        "估值",
-        "YC",
-        "早期投资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
-      "published_at": "2026-03-31T21:00:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
-    },
-    {
-      "id": "aae866a3",
-      "lang": "en",
-      "title_en": "Yupp AI shuts down less than a year after launch, despite $33M from a16z crypto",
-      "title_zh": "AI 模型比价平台 Yupp 上线不足一年宣布关闭，此前已从 a16z 获融资 3300 万美元",
-      "summary_en": "TechCrunch: Yupp, a crowdsourced AI model comparison platform that let users test 800+ AI models for free, is shutting down less than a year after launch despite raising $33M from a16z crypto. Co-founders cited market challenges in sustaining the model as a cautionary tale for free-tier AI services.",
-      "summary_zh": "TechCrunch：AI 模型比较平台 Yupp 宣布关闭，上线不足一年，此前曾获 a16z 加密部门 3300 万美元融资。该平台允许用户免费测试逾 800 款 AI 模型，最终因商业模式难以为继而停止运营。",
-      "tags": [
-        "AI创业",
-        "融资",
-        "关闭",
-        "AI平台",
-        "a16z"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-      "published_at": "2026-03-31T20:01:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
-    },
-    {
-      "id": "cfed1ada",
-      "lang": "en",
-      "title_en": "Samsung Galaxy S26's AI photo app can 'sloppify' your memories",
-      "title_zh": "三星 Galaxy S26 AI 相册应用可将照片「低质化」处理",
-      "summary_en": "The Verge: Samsung's new Galaxy S26 features a controversial AI photo editing tool that critics say 'sloppifies' memories by over-processing images with generative AI effects. The feature highlights growing debate over AI-generated alterations to personal photography and the ethics of default AI edits.",
-      "summary_zh": "The Verge：三星新款 Galaxy S26 搭载了一项颇受争议的 AI 照片编辑功能，批评者认为该功能通过生成式 AI 过度处理图片，导致珍贵记忆「低质化」。这一功能再次引发关于 AI 默认编辑个人照片的伦理争论。",
-      "tags": [
-        "AI图像",
-        "三星",
-        "生成式AI",
-        "手机"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
-      "published_at": "2026-03-31T18:15:00Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "abf2e66f",
-      "lang": "en",
-      "title_en": "Amazon Alexa+ adds conversational food ordering via Uber Eats and Grubhub",
-      "title_zh": "亚马逊 Alexa+ 新增对话式点餐功能，支持 Uber Eats 和 Grubhub 外卖服务",
-      "summary_en": "TechCrunch: Amazon's Alexa+ AI assistant now supports conversational food ordering through Uber Eats and Grubhub, allowing users to place orders naturally as if talking to a waiter — part of Amazon's broader strategy to make Alexa+ a practical AI agent for everyday tasks.",
-      "summary_zh": "TechCrunch：亚马逊 Alexa+ AI 助手新增对话式点餐功能，支持通过 Uber Eats 和 Grubhub 下单，用户可以像与服务员对话一样自然地完成外卖订购，是亚马逊将 Alexa+ 打造为日常 AI 代理助手战略的重要一步。",
-      "tags": [
-        "Alexa",
-        "AI助手",
-        "亚马逊",
-        "AI代理",
-        "智能家居"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-      "published_at": "2026-03-31T17:41:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
-    },
-    {
-      "id": "cfd1d788",
-      "lang": "en",
-      "title_en": "Uber and WeRide expand driverless robotaxi service in Dubai",
-      "title_zh": "Uber 与文远知行扩大迪拜无人驾驶出租车运营，可通过 Uber App 直接叫车",
-      "summary_en": "TechCrunch: Uber and Chinese AV company WeRide have launched driverless robotaxi operations in Dubai's commercial districts, bookable through the Uber app. The expansion marks a key milestone for both companies in the Middle East market and advances WeRide's international autonomous driving deployment.",
-      "summary_zh": "TechCrunch：Uber 与中国自动驾驶公司文远知行在迪拜商业区正式推出无人驾驶出租车服务，用户可直接通过 Uber App 叫车。此次扩张是双方在中东市场的重要里程碑，也推进了文远知行国际化自动驾驶部署进程。",
-      "tags": [
-        "自动驾驶",
-        "Robotaxi",
-        "Uber",
-        "文远知行",
-        "中东"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/",
-      "published_at": "2026-03-31T16:26:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
     }
   ]
 }

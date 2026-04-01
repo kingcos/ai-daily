@@ -1,7 +1,75 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T09:08:00Z",
+  "generated_at": "2026-04-01T15:00:00Z",
   "items": [
+    {
+      "id": "671e066a",
+      "lang": "en",
+      "title_en": "AI can push your Stream Deck buttons for you",
+      "title_zh": "AI 可为你自动触发 Stream Deck 按钮",
+      "summary_en": "The Verge: Elgato's Stream Deck 7.4 software update introduces MCP (Model Context Protocol) support, enabling AI assistants to discover and activate Stream Deck actions on behalf of users. The update bridges AI agent workflows directly with physical shortcut hardware, opening new automation possibilities.",
+      "summary_zh": "The Verge：Elgato 发布 Stream Deck 7.4 软件更新，引入 MCP（模型上下文协议）支持，允许 AI 助手自动识别并触发 Stream Deck 操作，将 AI 智能体工作流与物理快捷键硬件直接打通，拓展了自动化使用场景。",
+      "tags": [
+        "工具与开发",
+        "AI 应用"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "published_at": "2026-04-01T12:38:58Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "575f1907",
+      "lang": "zh",
+      "title_zh": "为啥武汉无人车也呆了一次",
+      "summary_zh": "量子位：3月31日晚，武汉萝卜快跑无人驾驶车在市区停摆，乘客安全疏散，无人员伤亡。据知情人士透露，停摆系车辆自检到潜在风险后主动触发的安全策略，而非系统故障。文章深入分析了自动驾驶系统的安全逻辑，并与 Waymo 此前停摆事件作对比，探讨安全停车机制的必要性与公众认知差距。",
+      "tags": [
+        "自动驾驶",
+        "安全"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394554.html",
+      "published_at": "2026-04-01T12:06:03Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "70b4c06e",
+      "lang": "en",
+      "title_en": "Baidu's robotaxis froze in traffic, creating chaos",
+      "title_zh": "百度 Apollo 无人车集体停摆，引发交通混乱",
+      "summary_en": "The Verge: Baidu Apollo Go robotaxis froze in traffic in Wuhan, China, forcing passengers to exit stranded vehicles and creating significant traffic disruption. Authorities and Baidu staff responded quickly; no injuries were reported. The incident echoes a similar Waymo fleet-wide stoppage and raises questions about autonomous vehicle safety protocols.",
+      "summary_zh": "The Verge：百度旗下 Apollo Go 无人驾驶出租车在武汉市区集体停摆，乘客被迫步行离车，交通一度受阻。交管部门与百度工作人员迅速处置，无人员伤亡。此事件与数月前 Waymo 停摆事件高度相似，引发外界对自动驾驶安全机制的广泛讨论。",
+      "tags": [
+        "自动驾驶",
+        "安全"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "published_at": "2026-04-01T10:39:52Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "10c544ee",
+      "lang": "zh",
+      "title_zh": "国内最强生图模型Wan2.7-Image来了",
+      "summary_zh": "量子位：Wan 团队发布 Wan2.7-Image，具备文生图、图生组图、图像指令编辑和交互式编辑全链路能力。人类偏好盲测中文生图能力超越 GPT-Image1.5 及国内主流模型，文本渲染与照片级成像指标接近顶尖水准，并强化了虚拟形象定制功能，支持骨相、眼眸到五官全方位捏脸。",
+      "tags": [
+        "图像生成",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394530.html",
+      "published_at": "2026-04-01T09:34:25Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "8b20fd9e",
       "lang": "en",
@@ -104,6 +172,22 @@
       "published_at": "2026-04-01T01:42:59Z",
       "collected_at": "2026-04-01T09:08:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "2ea0207a",
+      "lang": "zh",
+      "title_zh": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
+      "summary_zh": "量子位：OpenAI 完成 1220 亿美元融资，投后估值达 8520 亿美元，创下科技史上最大单笔融资纪录。亚马逊出资 500 亿、英伟达与软银各投 300 亿，微软也参与本轮。OpenAI 还首次通过银行渠道向个人投资者开放，筹得逾 30 亿美元。市场对其 IPO 预期进一步升温。",
+      "tags": [
+        "融资",
+        "OpenAI"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394169.html",
+      "published_at": "2026-04-01T00:56:13Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 5,
       "merged_sources": []
     },
     {
