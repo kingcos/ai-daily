@@ -1,7 +1,110 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T03:10:00Z",
+  "generated_at": "2026-04-02T09:12:15Z",
   "items": [
+    {
+      "id": "69f7869c",
+      "lang": "en",
+      "title_en": "Should AI have the right to say 'No' to its owner?",
+      "title_zh": "AI是否有权对主人说不？",
+      "summary_en": "Jang-woo Kim (via Hacker News): A research repository presenting design notes on execution boundaries and responsibility structures for AI systems interacting with the physical world. The work proposes frameworks for when AI agents operating in consequential real-world environments should be permitted to refuse instructions, and how to structure accountability across human and AI decision boundaries.",
+      "summary_zh": "Jang-woo Kim（Hacker News）：一个探讨 AI 系统与物理世界交互时执行边界与责任结构设计的研究库。该工作为 AI 智能体在高风险真实场景中拒绝执行指令提供理论框架，并探讨如何在人机决策边界间分配责任。",
+      "tags": [
+        "研究论文",
+        "安全对齐"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/Jang-woo-AnnaSoft/execution-boundaries",
+      "published_at": "2026-04-02T08:21:35Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b733f7d9",
+      "lang": "en",
+      "title_en": "Qwen3.6-Plus: Towards Real World Agents",
+      "title_zh": "Qwen3.6-Plus：面向真实世界的智能体",
+      "summary_en": "Alibaba Qwen Team: Alibaba has released Qwen3.6-Plus, a new large language model optimized for real-world agentic tasks. The model achieves top performance on SWE-bench coding benchmarks and Claw-Eval agent evaluations, surpassing models with 2-3x more parameters. Input pricing is set at 2 RMB per million tokens. Qwen3.6-Plus supports multi-file code generation, automated test iteration, and complex enterprise workflow decomposition.",
+      "summary_zh": "阿里巴巴 Qwen 团队：阿里巴巴发布 Qwen3.6-Plus，专为真实世界智能体任务优化。该模型在 SWE-bench 编程评测和 Claw-Eval 智能体评测中达到最优水平，超越参数量2-3倍的竞争模型。输入价格为每百万 Token 2元人民币，支持多文件代码生成、自动测试迭代及复杂企业工作流分解。",
+      "tags": [
+        "产品发布",
+        "Agent",
+        "编程"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://qwen.ai/blog?id=qwen3.6",
+      "published_at": "2026-04-02T06:17:21Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6c3cca83",
+      "lang": "en",
+      "title_en": "r/programming bans all discussion of LLM programming",
+      "title_zh": "r/programming封禁所有LLM编程讨论",
+      "summary_en": "r/programming moderators: The r/programming subreddit has announced a temporary ban on all LLM-related programming discussion, citing low-quality content and discussion quality degradation. The ban affects posts and comments related to using LLMs as coding assistants or discussing AI-generated code.",
+      "summary_zh": "r/programming 版主：Reddit 编程社区 r/programming 宣布临时封禁所有与 LLM 相关的编程讨论，理由是内容质量持续下降。该禁令涵盖使用 LLM 作为编程助手及讨论 AI 生成代码的帖子和评论。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+      "published_at": "2026-04-02T05:33:20Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8f804723",
+      "lang": "zh",
+      "title_zh": "悟空率先接入Qwen3.6-Plus国产最强编程模型",
+      "summary_zh": "阿里巴巴：阿里巴巴正式发布 Qwen3.6-Plus，企业级 AI 应用悟空率先接入。Qwen3.6-Plus 在 SWE-bench 系列评测和 Claw-Eval 等智能体任务中，编程能力超越同等参数量 GLM-5、Kimi-K2.5 等模型，接近 Claude 系列。模型输入每百万 Token 低至 2 元，支持跨文件代码编写、自主测试迭代，适用于企业多步骤复杂工作流。",
+      "tags": [
+        "产品发布",
+        "编程",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395155.html",
+      "published_at": "2026-04-02T04:00:00Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "397e3585",
+      "lang": "zh",
+      "title_zh": "优必选人形机器人全球第一，花旗上调目标价",
+      "summary_zh": "优必选：花旗将优必选目标价由155港元上调至190港元，重申买入评级。优必选管理层将2026年 WalkerS 系列出货指引从2000-3000台大幅上调至5000台，目标毛利率43%-45%。2025年公司总营收达20.01亿元，同比增长53.3%；全尺寸具身智能人形机器人收入8.2亿元，同比增长2203.7%，销量、收入、均价三项指标全球第一。",
+      "tags": [
+        "融资",
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395151.html",
+      "published_at": "2026-04-02T04:00:00Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "94e8ecde",
+      "lang": "zh",
+      "title_zh": "SpaceX启动IPO：史上最大规模融资高达750亿美元",
+      "summary_zh": "SpaceX：马斯克旗下 SpaceX 启动 IPO 进程，上市融资额最高可达750亿美元，公司总估值或超1.75万亿美元，有望打破沙特阿美2019年294亿美元融资纪录。若上市成功，SpaceX 将成为美股市值第六大公司，仅次于英伟达、苹果、微软、谷歌和亚马逊。此消息紧随 OpenAI 完成1220亿美元融资之后披露。",
+      "tags": [
+        "融资",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395124.html",
+      "published_at": "2026-04-02T04:00:00Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "5e0598a9",
       "lang": "zh",
@@ -15,6 +118,39 @@
       "source_url": "https://www.qbitai.com/2026/04/394602.html",
       "published_at": "2026-04-02T03:00:00Z",
       "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4bcf8d97",
+      "lang": "zh",
+      "title_zh": "千问AI眼镜首次OTA升级上线AI办事能力",
+      "summary_zh": "阿里巴巴：千问AI眼镜发布后完成首次 OTA 升级，深度接入淘宝闪购和支付宝，支持话费充值、扫码骑车、停车缴费、语音点外卖等高频生活服务。新版本同时强化即时理解能力，支持拍题解题和实时跨语言翻译。此次升级标志 AI 眼镜从回答问题转向把事办成，成为大模型落地真实世界的物理接口。",
+      "tags": [
+        "产品发布",
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394620.html",
+      "published_at": "2026-04-02T03:00:00Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8dc244db",
+      "lang": "en",
+      "title_en": "The Claude Code Leak",
+      "title_zh": "Claude Code源码泄漏深度解析",
+      "summary_en": "build.ms (via Hacker News): An analysis of the accidental Claude Code source code leak after Anthropic shipped version 2.1.88 containing source maps with over 512,000 lines of TypeScript. The piece offers five observations about what the leak reveals regarding AI software development practices, noting the codebase reflects patterns typical of rapid AI-assisted development and examining what the internal architecture reveals about agentic system design.",
+      "summary_zh": "build.ms（Hacker News）：对 Anthropic Claude Code 2.1.88 版本意外泄漏超过51.2万行 TypeScript 源码事件的深度分析。作者提出五项观察，指出代码库呈现 AI 辅助快速开发的典型特征，并解读内部架构所揭示的智能体系统设计思路。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+      "published_at": "2026-04-02T02:26:05Z",
+      "collected_at": "2026-04-02T09:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
@@ -35,6 +171,22 @@
       "merged_sources": []
     },
     {
+      "id": "d5fe455b",
+      "lang": "zh",
+      "title_zh": "豆包大模型日均Token突破120万亿，Seedance 2.0开放公测",
+      "summary_zh": "火山引擎：火山引擎宣布 Seedance 2.0 API 面向企业用户开放公测，具备版权与肖像安全保障机制。截至2026年3月，豆包大模型日均 Token 使用量突破120万亿，近三个月翻倍，较2024年5月发布时增长1000倍。火山引擎累计 Token 使用量超过1万亿的企业已从100家增至140家。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394616.html",
+      "published_at": "2026-04-02T02:00:00Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
       "id": "180d8e0f",
       "lang": "en",
       "title_en": "The AI Marketing BS Index",
@@ -49,6 +201,22 @@
       "source_url": "https://bastian.rieck.me/blog/2026/bs/",
       "published_at": "2026-04-02T01:35:12Z",
       "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "88ede095",
+      "lang": "zh",
+      "title_zh": "开源路由插件ClawXRouter：Agent云端本地协同成本降58%",
+      "summary_zh": "清华THUNLP/中国人民大学/面壁智能：清华大学 THUNLP 实验室、中国人民大学、AI9Stars、面壁智能与 OpenBMB 联合发布开源端云协同 AI 智能体路由插件 ClawXRouter。该插件在本地模型与云端 API 之间智能调度：简单任务本地运行、敏感数据本地脱敏、复杂任务交由云端，实验数据显示综合成本降低58%，同时保护数据隐私。",
+      "tags": [
+        "开源",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394606.html",
+      "published_at": "2026-04-02T01:00:00Z",
+      "collected_at": "2026-04-02T09:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
