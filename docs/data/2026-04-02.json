@@ -1,7 +1,148 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T00:10:00Z",
+  "generated_at": "2026-04-02T03:10:00Z",
   "items": [
+    {
+      "id": "5e0598a9",
+      "lang": "zh",
+      "title_zh": "盯着还没注册公司的顶尖天才，DigClaw获天使轮融资",
+      "summary_zh": "量子位：具身智能投资机构 DigClaw 完成天使轮融资，由中科创星、中关村资本联合投资。该机构专注于挖掘具身智能领域尚未成立公司的顶尖研究人员，提前布局早期项目。",
+      "tags": [
+        "融资",
+        "具身智能"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394602.html",
+      "published_at": "2026-04-02T03:00:00Z",
+      "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "80b925b0",
+      "lang": "zh",
+      "title_zh": "Claude Code爆改Python版加冕最快10万星，且clone且珍惜",
+      "summary_zh": "量子位：一位开发者将 Claude Code 的 TypeScript 版本改写为 Python，项目在 GitHub 上以史上最快速度突破 10 万 star。该项目因绕过官方限制、功能相似且开源免费引发广泛关注，但随时面临被下架风险。",
+      "tags": [
+        "开发工具",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394570.html",
+      "published_at": "2026-04-02T02:00:00Z",
+      "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "180d8e0f",
+      "lang": "en",
+      "title_en": "The AI Marketing BS Index",
+      "title_zh": "AI营销废话指数",
+      "summary_en": "Bastian Rieck (via Hacker News): A researcher introduces the 'AI Marketing BS Index,' a humorous yet critical metric quantifying buzzword density and substance deficit in AI product marketing claims. The post scores real announcements, highlighting the industry tendency toward hyperbolic language over meaningful technical communication.",
+      "summary_zh": "Bastian Rieck（Hacker News）：一位研究者提出 AI 营销废话指数，用于量化 AI 产品营销中的流行词密度与内容空洞程度。该帖对真实发布公告进行打分，揭示行业在夸大宣传语言与有价值技术沟通之间的失衡问题。",
+      "tags": [
+        "行业动态",
+        "观点"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://bastian.rieck.me/blog/2026/bs/",
+      "published_at": "2026-04-02T01:35:12Z",
+      "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ee451276",
+      "lang": "en",
+      "title_en": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "title_zh": "实时仪表盘用于监控 Claude Code 智能体团队",
+      "summary_en": "simple10 (via Hacker News): An open-source real-time observability dashboard for teams running multiple Claude Code agents simultaneously. The tool provides live visibility into agent status, task queues, and code outputs, addressing the growing need for multi-agent orchestration tooling.",
+      "summary_zh": "simple10（Hacker News）：一款开源实时可观测仪表盘，适用于同时运行多个 Claude Code 智能体的团队。该工具提供智能体状态、任务队列和代码输出的实时视图，回应了多智能体编排工具日益增长的需求。",
+      "tags": [
+        "开发工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/simple10/agents-observe",
+      "published_at": "2026-04-02T00:04:28Z",
+      "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "09de325f",
+      "lang": "en",
+      "title_en": "CUDA Tile Programming Now Available for BASIC",
+      "title_zh": "CUDA Tile编程支持BASIC语言",
+      "summary_en": "NVIDIA: NVIDIA has announced that CUDA Tile programming is now available for the BASIC programming language, expanding GPU programming accessibility to developers using BASIC. The feature enables GPU-accelerated computation through familiar BASIC syntax.",
+      "summary_zh": "NVIDIA：NVIDIA 宣布 CUDA Tile 编程现已支持 BASIC 编程语言，将 GPU 编程能力扩展至 BASIC 开发者群体，使其能够通过熟悉的 BASIC 语法实现 GPU 加速计算。",
+      "tags": [
+        "工具与基础设施",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
+      "published_at": "2026-04-01T16:19:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "671e066a",
+      "lang": "en",
+      "title_en": "AI can push your Stream Deck buttons for you",
+      "title_zh": "AI自动操控Stream Deck按键",
+      "summary_en": "Elgato: Elgato has released an update to Stream Deck that integrates AI agent capabilities via MCP (Model Context Protocol), allowing AI agents to programmatically trigger Stream Deck actions and button presses without manual user input.",
+      "summary_zh": "Elgato：Elgato 发布 Stream Deck 更新，通过 MCP（Model Context Protocol）集成 AI 智能体能力，允许 AI 代理自动触发 Stream Deck 按钮操作，无需用户手动输入。",
+      "tags": [
+        "产品发布",
+        "Agent",
+        "工具与基础设施"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "published_at": "2026-04-01T12:38:58Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "70b4c06e",
+      "lang": "en",
+      "title_en": "Baidu's robotaxis froze in traffic, creating chaos",
+      "title_zh": "百度自动驾驶车队集体停滞引发混乱",
+      "summary_en": "Baidu: Multiple Baidu Apollo robotaxis simultaneously froze in traffic in Wuhan, China, blocking intersections and creating significant traffic chaos. The incident highlights ongoing challenges for autonomous vehicles in complex urban traffic scenarios.",
+      "summary_zh": "百度：中国武汉多辆百度 Apollo 自动驾驶出租车同时在交通路口停滞，阻塞道路并造成严重交通混乱，暴露了自动驾驶车辆在复杂城市场景下的系统性挑战。",
+      "tags": [
+        "行业动态",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "published_at": "2026-04-01T10:39:52Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "62f2b4c2",
+      "lang": "en",
+      "title_en": "Claude Code Unpacked: A visual guide",
+      "title_zh": "Claude Code源码可视化解析",
+      "summary_en": "Community: A visual guide and walkthrough of the Claude Code source code has been published at ccunpacked.dev, providing developers with a structured breakdown of Anthropic's Claude Code tool following recent source code exposure.",
+      "summary_zh": "社区：ccunpacked.dev 发布了 Claude Code 源码的可视化解析指南，为开发者提供了对 Anthropic Claude Code 工具的结构化拆解，内容基于近期流出的源代码。",
+      "tags": [
+        "开源",
+        "工具与基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ccunpacked.dev/",
+      "published_at": "2026-04-01T05:15:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "2ea0207a",
       "lang": "zh",
@@ -19,24 +160,6 @@
       "merged_sources": [
         "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
       ]
-    },
-    {
-      "id": "6d9d2ac5",
-      "lang": "en",
-      "title_en": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
-      "title_zh": "OpenAI完成1220亿美元融资破纪录",
-      "summary_en": "OpenAI: OpenAI has closed a record-breaking $122 billion funding round, up from the previously announced $110 billion figure. The round represents the largest private funding round in history. The financing comes as anticipation builds for a potential IPO.",
-      "summary_zh": "OpenAI：OpenAI 完成了 1220 亿美元的融资，较此前披露的 1100 亿美元进一步上调，创下史上最大单笔私募融资纪录。此轮融资是在 IPO 预期升温背景下完成的。",
-      "tags": [
-        "融资",
-        "行业动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 5,
-      "merged_sources": []
     },
     {
       "id": "f0864a12",
@@ -135,61 +258,6 @@
       "merged_sources": []
     },
     {
-      "id": "671e066a",
-      "lang": "en",
-      "title_en": "AI can push your Stream Deck buttons for you",
-      "title_zh": "AI自动操控Stream Deck按键",
-      "summary_en": "Elgato: Elgato has released an update to Stream Deck that integrates AI agent capabilities via MCP (Model Context Protocol), allowing AI agents to programmatically trigger Stream Deck actions and button presses without manual user input.",
-      "summary_zh": "Elgato：Elgato 发布 Stream Deck 更新，通过 MCP（Model Context Protocol）集成 AI 智能体能力，允许 AI 代理自动触发 Stream Deck 按钮操作，无需用户手动输入。",
-      "tags": [
-        "产品发布",
-        "Agent",
-        "工具与基础设施"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "published_at": "2026-04-01T12:38:58Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "70b4c06e",
-      "lang": "en",
-      "title_en": "Baidu's robotaxis froze in traffic, creating chaos",
-      "title_zh": "百度自动驾驶车队集体停滞引发混乱",
-      "summary_en": "Baidu: Multiple Baidu Apollo robotaxis simultaneously froze in traffic in Wuhan, China, blocking intersections and creating significant traffic chaos. The incident highlights ongoing challenges for autonomous vehicles in complex urban traffic scenarios.",
-      "summary_zh": "百度：中国武汉多辆百度 Apollo 自动驾驶出租车同时在交通路口停滞，阻塞道路并造成严重交通混乱，暴露了自动驾驶车辆在复杂城市场景下的系统性挑战。",
-      "tags": [
-        "行业动态",
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-      "published_at": "2026-04-01T10:39:52Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "62f2b4c2",
-      "lang": "en",
-      "title_en": "Claude Code Unpacked: A visual guide",
-      "title_zh": "Claude Code源码可视化解析",
-      "summary_en": "Community: A visual guide and walkthrough of the Claude Code source code has been published at ccunpacked.dev, providing developers with a structured breakdown of Anthropic's Claude Code tool following recent source code exposure.",
-      "summary_zh": "社区：ccunpacked.dev 发布了 Claude Code 源码的可视化解析指南，为开发者提供了对 Anthropic Claude Code 工具的结构化拆解，内容基于近期流出的源代码。",
-      "tags": [
-        "开源",
-        "工具与基础设施"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://ccunpacked.dev/",
-      "published_at": "2026-04-01T05:15:00Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
       "id": "ff153353",
       "lang": "en",
       "title_en": "1-Bit Bonsai: The First Commercially Viable 1-Bit LLMs",
@@ -208,21 +276,21 @@
       "merged_sources": []
     },
     {
-      "id": "09de325f",
+      "id": "6d9d2ac5",
       "lang": "en",
-      "title_en": "CUDA Tile Programming Now Available for BASIC",
-      "title_zh": "CUDA Tile编程支持BASIC语言",
-      "summary_en": "NVIDIA: NVIDIA has announced that CUDA Tile programming is now available for the BASIC programming language, expanding GPU programming accessibility to developers using BASIC. The feature enables GPU-accelerated computation through familiar BASIC syntax.",
-      "summary_zh": "NVIDIA：NVIDIA 宣布 CUDA Tile 编程现已支持 BASIC 编程语言，将 GPU 编程能力扩展至 BASIC 开发者群体，使其能够通过熟悉的 BASIC 语法实现 GPU 加速计算。",
+      "title_en": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
+      "title_zh": "OpenAI完成1220亿美元融资破纪录",
+      "summary_en": "OpenAI: OpenAI has closed a record-breaking $122 billion funding round, up from the previously announced $110 billion figure. The round represents the largest private funding round in history. The financing comes as anticipation builds for a potential IPO.",
+      "summary_zh": "OpenAI：OpenAI 完成了 1220 亿美元的融资，较此前披露的 1100 亿美元进一步上调，创下史上最大单笔私募融资纪录。此轮融资是在 IPO 预期升温背景下完成的。",
       "tags": [
-        "工具与基础设施",
-        "开源"
+        "融资",
+        "行业动态"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
-      "published_at": "2026-04-01T16:19:00Z",
+      "source_name": "The Verge",
+      "source_url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "published_at": "2026-03-31T00:00:00Z",
       "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 3,
+      "importance": 5,
       "merged_sources": []
     }
   ]
