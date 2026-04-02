@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-01",
-  "updated_at": "2026-04-01T15:00:00Z",
+  "latest_date": "2026-04-02",
+  "updated_at": "2026-04-02T00:10:00Z",
   "dates": [
+    "2026-04-02",
     "2026-04-01",
     "2026-03-31",
     "2026-03-30",
@@ -30,42 +31,159 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 346,
+  "total_items": 13,
   "page": 1,
   "page_size": 20,
-  "total_pages": 18,
+  "total_pages": 1,
   "items": [
     {
-      "id": "671e066a",
-      "lang": "en",
-      "title_en": "AI can push your Stream Deck buttons for you",
-      "title_zh": "AI 可为你自动触发 Stream Deck 按钮",
-      "summary_en": "The Verge: Elgato's Stream Deck 7.4 software update introduces MCP (Model Context Protocol) support, enabling AI assistants to discover and activate Stream Deck actions on behalf of users. The update bridges AI agent workflows directly with physical shortcut hardware, opening new automation possibilities.",
-      "summary_zh": "The Verge：Elgato 发布 Stream Deck 7.4 软件更新，引入 MCP（模型上下文协议）支持，允许 AI 助手自动识别并触发 Stream Deck 操作，将 AI 智能体工作流与物理快捷键硬件直接打通，拓展了自动化使用场景。",
+      "id": "2ea0207a",
+      "lang": "zh",
+      "title_zh": "OpenAI创下史上最大单笔融资纪录1220亿美元",
+      "summary_zh": "OpenAI：OpenAI 完成 1220 亿美元融资，创下史上最大单笔私募融资纪录，较此前披露的 1100 亿美元上调。本轮融资进一步巩固公司估值，并为 IPO 上市准备积累资本。",
       "tags": [
-        "工具与开发",
-        "AI 应用"
+        "融资",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394169.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+      ]
+    },
+    {
+      "id": "6d9d2ac5",
+      "lang": "en",
+      "title_en": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
+      "title_zh": "OpenAI完成1220亿美元融资破纪录",
+      "summary_en": "OpenAI: OpenAI has closed a record-breaking $122 billion funding round, up from the previously announced $110 billion figure. The round represents the largest private funding round in history. The financing comes as anticipation builds for a potential IPO.",
+      "summary_zh": "OpenAI：OpenAI 完成了 1220 亿美元的融资，较此前披露的 1100 亿美元进一步上调，创下史上最大单笔私募融资纪录。此轮融资是在 IPO 预期升温背景下完成的。",
+      "tags": [
+        "融资",
+        "行业动态"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "published_at": "2026-04-01T12:38:58Z",
-      "collected_at": "2026-04-01T15:00:00Z",
+      "source_url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "f0864a12",
+      "lang": "zh",
+      "title_zh": "Anthropic遭曝光：Claude Claw龙虾形象意外流出",
+      "summary_zh": "Anthropic：Anthropic 内部 AI 助手 Claude Claw 的龙虾形象意外通过源码泄漏曝光，Andrej Karpathy 随即在社交媒体评论称这就是 Claude Claw。此次泄漏源于 Claude Code 源码外泄事件，引发社区对 Anthropic 品牌形象设计的广泛讨论。",
+      "tags": [
+        "行业动态",
+        "安全对齐"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394516.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "16f4ade7",
+      "lang": "zh",
+      "title_zh": "Claude被指乱扣费：最高多收20倍token",
+      "summary_zh": "Anthropic：用户和开发者反映 Claude Code 存在严重的 token 超额计费问题，一句你好可消耗高达 13% 的配额，最高多收约 20 倍费用。Anthropic 已承认该计费异常，问题影响波及大量 Claude Code 用户，部分用户描述其接近不可用状态。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394177.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "10c544ee",
+      "lang": "zh",
+      "title_zh": "万象2.7-Image国内最强生图模型发布",
+      "summary_zh": "万象团队：国内文生图模型 Wan2.7-Image 正式发布，具备文生图、图生组图、图像指令编辑和交互式编辑等全链路能力，被称为国内当前最强生图模型。该模型支持多种图像生成与编辑工作流。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394530.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "34c071fb",
+      "lang": "zh",
+      "title_zh": "PixVerse V6发布：AI视频时空处理能力增强",
+      "summary_zh": "PixVerse：PixVerse V6 正式发布，AI 视频生成在空间和时间处理能力上大幅提升，新增延时拍摄、慢动作等效果支持。该版本在 Sora 停止公测后推出，定位接档 Sora 的 AI 视频生成工具。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394373.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
       "id": "575f1907",
       "lang": "zh",
-      "title_zh": "为啥武汉无人车也呆了一次",
-      "summary_zh": "量子位：3月31日晚，武汉萝卜快跑无人驾驶车在市区停摆，乘客安全疏散，无人员伤亡。据知情人士透露，停摆系车辆自检到潜在风险后主动触发的安全策略，而非系统故障。文章深入分析了自动驾驶系统的安全逻辑，并与 Waymo 此前停摆事件作对比，探讨安全停车机制的必要性与公众认知差距。",
+      "title_zh": "武汉百度无人车集体停滞事件分析",
+      "summary_zh": "百度Apollo：武汉多辆百度 Apollo 自动驾驶出租车出现集体停滞现象，在交通路口长时间无法通行，引发现场混乱。事件暴露出当前自动驾驶系统在复杂城市交通场景下的局限性，及公众对安全感的误解问题。",
       "tags": [
-        "自动驾驶",
-        "安全"
+        "行业动态",
+        "产品发布"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/04/394554.html",
-      "published_at": "2026-04-01T12:06:03Z",
-      "collected_at": "2026-04-01T15:00:00Z",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "18274640",
+      "lang": "zh",
+      "title_zh": "美图RoboNeo：AI帮你复刻爆款内容",
+      "summary_zh": "美图：美图旗下 RoboNeo 正式推出，用户通过语音或文字描述，AI 即可复刻热门创意内容，成为跨境内容创作的新工具。该产品融合图像生成与交互式编辑能力，定位内容创作者市场。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394547.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "671e066a",
+      "lang": "en",
+      "title_en": "AI can push your Stream Deck buttons for you",
+      "title_zh": "AI自动操控Stream Deck按键",
+      "summary_en": "Elgato: Elgato has released an update to Stream Deck that integrates AI agent capabilities via MCP (Model Context Protocol), allowing AI agents to programmatically trigger Stream Deck actions and button presses without manual user input.",
+      "summary_zh": "Elgato：Elgato 发布 Stream Deck 更新，通过 MCP（Model Context Protocol）集成 AI 智能体能力，允许 AI 代理自动触发 Stream Deck 按钮操作，无需用户手动输入。",
+      "tags": [
+        "产品发布",
+        "Agent",
+        "工具与基础设施"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "published_at": "2026-04-01T12:38:58Z",
+      "collected_at": "2026-04-02T00:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
@@ -73,333 +191,73 @@
       "id": "70b4c06e",
       "lang": "en",
       "title_en": "Baidu's robotaxis froze in traffic, creating chaos",
-      "title_zh": "百度 Apollo 无人车集体停摆，引发交通混乱",
-      "summary_en": "The Verge: Baidu Apollo Go robotaxis froze in traffic in Wuhan, China, forcing passengers to exit stranded vehicles and creating significant traffic disruption. Authorities and Baidu staff responded quickly; no injuries were reported. The incident echoes a similar Waymo fleet-wide stoppage and raises questions about autonomous vehicle safety protocols.",
-      "summary_zh": "The Verge：百度旗下 Apollo Go 无人驾驶出租车在武汉市区集体停摆，乘客被迫步行离车，交通一度受阻。交管部门与百度工作人员迅速处置，无人员伤亡。此事件与数月前 Waymo 停摆事件高度相似，引发外界对自动驾驶安全机制的广泛讨论。",
+      "title_zh": "百度自动驾驶车队集体停滞引发混乱",
+      "summary_en": "Baidu: Multiple Baidu Apollo robotaxis simultaneously froze in traffic in Wuhan, China, blocking intersections and creating significant traffic chaos. The incident highlights ongoing challenges for autonomous vehicles in complex urban traffic scenarios.",
+      "summary_zh": "百度：中国武汉多辆百度 Apollo 自动驾驶出租车同时在交通路口停滞，阻塞道路并造成严重交通混乱，暴露了自动驾驶车辆在复杂城市场景下的系统性挑战。",
       "tags": [
-        "自动驾驶",
-        "安全"
+        "行业动态",
+        "产品发布"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
       "published_at": "2026-04-01T10:39:52Z",
-      "collected_at": "2026-04-01T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "10c544ee",
-      "lang": "zh",
-      "title_zh": "国内最强生图模型Wan2.7-Image来了",
-      "summary_zh": "量子位：Wan 团队发布 Wan2.7-Image，具备文生图、图生组图、图像指令编辑和交互式编辑全链路能力。人类偏好盲测中文生图能力超越 GPT-Image1.5 及国内主流模型，文本渲染与照片级成像指标接近顶尖水准，并强化了虚拟形象定制功能，支持骨相、眼眸到五官全方位捏脸。",
-      "tags": [
-        "图像生成",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394530.html",
-      "published_at": "2026-04-01T09:34:25Z",
-      "collected_at": "2026-04-01T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "8b20fd9e",
-      "lang": "en",
-      "title_en": "Art schools are being torn apart by AI",
-      "title_zh": "AI 正在撕裂艺术学校",
-      "summary_en": "The Verge: Generative AI is creating deep divisions at art and design schools, threatening career prospects of graduates in creative fields. Students at CalArts and other institutions have staged protests against AI use in coursework, reflecting a growing cultural clash between traditional creative education and AI-generated work.",
-      "summary_zh": "The Verge：生成式 AI 正在艺术与设计院校中引发深刻分裂，创意专业毕业生就业前景受到严重威胁。CalArts 等高校学生发起抗议，反对在课程中使用 AI，折射出传统创意教育与 AI 生成内容之间日益激化的文化冲突。",
-      "tags": [
-        "AI伦理",
-        "AI社会影响"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
-      "published_at": "2026-04-01T08:19:52Z",
-      "collected_at": "2026-04-01T09:08:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "f0864a12",
-      "lang": "zh",
-      "title_zh": "Anthropic被逼急了！亲生龙虾意外曝光，Karpathy：这就是Claude Claw",
-      "summary_zh": "量子位：Anthropic 内部吉祥物龙虾形象意外曝光，知名 AI 研究者 Andrej Karpathy 评论称其正是 Claude Claw。此次曝光源于 Claude Code 源码泄露事件，进一步揭示了 Anthropic 内部品牌与产品规划细节。",
-      "tags": [
-        "Anthropic",
-        "Claude"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394516.html",
-      "published_at": "2026-04-01T07:00:00Z",
-      "collected_at": "2026-04-01T09:08:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b4fbd115",
+      "id": "62f2b4c2",
       "lang": "en",
       "title_en": "Claude Code Unpacked: A visual guide",
-      "title_zh": "Claude Code 深度拆解：图解指南",
-      "summary_en": "Hacker News: A community-created visual guide unpacking Claude Code's architecture, internals, and usage patterns. The resource gained significant traction on Hacker News, reflecting strong developer interest in understanding and extending Anthropic's AI coding agent.",
-      "summary_zh": "Hacker News：一份由社区创作的 Claude Code 可视化拆解指南，深入解析其架构、内部机制与使用方式，在 Hacker News 获得广泛关注，反映出开发者对 Anthropic AI 编程智能体的高度兴趣。",
+      "title_zh": "Claude Code源码可视化解析",
+      "summary_en": "Community: A visual guide and walkthrough of the Claude Code source code has been published at ccunpacked.dev, providing developers with a structured breakdown of Anthropic's Claude Code tool following recent source code exposure.",
+      "summary_zh": "社区：ccunpacked.dev 发布了 Claude Code 源码的可视化解析指南，为开发者提供了对 Anthropic Claude Code 工具的结构化拆解，内容基于近期流出的源代码。",
       "tags": [
-        "开发工具",
-        "Claude",
-        "AI编程"
+        "开源",
+        "工具与基础设施"
       ],
       "source_name": "Hacker News",
       "source_url": "https://ccunpacked.dev/",
-      "published_at": "2026-04-01T06:35:37Z",
-      "collected_at": "2026-04-01T09:08:00Z",
+      "published_at": "2026-04-01T05:15:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "16f4ade7",
-      "lang": "zh",
-      "title_zh": "Claude终于承认乱扣费！最高多收你20倍，一句「你好」干掉13%额度",
-      "summary_zh": "量子位：Anthropic 正式承认 Claude 存在 token 计费异常问题，部分用户反映被多收高达 20 倍费用，仅发送简单问候即消耗大量额度。该问题引发用户强烈不满，Anthropic 表示已在排查修复中。",
-      "tags": [
-        "AI安全",
-        "Anthropic",
-        "产品问题"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394177.html",
-      "published_at": "2026-04-01T03:00:00Z",
-      "collected_at": "2026-04-01T09:08:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "34c071fb",
-      "lang": "zh",
-      "title_zh": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
-      "summary_zh": "量子位：PixVerse 发布 V6 视频生成模型，在 AI 视频的空间与时间处理能力上实现大幅跃升，支持延时拍摄、慢动作等专业摄影效果，正值 Sora 退出市场之际，填补了 AI 视频生成赛道的空缺。",
-      "tags": [
-        "产品发布",
-        "AI视频"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394373.html",
-      "published_at": "2026-04-01T02:00:00Z",
-      "collected_at": "2026-04-01T09:08:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "49e8ac67",
+      "id": "ff153353",
       "lang": "en",
-      "title_en": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-      "title_zh": "Mercor 遭网络攻击，源于开源项目 LiteLLM 供应链入侵",
-      "summary_en": "TechCrunch: AI recruiting startup Mercor confirmed it was one of thousands of companies affected by a supply chain attack on the open-source LiteLLM project, carried out by a group called TeamPCP. Extortion group Lapsus$ also claimed to have targeted Mercor and accessed its data. Mercor, valued at $10B, works with OpenAI and Anthropic to train AI models.",
-      "summary_zh": "TechCrunch：AI 招募初创公司 Mercor 确认遭受供应链攻击，攻击源头为开源项目 LiteLLM 被黑客组织 TeamPCP 入侵。勒索组织 Lapsus$ 亦声称已访问 Mercor 数据。Mercor 估值达 100 亿美元，为 OpenAI、Anthropic 等公司提供 AI 模型训练服务。",
+      "title_en": "1-Bit Bonsai: The First Commercially Viable 1-Bit LLMs",
+      "title_zh": "1-Bit Bonsai：首个商业可用1比特LLM",
+      "summary_en": "PrismML: PrismML has released 1-Bit Bonsai, described as the first commercially viable 1-bit large language models. The models leverage extreme quantization to achieve drastically reduced memory and compute requirements while maintaining usable performance.",
+      "summary_zh": "PrismML：PrismML 发布 1-Bit Bonsai，称其为首个商业可用的 1 比特大语言模型。该模型采用极端量化技术，在大幅降低内存和计算需求的同时保持可用性能。",
       "tags": [
-        "AI安全",
-        "供应链攻击"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "published_at": "2026-04-01T01:42:59Z",
-      "collected_at": "2026-04-01T09:08:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2ea0207a",
-      "lang": "zh",
-      "title_zh": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
-      "summary_zh": "量子位：OpenAI 完成 1220 亿美元融资，投后估值达 8520 亿美元，创下科技史上最大单笔融资纪录。亚马逊出资 500 亿、英伟达与软银各投 300 亿，微软也参与本轮。OpenAI 还首次通过银行渠道向个人投资者开放，筹得逾 30 亿美元。市场对其 IPO 预期进一步升温。",
-      "tags": [
-        "融资",
-        "OpenAI"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394169.html",
-      "published_at": "2026-04-01T00:56:13Z",
-      "collected_at": "2026-04-01T15:00:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "4c19eec4",
-      "lang": "en",
-      "title_en": "Claude Code leaked features and hidden commands revealed",
-      "title_zh": "Claude Code 泄露功能与隐藏命令曝光",
-      "summary_en": "Hacker News: A dedicated site (ccleaks.com) catalogued leaked features and undocumented commands discovered in Anthropic's Claude Code source code. Highlights include unreleased agentic capabilities, hidden debugging modes, and experimental multi-agent orchestration features not yet in the official product.",
-      "summary_zh": "Hacker News：一个专门网站（ccleaks.com）整理了从 Anthropic Claude Code 源码中发现的泄露功能与未公开命令，包括未发布的 Agent 能力、隐藏调试模式及实验性多智能体编排功能。",
-      "tags": [
-        "Claude",
-        "AI编码",
-        "产品泄露"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.ccleaks.com",
-      "published_at": "2026-04-01T00:08:00Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "be3002bd",
-      "lang": "en",
-      "title_en": "Show HN: PhAIL – Real-robot benchmark for evaluating AI models",
-      "title_zh": "PhAIL：用于评估 AI 模型的真实机器人基准测试平台",
-      "summary_en": "Hacker News: PhAIL is a new real-world robotics benchmark designed to evaluate AI models on physical tasks using actual hardware, not simulations. It aims to fill the gap between sim-based evaluations and real-world robot performance, helping researchers assess embodied AI more reliably.",
-      "summary_zh": "Hacker News：PhAIL 是一个面向真实机器人的 AI 模型基准测试平台，采用实体硬件而非仿真环境测试物理任务性能，旨在填补仿真评估与现实机器人表现之间的鸿沟，帮助研究者更可靠地评估具身 AI。",
-      "tags": [
-        "具身AI",
-        "机器人",
-        "AI评测",
+        "研究论文",
         "开源"
       ],
       "source_name": "Hacker News",
-      "source_url": "https://phail.ai",
-      "published_at": "2026-04-01T00:05:00Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "433b289a",
-      "lang": "en",
-      "title_en": "Anthropic is having a month",
-      "title_zh": "Anthropic 创历史最强月：多项重大突破接踵而至",
-      "summary_en": "TechCrunch: A roundup of Anthropic's extraordinary March 2026, covering the release of Claude Sonnet 4.6 and Opus 4.6, the Australia MOU on AI safety, the $100M Claude Partner Network, The Anthropic Institute launch, and growing enterprise momentum—cementing Anthropic as the industry's most active frontier lab this month.",
-      "summary_zh": "TechCrunch：回顾 Anthropic 在 2026 年 3 月的一系列重大动作：发布 Claude Sonnet 4.6 与 Opus 4.6、与澳大利亚签署 AI 安全备忘录、推出 1 亿美元 Claude 合作伙伴网络、成立 Anthropic Institute，企业侧势头强劲，巩固了其作为本月最活跃前沿实验室的地位。",
-      "tags": [
-        "Anthropic",
-        "Claude",
-        "AI安全",
-        "产品发布"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-      "published_at": "2026-03-31T23:58:26Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "0355fee7",
-      "lang": "en",
-      "title_en": "Salesforce announces AI-heavy makeover for Slack with 30 new features",
-      "title_zh": "Salesforce 宣布 Slack 大规模 AI 升级，带来 30 项新功能",
-      "summary_en": "TechCrunch: Salesforce unveiled a major AI-driven overhaul of Slack featuring 30 new capabilities, including AI-powered meeting summaries, workflow automation, and deeper Agentforce integration. The update positions Slack as a full-featured AI work hub rather than just a messaging tool.",
-      "summary_zh": "TechCrunch：Salesforce 宣布对 Slack 进行重大 AI 驱动升级，推出 30 项新功能，包括 AI 会议摘要、工作流自动化及更深入的 Agentforce 集成，旨在将 Slack 打造为全功能 AI 工作中枢。",
-      "tags": [
-        "Salesforce",
-        "Slack",
-        "AI工作流",
-        "企业AI"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-      "published_at": "2026-03-31T22:46:25Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2ce7d9de",
-      "lang": "en",
-      "title_en": "Claude Code leak exposes a Tamagotchi-style 'pet' and an always-on agent",
-      "title_zh": "Claude Code 源码泄露：揭示类似电子宠物的「pet」功能与常驻 Agent 模式",
-      "summary_en": "The Verge: A source code leak of Anthropic's Claude Code tool revealed unreleased features including a Tamagotchi-style interactive 'pet' companion and an always-on background agent mode. The leak, surfaced via a masked npm package, offers a rare look at Anthropic's roadmap for agentic coding assistants.",
-      "summary_zh": "The Verge：Anthropic Claude Code 源代码遭到泄露，曝光了多个未发布功能，包括类似电子宠物的交互式「pet」伴侣以及常驻后台运行的 Agent 模式。此次泄露通过一个被混淆的 npm 包曝光，罕见揭示了 Anthropic 在 Agent 编程助手领域的产品路线图。",
-      "tags": [
-        "Claude",
-        "AI编码",
-        "产品泄露",
-        "AI Agent"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-      "published_at": "2026-03-31T22:24:19Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "f5484e6d",
-      "lang": "en",
-      "title_en": "Robotaxi companies refuse to disclose how often AVs need remote operator help",
-      "title_zh": "自动驾驶公司拒绝披露无人车远程干预频率，参议员调查揭透明度问题",
-      "summary_en": "TechCrunch: Seven major AV companies — including Waymo, Tesla, and Zoox — refused to answer Senator Ed Markey's questions about how frequently their robotaxis require remote human assistance, raising safety transparency concerns as the industry pushes for broader public deployment.",
-      "summary_zh": "TechCrunch：包括 Waymo、Tesla 和 Zoox 在内的七家主要自动驾驶公司，拒绝回应参议员埃德·马基关于无人车需要远程人工干预频率的调查问题，引发业界对安全透明度的担忧，尤其是在各公司加速推进公众化部署的背景下。",
-      "tags": [
-        "自动驾驶",
-        "Robotaxi",
-        "安全",
-        "监管"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/",
-      "published_at": "2026-03-31T21:35:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
-    },
-    {
-      "id": "3f0b036e",
-      "lang": "en",
-      "title_en": "JSSE: Developer builds a JavaScript engine entirely with an AI coding agent",
-      "title_zh": "JSSE：开发者借助 AI 编程代理从零构建 JavaScript 引擎，展示 AI 自主软件开发能力",
-      "summary_en": "HN Community: A developer shared JSSE, a JavaScript engine built almost entirely by an AI coding agent without manual coding. The project demonstrates the growing capability of agentic AI to tackle complex, multi-component software engineering tasks autonomously.",
-      "summary_zh": "Hacker News：一位开发者分享了 JSSE 项目，这是一个几乎完全由 AI 编程代理自主构建的 JavaScript 引擎，无需人工手动编码。该项目展示了 AI 代理在复杂多组件软件工程任务上的自主能力。",
-      "tags": [
-        "AI代理",
-        "代码生成",
-        "软件工程",
-        "JavaScript",
-        "Agent编程"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html",
-      "published_at": "2026-03-31T21:21:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
-    },
-    {
-      "id": "3ed70def",
-      "lang": "en",
-      "title_en": "You can now use ChatGPT with Apple's CarPlay",
-      "title_zh": "ChatGPT 现已支持苹果 CarPlay，可在车载系统中使用",
-      "summary_en": "The Verge: OpenAI has expanded ChatGPT's integration to Apple's CarPlay, allowing drivers to access the AI assistant directly through their car's infotainment system. The feature enables hands-free conversational AI while driving, deepening the OpenAI–Apple partnership announced in 2025.",
-      "summary_zh": "The Verge：OpenAI 将 ChatGPT 接入苹果 CarPlay，驾驶者可直接通过车载娱乐系统使用 AI 助手。该功能支持免提对话式 AI 交互，进一步深化了 OpenAI 与苹果于 2025 年建立的合作关系。",
-      "tags": [
-        "ChatGPT",
-        "苹果",
-        "AI助手",
-        "汽车科技"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "published_at": "2026-03-31T21:03:18Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "95b2ef53",
-      "lang": "en",
-      "title_en": "PrismML launches Bonsai: First commercially viable 1-bit LLMs",
-      "title_zh": "PrismML 发布 Bonsai：首个商业可用的 1-bit 大语言模型，AI 推理成本有望大幅降低",
-      "summary_en": "PrismML: PrismML announced Bonsai, claimed to be the first commercially viable 1-bit large language models, enabling advanced AI to run efficiently on edge devices. 1-bit quantization dramatically reduces memory and compute requirements, potentially democratizing AI deployment on consumer hardware.",
-      "summary_zh": "PrismML：PrismML 发布 Bonsai，宣称为首批商业可用的 1-bit 大语言模型，可在端侧设备上高效运行高水平 AI 能力。1-bit 量化大幅降低内存和算力需求，有望推动 AI 在消费级硬件上的大规模普及。",
-      "tags": [
-        "LLM",
-        "1-bit量化",
-        "端侧AI",
-        "模型压缩",
-        "PrismML"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://prismml.com/news/bonsai-8b",
+      "source_url": "https://prismml.com/",
       "published_at": "2026-03-31T21:01:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 4
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "09de325f",
+      "lang": "en",
+      "title_en": "CUDA Tile Programming Now Available for BASIC",
+      "title_zh": "CUDA Tile编程支持BASIC语言",
+      "summary_en": "NVIDIA: NVIDIA has announced that CUDA Tile programming is now available for the BASIC programming language, expanding GPU programming accessibility to developers using BASIC. The feature enables GPU-accelerated computation through familiar BASIC syntax.",
+      "summary_zh": "NVIDIA：NVIDIA 宣布 CUDA Tile 编程现已支持 BASIC 编程语言，将 GPU 编程能力扩展至 BASIC 开发者群体，使其能够通过熟悉的 BASIC 语法实现 GPU 加速计算。",
+      "tags": [
+        "工具与基础设施",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
+      "published_at": "2026-04-01T16:19:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
     }
   ]
 }
