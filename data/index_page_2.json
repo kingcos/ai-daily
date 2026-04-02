@@ -1,7 +1,24 @@
 {
-  "latest_date": "2026-03-31",
-  "updated_at": "2026-03-31T15:15:00Z",
+  "latest_date": "2026-04-02",
+  "updated_at": "2026-04-02T15:10:00Z",
   "dates": [
+    "index_page_9",
+    "index_page_8",
+    "index_page_7",
+    "index_page_6",
+    "index_page_5",
+    "index_page_4",
+    "index_page_3",
+    "index_page_2",
+    "index_page_16",
+    "index_page_15",
+    "index_page_14",
+    "index_page_13",
+    "index_page_12",
+    "index_page_11",
+    "index_page_10",
+    "2026-04-02",
+    "2026-04-01",
     "2026-03-31",
     "2026-03-30",
     "2026-03-29",
@@ -29,348 +46,284 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 315,
+  "total_items": 36,
   "page": 2,
   "page_size": 20,
-  "total_pages": 16,
+  "total_pages": 2,
   "items": [
     {
-      "id": "7b0fd0ea",
-      "lang": "zh",
-      "title_zh": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
-      "summary_zh": "量子位：港股AI公司明源云旗下智能体业务收入同比暴涨68%，其核心策略是通过「关系图谱」将企业内部复杂协作关系结构化，让AI智能体能够在真实企业场景中高效运转，实现全链路自动化落地。",
+      "id": "180d8e0f",
+      "lang": "en",
+      "title_en": "The AI Marketing BS Index",
+      "title_zh": "AI营销废话指数",
+      "summary_en": "Bastian Rieck (via Hacker News): A researcher introduces the 'AI Marketing BS Index,' a humorous yet critical metric quantifying buzzword density and substance deficit in AI product marketing claims. The post scores real announcements, highlighting the industry tendency toward hyperbolic language over meaningful technical communication.",
+      "summary_zh": "Bastian Rieck（Hacker News）：一位研究者提出 AI 营销废话指数，用于量化 AI 产品营销中的流行词密度与内容空洞程度。该帖对真实发布公告进行打分，揭示行业在夸大宣传语言与有价值技术沟通之间的失衡问题。",
       "tags": [
-        "AI应用",
+        "行业动态",
+        "观点"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://bastian.rieck.me/blog/2026/bs/",
+      "published_at": "2026-04-02T01:35:12Z",
+      "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "88ede095",
+      "lang": "zh",
+      "title_zh": "开源路由插件ClawXRouter：Agent云端本地协同成本降58%",
+      "summary_zh": "清华THUNLP/中国人民大学/面壁智能：清华大学 THUNLP 实验室、中国人民大学、AI9Stars、面壁智能与 OpenBMB 联合发布开源端云协同 AI 智能体路由插件 ClawXRouter。该插件在本地模型与云端 API 之间智能调度：简单任务本地运行、敏感数据本地脱敏、复杂任务交由云端，实验数据显示综合成本降低58%，同时保护数据隐私。",
+      "tags": [
+        "开源",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394606.html",
+      "published_at": "2026-04-02T01:00:00Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ee451276",
+      "lang": "en",
+      "title_en": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "title_zh": "实时仪表盘用于监控 Claude Code 智能体团队",
+      "summary_en": "simple10 (via Hacker News): An open-source real-time observability dashboard for teams running multiple Claude Code agents simultaneously. The tool provides live visibility into agent status, task queues, and code outputs, addressing the growing need for multi-agent orchestration tooling.",
+      "summary_zh": "simple10（Hacker News）：一款开源实时可观测仪表盘，适用于同时运行多个 Claude Code 智能体的团队。该工具提供智能体状态、任务队列和代码输出的实时视图，回应了多智能体编排工具日益增长的需求。",
+      "tags": [
+        "开发工具",
         "智能体"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393984.html",
-      "published_at": "2026-03-31T02:00:00Z",
-      "collected_at": "2026-03-31T08:50:00Z",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/simple10/agents-observe",
+      "published_at": "2026-04-02T00:04:28Z",
+      "collected_at": "2026-04-02T03:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "d1b28473",
+      "id": "09de325f",
       "lang": "en",
-      "title_en": "Learn Claude Code by doing, not reading",
-      "title_zh": "通过实践学习Claude Code",
-      "summary_en": "Community: An interactive tutorial site teaches developers how to use Claude Code through hands-on exercises rather than documentation reading. The resource gained significant traction on Hacker News with 109 upvotes, reflecting strong community interest in practical AI coding assistant education.",
-      "summary_zh": "社区：交互式教程网站claude.nagdy.me通过动手实践而非文档阅读方式教授开发者使用Claude Code，在Hacker News获得109票关注，反映出开发者社区对AI编程助手实践教程的强烈需求。",
+      "title_en": "CUDA Tile Programming Now Available for BASIC",
+      "title_zh": "CUDA Tile编程支持BASIC语言",
+      "summary_en": "NVIDIA: NVIDIA has announced that CUDA Tile programming is now available for the BASIC programming language, expanding GPU programming accessibility to developers using BASIC. The feature enables GPU-accelerated computation through familiar BASIC syntax.",
+      "summary_zh": "NVIDIA：NVIDIA 宣布 CUDA Tile 编程现已支持 BASIC 编程语言，将 GPU 编程能力扩展至 BASIC 开发者群体，使其能够通过熟悉的 BASIC 语法实现 GPU 加速计算。",
       "tags": [
-        "编程",
-        "Agent"
+        "工具与基础设施",
+        "开源"
       ],
       "source_name": "Hacker News",
-      "source_url": "https://claude.nagdy.me/",
-      "published_at": "2026-03-31T01:19:43Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 2,
+      "source_url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
+      "published_at": "2026-04-01T16:19:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "f515d6ca",
+      "id": "671e066a",
       "lang": "en",
-      "title_en": "Agentic AI and the next intelligence explosion",
-      "title_zh": "Agent AI与下一次智能爆炸",
-      "summary_en": "Researchers: A preprint on arXiv argues that the AI singularity should not be conceived as a monolithic godlike mind, but as a plural, social, relational phenomenon. The paper highlights that frontier reasoning models like DeepSeek-R1 improve not by thinking longer but by simulating internal societies of thought as spontaneous cognitive debates. The authors propose that scaling intelligence requires shifting from dyadic alignment to managing collective human-AI agency, describing an era of human-AI centaurs.",
-      "summary_zh": "研究人员：arXiv预印本论文提出，AI奇点不应被理解为单一的神级智能，而是多元化的社会性现象。文章指出DeepSeek-R1等前沿推理模型通过模拟内部思想社会而非单纯更长思考来提升能力，并提出扩展智能需要从双边对齐转向管理集体人机协同，描述即将到来的人机半人马时代。",
+      "title_en": "AI can push your Stream Deck buttons for you",
+      "title_zh": "AI自动操控Stream Deck按键",
+      "summary_en": "Elgato: Elgato has released an update to Stream Deck that integrates AI agent capabilities via MCP (Model Context Protocol), allowing AI agents to programmatically trigger Stream Deck actions and button presses without manual user input.",
+      "summary_zh": "Elgato：Elgato 发布 Stream Deck 更新，通过 MCP（Model Context Protocol）集成 AI 智能体能力，允许 AI 代理自动触发 Stream Deck 按钮操作，无需用户手动输入。",
       "tags": [
-        "研究论文",
-        "推理",
-        "Agent"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://arxiv.org/abs/2603.20639",
-      "published_at": "2026-03-31T01:14:17Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9dd374a0",
-      "lang": "zh",
-      "title_zh": "别再让AI只干零活了！AI工具正在接管投放全链路",
-      "summary_zh": "量子位：艾瑞咨询报告显示，中国AI营销市场规模达669亿元，年复合增长率26.2%。当前多环节协同成为AI营销引擎新趋势，快手等平台已实现从素材生产、策略制定到实时投放、诊断复盘的全链路AI化，推动营销行业从单点AI工具向全流程智能化演进。",
-      "tags": [
-        "行业观察",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393471.html",
-      "published_at": "2026-03-31T01:03:38Z",
-      "collected_at": "2026-03-31T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "fb75edf8",
-      "lang": "zh",
-      "title_zh": "Meta华人实习生搞出超级智能体！自己写代码实现自我进化",
-      "summary_zh": "量子位：Meta一名华人实习生开发出能够自主编写代码并实现自我迭代的超级智能体系统，该系统可通过反复试错不断优化自身能力。这一工作展示了智能体自主进化的可行路径，引发AI社区广泛关注。",
-      "tags": [
-        "智能体",
-        "研究"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393645.html",
-      "published_at": "2026-03-31T01:00:00Z",
-      "collected_at": "2026-03-31T08:50:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "d0eee8cd",
-      "lang": "en",
-      "title_en": "Like it or not, AI is part of art school curriculums",
-      "title_zh": "无论喜不喜欢，AI 已成为艺术院校课程的一部分",
-      "summary_en": "The Verge: Art schools across the US are integrating generative AI tools into their curriculums despite student protests. From CalArts to University of Alaska Fairbanks, students and faculty grapple with AI's impact on creative education and job prospects as text-to-image, music, and video generation tools become ubiquitous.",
-      "summary_zh": "The Verge：美国各大艺术院校正将生成式 AI 工具纳入课程体系，尽管引发学生抗议。从加州艺术学院到阿拉斯加费尔班克斯大学，师生们正在与 AI 对创意教育和就业前景的冲击抗争，而文生图、音乐和视频生成工具已日趋普及。",
-      "tags": [
-        "AI伦理",
-        "教育",
-        "生成式AI"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-practice",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "da7f95ac",
-      "lang": "en",
-      "title_en": "You can order Grubhub and Uber Eats 'conversationally' with Alexa Plus",
-      "title_zh": "Alexa Plus 支持与 Grubhub 和 Uber Eats 对话式下单",
-      "summary_en": "The Verge: Amazon has added conversational food ordering to Alexa Plus, letting users place Grubhub and Uber Eats orders through natural dialogue rather than rigid call-and-response prompts. The feature rolls out to Echo Show 8 and larger devices for Alexa Plus subscribers, part of Amazon's broader push to make its AI assistant more genuinely useful.",
-      "summary_zh": "The Verge：亚马逊为 Alexa Plus 新增对话式点餐功能，用户可通过自然语言对话在 Grubhub 和 Uber Eats 下单，而非依赖固定指令。该功能面向 Echo Show 8 及更大屏幕设备的 Alexa Plus 订阅用户推出，是亚马逊提升 AI 助手实用性的重要举措。",
-      "tags": [
-        "AI助手",
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-delivery-conversational-grubhub-uber-eats",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "71d7e1d3",
-      "lang": "zh",
-      "title_zh": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
-      "summary_zh": "量子位：智谱 AI 发布上市后首份财报，营收超 7.24 亿元，成为国内收入最高的大模型公司。财报显示 MaaS（模型即服务）业务快速增长，标志着国内大模型商业化进入新阶段。",
-      "tags": [
-        "产业动态",
-        "大模型",
-        "商业化"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/394135.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "67557a7d",
-      "lang": "zh",
-      "title_zh": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
-      "summary_zh": "量子位：字节跳动旗下 AI 编程工具 TRAE SOLO 正式推出独立 PC 端和 Web 端，功能从代码编写延伸至跨领域任务执行，展现出超越传统 IDE 的智能体能力，进一步与 Cursor 等产品展开竞争。",
-      "tags": [
-        "AI编码",
         "产品发布",
-        "AI智能体"
+        "Agent",
+        "工具与基础设施"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/394014.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "published_at": "2026-04-01T12:38:58Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "2f297545",
-      "lang": "zh",
-      "title_zh": "ClawTip来了！京东科技首发推出AI智能体的专属自主零钱包",
-      "summary_zh": "量子位：京东科技发布 ClawTip，定位为 AI 智能体专属的自主支付钱包，支持智能体在无人工干预下自主完成小额支付。这是国内首款面向 AI Agent 的原生支付产品，标志着智能体经济基础设施建设提速。",
+      "id": "70b4c06e",
+      "lang": "en",
+      "title_en": "Baidu's robotaxis froze in traffic, creating chaos",
+      "title_zh": "百度自动驾驶车队集体停滞引发混乱",
+      "summary_en": "Baidu: Multiple Baidu Apollo robotaxis simultaneously froze in traffic in Wuhan, China, blocking intersections and creating significant traffic chaos. The incident highlights ongoing challenges for autonomous vehicles in complex urban traffic scenarios.",
+      "summary_zh": "百度：中国武汉多辆百度 Apollo 自动驾驶出租车同时在交通路口停滞，阻塞道路并造成严重交通混乱，暴露了自动驾驶车辆在复杂城市场景下的系统性挑战。",
       "tags": [
-        "AI智能体",
-        "金融科技",
+        "行业动态",
         "产品发布"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/394011.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "1beb075c",
-      "lang": "zh",
-      "title_zh": "玻色量子完成10亿元B轮融资，十五五规划量子计算机赛道唯一代表",
-      "summary_zh": "量子位：量子计算公司玻色量子完成 10 亿元 B 轮融资，成为十五五规划专用量子计算机赛道的唯一入选企业。本轮融资将用于加速量子计算硬件研发与商业化落地，标志着国内量子计算赛道进入重资本投入阶段。",
-      "tags": [
-        "量子计算",
-        "融资",
-        "产业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393856.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "df4c40d4",
-      "lang": "en",
-      "title_en": "Qodo raises $70M for code verification as AI coding scales",
-      "title_zh": "Qodo融资7000万美元，专注AI代码验证",
-      "summary_en": "Qodo: New York-based AI code review and verification startup Qodo raised a $70 million Series B led by Qumra Capital, bringing total funding to $120 million. Investors include Maor Ventures, Phoenix Venture Partners, Peter Welinder (OpenAI), and Clara Shih (Meta). Qodo builds AI agents for code review, testing, and governance, positioning itself as a verification layer for AI-generated code.",
-      "summary_zh": "Qodo：纽约AI代码审查与验证初创公司Qodo完成7000万美元B轮融资，由Qumra Capital领投，累计融资额达1.2亿美元，投资方包括OpenAI的Peter Welinder和Meta的Clara Shih。公司专注于构建AI代码审查、测试与治理智能体，定位为AI生成代码的验证层。",
-      "tags": [
-        "融资",
-        "编程"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-      "published_at": "2026-03-30T14:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "published_at": "2026-04-01T10:39:52Z",
+      "collected_at": "2026-04-02T00:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "d46dcd19",
+      "id": "62f2b4c2",
       "lang": "en",
-      "title_en": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "title_zh": "AI芯片公司Rebellions完成4亿美元Pre-IPO融资，估值23亿美元",
-      "summary_en": "Rebellions: South Korean fabless AI chip startup Rebellions raised $400 million in a pre-IPO round led by Mirae Asset Financial Group and the Korea National Growth Fund, valuing the company at $2.3 billion. The round follows a Series C completed in November and accompanies aggressive global expansion plans, with an IPO planned for later in 2026.",
-      "summary_zh": "Rebellions：韩国无晶圆AI芯片公司Rebellions完成4亿美元Pre-IPO融资，由未来资产金融集团和韩国国家成长基金领投，估值达23亿美元。此轮融资紧随11月完成的C轮之后，伴随公司积极推进全球扩张计划，公司计划于2026年晚些时候上市。",
-      "tags": [
-        "融资",
-        "硬件"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-      "published_at": "2026-03-30T13:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "8f5b6220",
-      "lang": "en",
-      "title_en": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "title_zh": "Mistral AI融资8.3亿美元，在巴黎附近建设数据中心",
-      "summary_en": "Mistral AI: French AI lab Mistral AI raised $830 million in debt financing to build a new Nvidia-powered data center in Bruyeres-le-Chatel near Paris, with plans to make it operational in Q2 2026. The company previously announced a $1.4 billion investment in Sweden for AI infrastructure, aiming to deploy 200 megawatts of compute capacity across European operations.",
-      "summary_zh": "Mistral AI：法国AI公司Mistral AI通过债务融资筹集8.3亿美元，用于在巴黎郊区Bruyeres-le-Chatel建设以英伟达芯片为核心的新数据中心，计划于2026年第二季度投入运营。公司此前已宣布在瑞典投资14亿美元建设AI基础设施，目标是在欧洲部署总计200兆瓦的算力。",
-      "tags": [
-        "融资",
-        "硬件"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-      "published_at": "2026-03-30T12:49:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "9bbb95e8",
-      "lang": "zh",
-      "title_zh": "Claude 90分钟挖穿Ghost CMS 20年安全漏洞",
-      "summary_zh": "Anthropic：研究员Nicholas Carlini测试发现，Claude在90分钟内精准定位GitHub拥有5万Star的Ghost CMS首个高危漏洞，并在无身份验证情况下窃取管理员API密钥；同时Claude在Linux内核安全漏洞挖掘上亦超越了人类专家水平。Carlini表示，六个月前大模型在此领域几乎是门外汉，如今最新模型已在漏洞挖掘方面超过人类专家。",
-      "tags": [
-        "安全对齐",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393186.html",
-      "published_at": "2026-03-30T06:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "7dbe9008",
-      "lang": "zh",
-      "title_zh": "国产世界模型GigaWorld-1登顶WorldArena全球第一",
-      "summary_zh": "极佳视界：旗下具身世界模型GigaWorld-1在WorldArena评测中登顶全球第一，成为唯一综合得分突破60分的具身世界模型，在视觉真实性、几何精准度、物理准确度三大维度断层领先谷歌、英伟达。极佳视界由清华系团队领衔，汇聚阿里、百度、地平线等顶尖大厂核心骨干，3D准确度接近满分。",
-      "tags": [
-        "评测基准",
-        "研究论文"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393296.html",
-      "published_at": "2026-03-30T05:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "48825272",
-      "lang": "zh",
-      "title_zh": "美国开源AI旗帜倒下：Ai2削减开源投入，核心团队转投微软",
-      "summary_zh": "艾伦人工智能研究所（Ai2）宣布削减开源模型（包括OLMo）的研发资金，转向AI应用方向。同期Ai2核心团队几乎被微软打包带走，包括前CEO阿里·法哈迪、前COO索菲·莱布雷希特、汉娜·哈吉希尔齐和兰杰·克里希纳，均加入微软穆斯塔法·苏莱曼领导的超级智能团队。OLMo是极少数真正开源的大模型之一，此次变化引发开源社区广泛关注。",
+      "title_en": "Claude Code Unpacked: A visual guide",
+      "title_zh": "Claude Code源码可视化解析",
+      "summary_en": "Community: A visual guide and walkthrough of the Claude Code source code has been published at ccunpacked.dev, providing developers with a structured breakdown of Anthropic's Claude Code tool following recent source code exposure.",
+      "summary_zh": "社区：ccunpacked.dev 发布了 Claude Code 源码的可视化解析指南，为开发者提供了对 Anthropic Claude Code 工具的结构化拆解，内容基于近期流出的源代码。",
       "tags": [
         "开源",
-        "产品发布"
+        "工具与基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ccunpacked.dev/",
+      "published_at": "2026-04-01T05:15:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2ea0207a",
+      "lang": "zh",
+      "title_zh": "OpenAI创下史上最大单笔融资纪录1220亿美元",
+      "summary_zh": "OpenAI：OpenAI 完成 1220 亿美元融资，创下史上最大单笔私募融资纪录，较此前披露的 1100 亿美元上调。本轮融资进一步巩固公司估值，并为 IPO 上市准备积累资本。",
+      "tags": [
+        "融资",
+        "行业动态"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393395.html",
-      "published_at": "2026-03-30T04:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
+      "source_url": "https://www.qbitai.com/2026/04/394169.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+      ]
+    },
+    {
+      "id": "f0864a12",
+      "lang": "zh",
+      "title_zh": "Anthropic遭曝光：Claude Claw龙虾形象意外流出",
+      "summary_zh": "Anthropic：Anthropic 内部 AI 助手 Claude Claw 的龙虾形象意外通过源码泄漏曝光，Andrej Karpathy 随即在社交媒体评论称这就是 Claude Claw。此次泄漏源于 Claude Code 源码外泄事件，引发社区对 Anthropic 品牌形象设计的广泛讨论。",
+      "tags": [
+        "行业动态",
+        "安全对齐"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394516.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "16f4ade7",
+      "lang": "zh",
+      "title_zh": "Claude被指乱扣费：最高多收20倍token",
+      "summary_zh": "Anthropic：用户和开发者反映 Claude Code 存在严重的 token 超额计费问题，一句你好可消耗高达 13% 的配额，最高多收约 20 倍费用。Anthropic 已承认该计费异常，问题影响波及大量 Claude Code 用户，部分用户描述其接近不可用状态。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394177.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "7896db99",
+      "id": "10c544ee",
       "lang": "zh",
-      "title_zh": "DeepSeek网页版大升级后宕机11小时，被解读为新模型前兆",
-      "summary_zh": "DeepSeek：DeepSeek网页版在3月29日出现大规模宕机，持续超过8小时并登上热搜。宕机前大量用户报告模型能力大幅提升，经典SVG绘图任务的构图和色彩明显改善，且模型开始稳定自报为DeepSeek-V3。DeepSeek此前已有多次不预告静默升级记录，此次宕机被业界普遍解读为新版本模型上线的前兆。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393235.html",
-      "published_at": "2026-03-30T03:30:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b38989c1",
-      "lang": "zh",
-      "title_zh": "全球OCR新王来自中国开源！PaddleOCR GitHub狂揽73300+Star",
-      "summary_zh": "百度：PaddleOCR以73300+Star登顶GitHub全球OCR项目榜，终结谷歌Tesseract OCR近40年的霸榜地位。同步在Hugging Face长期位居OCR与文档解析领域头部。此次升级官网免费每日解析页数从1万提升至2万，并发布PaddleOCR OCEAN生态联盟，面向核心贡献者、企业用户、模型托管平台及硬件厂商开放合作。",
-      "tags": [
-        "开源",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393433.html",
-      "published_at": "2026-03-30T03:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7e0f12eb",
-      "lang": "zh",
-      "title_zh": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
-      "summary_zh": "阿里巴巴：阿里发布千问新一代全模态大模型Qwen3.5-Omni，在音视频理解、识别、交互等215项第三方测试任务中取得SOTA，超越Gemini-3.1 Pro。新模型采用混合注意力MoE架构，支持113种语言及方言语音识别、36种语言语音生成，具备音视频Vibe Coding能力，API定价每百万Tokens输入不到0.8元。目前已在阿里云百炼平台上线Plus、Flash、Light三个版本，普通用户可通过Qwen Chat免费体验。",
+      "title_zh": "万象2.7-Image国内最强生图模型发布",
+      "summary_zh": "万象团队：国内文生图模型 Wan2.7-Image 正式发布，具备文生图、图生组图、图像指令编辑和交互式编辑等全链路能力，被称为国内当前最强生图模型。该模型支持多种图像生成与编辑工作流。",
       "tags": [
         "产品发布",
         "多模态"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393460.html",
-      "published_at": "2026-03-30T02:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
+      "source_url": "https://www.qbitai.com/2026/04/394530.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "34c071fb",
+      "lang": "zh",
+      "title_zh": "PixVerse V6发布：AI视频时空处理能力增强",
+      "summary_zh": "PixVerse：PixVerse V6 正式发布，AI 视频生成在空间和时间处理能力上大幅提升，新增延时拍摄、慢动作等效果支持。该版本在 Sora 停止公测后推出，定位接档 Sora 的 AI 视频生成工具。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394373.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "575f1907",
+      "lang": "zh",
+      "title_zh": "武汉百度无人车集体停滞事件分析",
+      "summary_zh": "百度Apollo：武汉多辆百度 Apollo 自动驾驶出租车出现集体停滞现象，在交通路口长时间无法通行，引发现场混乱。事件暴露出当前自动驾驶系统在复杂城市交通场景下的局限性，及公众对安全感的误解问题。",
+      "tags": [
+        "行业动态",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394554.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "18274640",
+      "lang": "zh",
+      "title_zh": "美图RoboNeo：AI帮你复刻爆款内容",
+      "summary_zh": "美图：美图旗下 RoboNeo 正式推出，用户通过语音或文字描述，AI 即可复刻热门创意内容，成为跨境内容创作的新工具。该产品融合图像生成与交互式编辑能力，定位内容创作者市场。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394547.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "ff153353",
+      "lang": "en",
+      "title_en": "1-Bit Bonsai: The First Commercially Viable 1-Bit LLMs",
+      "title_zh": "1-Bit Bonsai：首个商业可用1比特LLM",
+      "summary_en": "PrismML: PrismML has released 1-Bit Bonsai, described as the first commercially viable 1-bit large language models. The models leverage extreme quantization to achieve drastically reduced memory and compute requirements while maintaining usable performance.",
+      "summary_zh": "PrismML：PrismML 发布 1-Bit Bonsai，称其为首个商业可用的 1 比特大语言模型。该模型采用极端量化技术，在大幅降低内存和计算需求的同时保持可用性能。",
+      "tags": [
+        "研究论文",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://prismml.com/",
+      "published_at": "2026-03-31T21:01:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6d9d2ac5",
+      "lang": "en",
+      "title_en": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
+      "title_zh": "OpenAI完成1220亿美元融资破纪录",
+      "summary_en": "OpenAI: OpenAI has closed a record-breaking $122 billion funding round, up from the previously announced $110 billion figure. The round represents the largest private funding round in history. The financing comes as anticipation builds for a potential IPO.",
+      "summary_zh": "OpenAI：OpenAI 完成了 1220 亿美元的融资，较此前披露的 1100 亿美元进一步上调，创下史上最大单笔私募融资纪录。此轮融资是在 IPO 预期升温背景下完成的。",
+      "tags": [
+        "融资",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 5,
       "merged_sources": []
     }
   ]

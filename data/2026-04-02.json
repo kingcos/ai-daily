@@ -1,7 +1,43 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T09:12:15Z",
+  "generated_at": "2026-04-02T15:10:00Z",
   "items": [
+    {
+      "id": "62d46dc4",
+      "lang": "en",
+      "title_en": "Microsoft's new 'superintelligence' game plan is all about business",
+      "title_zh": "微软“超级智能”新战略聚焦商业落地",
+      "summary_en": "The Verge: Microsoft AI CEO Mustafa Suleyman outlined a new strategic direction focused on embedding AI capabilities into business software, signaling a pivot from broad research aims toward enterprise-level applications and practical ROI. The strategy involves tighter integration with Microsoft 365 and Azure services.",
+      "summary_zh": "The Verge：微软 AI CEO Mustafa Suleyman 阐述了新战略方向，将 AI 能力嵌入商业软件，标志着从广泛研究目标转向企业级应用和实际回报。该战略涉及与 Microsoft 365 及 Azure 服务的更深度整合。",
+      "tags": [
+        "行业动态",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+      "published_at": "2026-04-02T14:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "f061db09",
+      "lang": "en",
+      "title_en": "Google Home's latest update makes Gemini better at understanding your commands",
+      "title_zh": "谷歌 Home 新更新让 Gemini 更好地理解语音指令",
+      "summary_en": "The Verge: Google released an update to Google Home integrating improved Gemini capabilities, enabling smarter interpretation of natural language commands for temperature controls, lighting, and other smart home devices. The update aims to reduce ambiguity in how voice commands are processed.",
+      "summary_zh": "The Verge：谷歌为 Google Home 推出更新，集成增强的 Gemini 能力，实现对温度控制、照明等智能家居设备自然语言指令的更智能解读，旨在减少语音命令处理中的歧义。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
+      "published_at": "2026-04-02T13:30:12Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "69f7869c",
       "lang": "en",
@@ -40,6 +76,22 @@
       "merged_sources": []
     },
     {
+      "id": "36f81dd5",
+      "lang": "zh",
+      "title_zh": "开盒Claude Code的是中国00后！曾怒怡Anthropic窃取用户代码",
+      "summary_zh": "量子位：泄露 Claude Code 源码的开发者被曝为中国 00 后程序员，此前曾公开指责 Anthropic 在未经授权情况下使用用户代码训练模型。该事件引发社区对 AI 公司数据使用边界的广泛讨论，Anthropic 已大量删除相关 GitHub 仓库。",
+      "tags": [
+        "安全",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395091.html",
+      "published_at": "2026-04-02T06:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
       "id": "6c3cca83",
       "lang": "en",
       "title_en": "r/programming bans all discussion of LLM programming",
@@ -54,6 +106,38 @@
       "published_at": "2026-04-02T05:33:20Z",
       "collected_at": "2026-04-02T09:00:00Z",
       "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "85ee6b20",
+      "lang": "zh",
+      "title_zh": "上市首日大涨111%！德适交出大模型商业化最硬核答卷",
+      "summary_zh": "量子位： AI 大模型商业化公司德适科技在港股上市首日股价大涨 111%，成为继智谱、MiniMax 之后最亮眼的 AI 商业化上市案例。其核心竞争力在于垂直行业大模型落地能力，为国内 AI 商业化路径提供了有力参考。",
+      "tags": [
+        "螊资",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395162.html",
+      "published_at": "2026-04-02T05:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "a1506c82",
+      "lang": "zh",
+      "title_zh": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
+      "summary_zh": "量子位：分子之心科技在《自然通讯》发表重磅研究，其 AI 技术实现蛋白质设计新范式，可生成具有特定功能的蛋白质结构。该成果有望加速药物发现和生物材料开发，被认为是 AI for Science 领域的重要突破。",
+      "tags": [
+        "AI for Science",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395198.html",
+      "published_at": "2026-04-02T04:30:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
@@ -106,6 +190,54 @@
       "merged_sources": []
     },
     {
+      "id": "500d4370",
+      "lang": "zh",
+      "title_zh": "中国最强编程模型！阿里Qwen3.6-Plus性能直速Claude",
+      "summary_zh": "量子位：阿里巴巴发布 Qwen3.6-Plus 编程模型，在多项代码基准测试中接近 Claude 水平，被称为目前国内最强编程大模型。该模型已在悟空等平台上线，标志着国产大模型在编程能力上进入全球顶尖行列。",
+      "tags": [
+        "产品发布",
+        "模型评测"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394704.html",
+      "published_at": "2026-04-02T04:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6cadba54",
+      "lang": "zh",
+      "title_zh": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
+      "summary_zh": "量子位：商汤科技发布面向 AI 原生时代的大装置解决方案，通过重新设计算力集群架构，提升大规模模型训练和推理的效率。新架构针对万亿参数模型优化，助力企业构建高性价比的 AI 基础设施。",
+      "tags": [
+        "算力",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395194.html",
+      "published_at": "2026-04-02T04:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "de4af666",
+      "lang": "zh",
+      "title_zh": "再螆20亿！星海图把具身智能头部门槛抬到了200亿",
+      "summary_zh": "量子位：具身智能公司星海图完成新一轮 20 亿元螊资，估值突破 200 亿元。此轮螊资将用于人形机器人研发和量产布局，进一步拉高行业头部门槛，显示出资本对具身智能赛道的持续看好。",
+      "tags": [
+        "螊资",
+        "具身智能"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394626.html",
+      "published_at": "2026-04-02T03:30:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "5e0598a9",
       "lang": "zh",
       "title_zh": "盯着还没注册公司的顶尖天才，DigClaw获天使轮融资",
@@ -134,6 +266,22 @@
       "source_url": "https://www.qbitai.com/2026/04/394620.html",
       "published_at": "2026-04-02T03:00:00Z",
       "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "a5d8b1f3",
+      "lang": "zh",
+      "title_zh": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
+      "summary_zh": "量子位：智谱 AI 发布 GLM-5V-Turbo 视觉模型，支持通过一张手绘草图直接生成前端代码，开启视觉编程新范式。该模型可理解 UI 布局意图，自动转化为可运行的 HTML/CSS 代码，大幅降低前端开发门槛。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394641.html",
+      "published_at": "2026-04-02T03:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
       "importance": 3,
       "merged_sources": []
     },

@@ -1,7 +1,22 @@
 {
   "latest_date": "2026-04-02",
-  "updated_at": "2026-04-02T09:14:51Z",
+  "updated_at": "2026-04-02T15:10:00Z",
   "dates": [
+    "index_page_9",
+    "index_page_8",
+    "index_page_7",
+    "index_page_6",
+    "index_page_5",
+    "index_page_4",
+    "index_page_3",
+    "index_page_2",
+    "index_page_16",
+    "index_page_15",
+    "index_page_14",
+    "index_page_13",
+    "index_page_12",
+    "index_page_11",
+    "index_page_10",
     "2026-04-02",
     "2026-04-01",
     "2026-03-31",
@@ -31,11 +46,47 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 27,
+  "total_items": 36,
   "page": 1,
   "page_size": 20,
   "total_pages": 2,
   "items": [
+    {
+      "id": "62d46dc4",
+      "lang": "en",
+      "title_en": "Microsoft's new 'superintelligence' game plan is all about business",
+      "title_zh": "微软“超级智能”新战略聚焦商业落地",
+      "summary_en": "The Verge: Microsoft AI CEO Mustafa Suleyman outlined a new strategic direction focused on embedding AI capabilities into business software, signaling a pivot from broad research aims toward enterprise-level applications and practical ROI. The strategy involves tighter integration with Microsoft 365 and Azure services.",
+      "summary_zh": "The Verge：微软 AI CEO Mustafa Suleyman 阐述了新战略方向，将 AI 能力嵌入商业软件，标志着从广泛研究目标转向企业级应用和实际回报。该战略涉及与 Microsoft 365 及 Azure 服务的更深度整合。",
+      "tags": [
+        "行业动态",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+      "published_at": "2026-04-02T14:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "f061db09",
+      "lang": "en",
+      "title_en": "Google Home's latest update makes Gemini better at understanding your commands",
+      "title_zh": "谷歌 Home 新更新让 Gemini 更好地理解语音指令",
+      "summary_en": "The Verge: Google released an update to Google Home integrating improved Gemini capabilities, enabling smarter interpretation of natural language commands for temperature controls, lighting, and other smart home devices. The update aims to reduce ambiguity in how voice commands are processed.",
+      "summary_zh": "The Verge：谷歌为 Google Home 推出更新，集成增强的 Gemini 能力，实现对温度控制、照明等智能家居设备自然语言指令的更智能解读，旨在减少语音命令处理中的歧义。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
+      "published_at": "2026-04-02T13:30:12Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "69f7869c",
       "lang": "en",
@@ -74,6 +125,22 @@
       "merged_sources": []
     },
     {
+      "id": "36f81dd5",
+      "lang": "zh",
+      "title_zh": "开盒Claude Code的是中国00后！曾怒怡Anthropic窃取用户代码",
+      "summary_zh": "量子位：泄露 Claude Code 源码的开发者被曝为中国 00 后程序员，此前曾公开指责 Anthropic 在未经授权情况下使用用户代码训练模型。该事件引发社区对 AI 公司数据使用边界的广泛讨论，Anthropic 已大量删除相关 GitHub 仓库。",
+      "tags": [
+        "安全",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395091.html",
+      "published_at": "2026-04-02T06:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
       "id": "6c3cca83",
       "lang": "en",
       "title_en": "r/programming bans all discussion of LLM programming",
@@ -88,6 +155,38 @@
       "published_at": "2026-04-02T05:33:20Z",
       "collected_at": "2026-04-02T09:00:00Z",
       "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "85ee6b20",
+      "lang": "zh",
+      "title_zh": "上市首日大涨111%！德适交出大模型商业化最硬核答卷",
+      "summary_zh": "量子位： AI 大模型商业化公司德适科技在港股上市首日股价大涨 111%，成为继智谱、MiniMax 之后最亮眼的 AI 商业化上市案例。其核心竞争力在于垂直行业大模型落地能力，为国内 AI 商业化路径提供了有力参考。",
+      "tags": [
+        "螊资",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395162.html",
+      "published_at": "2026-04-02T05:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "a1506c82",
+      "lang": "zh",
+      "title_zh": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
+      "summary_zh": "量子位：分子之心科技在《自然通讯》发表重磅研究，其 AI 技术实现蛋白质设计新范式，可生成具有特定功能的蛋白质结构。该成果有望加速药物发现和生物材料开发，被认为是 AI for Science 领域的重要突破。",
+      "tags": [
+        "AI for Science",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395198.html",
+      "published_at": "2026-04-02T04:30:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
@@ -140,6 +239,54 @@
       "merged_sources": []
     },
     {
+      "id": "500d4370",
+      "lang": "zh",
+      "title_zh": "中国最强编程模型！阿里Qwen3.6-Plus性能直速Claude",
+      "summary_zh": "量子位：阿里巴巴发布 Qwen3.6-Plus 编程模型，在多项代码基准测试中接近 Claude 水平，被称为目前国内最强编程大模型。该模型已在悟空等平台上线，标志着国产大模型在编程能力上进入全球顶尖行列。",
+      "tags": [
+        "产品发布",
+        "模型评测"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394704.html",
+      "published_at": "2026-04-02T04:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6cadba54",
+      "lang": "zh",
+      "title_zh": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
+      "summary_zh": "量子位：商汤科技发布面向 AI 原生时代的大装置解决方案，通过重新设计算力集群架构，提升大规模模型训练和推理的效率。新架构针对万亿参数模型优化，助力企业构建高性价比的 AI 基础设施。",
+      "tags": [
+        "算力",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395194.html",
+      "published_at": "2026-04-02T04:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "de4af666",
+      "lang": "zh",
+      "title_zh": "再螆20亿！星海图把具身智能头部门槛抬到了200亿",
+      "summary_zh": "量子位：具身智能公司星海图完成新一轮 20 亿元螊资，估值突破 200 亿元。此轮螊资将用于人形机器人研发和量产布局，进一步拉高行业头部门槛，显示出资本对具身智能赛道的持续看好。",
+      "tags": [
+        "螊资",
+        "具身智能"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394626.html",
+      "published_at": "2026-04-02T03:30:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "5e0598a9",
       "lang": "zh",
       "title_zh": "盯着还没注册公司的顶尖天才，DigClaw获天使轮融资",
@@ -168,6 +315,22 @@
       "source_url": "https://www.qbitai.com/2026/04/394620.html",
       "published_at": "2026-04-02T03:00:00Z",
       "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "a5d8b1f3",
+      "lang": "zh",
+      "title_zh": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
+      "summary_zh": "量子位：智谱 AI 发布 GLM-5V-Turbo 视觉模型，支持通过一张手绘草图直接生成前端代码，开启视觉编程新范式。该模型可理解 UI 布局意图，自动转化为可运行的 HTML/CSS 代码，大幅降低前端开发门槛。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394641.html",
+      "published_at": "2026-04-02T03:00:00Z",
+      "collected_at": "2026-04-02T15:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
@@ -218,165 +381,6 @@
       "published_at": "2026-04-02T02:00:00Z",
       "collected_at": "2026-04-02T09:00:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "180d8e0f",
-      "lang": "en",
-      "title_en": "The AI Marketing BS Index",
-      "title_zh": "AI营销废话指数",
-      "summary_en": "Bastian Rieck (via Hacker News): A researcher introduces the 'AI Marketing BS Index,' a humorous yet critical metric quantifying buzzword density and substance deficit in AI product marketing claims. The post scores real announcements, highlighting the industry tendency toward hyperbolic language over meaningful technical communication.",
-      "summary_zh": "Bastian Rieck（Hacker News）：一位研究者提出 AI 营销废话指数，用于量化 AI 产品营销中的流行词密度与内容空洞程度。该帖对真实发布公告进行打分，揭示行业在夸大宣传语言与有价值技术沟通之间的失衡问题。",
-      "tags": [
-        "行业动态",
-        "观点"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://bastian.rieck.me/blog/2026/bs/",
-      "published_at": "2026-04-02T01:35:12Z",
-      "collected_at": "2026-04-02T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "88ede095",
-      "lang": "zh",
-      "title_zh": "开源路由插件ClawXRouter：Agent云端本地协同成本降58%",
-      "summary_zh": "清华THUNLP/中国人民大学/面壁智能：清华大学 THUNLP 实验室、中国人民大学、AI9Stars、面壁智能与 OpenBMB 联合发布开源端云协同 AI 智能体路由插件 ClawXRouter。该插件在本地模型与云端 API 之间智能调度：简单任务本地运行、敏感数据本地脱敏、复杂任务交由云端，实验数据显示综合成本降低58%，同时保护数据隐私。",
-      "tags": [
-        "开源",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394606.html",
-      "published_at": "2026-04-02T01:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "ee451276",
-      "lang": "en",
-      "title_en": "Show HN: Real-time dashboard for Claude Code agent teams",
-      "title_zh": "实时仪表盘用于监控 Claude Code 智能体团队",
-      "summary_en": "simple10 (via Hacker News): An open-source real-time observability dashboard for teams running multiple Claude Code agents simultaneously. The tool provides live visibility into agent status, task queues, and code outputs, addressing the growing need for multi-agent orchestration tooling.",
-      "summary_zh": "simple10（Hacker News）：一款开源实时可观测仪表盘，适用于同时运行多个 Claude Code 智能体的团队。该工具提供智能体状态、任务队列和代码输出的实时视图，回应了多智能体编排工具日益增长的需求。",
-      "tags": [
-        "开发工具",
-        "智能体"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/simple10/agents-observe",
-      "published_at": "2026-04-02T00:04:28Z",
-      "collected_at": "2026-04-02T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "09de325f",
-      "lang": "en",
-      "title_en": "CUDA Tile Programming Now Available for BASIC",
-      "title_zh": "CUDA Tile编程支持BASIC语言",
-      "summary_en": "NVIDIA: NVIDIA has announced that CUDA Tile programming is now available for the BASIC programming language, expanding GPU programming accessibility to developers using BASIC. The feature enables GPU-accelerated computation through familiar BASIC syntax.",
-      "summary_zh": "NVIDIA：NVIDIA 宣布 CUDA Tile 编程现已支持 BASIC 编程语言，将 GPU 编程能力扩展至 BASIC 开发者群体，使其能够通过熟悉的 BASIC 语法实现 GPU 加速计算。",
-      "tags": [
-        "工具与基础设施",
-        "开源"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
-      "published_at": "2026-04-01T16:19:00Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "671e066a",
-      "lang": "en",
-      "title_en": "AI can push your Stream Deck buttons for you",
-      "title_zh": "AI自动操控Stream Deck按键",
-      "summary_en": "Elgato: Elgato has released an update to Stream Deck that integrates AI agent capabilities via MCP (Model Context Protocol), allowing AI agents to programmatically trigger Stream Deck actions and button presses without manual user input.",
-      "summary_zh": "Elgato：Elgato 发布 Stream Deck 更新，通过 MCP（Model Context Protocol）集成 AI 智能体能力，允许 AI 代理自动触发 Stream Deck 按钮操作，无需用户手动输入。",
-      "tags": [
-        "产品发布",
-        "Agent",
-        "工具与基础设施"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "published_at": "2026-04-01T12:38:58Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "70b4c06e",
-      "lang": "en",
-      "title_en": "Baidu's robotaxis froze in traffic, creating chaos",
-      "title_zh": "百度自动驾驶车队集体停滞引发混乱",
-      "summary_en": "Baidu: Multiple Baidu Apollo robotaxis simultaneously froze in traffic in Wuhan, China, blocking intersections and creating significant traffic chaos. The incident highlights ongoing challenges for autonomous vehicles in complex urban traffic scenarios.",
-      "summary_zh": "百度：中国武汉多辆百度 Apollo 自动驾驶出租车同时在交通路口停滞，阻塞道路并造成严重交通混乱，暴露了自动驾驶车辆在复杂城市场景下的系统性挑战。",
-      "tags": [
-        "行业动态",
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-      "published_at": "2026-04-01T10:39:52Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "62f2b4c2",
-      "lang": "en",
-      "title_en": "Claude Code Unpacked: A visual guide",
-      "title_zh": "Claude Code源码可视化解析",
-      "summary_en": "Community: A visual guide and walkthrough of the Claude Code source code has been published at ccunpacked.dev, providing developers with a structured breakdown of Anthropic's Claude Code tool following recent source code exposure.",
-      "summary_zh": "社区：ccunpacked.dev 发布了 Claude Code 源码的可视化解析指南，为开发者提供了对 Anthropic Claude Code 工具的结构化拆解，内容基于近期流出的源代码。",
-      "tags": [
-        "开源",
-        "工具与基础设施"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://ccunpacked.dev/",
-      "published_at": "2026-04-01T05:15:00Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "2ea0207a",
-      "lang": "zh",
-      "title_zh": "OpenAI创下史上最大单笔融资纪录1220亿美元",
-      "summary_zh": "OpenAI：OpenAI 完成 1220 亿美元融资，创下史上最大单笔私募融资纪录，较此前披露的 1100 亿美元上调。本轮融资进一步巩固公司估值，并为 IPO 上市准备积累资本。",
-      "tags": [
-        "融资",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394169.html",
-      "published_at": "2026-04-01T00:00:00Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 4,
-      "merged_sources": [
-        "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
-      ]
-    },
-    {
-      "id": "f0864a12",
-      "lang": "zh",
-      "title_zh": "Anthropic遭曝光：Claude Claw龙虾形象意外流出",
-      "summary_zh": "Anthropic：Anthropic 内部 AI 助手 Claude Claw 的龙虾形象意外通过源码泄漏曝光，Andrej Karpathy 随即在社交媒体评论称这就是 Claude Claw。此次泄漏源于 Claude Code 源码外泄事件，引发社区对 Anthropic 品牌形象设计的广泛讨论。",
-      "tags": [
-        "行业动态",
-        "安全对齐"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394516.html",
-      "published_at": "2026-04-01T00:00:00Z",
-      "collected_at": "2026-04-02T00:10:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

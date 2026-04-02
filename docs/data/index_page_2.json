@@ -1,7 +1,22 @@
 {
   "latest_date": "2026-04-02",
-  "updated_at": "2026-04-02T09:14:51Z",
+  "updated_at": "2026-04-02T15:10:00Z",
   "dates": [
+    "index_page_9",
+    "index_page_8",
+    "index_page_7",
+    "index_page_6",
+    "index_page_5",
+    "index_page_4",
+    "index_page_3",
+    "index_page_2",
+    "index_page_16",
+    "index_page_15",
+    "index_page_14",
+    "index_page_13",
+    "index_page_12",
+    "index_page_11",
+    "index_page_10",
     "2026-04-02",
     "2026-04-01",
     "2026-03-31",
@@ -31,11 +46,170 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 27,
+  "total_items": 36,
   "page": 2,
   "page_size": 20,
   "total_pages": 2,
   "items": [
+    {
+      "id": "180d8e0f",
+      "lang": "en",
+      "title_en": "The AI Marketing BS Index",
+      "title_zh": "AI营销废话指数",
+      "summary_en": "Bastian Rieck (via Hacker News): A researcher introduces the 'AI Marketing BS Index,' a humorous yet critical metric quantifying buzzword density and substance deficit in AI product marketing claims. The post scores real announcements, highlighting the industry tendency toward hyperbolic language over meaningful technical communication.",
+      "summary_zh": "Bastian Rieck（Hacker News）：一位研究者提出 AI 营销废话指数，用于量化 AI 产品营销中的流行词密度与内容空洞程度。该帖对真实发布公告进行打分，揭示行业在夸大宣传语言与有价值技术沟通之间的失衡问题。",
+      "tags": [
+        "行业动态",
+        "观点"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://bastian.rieck.me/blog/2026/bs/",
+      "published_at": "2026-04-02T01:35:12Z",
+      "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "88ede095",
+      "lang": "zh",
+      "title_zh": "开源路由插件ClawXRouter：Agent云端本地协同成本降58%",
+      "summary_zh": "清华THUNLP/中国人民大学/面壁智能：清华大学 THUNLP 实验室、中国人民大学、AI9Stars、面壁智能与 OpenBMB 联合发布开源端云协同 AI 智能体路由插件 ClawXRouter。该插件在本地模型与云端 API 之间智能调度：简单任务本地运行、敏感数据本地脱敏、复杂任务交由云端，实验数据显示综合成本降低58%，同时保护数据隐私。",
+      "tags": [
+        "开源",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394606.html",
+      "published_at": "2026-04-02T01:00:00Z",
+      "collected_at": "2026-04-02T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ee451276",
+      "lang": "en",
+      "title_en": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "title_zh": "实时仪表盘用于监控 Claude Code 智能体团队",
+      "summary_en": "simple10 (via Hacker News): An open-source real-time observability dashboard for teams running multiple Claude Code agents simultaneously. The tool provides live visibility into agent status, task queues, and code outputs, addressing the growing need for multi-agent orchestration tooling.",
+      "summary_zh": "simple10（Hacker News）：一款开源实时可观测仪表盘，适用于同时运行多个 Claude Code 智能体的团队。该工具提供智能体状态、任务队列和代码输出的实时视图，回应了多智能体编排工具日益增长的需求。",
+      "tags": [
+        "开发工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/simple10/agents-observe",
+      "published_at": "2026-04-02T00:04:28Z",
+      "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "09de325f",
+      "lang": "en",
+      "title_en": "CUDA Tile Programming Now Available for BASIC",
+      "title_zh": "CUDA Tile编程支持BASIC语言",
+      "summary_en": "NVIDIA: NVIDIA has announced that CUDA Tile programming is now available for the BASIC programming language, expanding GPU programming accessibility to developers using BASIC. The feature enables GPU-accelerated computation through familiar BASIC syntax.",
+      "summary_zh": "NVIDIA：NVIDIA 宣布 CUDA Tile 编程现已支持 BASIC 编程语言，将 GPU 编程能力扩展至 BASIC 开发者群体，使其能够通过熟悉的 BASIC 语法实现 GPU 加速计算。",
+      "tags": [
+        "工具与基础设施",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
+      "published_at": "2026-04-01T16:19:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "671e066a",
+      "lang": "en",
+      "title_en": "AI can push your Stream Deck buttons for you",
+      "title_zh": "AI自动操控Stream Deck按键",
+      "summary_en": "Elgato: Elgato has released an update to Stream Deck that integrates AI agent capabilities via MCP (Model Context Protocol), allowing AI agents to programmatically trigger Stream Deck actions and button presses without manual user input.",
+      "summary_zh": "Elgato：Elgato 发布 Stream Deck 更新，通过 MCP（Model Context Protocol）集成 AI 智能体能力，允许 AI 代理自动触发 Stream Deck 按钮操作，无需用户手动输入。",
+      "tags": [
+        "产品发布",
+        "Agent",
+        "工具与基础设施"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "published_at": "2026-04-01T12:38:58Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "70b4c06e",
+      "lang": "en",
+      "title_en": "Baidu's robotaxis froze in traffic, creating chaos",
+      "title_zh": "百度自动驾驶车队集体停滞引发混乱",
+      "summary_en": "Baidu: Multiple Baidu Apollo robotaxis simultaneously froze in traffic in Wuhan, China, blocking intersections and creating significant traffic chaos. The incident highlights ongoing challenges for autonomous vehicles in complex urban traffic scenarios.",
+      "summary_zh": "百度：中国武汉多辆百度 Apollo 自动驾驶出租车同时在交通路口停滞，阻塞道路并造成严重交通混乱，暴露了自动驾驶车辆在复杂城市场景下的系统性挑战。",
+      "tags": [
+        "行业动态",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "published_at": "2026-04-01T10:39:52Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "62f2b4c2",
+      "lang": "en",
+      "title_en": "Claude Code Unpacked: A visual guide",
+      "title_zh": "Claude Code源码可视化解析",
+      "summary_en": "Community: A visual guide and walkthrough of the Claude Code source code has been published at ccunpacked.dev, providing developers with a structured breakdown of Anthropic's Claude Code tool following recent source code exposure.",
+      "summary_zh": "社区：ccunpacked.dev 发布了 Claude Code 源码的可视化解析指南，为开发者提供了对 Anthropic Claude Code 工具的结构化拆解，内容基于近期流出的源代码。",
+      "tags": [
+        "开源",
+        "工具与基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ccunpacked.dev/",
+      "published_at": "2026-04-01T05:15:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2ea0207a",
+      "lang": "zh",
+      "title_zh": "OpenAI创下史上最大单笔融资纪录1220亿美元",
+      "summary_zh": "OpenAI：OpenAI 完成 1220 亿美元融资，创下史上最大单笔私募融资纪录，较此前披露的 1100 亿美元上调。本轮融资进一步巩固公司估值，并为 IPO 上市准备积累资本。",
+      "tags": [
+        "融资",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394169.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+      ]
+    },
+    {
+      "id": "f0864a12",
+      "lang": "zh",
+      "title_zh": "Anthropic遭曝光：Claude Claw龙虾形象意外流出",
+      "summary_zh": "Anthropic：Anthropic 内部 AI 助手 Claude Claw 的龙虾形象意外通过源码泄漏曝光，Andrej Karpathy 随即在社交媒体评论称这就是 Claude Claw。此次泄漏源于 Claude Code 源码外泄事件，引发社区对 Anthropic 品牌形象设计的广泛讨论。",
+      "tags": [
+        "行业动态",
+        "安全对齐"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394516.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "16f4ade7",
       "lang": "zh",
