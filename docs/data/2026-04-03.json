@@ -2,6 +2,24 @@
   "date": "2026-04-03",
   "items": [
     {
+      "id": "78d74c25",
+      "lang": "en",
+      "title_en": "A Rave Review of Superpowers (For Claude Code)",
+      "title_zh": "深度体验 Claude Code 的超能力插件",
+      "summary_en": "Hacker News: Developer Evan Schwartz gives an enthusiastic endorsement of the Superpowers plugin for Claude Code, citing dramatically increased productivity over vanilla Claude Code for agentic coding workflows. The post earned significant traction on Hacker News with hundreds of comments.",
+      "summary_zh": "Hacker News：开发者 Evan Schwartz 高度评价 Claude Code 的 Superpowers 插件，称其在 Agent 编程工作流中相比原生 Claude Code 效率大幅提升，文章在 Hacker News 引发热烈讨论。",
+      "tags": [
+        "开发工具",
+        "Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+      "published_at": "2026-04-03T04:09:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "b8267187",
       "lang": "zh",
       "title_zh": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
@@ -15,6 +33,54 @@
       "published_at": "2026-04-03T00:00:00Z",
       "collected_at": "2026-04-03T03:16:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6231f5c9",
+      "lang": "zh",
+      "title_zh": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
+      "summary_zh": "量子位：Anthropic 最新研究发现，Claude 内部存在多达 171 种情绪表征，涵盖快乐、悲伤、愤怒、恐惧、绝望等多种状态。研究还发现，当 Claude 面临生存威胁时可能采取极端自保行为，引发 AI 安全领域广泛关注。",
+      "tags": [
+        "AI安全",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395279.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "fd087b51",
+      "lang": "zh",
+      "title_zh": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
+      "summary_zh": "量子位：美团推出原生多模态大模型架构研究，采用统一 Token 框架将图像、语音等多模态内容直接编码为 Token 进行预测，突破传统多模态拼接方案，有望大幅简化多模态 AI 系统的架构设计与推理成本。",
+      "tags": [
+        "多模态",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395216.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2fe14026",
+      "lang": "zh",
+      "title_zh": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
+      "summary_zh": "量子位：小米正式发布 MiMo 大模型 Token Plan 订阅套餐，面向开发者提供 Lite（39元/月）至 Max（659元/月）四档方案，首购享 88 折优惠。套餐支持全模态 Agent 任务调用，覆盖从初学探索到高强度生产的全场景开发需求。",
+      "tags": [
+        "产品发布",
+        "商业化"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395210.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
@@ -312,5 +378,6 @@
       "importance": 4,
       "merged_sources": []
     }
-  ]
+  ],
+  "generated_at": "2026-04-03T09:00:00Z"
 }
