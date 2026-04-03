@@ -1,22 +1,7 @@
 {
   "latest_date": "2026-04-03",
-  "updated_at": "2026-04-03T00:15:00Z",
+  "updated_at": "2026-04-03T03:20:00Z",
   "dates": [
-    "index_page_9",
-    "index_page_8",
-    "index_page_7",
-    "index_page_6",
-    "index_page_5",
-    "index_page_4",
-    "index_page_3",
-    "index_page_2",
-    "index_page_16",
-    "index_page_15",
-    "index_page_14",
-    "index_page_13",
-    "index_page_12",
-    "index_page_11",
-    "index_page_10",
     "2026-04-03",
     "2026-04-02",
     "2026-04-01",
@@ -47,340 +32,319 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 36,
+  "total_items": 16,
   "page": 1,
   "page_size": 20,
-  "total_pages": 2,
+  "total_pages": 1,
   "items": [
+    {
+      "id": "b8267187",
+      "lang": "zh",
+      "title_zh": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
+      "summary_zh": "量子位：4月3日，LMArena 旗下 Code Arena 榜单公布最新排名，阿里 Qwen3.6-Plus 以 1452 分位列全球第二，仅次于 Anthropic Claude-Opus-4.6-Thinking（1540分），超越 OpenAI GPT-5.0-High（1448分）和 Google Gemini 3.1 Pro Preview（1440分），成为该榜单历史上排名最高的中国大模型。该 React 专项榜单考察模型在真实复杂 Web 开发场景下的端到端自主编码能力。",
+      "tags": [
+        "评测基准",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395206.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T03:16:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "418982c0",
+      "lang": "en",
+      "title_en": "PSA: Anyone with a Link Can View Your Granola AI Notes by Default",
+      "title_zh": "PSA：Granola AI 笔记默认对持链接者可见，并用于模型训练",
+      "summary_en": "The Verge: AI note-taking app Granola makes user notes viewable to anyone with a link by default—contradicting its \"private by default\" claim—and also uses notes for internal AI training unless users opt out. Non-enterprise users are enrolled in training by default, raising significant privacy concerns for professionals using it in meetings.",
+      "summary_zh": "The Verge：AI 会议笔记应用 Granola 默认允许任何持有链接的人查看笔记，与其“默认私有”宣称相矛盾；此外非企业用户的笔记默认用于内部 AI 训练。此举引发专业用户对会议内容隐私的严重担忧。",
+      "tags": [
+        "AI安全",
+        "隐私",
+        "产品动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+      "published_at": "2026-04-02T21:56:16Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8dd964b5",
+      "lang": "en",
+      "title_en": "A $20/Month OpenAI User Costs $65 in Compute — AI Video Is a Money Furnace",
+      "title_zh": "月付20美元的用户让OpenAI花费65美元算力，AI视频是烧钱机器",
+      "summary_en": "Substack analysis: A detailed cost breakdown shows that a $20/month ChatGPT subscriber currently costs OpenAI roughly $65 in compute, with AI video generation (Sora) being the largest cost driver—burning money at an unsustainable rate. The analysis questions the long-term economics of consumer AI subscriptions and whether pricing can ever match costs without dramatic efficiency gains.",
+      "summary_zh": "Substack 分析：一项详细成本拆解显示，一名月付 20 美元的 ChatGPT 用户目前让 OpenAI 消耗约 65 美元算力，AI 视频生成（Sora）是最大成本驱动因素，以不可持续的速度烧钱。分析质疑消费级 AI 订阅的长期经济可行性，认为若无重大效率提升定价永远难以覆盖成本。",
+      "tags": [
+        "行业分析",
+        "OpenAI",
+        "商业模式",
+        "AI经济"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
+      "published_at": "2026-04-02T19:49:51Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "86685a01",
+      "lang": "en",
+      "title_en": "OpenAI Acquires TBPN, the Buzzy Founder-Led AI Talk Show",
+      "title_zh": "OpenAI 收购科技谈话节目 TBPN",
+      "summary_en": "OpenAI: OpenAI acquired TBPN, a popular daily livestream talk show that interviews AI and tech executives, averaging 70,000 viewers per episode and projecting $30M+ in 2026 revenue. CEO of AGI deployment Fidji Simo stated the goal is to \"accelerate the global conversation around AI\"; TBPN will retain editorial independence while supporting OpenAI's comms and marketing.",
+      "summary_zh": "OpenAI：OpenAI 收购 TBPN，这是一档每日直播的科技谈话节目，采访 AI 和科技高管，平均每集 7 万观众，2026 年预计收入超 3000 万美元。AGI 部署 CEO Fidji Simo 表示目标是“加速全球 AI 对话”，TBPN 将保持编辑独立性，同时协助 OpenAI 传播与营销工作。",
+      "tags": [
+        "行业动态",
+        "OpenAI",
+        "媒体收购"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "published_at": "2026-04-02T19:21:00Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 4,
+      "merged_sources": [
+        {
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn"
+        },
+        {
+          "source_name": "Hacker News",
+          "source_url": "https://openai.com/index/openai-acquires-tbpn/"
+        }
+      ]
+    },
+    {
+      "id": "d4e82b17",
+      "lang": "en",
+      "title_en": "Mistral Secures $830M in Debt Financing to Fund Paris AI Data Center",
+      "title_zh": "Mistral 获8.3亿美元债务融资，用于建设巴黎AI数据中心",
+      "summary_en": "CNBC: French AI startup Mistral AI secured $830 million in debt financing to fund construction of a large-scale AI data center cluster in Paris. The raise reflects continued investor appetite for European AI infrastructure and Mistral's ambition to compete at scale with US hyperscalers in training and serving large language models.",
+      "summary_zh": "CNBC：法国 AI 初创公司 Mistral AI 获得 8.3 亿美元债务融资，用于在巴黎建设大规模 AI 数据中心集群，彰显欧洲 AI 基础设施的持续吸引力及 Mistral 与美国超大规模云厂商在大模型训练与推理上竞争的野心。",
+      "tags": [
+        "行业动态",
+        "融资",
+        "Mistral",
+        "AI基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
+      "published_at": "2026-04-02T18:31:00Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c6a49a5b",
+      "lang": "en",
+      "title_en": "Show HN: I Tested 15 Free AI Models Building Real Software on a $25/Year VPS",
+      "title_zh": "实测：用15个免费AI模型在年费25美元VPS上构建真实软件",
+      "summary_en": "Hacker News / georgelarson.me: A developer benchmarked 15 free AI coding models on a real-world software project hosted on a minimal VPS, evaluating code quality, context handling, and task completion. The comparison highlights which free models are actually viable for production-grade development tasks and where each falls short.",
+      "summary_zh": "Hacker News：一位开发者在年费 25 美元的极简 VPS 上测试了 15 款免费 AI 编程模型，评估代码质量、上下文处理和任务完成能力，帮助开发者判断哪些免费模型真正适合生产级开发任务。",
+      "tags": [
+        "工具测评",
+        "编程AI",
+        "开源模型"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://georgelarson.me/writing/2026-04-03-25-dollar-ai-lab/",
+      "published_at": "2026-04-02T17:13:59Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f7a31b4c",
+      "lang": "en",
+      "title_en": "Microsoft Launches Three New MAI Foundational Models: Transcription, Voice, and Image",
+      "title_zh": "微软发布三款 MAI 基础模型：语音转录、语音生成与图像生成",
+      "summary_en": "TechCrunch: Microsoft AI released MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, developed by Mustafa Suleyman's MAI Superintelligence team. Transcribe-1 covers 25 languages and is 2.5× faster than Azure Fast; Voice-1 generates 60 seconds of audio in one second with custom voice support; all three are now available on Microsoft Foundry, positioned as cheaper alternatives to Google and OpenAI offerings.",
+      "summary_zh": "TechCrunch：微软 AI 发布 MAI-Transcribe-1、MAI-Voice-1 和 MAI-Image-2 三款基础模型，由 Mustafa Suleyman 领导的 MAI 超级智能团队开发。Transcribe-1 支持 25 种语言，速度是 Azure Fast 的 2.5 倍；Voice-1 可 1 秒生成 60 秒音频并支持自定义声音；三款模型均已在 Microsoft Foundry 上线，定价低于谷歌和 OpenAI 同类产品。",
+      "tags": [
+        "模型发布",
+        "微软",
+        "多模态",
+        "语音AI"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "published_at": "2026-04-02T16:48:16Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9da8e572",
+      "lang": "en",
+      "title_en": "OpenAI Secretly Backed AI Age Verification Coalition Without Telling Members",
+      "title_zh": "OpenAI 秘密资助 AI 年龄验证联盟，成员不知情",
+      "summary_en": "Gizmodo: A report revealed that OpenAI covertly funded the Parents and Kids Safe AI Coalition, a California advocacy group pushing AI age verification legislation, without disclosing its involvement to coalition members. The move raises questions about OpenAI's transparency in lobbying activities, as members were reportedly surprised to learn the company was behind their efforts.",
+      "summary_zh": "Gizmodo：报道揭露 OpenAI 秘密资助加州“家长与儿童安全 AI 联盟”——该组织力推 AI 年龄验证法规——但未向联盟成员披露。此举引发外界对 OpenAI 游说活动透明度的质疑，多名成员对公司幕后介入感到惊讶。",
+      "tags": [
+        "政策监管",
+        "OpenAI",
+        "AI安全",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069",
+      "published_at": "2026-04-02T16:30:41Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "630088a2",
+      "lang": "en",
+      "title_en": "Gemma 4: Byte for byte, the most capable open models",
+      "title_zh": "Gemma 4 发布：每字节性能最强开源模型",
+      "summary_en": "Google DeepMind: Google released Gemma 4, a new family of open models built from Gemini 3 research. The lineup includes Gemma 4 31B, 26B, E4B, and E2B variants, achieving top scores on AIME 2026 (89.2%), GPQA Diamond (84.3%), and LiveCodeBench v6 (80.0%), with native support for agentic workflows, multimodal reasoning, 140 languages, and efficient on-device deployment.",
+      "summary_zh": "Google DeepMind：谷歌发布 Gemma 4 开源模型系列，基于 Gemini 3 研究成果构建，涵盖 31B、26B、E4B、E2B 多个版本。在 AIME 2026 数学竞赛得分 89.2%、GPQA Diamond 科学知识 84.3%、LiveCodeBench v6 代码竞赛 80.0%，原生支持智能体工作流、多模态推理、140 种语言及高效本地部署。",
+      "tags": [
+        "模型发布",
+        "开源模型",
+        "Google DeepMind",
+        "多模态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://deepmind.google/models/gemma/gemma-4/",
+      "published_at": "2026-04-02T16:10:54Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "c1e7f3a9",
+      "lang": "en",
+      "title_en": "Google Vids Adds AI Avatar Directing via Text Prompts and Veo 3.1 Support",
+      "title_zh": "Google Vids 新增 AI 化身文字提示导演功能及 Veo 3.1 支持",
+      "summary_en": "TechCrunch: Google updated its Vids video editing app with the ability to direct AI avatars using natural language prompts—controlling actions, appearance, and background—along with Veo 3.1 video generation (8-second clips, 10 free generations/month), YouTube export, and a Chrome recording extension. The update continues Google's integration of its AI models across Workspace.",
+      "summary_zh": "TechCrunch：谷歌更新 Vids 视频编辑应用，支持通过自然语言提示词“导演”AI 化身，控制动作、外观和背景；同时引入 Veo 3.1 视频生成（8 秒片段，每月 10 次免费）、YouTube 导出及 Chrome 录制扩展，延续谷歌将 AI 模型整合进 Workspace 产品的战略。",
+      "tags": [
+        "产品发布",
+        "Google",
+        "视频AI",
+        "多模态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+      "published_at": "2026-04-02T16:00:00Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f74bae61",
+      "lang": "en",
+      "title_en": "It's not easy to get depression-detecting AI through the FDA",
+      "title_zh": "抑郁检测 AI 难过 FDA：Kintsugi 关闭并开源技术",
+      "summary_en": "The Verge: Kintsugi, a California startup that spent seven years developing AI to detect depression and anxiety from speech patterns, is shutting down after failing to secure FDA clearance. The company is releasing most of its technology as open source. Kintsugi's software analyzed vocal characteristics such as pauses, sentence structure, and speed, with peer-reviewed results comparable to standard self-report screening tools.",
+      "summary_zh": "The Verge：加州初创公司 Kintsugi 历经七年开发语音抑郁检测 AI，因未能获得 FDA 批准而宣布关闭，并将大部分技术开源。其软件通过分析停顿、句子结构、语速等语音特征识别抑郁和焦虑信号，同行评审结果与标准自评筛查工具相当，部分技术或将用于深度伪造音频检测。",
+      "tags": [
+        "政策监管",
+        "医疗",
+        "开源"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+      "published_at": "2026-04-02T15:33:23Z",
+      "collected_at": "2026-04-03T03:16:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "62d46dc4",
       "lang": "en",
-      "title_en": "Microsoft's new 'superintelligence' game plan is all about business",
-      "title_zh": "微软“超级智能”新战略聚焦商业落地",
-      "summary_en": "The Verge: Microsoft AI CEO Mustafa Suleyman outlined a new strategic direction focused on embedding AI capabilities into business software, signaling a pivot from broad research aims toward enterprise-level applications and practical ROI. The strategy involves tighter integration with Microsoft 365 and Azure services.",
-      "summary_zh": "The Verge：微软 AI CEO Mustafa Suleyman 阐述了新战略方向，将 AI 能力嵌入商业软件，标志着从广泛研究目标转向企业级应用和实际回报。该战略涉及与 Microsoft 365 及 Azure 服务的更深度整合。",
+      "title_en": "Microsoft's new superintelligence game plan is all about business",
+      "title_zh": "微软超级智能战略：Suleyman 以企业价值定义 AGI",
+      "summary_en": "The Verge: In an interview, Microsoft CEO of AI Mustafa Suleyman described his business-focused definition of superintelligence as whether AI models can deliver product value to enterprises. He revealed the strategic transition was nine months in the making and pre-dated renegotiating Microsoft's OpenAI contract. His team recently released MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 models as part of this strategy.",
+      "summary_zh": "The Verge：微软 AI CEO Mustafa Suleyman 将超级智能定义为能为企业提供产品价值的 AI 模型，透露这一战略转型筹划长达九个月，早于微软重新谈判与 OpenAI 合约。其团队近期发布的 MAI-Transcribe-1、MAI-Voice-1 和 MAI-Image-2 正是该战略的阶段性成果。",
       "tags": [
-        "行业动态",
-        "产品发布"
+        "产品发布",
+        "研究论文"
       ],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
       "published_at": "2026-04-02T14:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "f061db09",
-      "lang": "en",
-      "title_en": "Google Home's latest update makes Gemini better at understanding your commands",
-      "title_zh": "谷歌 Home 新更新让 Gemini 更好地理解语音指令",
-      "summary_en": "The Verge: Google released an update to Google Home integrating improved Gemini capabilities, enabling smarter interpretation of natural language commands for temperature controls, lighting, and other smart home devices. The update aims to reduce ambiguity in how voice commands are processed.",
-      "summary_zh": "The Verge：谷歌为 Google Home 推出更新，集成增强的 Gemini 能力，实现对温度控制、照明等智能家居设备自然语言指令的更智能解读，旨在减少语音命令处理中的歧义。",
-      "tags": [
-        "产品发布",
-        "行业动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-      "published_at": "2026-04-02T13:30:12Z",
-      "collected_at": "2026-04-02T15:10:00Z",
+      "collected_at": "2026-04-03T03:16:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "69f7869c",
+      "id": "cb80e143",
       "lang": "en",
-      "title_en": "Should AI have the right to say 'No' to its owner?",
-      "title_zh": "AI是否有权对主人说不？",
-      "summary_en": "Jang-woo Kim (via Hacker News): A research repository presenting design notes on execution boundaries and responsibility structures for AI systems interacting with the physical world. The work proposes frameworks for when AI agents operating in consequential real-world environments should be permitted to refuse instructions, and how to structure accountability across human and AI decision boundaries.",
-      "summary_zh": "Jang-woo Kim（Hacker News）：一个探讨 AI 系统与物理世界交互时执行边界与责任结构设计的研究库。该工作为 AI 智能体在高风险真实场景中拒绝执行指令提供理论框架，并探讨如何在人机决策边界间分配责任。",
+      "title_en": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "title_zh": "AMD Lemonade：GPU+NPU 加速的开源本地 LLM 服务器",
+      "summary_en": "AMD: AMD released Lemonade, a fast open-source local LLM server that leverages both GPU and NPU for inference. Targeting on-device AI deployment, Lemonade runs language models locally with improved performance using AMD's hardware stack, offering an alternative to NVIDIA for local AI workloads.",
+      "summary_zh": "AMD：AMD 发布 Lemonade 开源本地 LLM 服务器，同时利用 GPU 和 NPU 加速推理，专为本地 AI 部署设计，旨在利用 AMD 硬件栈提升语言模型本地运行性能，与 NVIDIA 在本地 AI 工作负载领域展开竞争。",
       "tags": [
-        "研究论文",
-        "安全对齐"
+        "开源",
+        "硬件"
       ],
       "source_name": "Hacker News",
-      "source_url": "https://github.com/Jang-woo-AnnaSoft/execution-boundaries",
-      "published_at": "2026-04-02T08:21:35Z",
-      "collected_at": "2026-04-02T09:00:00Z",
+      "source_url": "https://lemonade-server.ai",
+      "published_at": "2026-04-02T11:04:51Z",
+      "collected_at": "2026-04-03T03:16:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "b733f7d9",
+      "id": "22c2ff8b",
       "lang": "en",
-      "title_en": "Qwen3.6-Plus: Towards Real World Agents",
-      "title_zh": "Qwen3.6-Plus：面向真实世界的智能体",
-      "summary_en": "Alibaba Qwen Team: Alibaba has released Qwen3.6-Plus, a new large language model optimized for real-world agentic tasks. The model achieves top performance on SWE-bench coding benchmarks and Claw-Eval agent evaluations, surpassing models with 2-3x more parameters. Input pricing is set at 2 RMB per million tokens. Qwen3.6-Plus supports multi-file code generation, automated test iteration, and complex enterprise workflow decomposition.",
-      "summary_zh": "阿里巴巴 Qwen 团队：阿里巴巴发布 Qwen3.6-Plus，专为真实世界智能体任务优化。该模型在 SWE-bench 编程评测和 Claw-Eval 智能体评测中达到最优水平，超越参数量2-3倍的竞争模型。输入价格为每百万 Token 2元人民币，支持多文件代码生成、自动测试迭代及复杂企业工作流分解。",
+      "title_en": "Codex now offers pay-as-you-go pricing for teams",
+      "title_zh": "OpenAI Codex 推出按需计费团队方案",
+      "summary_en": "OpenAI: OpenAI introduced pay-as-you-go pricing for Codex-only seats in ChatGPT Business and Enterprise, removing fixed seat fees and billing on token consumption instead. ChatGPT Business annual pricing drops from $25 to $20 per seat. Teams with new Codex-only members receive up to $500 in credits. Over 2 million builders use Codex weekly, with Codex users inside Business and Enterprise growing 6x since January.",
+      "summary_zh": "OpenAI：OpenAI 为 ChatGPT Business 和 Enterprise 的 Codex 独立席位推出按需计费方案，取消固定席位费、改按 Token 消耗计费。ChatGPT Business 年费从 25 美元降至 20 美元/席位，新增席位可获最高 500 美元额度奖励。目前每周超 200 万开发者使用 Codex，企业版用户自 1 月以来增长 6 倍。",
       "tags": [
         "产品发布",
-        "Agent",
         "编程"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://qwen.ai/blog?id=qwen3.6",
-      "published_at": "2026-04-02T06:17:21Z",
-      "collected_at": "2026-04-02T09:00:00Z",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/codex-flexible-pricing-for-teams/",
+      "published_at": "2026-04-02T00:00:00Z",
+      "collected_at": "2026-04-03T03:16:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "36f81dd5",
-      "lang": "zh",
-      "title_zh": "开盒Claude Code的是中国00后！曾怒怡Anthropic窃取用户代码",
-      "summary_zh": "量子位：泄露 Claude Code 源码的开发者被曝为中国 00 后程序员，此前曾公开指责 Anthropic 在未经授权情况下使用用户代码训练模型。该事件引发社区对 AI 公司数据使用边界的广泛讨论，Anthropic 已大量删除相关 GitHub 仓库。",
-      "tags": [
-        "安全",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395091.html",
-      "published_at": "2026-04-02T06:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6c3cca83",
+      "id": "e13bb5f7",
       "lang": "en",
-      "title_en": "r/programming bans all discussion of LLM programming",
-      "title_zh": "r/programming封禁所有LLM编程讨论",
-      "summary_en": "r/programming moderators: The r/programming subreddit has announced a temporary ban on all LLM-related programming discussion, citing low-quality content and discussion quality degradation. The ban affects posts and comments related to using LLMs as coding assistants or discussing AI-generated code.",
-      "summary_zh": "r/programming 版主：Reddit 编程社区 r/programming 宣布临时封禁所有与 LLM 相关的编程讨论，理由是内容质量持续下降。该禁令涵盖使用 LLM 作为编程助手及讨论 AI 生成代码的帖子和评论。",
+      "title_en": "Meet the new Cursor: Cursor 3, a unified workspace for building software with agents",
+      "title_zh": "Cursor 3 发布：面向智能体的统一开发工作区",
+      "summary_en": "Cursor: Cursor launched Cursor 3, a ground-up redesign of its IDE built around agents rather than individual file editing. The new interface supports multi-repo layouts, parallel local and cloud agent management, seamless handoff between environments, and integrates with Slack, GitHub, and Linear. Cloud agents produce demos and screenshots for verification. Users can switch back to the legacy Cursor IDE at any time.",
+      "summary_zh": "Cursor：Cursor 发布 Cursor 3，从零重建以智能体为核心的开发工作区，支持多仓库布局、本地与云端智能体并行管理、无缝切换，并与 Slack、GitHub、Linear 集成。云端智能体会生成演示和截图供开发者确认，用户也可随时切回旧版 Cursor IDE。",
       "tags": [
-        "行业动态"
+        "产品发布",
+        "编程",
+        "Agent"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-      "published_at": "2026-04-02T05:33:20Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 3,
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/cursor-3",
+      "published_at": "2026-04-02T00:00:00Z",
+      "collected_at": "2026-04-03T03:16:00Z",
+      "importance": 5,
       "merged_sources": []
     },
     {
-      "id": "85ee6b20",
+      "id": "500d4370",
       "lang": "zh",
-      "title_zh": "上市首日大涨111%！德适交出大模型商业化最硬核答卷",
-      "summary_zh": "量子位： AI 大模型商业化公司德适科技在港股上市首日股价大涨 111%，成为继智谱、MiniMax 之后最亮眼的 AI 商业化上市案例。其核心竞争力在于垂直行业大模型落地能力，为国内 AI 商业化路径提供了有力参考。",
-      "tags": [
-        "螊资",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395162.html",
-      "published_at": "2026-04-02T05:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "a1506c82",
-      "lang": "zh",
-      "title_zh": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
-      "summary_zh": "量子位：分子之心科技在《自然通讯》发表重磅研究，其 AI 技术实现蛋白质设计新范式，可生成具有特定功能的蛋白质结构。该成果有望加速药物发现和生物材料开发，被认为是 AI for Science 领域的重要突破。",
-      "tags": [
-        "AI for Science",
-        "研究"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395198.html",
-      "published_at": "2026-04-02T04:30:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "8f804723",
-      "lang": "zh",
-      "title_zh": "悟空率先接入Qwen3.6-Plus国产最强编程模型",
-      "summary_zh": "阿里巴巴：阿里巴巴正式发布 Qwen3.6-Plus，企业级 AI 应用悟空率先接入。Qwen3.6-Plus 在 SWE-bench 系列评测和 Claw-Eval 等智能体任务中，编程能力超越同等参数量 GLM-5、Kimi-K2.5 等模型，接近 Claude 系列。模型输入每百万 Token 低至 2 元，支持跨文件代码编写、自主测试迭代，适用于企业多步骤复杂工作流。",
+      "title_zh": "中国最强编程模型来了！阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈",
+      "summary_zh": "量子位：阿里发布 Qwen3.6-Plus 新一代基座大模型，支持 1M 上下文，具备原生多模态理解和推理能力，在编程和 Agent 任务上超越参数量两至三倍的多款国产模型。在涵盖智能体编程和真实世界任务的多项权威评测中，Qwen3.6-Plus 成为最接近 Claude 系列的国产模型，后续将开源更多尺寸并发布旗舰版 Qwen3.6-Max。",
       "tags": [
         "产品发布",
         "编程",
         "Agent"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395155.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "397e3585",
-      "lang": "zh",
-      "title_zh": "优必选人形机器人全球第一，花旗上调目标价",
-      "summary_zh": "优必选：花旗将优必选目标价由155港元上调至190港元，重申买入评级。优必选管理层将2026年 WalkerS 系列出货指引从2000-3000台大幅上调至5000台，目标毛利率43%-45%。2025年公司总营收达20.01亿元，同比增长53.3%；全尺寸具身智能人形机器人收入8.2亿元，同比增长2203.7%，销量、收入、均价三项指标全球第一。",
-      "tags": [
-        "融资",
-        "硬件"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395151.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "94e8ecde",
-      "lang": "zh",
-      "title_zh": "SpaceX启动IPO：史上最大规模融资高达750亿美元",
-      "summary_zh": "SpaceX：马斯克旗下 SpaceX 启动 IPO 进程，上市融资额最高可达750亿美元，公司总估值或超1.75万亿美元，有望打破沙特阿美2019年294亿美元融资纪录。若上市成功，SpaceX 将成为美股市值第六大公司，仅次于英伟达、苹果、微软、谷歌和亚马逊。此消息紧随 OpenAI 完成1220亿美元融资之后披露。",
-      "tags": [
-        "融资",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395124.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "500d4370",
-      "lang": "zh",
-      "title_zh": "中国最强编程模型！阿里Qwen3.6-Plus性能直速Claude",
-      "summary_zh": "量子位：阿里巴巴发布 Qwen3.6-Plus 编程模型，在多项代码基准测试中接近 Claude 水平，被称为目前国内最强编程大模型。该模型已在悟空等平台上线，标志着国产大模型在编程能力上进入全球顶尖行列。",
-      "tags": [
-        "产品发布",
-        "模型评测"
-      ],
-      "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/04/394704.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6cadba54",
-      "lang": "zh",
-      "title_zh": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
-      "summary_zh": "量子位：商汤科技发布面向 AI 原生时代的大装置解决方案，通过重新设计算力集群架构，提升大规模模型训练和推理的效率。新架构针对万亿参数模型优化，助力企业构建高性价比的 AI 基础设施。",
-      "tags": [
-        "算力",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395194.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "de4af666",
-      "lang": "zh",
-      "title_zh": "再螆20亿！星海图把具身智能头部门槛抬到了200亿",
-      "summary_zh": "量子位：具身智能公司星海图完成新一轮 20 亿元螊资，估值突破 200 亿元。此轮螊资将用于人形机器人研发和量产布局，进一步拉高行业头部门槛，显示出资本对具身智能赛道的持续看好。",
-      "tags": [
-        "螊资",
-        "具身智能"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394626.html",
-      "published_at": "2026-04-02T03:30:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "5e0598a9",
-      "lang": "zh",
-      "title_zh": "盯着还没注册公司的顶尖天才，DigClaw获天使轮融资",
-      "summary_zh": "量子位：具身智能投资机构 DigClaw 完成天使轮融资，由中科创星、中关村资本联合投资。该机构专注于挖掘具身智能领域尚未成立公司的顶尖研究人员，提前布局早期项目。",
-      "tags": [
-        "融资",
-        "具身智能"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394602.html",
-      "published_at": "2026-04-02T03:00:00Z",
-      "collected_at": "2026-04-02T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4bcf8d97",
-      "lang": "zh",
-      "title_zh": "千问AI眼镜首次OTA升级上线AI办事能力",
-      "summary_zh": "阿里巴巴：千问AI眼镜发布后完成首次 OTA 升级，深度接入淘宝闪购和支付宝，支持话费充值、扫码骑车、停车缴费、语音点外卖等高频生活服务。新版本同时强化即时理解能力，支持拍题解题和实时跨语言翻译。此次升级标志 AI 眼镜从回答问题转向把事办成，成为大模型落地真实世界的物理接口。",
-      "tags": [
-        "产品发布",
-        "硬件"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394620.html",
-      "published_at": "2026-04-02T03:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "a5d8b1f3",
-      "lang": "zh",
-      "title_zh": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
-      "summary_zh": "量子位：智谱 AI 发布 GLM-5V-Turbo 视觉模型，支持通过一张手绘草图直接生成前端代码，开启视觉编程新范式。该模型可理解 UI 布局意图，自动转化为可运行的 HTML/CSS 代码，大幅降低前端开发门槛。",
-      "tags": [
-        "产品发布",
-        "多模态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394641.html",
-      "published_at": "2026-04-02T03:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "8dc244db",
-      "lang": "en",
-      "title_en": "The Claude Code Leak",
-      "title_zh": "Claude Code源码泄漏深度解析",
-      "summary_en": "build.ms (via Hacker News): An analysis of the accidental Claude Code source code leak after Anthropic shipped version 2.1.88 containing source maps with over 512,000 lines of TypeScript. The piece offers five observations about what the leak reveals regarding AI software development practices, noting the codebase reflects patterns typical of rapid AI-assisted development and examining what the internal architecture reveals about agentic system design.",
-      "summary_zh": "build.ms（Hacker News）：对 Anthropic Claude Code 2.1.88 版本意外泄漏超过51.2万行 TypeScript 源码事件的深度分析。作者提出五项观察，指出代码库呈现 AI 辅助快速开发的典型特征，并解读内部架构所揭示的智能体系统设计思路。",
-      "tags": [
-        "行业动态"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://build.ms/2026/4/1/the-claude-code-leak/",
-      "published_at": "2026-04-02T02:26:05Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "80b925b0",
-      "lang": "zh",
-      "title_zh": "Claude Code爆改Python版加冕最快10万星，且clone且珍惜",
-      "summary_zh": "量子位：一位开发者将 Claude Code 的 TypeScript 版本改写为 Python，项目在 GitHub 上以史上最快速度突破 10 万 star。该项目因绕过官方限制、功能相似且开源免费引发广泛关注，但随时面临被下架风险。",
-      "tags": [
-        "开发工具",
-        "开源"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394570.html",
-      "published_at": "2026-04-02T02:00:00Z",
-      "collected_at": "2026-04-02T03:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "d5fe455b",
-      "lang": "zh",
-      "title_zh": "豆包大模型日均Token突破120万亿，Seedance 2.0开放公测",
-      "summary_zh": "火山引擎：火山引擎宣布 Seedance 2.0 API 面向企业用户开放公测，具备版权与肖像安全保障机制。截至2026年3月，豆包大模型日均 Token 使用量突破120万亿，近三个月翻倍，较2024年5月发布时增长1000倍。火山引擎累计 Token 使用量超过1万亿的企业已从100家增至140家。",
-      "tags": [
-        "产品发布",
-        "多模态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394616.html",
-      "published_at": "2026-04-02T02:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
+      "published_at": "2026-04-02T00:00:00Z",
+      "collected_at": "2026-04-03T03:16:00Z",
       "importance": 4,
       "merged_sources": []
     }
