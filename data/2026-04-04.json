@@ -1,7 +1,92 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T09:20:00Z",
+  "generated_at": "2026-04-04T15:15:00Z",
   "items": [
+    {
+      "id": "9c43866c",
+      "lang": "en",
+      "title_en": "Really, you made this without AI? Prove it",
+      "title_zh": "证明你的作品不是AI生成的",
+      "summary_en": "The Verge: As generative AI increasingly mimics human creative output, The Verge explores the growing movement to label human-made content. With platforms like Instagram and existing C2PA standards failing to adequately distinguish AI from human work, advocates argue it may be more practical to certify and fingerprint human-made content rather than flag AI output. Multiple authentication solutions have emerged but face adoption challenges.",
+      "summary_zh": "The Verge：随着生成式AI越来越能模仿人类创作，The Verge 探讨了为人类作品贴标签的新兴运动。Instagram 负责人建议为真实媒体加指纹而非标记AI内容，现有C2PA标准效果有限。多种人类创作认证方案已涌现，但面临推广挑战。",
+      "tags": [
+        "多模态",
+        "政策监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+      "published_at": "2026-04-04T13:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "602de05a",
+      "lang": "en",
+      "title_en": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
+      "title_zh": "AI神童辍学创业，投资人买单",
+      "summary_en": "[title-only] WSJ: Young AI entrepreneurs are dropping out of college and attracting venture capital funding to pursue AI startups, reflecting intense investor interest in early-stage AI talent.",
+      "summary_zh": "WSJ：AI领域年轻创业者纷纷辍学，吸引风险投资支持其AI创业公司，反映出投资者对早期AI人才的强烈兴趣。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
+      "published_at": "2026-04-04T10:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "59e024b0",
+      "lang": "zh",
+      "title_zh": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+      "summary_zh": "阿里巴巴：发布仅1天的Qwen3.6-Plus在全球大模型API聚合平台OpenRouter的日榜登顶榜首，日调用量突破1.4万亿Token，打破该平台单日单模型调用量全球纪录，较上线当晚激增711%。Qwen3.6-Plus在国际大模型竞技场Arena编程能力子榜排名中国第一，使阿里成为编程能力全球排名第二的AI机构。",
+      "tags": [
+        "产品发布",
+        "评测基准",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396346.html",
+      "published_at": "2026-04-04T06:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "fcbeccba",
+      "lang": "zh",
+      "title_zh": "Django创始人：30岁程序员受AI冲击最大",
+      "summary_zh": "量子位：Django联合创始人Simon Willison表示，自2025年11月起AI写代码能力跨越临界点，高质量代码产出量提升30至40倍，单日原型从1至2天变为3小时出3套方案。他警告30岁程序员受冲击最大，因为刚积累的熟练度被AI直接替代，而资深工程师的20年架构经验反被AI放大。美国律师行业因AI幻觉搞砸案子的记录已累计1228起。",
+      "tags": [
+        "Agent",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395995.html",
+      "published_at": "2026-04-04T04:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "47528d42",
+      "lang": "zh",
+      "title_zh": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+      "summary_zh": "量子位：一群19岁左右的常青藤辍学中国年轻人推出AI记忆框架M-FLOW，突破传统RAG仅做语义相似匹配的局限。M-FLOW采用图结构从细粒度Entity到完整Episode的锥形搜索机制，在多轮对话、长期记忆、多跳推理三大场景下性能显著优于Mem0、Graphiti、Cognee等主流方案，覆盖29项能力维度大多实现完整支持。",
+      "tags": [
+        "RAG",
+        "Agent",
+        "研究论文"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396069.html",
+      "published_at": "2026-04-04T02:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "76f515f7",
       "lang": "en",

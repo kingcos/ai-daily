@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-04",
-  "updated_at": "2026-04-04T09:20:00Z",
+  "updated_at": "2026-04-04T15:15:00Z",
   "dates": [
     "2026-04-04",
     "2026-04-03",
@@ -33,11 +33,96 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 421,
+  "total_items": 24,
   "page": 1,
   "page_size": 20,
-  "total_pages": 22,
+  "total_pages": 2,
   "items": [
+    {
+      "id": "9c43866c",
+      "lang": "en",
+      "title_en": "Really, you made this without AI? Prove it",
+      "title_zh": "证明你的作品不是AI生成的",
+      "summary_en": "The Verge: As generative AI increasingly mimics human creative output, The Verge explores the growing movement to label human-made content. With platforms like Instagram and existing C2PA standards failing to adequately distinguish AI from human work, advocates argue it may be more practical to certify and fingerprint human-made content rather than flag AI output. Multiple authentication solutions have emerged but face adoption challenges.",
+      "summary_zh": "The Verge：随着生成式AI越来越能模仿人类创作，The Verge 探讨了为人类作品贴标签的新兴运动。Instagram 负责人建议为真实媒体加指纹而非标记AI内容，现有C2PA标准效果有限。多种人类创作认证方案已涌现，但面临推广挑战。",
+      "tags": [
+        "多模态",
+        "政策监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+      "published_at": "2026-04-04T13:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "602de05a",
+      "lang": "en",
+      "title_en": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
+      "title_zh": "AI神童辍学创业，投资人买单",
+      "summary_en": "[title-only] WSJ: Young AI entrepreneurs are dropping out of college and attracting venture capital funding to pursue AI startups, reflecting intense investor interest in early-stage AI talent.",
+      "summary_zh": "WSJ：AI领域年轻创业者纷纷辍学，吸引风险投资支持其AI创业公司，反映出投资者对早期AI人才的强烈兴趣。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
+      "published_at": "2026-04-04T10:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "59e024b0",
+      "lang": "zh",
+      "title_zh": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+      "summary_zh": "阿里巴巴：发布仅1天的Qwen3.6-Plus在全球大模型API聚合平台OpenRouter的日榜登顶榜首，日调用量突破1.4万亿Token，打破该平台单日单模型调用量全球纪录，较上线当晚激增711%。Qwen3.6-Plus在国际大模型竞技场Arena编程能力子榜排名中国第一，使阿里成为编程能力全球排名第二的AI机构。",
+      "tags": [
+        "产品发布",
+        "评测基准",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396346.html",
+      "published_at": "2026-04-04T06:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "fcbeccba",
+      "lang": "zh",
+      "title_zh": "Django创始人：30岁程序员受AI冲击最大",
+      "summary_zh": "量子位：Django联合创始人Simon Willison表示，自2025年11月起AI写代码能力跨越临界点，高质量代码产出量提升30至40倍，单日原型从1至2天变为3小时出3套方案。他警告30岁程序员受冲击最大，因为刚积累的熟练度被AI直接替代，而资深工程师的20年架构经验反被AI放大。美国律师行业因AI幻觉搞砸案子的记录已累计1228起。",
+      "tags": [
+        "Agent",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395995.html",
+      "published_at": "2026-04-04T04:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "47528d42",
+      "lang": "zh",
+      "title_zh": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+      "summary_zh": "量子位：一群19岁左右的常青藤辍学中国年轻人推出AI记忆框架M-FLOW，突破传统RAG仅做语义相似匹配的局限。M-FLOW采用图结构从细粒度Entity到完整Episode的锥形搜索机制，在多轮对话、长期记忆、多跳推理三大场景下性能显著优于Mem0、Graphiti、Cognee等主流方案，覆盖29项能力维度大多实现完整支持。",
+      "tags": [
+        "RAG",
+        "Agent",
+        "研究论文"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396069.html",
+      "published_at": "2026-04-04T02:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "76f515f7",
       "lang": "en",
@@ -297,79 +382,6 @@
       "published_at": "2026-04-03T00:00:00Z",
       "collected_at": "2026-04-04T03:15:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "06c4e2fd",
-      "lang": "en",
-      "title_en": "Anthropic Offers Extra Usage Credit for Claude Pro, Max, and Team Plan Subscribers",
-      "title_zh": "Anthropic 推出使用量套餐，为 Pro/Max/Team 订阅用户赠送额外额度",
-      "summary_en": "Anthropic: Anthropic announced extra usage credit for Claude Pro, Max, and Team subscribers to celebrate the launch of usage bundles. The new billing structure lets users purchase additional compute in fixed bundles on top of their subscription, giving more flexibility for heavy users.",
-      "summary_zh": "Anthropic：Anthropic 推出使用量套餐，并为现有 Pro、Max 和 Team 订阅用户赠送额外使用额度以庆祝上线。新计费方式允许用户在订阅基础上以固定包形式追加算力，为重度用户提供更大灵活性。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plan-subscribers",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "41f7a052",
-      "lang": "en",
-      "title_en": "Gemma 4: Our Most Capable Open Models to Date",
-      "title_zh": "Gemma 4 发布：谷歌最强开源模型，专为推理与 Agent 工作流打造",
-      "summary_en": "Google DeepMind: Google DeepMind released Gemma 4, its most intelligent open model family to date, built from Gemini 3 research. The family includes 31B, 26B, 4B, and 2B variants with thinking support, multimodal reasoning, and 140-language support. Benchmarks show Gemma 4 31B surpasses prior state-of-the-art on AIME 2026, GPQA Diamond, and agentic tool use.",
-      "summary_zh": "Google DeepMind：谷歌 DeepMind 发布 Gemma 4 系列开源模型，基于 Gemini 3 研究打造，包含 31B、26B、4B、2B 四个规格，支持思维链推理、多模态及 140 种语言。31B 版本在 AIME 2026、GPQA Diamond 和 Agent 工具使用基准上均超越此前最优模型。",
-      "tags": [
-        "产品发布",
-        "开源"
-      ],
-      "source_name": "Google DeepMind",
-      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
-      "published_at": "2026-04-02T16:00:00Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 5,
-      "merged_sources": [
-        "https://deepmind.google/models/gemma/gemma-4/"
-      ]
-    },
-    {
-      "id": "2f22c4fb",
-      "lang": "en",
-      "title_en": "Emotion Concepts and Their Function in a Large Language Model",
-      "title_zh": "大语言模型中的情绪概念及其功能：Anthropic 可解释性新研究",
-      "summary_en": "Anthropic: Anthropic researchers published interpretability findings showing that Claude possesses internal representations of emotion-like concepts that causally influence its behavior. The research maps how features resembling emotions such as frustration, curiosity, and calm modulate the model's outputs, advancing mechanistic understanding of LLM internals.",
-      "summary_zh": "Anthropic：Anthropic 研究人员发表可解释性研究成果，揭示 Claude 内部存在类情绪概念表征，并对其行为产生因果影响。研究描绘了挫败感、好奇心、平静等类情绪特征如何调节模型输出，深化了对大语言模型内部机制的理解。",
-      "tags": [
-        "研究",
-        "安全与对齐"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "published_at": "2026-04-02T00:00:00Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "b733f7d9",
-      "lang": "en",
-      "title_en": "Qwen3.6-Plus: Towards Real-World Agents",
-      "title_zh": "Qwen3.6-Plus 发布：面向真实场景的 Agent 能力大模型",
-      "summary_en": "Hacker News: Alibaba released Qwen3.6-Plus, the latest iteration of its Qwen model series, with a focus on real-world agentic capabilities. The model is designed for complex multi-step tasks, improved tool use, and stronger reasoning in practical deployment scenarios.",
-      "summary_zh": "Hacker News：阿里巴巴发布 Qwen3.6-Plus，主打面向真实场景的 Agent 能力。该模型专为复杂多步骤任务设计，具备更强的工具调用能力和实际部署场景下的推理性能。",
-      "tags": [
-        "产品发布",
-        "开源"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://qwen.ai/blog?id=qwen3.6",
-      "published_at": "2026-04-02T00:00:00Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]
