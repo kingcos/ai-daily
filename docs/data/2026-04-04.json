@@ -1,42 +1,6 @@
 {
-  "latest_date": "2026-04-04",
-  "updated_at": "2026-04-04T03:18:19Z",
-  "dates": [
-    "2026-04-04",
-    "2026-04-03",
-    "2026-04-02",
-    "2026-04-01",
-    "2026-03-31",
-    "2026-03-30",
-    "2026-03-29",
-    "2026-03-28",
-    "2026-03-26",
-    "2026-03-25",
-    "2026-03-24",
-    "2026-03-23",
-    "2026-03-22",
-    "2026-03-21",
-    "2026-03-20",
-    "2026-03-19",
-    "2026-03-18",
-    "2026-03-17",
-    "2026-03-16",
-    "2026-03-15",
-    "2026-03-14",
-    "2026-03-13",
-    "2026-03-12",
-    "2026-03-11",
-    "2026-03-10",
-    "2026-03-09",
-    "2026-03-08",
-    "2026-03-07",
-    "2026-03-06",
-    "2026-03-05"
-  ],
-  "total_items": 10,
-  "page": 1,
-  "page_size": 20,
-  "total_pages": 1,
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T03:15:00Z",
   "items": [
     {
       "id": "76f515f7",
@@ -45,9 +9,7 @@
       "title_zh": "Anthropic 在私募二级市场走俏，SpaceX IPO 或分流资金",
       "summary_en": "TechCrunch: Rainmaker Securities president Glen Anderson says the secondary market for private shares has never been more active, with Anthropic emerging as the hottest trade. OpenAI has been losing secondary market momentum, and SpaceX's anticipated IPO could divert institutional appetite away from private AI company shares.",
       "summary_zh": "TechCrunch：Rainmaker Securities 总裁 Glen Anderson 表示，私募股权二级市场从未如此活跃，Anthropic 已成为最热门交易标的，OpenAI 热度有所下滑。SpaceX 即将到来的 IPO 可能分流机构投资者对 AI 私募股权的兴趣。",
-      "tags": [
-        "融资"
-      ],
+      "tags": ["融资"],
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
       "published_at": "2026-04-04T01:31:00Z",
@@ -62,9 +24,7 @@
       "title_zh": "OpenAI 股权表泄露：微软回报18倍，奥特曼持股为零",
       "summary_en": "Forbes: A leaked OpenAI cap table reveals that Microsoft stands to earn approximately 18 times its investment return, while SoftBank has seen a $50 billion paper gain. The table also shows that CEO Sam Altman currently holds no equity stake in the company, a notable detail given ongoing discussions about his compensation.",
       "summary_zh": "Forbes：泄露的 OpenAI 股权表显示，微软的投资回报约为18倍，软银账面浮盈约500亿美元。股权表还揭示 CEO 山姆·奥特曼目前不持有公司任何股权，在外界广泛讨论其薪酬方案的背景下尤为引人注目。",
-      "tags": [
-        "融资"
-      ],
+      "tags": ["融资"],
       "source_name": "Hacker News",
       "source_url": "https://www.forbes.com/sites/josipamajic/2026/04/02/openai-cap-table-leak-reveals-microsofts-18x-return-softbanks-50b-gain-and-a-ceo-who-owns-nothing/",
       "published_at": "2026-04-04T00:34:49Z",
@@ -79,10 +39,7 @@
       "title_zh": "Anthropic 禁止第三方客户端使用 Claude 订阅额度",
       "summary_en": "Anthropic: Starting April 4th at 3PM ET, Claude subscribers will no longer be able to use their subscription limits with third-party tools such as OpenClaw. Users wishing to continue using OpenClaw with Claude must switch to a separate pay-as-you-go billing option, effectively decoupling third-party harness access from subscription plans. The change comes as OpenClaw founder Peter Steinberger has joined OpenAI.",
       "summary_zh": "Anthropic：从美国东部时间4月4日下午3点起，Claude 订阅用户将无法再通过 OpenClaw 等第三方工具使用订阅额度，需切换至独立的按量计费方式。此举有效将第三方客户端与订阅套餐解耦，时机与 OpenClaw 创始人 Peter Steinberger 加入 OpenAI 高度吻合。",
-      "tags": [
-        "产品发布",
-        "政策监管"
-      ],
+      "tags": ["产品发布", "政策监管"],
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
       "published_at": "2026-04-03T23:52:49Z",
@@ -97,10 +54,7 @@
       "title_zh": "Claude Code 发现隐藏23年的 Linux 内核漏洞",
       "summary_en": "mtlynch.io: A developer used Anthropic's Claude Code to audit a Linux kernel subsystem and discovered a security vulnerability that had been present in the codebase for over 23 years. The finding highlights Claude Code's capability as a deep code analysis and security auditing tool, potentially surpassing conventional static analyzers in surfacing complex, long-latent bugs.",
       "summary_zh": "mtlynch.io：一位开发者使用 Anthropic 的 Claude Code 对 Linux 内核子系统进行安全审计，发现了一个潜伏超过23年的安全漏洞，展示了 Claude Code 在深度代码分析与安全审计方面超越传统静态分析工具的潜力。",
-      "tags": [
-        "Agent",
-        "编程"
-      ],
+      "tags": ["Agent", "编程"],
       "source_name": "Hacker News",
       "source_url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
       "published_at": "2026-04-03T23:46:51Z",
@@ -115,9 +69,7 @@
       "title_zh": "研究：大量用户轻信 AI 错误答案，主动放弃独立思考",
       "summary_en": "Ars Technica: New research finds that large majorities of AI users uncritically accept faulty AI-generated answers even when demonstrably wrong. The study raises concerns about 'cognitive surrender,' where users defer logical reasoning to AI systems without verification, potentially eroding critical thinking skills at scale over time.",
       "summary_zh": "Ars Technica：最新研究发现，大多数 AI 用户会不加批判地接受错误的 AI 答案。该研究对「认知让渡」现象发出警告——用户将逻辑推理拱手交给 AI 而不加验证，可能在大规模用户群体中长期侵蚀批判性思维能力。",
-      "tags": [
-        "安全对齐"
-      ],
+      "tags": ["安全对齐"],
       "source_name": "Hacker News",
       "source_url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
       "published_at": "2026-04-03T21:06:15Z",
@@ -132,9 +84,7 @@
       "title_zh": "OpenAI 高管大调整：COO 转岗、CMO 离职、AGI CEO 请假",
       "summary_en": "OpenAI: OpenAI announced a series of C-suite changes. COO Brad Lightcap takes on a new 'special projects' leadership role. CMO Kate Rouch is stepping away to focus on cancer recovery with plans to return. CEO of AGI deployment Fidji Simo will take medical leave for several weeks due to a neuroimmune condition, with president Greg Brockman temporarily assuming oversight of product.",
       "summary_zh": "OpenAI：OpenAI 宣布多项高管调整。COO Brad Lightcap 转任「特别项目」负责人；CMO Kate Rouch 因癌症康复需要离职，计划康复后回归；AGI 部署 CEO Fidji Simo 因神经免疫疾病休假数周，总裁 Greg Brockman 临时接管产品工作。",
-      "tags": [
-        "产品发布"
-      ],
+      "tags": ["产品发布"],
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
       "published_at": "2026-04-03T20:35:34Z",
@@ -151,10 +101,7 @@
       "title_zh": "Anthropic 斥资4亿美元收购生物科技 AI 初创 Coefficient Bio",
       "summary_en": "Anthropic: Anthropic has acquired stealth biotech AI startup Coefficient Bio in a $400 million all-stock deal, according to reports from The Information and Eric Newcomer. Coefficient Bio had been operating quietly, applying AI models to biological research problems. The acquisition marks Anthropic's first major expansion into the biotech sector.",
       "summary_zh": "Anthropic：据 The Information 及 Eric Newcomer 报道，Anthropic 已以4亿美元全股票方式收购隐身生物科技 AI 初创公司 Coefficient Bio。该公司此前低调运营，专注于将 AI 模型应用于生物研究，此次收购是 Anthropic 首次重大进军生物科技领域。",
-      "tags": [
-        "收购",
-        "医疗"
-      ],
+      "tags": ["收购", "医疗"],
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
       "published_at": "2026-04-03T20:28:40Z",
@@ -169,9 +116,7 @@
       "title_zh": "Anthropic 成立政治行动委员会，布局美国中期选举",
       "summary_en": "Anthropic: Anthropic has established a new Political Action Committee (PAC) with midterm elections approaching, positioning itself to support candidates aligned with its AI policy agenda. The move signals a significant escalation in Anthropic's Washington influence strategy.",
       "summary_zh": "Anthropic：随着美国中期选举临近，Anthropic 成立了政治行动委员会（PAC），准备支持认同其 AI 政策主张的候选人，标志着 Anthropic 在华盛顿政治影响力方面大幅加码。",
-      "tags": [
-        "政策监管"
-      ],
+      "tags": ["政策监管"],
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
       "published_at": "2026-04-03T20:22:18Z",
@@ -184,9 +129,7 @@
       "lang": "zh",
       "title_zh": "OpenAI收购了一家脱口秀公司",
       "summary_zh": "OpenAI：OpenAI 收购了科技领域脱口秀播客节目 TBPN，其主持人与 OpenAI CEO 奥特曼相识超过10年。此次收购被视为 OpenAI 涉足媒体内容领域的信号，也是其推进超级应用产品战略的组成部分。",
-      "tags": [
-        "收购"
-      ],
+      "tags": ["收购"],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/04/395316.html",
       "published_at": "2026-04-03T00:00:00Z",
@@ -199,10 +142,7 @@
       "lang": "zh",
       "title_zh": "Sora向左，阿里向右：全能演技派模型登场千问APP",
       "summary_zh": "阿里巴巴：千问APP 迎来重大功能升级，上线支持多模态内容创作的全能演技派模型，在视频生成方向采取与 Sora 差异化策略，强调图像、语音、视频等多模态能力的综合表达与场景覆盖。",
-      "tags": [
-        "产品发布",
-        "多模态"
-      ],
+      "tags": ["产品发布", "多模态"],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/04/395477.html",
       "published_at": "2026-04-03T00:00:00Z",
