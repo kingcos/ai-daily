@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-05",
-  "updated_at": "2026-04-05T03:10:17Z",
+  "updated_at": "2026-04-05T15:14:50Z",
   "dates": [
     "2026-04-05",
     "2026-04-04",
@@ -34,11 +34,149 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 7,
+  "total_items": 17,
   "page": 1,
   "page_size": 20,
   "total_pages": 1,
   "items": [
+    {
+      "id": "7be922b9",
+      "lang": "en",
+      "title_en": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "title_zh": "Gemini 接管 Google Maps 行程规划：出人意料地好用",
+      "summary_en": "The Verge: Google's Gemini AI, integrated into Google Maps, was tested for full-day itinerary planning. The hands-on found it capable of building coherent travel plans with restaurant picks, transit suggestions, and timing — outperforming earlier AI map assistants in practical usability.",
+      "summary_zh": "The Verge：测试者将 Google Maps 中的 Gemini AI 用于全天行程规划，发现其能自动整合餐厅推荐、交通建议和时间安排，实用性超出预期，表现优于以往的 AI 地图助手。",
+      "tags": [
+        "AI应用",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "published_at": "2026-04-05T14:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9c73d434",
+      "lang": "en",
+      "title_en": "Eight years of wanting, three months of building with AI",
+      "title_zh": "渴望了八年，借助 AI 三个月造出来了",
+      "summary_en": "Hacker News: A developer who spent eight years wishing for better SQLite developer tooling used AI to build SyntaQLite in just three months. The post explores how AI coding assistants dramatically compressed the time from idea to shipping product for solo developers.",
+      "summary_zh": "Hacker News：一位开发者等待了八年，希望有更好的 SQLite 开发工具，最终借助 AI 在三个月内完成了 SyntaQLite。文章探讨了 AI 编码助手如何大幅压缩独立开发者从想法到上线的时间。",
+      "tags": [
+        "AI应用",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "published_at": "2026-04-05T12:43:47Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9571bb9e",
+      "lang": "en",
+      "title_en": "Grammarly's sloppelganger saga",
+      "title_zh": "Grammarly 的 AI 审稿困境",
+      "summary_en": "The Verge: An expert reviewer recounts a lengthy saga with Grammarly, whose AI suggestions increasingly homogenized their writing style — raising questions about how AI grammar and writing tools reshape individual voice and the broader implications for authentic expression.",
+      "summary_zh": "The Verge：一位专业审稿人讲述了与 Grammarly 的漫长纠葛——AI 建议不断同质化其写作风格，引发了对 AI 写作工具如何重塑个人表达以及真实性的深层思考。",
+      "tags": [
+        "AI应用",
+        "政策监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "published_at": "2026-04-05T12:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2d5b2299",
+      "lang": "en",
+      "title_en": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "title_zh": "日本机器人不抢工作，专填无人愿做的岗位",
+      "summary_en": "TechCrunch: Driven by severe labor shortages, Japan is moving physical AI and robotics from pilot projects into real-world deployment at scale — focusing on physically demanding or undesirable jobs in logistics, agriculture, and care sectors rather than displacing white-collar workers.",
+      "summary_zh": "TechCrunch：面对严峻的劳动力短缺，日本正将物理 AI 与机器人技术从试点推向大规模落地，重点填补物流、农业和护理等行业中无人愿做的体力岗位，而非取代脑力工作者。",
+      "tags": [
+        "AI应用",
+        "机器人"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "published_at": "2026-04-05T10:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "5ef1c864",
+      "lang": "zh",
+      "title_zh": "OpenAI新模型不是GPTX！全新预训练「土豆」曝光，Sora成弃子的原因找到了",
+      "summary_zh": "量子位：据报道，OpenAI 正在训练一款代号为「土豆」的全新预训练基础模型，定位并非 GPT-X 系列延续，同时有消息称 Sora 团队遭遇内部资源重组，可能是其发展滞后的主因。",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396535.html",
+      "published_at": "2026-04-05T08:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "3d90023f",
+      "lang": "zh",
+      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "summary_zh": "量子位：国内 AI 公司太初元碁宣布向全体员工发放价值百亿的算力 token，并计划与高校共建 AI 科教融合学院，推动产学研深度合作，加速 AI 人才培养与应用落地。",
+      "tags": [
+        "AI应用",
+        "产业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396533.html",
+      "published_at": "2026-04-05T06:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "3d8ec146",
+      "lang": "en",
+      "title_en": "I used AI. It worked. I hated it",
+      "title_zh": "我用了 AI，它好用，但我很痛苦",
+      "summary_en": "Hacker News: A developer used Claude Code to build a tool they needed and found it technically effective — but the experience felt deeply unsatisfying. The post reflects on what it means to outsource creative problem-solving to AI and the emotional cost of getting results without the journey.",
+      "summary_zh": "Hacker News：一位开发者用 Claude Code 构建了所需工具，技术上相当成功，但过程中却感到极度不适。文章反思了将创造性问题解决外包给 AI 的意义，以及在没有亲历过程的情况下获得结果所带来的情感代价。",
+      "tags": [
+        "AI应用",
+        "Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://taggart-tech.com/reckoning/",
+      "published_at": "2026-04-05T05:08:39Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d304f09b",
+      "lang": "zh",
+      "title_zh": "具身龙虾，上车理想",
+      "summary_zh": "量子位：理想汽车与具身智能初创合作，将 AI 机器人（昵称「龙虾」）部署至门店场景，实现主动迎宾、取车引导等交互功能，探索具身 AI 在汽车零售与服务场景的落地路径。",
+      "tags": [
+        "机器人",
+        "AI应用"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396517.html",
+      "published_at": "2026-04-05T05:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "0c34644e",
       "lang": "zh",
@@ -53,6 +191,40 @@
       "published_at": "2026-04-05T03:00:00Z",
       "collected_at": "2026-04-05T03:10:08Z",
       "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "655d9a8b",
+      "lang": "zh",
+      "title_zh": "GPT-6，曝光了",
+      "summary_zh": "量子位：有关 OpenAI GPT-6 的内部细节被曝光，报道显示该模型彻底面向 AGI 目标设计，在架构和能力目标上与此前系列有重大差异，OpenAI 正全力押注这一下一代旗舰模型。",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396366.html",
+      "published_at": "2026-04-05T03:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "f04624aa",
+      "lang": "en",
+      "title_en": "Towards end-to-end automation of AI research",
+      "title_zh": "AI 研究全自动化初现曙光",
+      "summary_en": "Hacker News: A Nature paper demonstrates an AI system capable of producing research papers with minimal human involvement — even passing the first round of peer review at a major ML conference workshop. The finding raises questions about the future role of human researchers and the integrity of scientific publishing.",
+      "summary_zh": "Hacker News：《自然》刊发论文，展示了一套几乎无需人工干预即可生成研究论文的 AI 系统，甚至通过了顶级机器学习会议分会场的首轮同行评审，引发科研诚信与人类研究者未来角色的深层讨论。",
+      "tags": [
+        "基础研究",
+        "AI安全"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.nature.com/articles/s41586-026-10265-5",
+      "published_at": "2026-04-05T02:48:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
