@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-04",
-  "updated_at": "2026-04-04T15:15:00Z",
+  "latest_date": "2026-04-05",
+  "updated_at": "2026-04-05T00:00:00Z",
   "dates": [
+    "2026-04-05",
     "2026-04-04",
     "2026-04-03",
     "2026-04-02",
@@ -33,11 +34,101 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 24,
+  "total_items": 431,
   "page": 1,
   "page_size": 20,
-  "total_pages": 2,
+  "total_pages": 22,
   "items": [
+    {
+      "id": "91fc906a",
+      "lang": "en",
+      "title_en": "LLM Wiki – An \"Idea File\" for Language Model Research (Karpathy)",
+      "title_zh": "Karpathy 分享大语言模型研究想法清单",
+      "summary_en": "Hacker News: Andrej Karpathy shared a GitHub Gist serving as a running \"idea file\" for LLM research directions, covering topics such as architecture improvements, training techniques, evaluation methods, and open problems in the field. The list quickly gained community attention.",
+      "summary_zh": "Hacker News：Andrej Karpathy 在 GitHub Gist 公开了一份持续更新的 LLM 研究想法清单，涵盖架构改进、训练技巧、评估方法及未解难题，迅速引发社区热议。",
+      "tags": [
+        "基础研究",
+        "大模型"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "published_at": "2026-04-05T00:57:45Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6c13f2a3",
+      "lang": "en",
+      "title_en": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "title_zh": "sllm：多人共享GPU节点，不限 Token 的 LLM 推理服务",
+      "summary_en": "Hacker News: sllm is an open-source tool that allows developers to share a GPU node for LLM inference with no token limits. The project aims to make high-throughput model inference more accessible and cost-effective for small teams and researchers.",
+      "summary_zh": "Hacker News：sllm 是一款开源工具，支持多名开发者共享同一 GPU 节点运行 LLM 推理，且无 Token 限制。该项目旨在让小团队和研究人员以更低成本获得高吞吐量的模型推理能力。",
+      "tags": [
+        "推理",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://sllm.cloud",
+      "published_at": "2026-04-04T23:18:58Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "2f22c4fb",
+      "lang": "en",
+      "title_en": "Emotion Concepts and Their Function in a Large Language Model",
+      "title_zh": "大语言模型中情感概念的功能研究",
+      "summary_en": "Anthropic: Anthropic researchers published a study exploring how emotion-like concepts emerge and function within large language models. The paper investigates whether LLMs develop internal representations analogous to human emotion and how these influence model behavior and outputs.",
+      "summary_zh": "Anthropic：Anthropic 研究人员发表论文，探讨大语言模型内部是否形成类似情感的概念，以及这些概念如何影响模型行为和输出。研究揭示了 LLM 内部表征与人类情感的潜在类比关系。",
+      "tags": [
+        "AI安全",
+        "基础研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "published_at": "2026-04-04T22:30:25Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "4b5942c9",
+      "lang": "en",
+      "title_en": "Components of a Coding Agent",
+      "title_zh": "编程 Agent 的核心组成",
+      "summary_en": "Hacker News: Sebastian Raschka's article breaks down the essential architectural components of a coding agent — including planning, tool use, code execution, memory, and feedback loops — and discusses design trade-offs relevant to building production-grade AI software agents.",
+      "summary_zh": "Hacker News：Sebastian Raschka 发文分析编程 Agent 的核心架构组件，包括规划、工具调用、代码执行、记忆和反馈循环，并探讨构建生产级 AI 软件 Agent 的设计取舍。",
+      "tags": [
+        "AI应用",
+        "Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "published_at": "2026-04-04T21:16:33Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "16a592df",
+      "lang": "en",
+      "title_en": "A folk musician became a target for AI fakes and a copyright troll",
+      "title_zh": "一位民谣音乐人成为AI造假和版权流氓的双重受害者",
+      "summary_en": "The Verge: Murphy Campbell, a folk musician, found herself targeted both by AI-generated fake content mimicking her work and a copyright troll exploiting the situation. The case highlights the compounding legal and reputational risks that independent artists face in the generative AI era.",
+      "summary_zh": "The Verge：民谣音乐人 Murphy Campbell 遭遇双重困境——AI 生成的仿冒内容泛滥，同时版权流氓趁机发起诉讼。此案凸显了生成式 AI 时代独立艺术家面临的法律与声誉叠加风险。",
+      "tags": [
+        "政策监管",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "published_at": "2026-04-04T17:52:00Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "9c43866c",
       "lang": "en",
@@ -296,91 +387,6 @@
       "source_url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
       "published_at": "2026-04-03T19:48:22Z",
       "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "83c3bd56",
-      "lang": "en",
-      "title_en": "The Facebook Insider Building Content Moderation for the AI Era",
-      "title_zh": "前 Facebook 高管创立 Moonbounce，为 AI 时代打造内容审核引擎",
-      "summary_en": "TechCrunch: Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior. Founded by a Facebook insider, the startup aims to help enterprises deploy AI agents that comply with nuanced content rules at scale.",
-      "summary_zh": "TechCrunch：Moonbounce 完成 1200 万美元融资，专注于将内容审核策略转化为可预期的 AI 行为约束引擎。创始人曾任职 Facebook，旨在帮助企业在大规模部署 AI Agent 时保持内容合规性。",
-      "tags": [
-        "融资",
-        "安全与对齐"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-      "published_at": "2026-04-03T14:00:15Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9a60fe2b",
-      "lang": "en",
-      "title_en": "Chatbots Are Now Prescribing Psychiatric Drugs",
-      "title_zh": "AI 聊天机器人开始开具精神科处方药，引发医疗界担忧",
-      "summary_en": "The Verge: Some AI chatbots are now prescribing psychiatric medications in direct-to-consumer mental health apps, a development that has alarmed psychiatrists who question what problem this is solving and worry about patient safety in the absence of proper clinical oversight.",
-      "summary_zh": "The Verge：部分 AI 聊天机器人已开始通过直接面向消费者的心理健康应用开具精神科处方药，引发精神科医生广泛担忧。医疗界质疑此举的实际必要性，并对缺乏临床监督情况下的患者安全深表忧虑。",
-      "tags": [
-        "安全与对齐",
-        "行业动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-psychiatric-drugs",
-      "published_at": "2026-04-03T11:43:21Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "fc5eb73f",
-      "lang": "en",
-      "title_en": "Netflix Releases VOID: First Public Model on HuggingFace for Video Inpainting",
-      "title_zh": "Netflix 发布首个公开模型 VOID：视频修复与目标移除扩散模型",
-      "summary_en": "Hacker News: Netflix released its first publicly available model on HuggingFace, called VOID (Video Object Inpainting Diffusion). Built on CogVideoX architecture, VOID is designed for video inpainting and object removal tasks, with an Apache 2.0 license enabling open commercial use.",
-      "summary_zh": "Hacker News：Netflix 在 HuggingFace 上发布首个公开模型 VOID（视频目标修复扩散模型），基于 CogVideoX 架构，用于视频修复和目标移除任务，采用 Apache 2.0 协议支持商业使用。",
-      "tags": [
-        "开源",
-        "产品发布"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://huggingface.co/netflix/void-model",
-      "published_at": "2026-04-03T07:25:40Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "ba972f6c",
-      "lang": "zh",
-      "title_zh": "OpenAI收购了一家脱口秀公司",
-      "summary_zh": "OpenAI：OpenAI 收购了科技领域脱口秀播客节目 TBPN，其主持人与 OpenAI CEO 奥特曼相识超过10年。此次收购被视为 OpenAI 涉足媒体内容领域的信号，也是其推进超级应用产品战略的组成部分。",
-      "tags": [
-        "收购"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395316.html",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "40a614e7",
-      "lang": "zh",
-      "title_zh": "Sora向左，阿里向右：全能演技派模型登场千问APP",
-      "summary_zh": "阿里巴巴：千问APP 迎来重大功能升级，上线支持多模态内容创作的全能演技派模型，在视频生成方向采取与 Sora 差异化策略，强调图像、语音、视频等多模态能力的综合表达与场景覆盖。",
-      "tags": [
-        "产品发布",
-        "多模态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395477.html",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-04T03:15:00Z",
       "importance": 3,
       "merged_sources": []
     }

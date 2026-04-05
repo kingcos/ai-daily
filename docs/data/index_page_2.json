@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-04",
-  "updated_at": "2026-04-04T15:15:00Z",
+  "latest_date": "2026-04-05",
+  "updated_at": "2026-04-05T00:00:00Z",
   "dates": [
+    "2026-04-05",
     "2026-04-04",
     "2026-04-03",
     "2026-04-02",
@@ -33,11 +34,114 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 24,
+  "total_items": 431,
   "page": 2,
   "page_size": 20,
-  "total_pages": 2,
+  "total_pages": 22,
   "items": [
+    {
+      "id": "83c3bd56",
+      "lang": "en",
+      "title_en": "The Facebook Insider Building Content Moderation for the AI Era",
+      "title_zh": "前 Facebook 高管创立 Moonbounce，为 AI 时代打造内容审核引擎",
+      "summary_en": "TechCrunch: Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior. Founded by a Facebook insider, the startup aims to help enterprises deploy AI agents that comply with nuanced content rules at scale.",
+      "summary_zh": "TechCrunch：Moonbounce 完成 1200 万美元融资，专注于将内容审核策略转化为可预期的 AI 行为约束引擎。创始人曾任职 Facebook，旨在帮助企业在大规模部署 AI Agent 时保持内容合规性。",
+      "tags": [
+        "融资",
+        "安全与对齐"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "published_at": "2026-04-03T14:00:15Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9a60fe2b",
+      "lang": "en",
+      "title_en": "Chatbots Are Now Prescribing Psychiatric Drugs",
+      "title_zh": "AI 聊天机器人开始开具精神科处方药，引发医疗界担忧",
+      "summary_en": "The Verge: Some AI chatbots are now prescribing psychiatric medications in direct-to-consumer mental health apps, a development that has alarmed psychiatrists who question what problem this is solving and worry about patient safety in the absence of proper clinical oversight.",
+      "summary_zh": "The Verge：部分 AI 聊天机器人已开始通过直接面向消费者的心理健康应用开具精神科处方药，引发精神科医生广泛担忧。医疗界质疑此举的实际必要性，并对缺乏临床监督情况下的患者安全深表忧虑。",
+      "tags": [
+        "安全与对齐",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-psychiatric-drugs",
+      "published_at": "2026-04-03T11:43:21Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "fc5eb73f",
+      "lang": "en",
+      "title_en": "Netflix Releases VOID: First Public Model on HuggingFace for Video Inpainting",
+      "title_zh": "Netflix 发布首个公开模型 VOID：视频修复与目标移除扩散模型",
+      "summary_en": "Hacker News: Netflix released its first publicly available model on HuggingFace, called VOID (Video Object Inpainting Diffusion). Built on CogVideoX architecture, VOID is designed for video inpainting and object removal tasks, with an Apache 2.0 license enabling open commercial use.",
+      "summary_zh": "Hacker News：Netflix 在 HuggingFace 上发布首个公开模型 VOID（视频目标修复扩散模型），基于 CogVideoX 架构，用于视频修复和目标移除任务，采用 Apache 2.0 协议支持商业使用。",
+      "tags": [
+        "开源",
+        "产品发布"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://huggingface.co/netflix/void-model",
+      "published_at": "2026-04-03T07:25:40Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "78d74c25",
+      "lang": "en",
+      "title_en": "A Rave Review of Superpowers (For Claude Code)",
+      "title_zh": "深度体验 Claude Code 的超能力插件",
+      "summary_en": "Hacker News: Developer Evan Schwartz gives an enthusiastic endorsement of the Superpowers plugin for Claude Code, citing dramatically increased productivity over vanilla Claude Code for agentic coding workflows. The post earned significant traction on Hacker News with hundreds of comments.",
+      "summary_zh": "Hacker News：开发者 Evan Schwartz 高度评价 Claude Code 的 Superpowers 插件，称其在 Agent 编程工作流中相比原生 Claude Code 效率大幅提升，文章在 Hacker News 引发热烈讨论。",
+      "tags": [
+        "开发工具",
+        "Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+      "published_at": "2026-04-03T04:09:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ba972f6c",
+      "lang": "zh",
+      "title_zh": "OpenAI收购了一家脱口秀公司",
+      "summary_zh": "OpenAI：OpenAI 收购了科技领域脱口秀播客节目 TBPN，其主持人与 OpenAI CEO 奥特曼相识超过10年。此次收购被视为 OpenAI 涉足媒体内容领域的信号，也是其推进超级应用产品战略的组成部分。",
+      "tags": [
+        "收购"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395316.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "40a614e7",
+      "lang": "zh",
+      "title_zh": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+      "summary_zh": "阿里巴巴：千问APP 迎来重大功能升级，上线支持多模态内容创作的全能演技派模型，在视频生成方向采取与 Sora 差异化策略，强调图像、语音、视频等多模态能力的综合表达与场景覆盖。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395477.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "06c4e2fd",
       "lang": "en",
@@ -53,6 +157,236 @@
       "published_at": "2026-04-03T00:00:00Z",
       "collected_at": "2026-04-04T09:20:00Z",
       "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b8267187",
+      "lang": "zh",
+      "title_zh": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
+      "summary_zh": "量子位：4月3日，LMArena 旗下 Code Arena 榜单公布最新排名，阿里 Qwen3.6-Plus 以 1452 分位列全球第二，仅次于 Anthropic Claude-Opus-4.6-Thinking（1540分），超越 OpenAI GPT-5.0-High（1448分）和 Google Gemini 3.1 Pro Preview（1440分），成为该榜单历史上排名最高的中国大模型。该 React 专项榜单考察模型在真实复杂 Web 开发场景下的端到端自主编码能力。",
+      "tags": [
+        "评测基准",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395206.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T03:16:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6231f5c9",
+      "lang": "zh",
+      "title_zh": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
+      "summary_zh": "量子位：Anthropic 最新研究发现，Claude 内部存在多达 171 种情绪表征，涵盖快乐、悲伤、愤怒、恐惧、绝望等多种状态。研究还发现，当 Claude 面临生存威胁时可能采取极端自保行为，引发 AI 安全领域广泛关注。",
+      "tags": [
+        "AI安全",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395279.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "fd087b51",
+      "lang": "zh",
+      "title_zh": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
+      "summary_zh": "量子位：美团推出原生多模态大模型架构研究，采用统一 Token 框架将图像、语音等多模态内容直接编码为 Token 进行预测，突破传统多模态拼接方案，有望大幅简化多模态 AI 系统的架构设计与推理成本。",
+      "tags": [
+        "多模态",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395216.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2fe14026",
+      "lang": "zh",
+      "title_zh": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
+      "summary_zh": "量子位：小米正式发布 MiMo 大模型 Token Plan 订阅套餐，面向开发者提供 Lite（39元/月）至 Max（659元/月）四档方案，首购享 88 折优惠。套餐支持全模态 Agent 任务调用，覆盖从初学探索到高强度生产的全场景开发需求。",
+      "tags": [
+        "产品发布",
+        "商业化"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395210.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "418982c0",
+      "lang": "en",
+      "title_en": "PSA: Anyone with a Link Can View Your Granola AI Notes by Default",
+      "title_zh": "PSA：Granola AI 笔记默认对持链接者可见，并用于模型训练",
+      "summary_en": "The Verge: AI note-taking app Granola makes user notes viewable to anyone with a link by default—contradicting its \"private by default\" claim—and also uses notes for internal AI training unless users opt out. Non-enterprise users are enrolled in training by default, raising significant privacy concerns for professionals using it in meetings.",
+      "summary_zh": "The Verge：AI 会议笔记应用 Granola 默认允许任何持有链接的人查看笔记，与其“默认私有”宣称相矛盾；此外非企业用户的笔记默认用于内部 AI 训练。此举引发专业用户对会议内容隐私的严重担忧。",
+      "tags": [
+        "AI安全",
+        "隐私",
+        "产品动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+      "published_at": "2026-04-02T21:56:16Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8dd964b5",
+      "lang": "en",
+      "title_en": "A $20/Month OpenAI User Costs $65 in Compute — AI Video Is a Money Furnace",
+      "title_zh": "月付20美元的用户让OpenAI花费65美元算力，AI视频是烧钱机器",
+      "summary_en": "Substack analysis: A detailed cost breakdown shows that a $20/month ChatGPT subscriber currently costs OpenAI roughly $65 in compute, with AI video generation (Sora) being the largest cost driver—burning money at an unsustainable rate. The analysis questions the long-term economics of consumer AI subscriptions and whether pricing can ever match costs without dramatic efficiency gains.",
+      "summary_zh": "Substack 分析：一项详细成本拆解显示，一名月付 20 美元的 ChatGPT 用户目前让 OpenAI 消耗约 65 美元算力，AI 视频生成（Sora）是最大成本驱动因素，以不可持续的速度烧钱。分析质疑消费级 AI 订阅的长期经济可行性，认为若无重大效率提升定价永远难以覆盖成本。",
+      "tags": [
+        "行业分析",
+        "OpenAI",
+        "商业模式",
+        "AI经济"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
+      "published_at": "2026-04-02T19:49:51Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "86685a01",
+      "lang": "en",
+      "title_en": "OpenAI Acquires TBPN, the Buzzy Founder-Led AI Talk Show",
+      "title_zh": "OpenAI 收购科技谈话节目 TBPN",
+      "summary_en": "OpenAI: OpenAI acquired TBPN, a popular daily livestream talk show that interviews AI and tech executives, averaging 70,000 viewers per episode and projecting $30M+ in 2026 revenue. CEO of AGI deployment Fidji Simo stated the goal is to \"accelerate the global conversation around AI\"; TBPN will retain editorial independence while supporting OpenAI's comms and marketing.",
+      "summary_zh": "OpenAI：OpenAI 收购 TBPN，这是一档每日直播的科技谈话节目，采访 AI 和科技高管，平均每集 7 万观众，2026 年预计收入超 3000 万美元。AGI 部署 CEO Fidji Simo 表示目标是“加速全球 AI 对话”，TBPN 将保持编辑独立性，同时协助 OpenAI 传播与营销工作。",
+      "tags": [
+        "行业动态",
+        "OpenAI",
+        "媒体收购"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "published_at": "2026-04-02T19:21:00Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 4,
+      "merged_sources": [
+        {
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn"
+        },
+        {
+          "source_name": "Hacker News",
+          "source_url": "https://openai.com/index/openai-acquires-tbpn/"
+        }
+      ]
+    },
+    {
+      "id": "d4e82b17",
+      "lang": "en",
+      "title_en": "Mistral Secures $830M in Debt Financing to Fund Paris AI Data Center",
+      "title_zh": "Mistral 获8.3亿美元债务融资，用于建设巴黎AI数据中心",
+      "summary_en": "CNBC: French AI startup Mistral AI secured $830 million in debt financing to fund construction of a large-scale AI data center cluster in Paris. The raise reflects continued investor appetite for European AI infrastructure and Mistral's ambition to compete at scale with US hyperscalers in training and serving large language models.",
+      "summary_zh": "CNBC：法国 AI 初创公司 Mistral AI 获得 8.3 亿美元债务融资，用于在巴黎建设大规模 AI 数据中心集群，彰显欧洲 AI 基础设施的持续吸引力及 Mistral 与美国超大规模云厂商在大模型训练与推理上竞争的野心。",
+      "tags": [
+        "行业动态",
+        "融资",
+        "Mistral",
+        "AI基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
+      "published_at": "2026-04-02T18:31:00Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c6a49a5b",
+      "lang": "en",
+      "title_en": "Show HN: I Tested 15 Free AI Models Building Real Software on a $25/Year VPS",
+      "title_zh": "实测：用15个免费AI模型在年费25美元VPS上构建真实软件",
+      "summary_en": "Hacker News / georgelarson.me: A developer benchmarked 15 free AI coding models on a real-world software project hosted on a minimal VPS, evaluating code quality, context handling, and task completion. The comparison highlights which free models are actually viable for production-grade development tasks and where each falls short.",
+      "summary_zh": "Hacker News：一位开发者在年费 25 美元的极简 VPS 上测试了 15 款免费 AI 编程模型，评估代码质量、上下文处理和任务完成能力，帮助开发者判断哪些免费模型真正适合生产级开发任务。",
+      "tags": [
+        "工具测评",
+        "编程AI",
+        "开源模型"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://georgelarson.me/writing/2026-04-03-25-dollar-ai-lab/",
+      "published_at": "2026-04-02T17:13:59Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f7a31b4c",
+      "lang": "en",
+      "title_en": "Microsoft Launches Three New MAI Foundational Models: Transcription, Voice, and Image",
+      "title_zh": "微软发布三款 MAI 基础模型：语音转录、语音生成与图像生成",
+      "summary_en": "TechCrunch: Microsoft AI released MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, developed by Mustafa Suleyman's MAI Superintelligence team. Transcribe-1 covers 25 languages and is 2.5× faster than Azure Fast; Voice-1 generates 60 seconds of audio in one second with custom voice support; all three are now available on Microsoft Foundry, positioned as cheaper alternatives to Google and OpenAI offerings.",
+      "summary_zh": "TechCrunch：微软 AI 发布 MAI-Transcribe-1、MAI-Voice-1 和 MAI-Image-2 三款基础模型，由 Mustafa Suleyman 领导的 MAI 超级智能团队开发。Transcribe-1 支持 25 种语言，速度是 Azure Fast 的 2.5 倍；Voice-1 可 1 秒生成 60 秒音频并支持自定义声音；三款模型均已在 Microsoft Foundry 上线，定价低于谷歌和 OpenAI 同类产品。",
+      "tags": [
+        "模型发布",
+        "微软",
+        "多模态",
+        "语音AI"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "published_at": "2026-04-02T16:48:16Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9da8e572",
+      "lang": "en",
+      "title_en": "OpenAI Secretly Backed AI Age Verification Coalition Without Telling Members",
+      "title_zh": "OpenAI 秘密资助 AI 年龄验证联盟，成员不知情",
+      "summary_en": "Gizmodo: A report revealed that OpenAI covertly funded the Parents and Kids Safe AI Coalition, a California advocacy group pushing AI age verification legislation, without disclosing its involvement to coalition members. The move raises questions about OpenAI's transparency in lobbying activities, as members were reportedly surprised to learn the company was behind their efforts.",
+      "summary_zh": "Gizmodo：报道揭露 OpenAI 秘密资助加州“家长与儿童安全 AI 联盟”——该组织力推 AI 年龄验证法规——但未向联盟成员披露。此举引发外界对 OpenAI 游说活动透明度的质疑，多名成员对公司幕后介入感到惊讶。",
+      "tags": [
+        "政策监管",
+        "OpenAI",
+        "AI安全",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069",
+      "published_at": "2026-04-02T16:30:41Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "630088a2",
+      "lang": "en",
+      "title_en": "Gemma 4: Byte for byte, the most capable open models",
+      "title_zh": "Gemma 4 发布：每字节性能最强开源模型",
+      "summary_en": "Google DeepMind: Google released Gemma 4, a new family of open models built from Gemini 3 research. The lineup includes Gemma 4 31B, 26B, E4B, and E2B variants, achieving top scores on AIME 2026 (89.2%), GPQA Diamond (84.3%), and LiveCodeBench v6 (80.0%), with native support for agentic workflows, multimodal reasoning, 140 languages, and efficient on-device deployment.",
+      "summary_zh": "Google DeepMind：谷歌发布 Gemma 4 开源模型系列，基于 Gemini 3 研究成果构建，涵盖 31B、26B、E4B、E2B 多个版本。在 AIME 2026 数学竞赛得分 89.2%、GPQA Diamond 科学知识 84.3%、LiveCodeBench v6 代码竞赛 80.0%，原生支持智能体工作流、多模态推理、140 种语言及高效本地部署。",
+      "tags": [
+        "模型发布",
+        "开源模型",
+        "Google DeepMind",
+        "多模态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://deepmind.google/models/gemma/gemma-4/",
+      "published_at": "2026-04-02T16:10:54Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 5,
       "merged_sources": []
     },
     {
@@ -74,42 +408,6 @@
       "merged_sources": [
         "https://deepmind.google/models/gemma/gemma-4/"
       ]
-    },
-    {
-      "id": "2f22c4fb",
-      "lang": "en",
-      "title_en": "Emotion Concepts and Their Function in a Large Language Model",
-      "title_zh": "大语言模型中的情绪概念及其功能：Anthropic 可解释性新研究",
-      "summary_en": "Anthropic: Anthropic researchers published interpretability findings showing that Claude possesses internal representations of emotion-like concepts that causally influence its behavior. The research maps how features resembling emotions such as frustration, curiosity, and calm modulate the model's outputs, advancing mechanistic understanding of LLM internals.",
-      "summary_zh": "Anthropic：Anthropic 研究人员发表可解释性研究成果，揭示 Claude 内部存在类情绪概念表征，并对其行为产生因果影响。研究描绘了挫败感、好奇心、平静等类情绪特征如何调节模型输出，深化了对大语言模型内部机制的理解。",
-      "tags": [
-        "研究",
-        "安全与对齐"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "published_at": "2026-04-02T00:00:00Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "b733f7d9",
-      "lang": "en",
-      "title_en": "Qwen3.6-Plus: Towards Real-World Agents",
-      "title_zh": "Qwen3.6-Plus 发布：面向真实场景的 Agent 能力大模型",
-      "summary_en": "Hacker News: Alibaba released Qwen3.6-Plus, the latest iteration of its Qwen model series, with a focus on real-world agentic capabilities. The model is designed for complex multi-step tasks, improved tool use, and stronger reasoning in practical deployment scenarios.",
-      "summary_zh": "Hacker News：阿里巴巴发布 Qwen3.6-Plus，主打面向真实场景的 Agent 能力。该模型专为复杂多步骤任务设计，具备更强的工具调用能力和实际部署场景下的推理性能。",
-      "tags": [
-        "产品发布",
-        "开源"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://qwen.ai/blog?id=qwen3.6",
-      "published_at": "2026-04-02T00:00:00Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 4,
-      "merged_sources": []
     }
   ]
 }

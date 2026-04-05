@@ -1,7 +1,12 @@
 {
-  "latest_date": "2026-03-31",
-  "updated_at": "2026-03-31T15:15:00Z",
+  "latest_date": "2026-04-05",
+  "updated_at": "2026-04-05T00:00:00Z",
   "dates": [
+    "2026-04-05",
+    "2026-04-04",
+    "2026-04-03",
+    "2026-04-02",
+    "2026-04-01",
     "2026-03-31",
     "2026-03-30",
     "2026-03-29",
@@ -29,9 +34,355 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 315,
+  "total_items": 431,
   "page": 8,
   "page_size": 20,
-  "total_pages": 16,
-  "items": []
+  "total_pages": 22,
+  "items": [
+    {
+      "id": "6d9d2ac5",
+      "lang": "en",
+      "title_en": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
+      "title_zh": "OpenAI完成1220亿美元融资破纪录",
+      "summary_en": "OpenAI: OpenAI has closed a record-breaking $122 billion funding round, up from the previously announced $110 billion figure. The round represents the largest private funding round in history. The financing comes as anticipation builds for a potential IPO.",
+      "summary_zh": "OpenAI：OpenAI 完成了 1220 亿美元的融资，较此前披露的 1100 亿美元进一步上调，创下史上最大单笔私募融资纪录。此轮融资是在 IPO 预期升温背景下完成的。",
+      "tags": [
+        "融资",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "d0eee8cd",
+      "lang": "en",
+      "title_en": "Like it or not, AI is part of art school curriculums",
+      "title_zh": "无论喜不喜欢，AI 已成为艺术院校课程的一部分",
+      "summary_en": "The Verge: Art schools across the US are integrating generative AI tools into their curriculums despite student protests. From CalArts to University of Alaska Fairbanks, students and faculty grapple with AI's impact on creative education and job prospects as text-to-image, music, and video generation tools become ubiquitous.",
+      "summary_zh": "The Verge：美国各大艺术院校正将生成式 AI 工具纳入课程体系，尽管引发学生抗议。从加州艺术学院到阿拉斯加费尔班克斯大学，师生们正在与 AI 对创意教育和就业前景的冲击抗争，而文生图、音乐和视频生成工具已日趋普及。",
+      "tags": [
+        "AI伦理",
+        "教育",
+        "生成式AI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-practice",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "da7f95ac",
+      "lang": "en",
+      "title_en": "You can order Grubhub and Uber Eats 'conversationally' with Alexa Plus",
+      "title_zh": "Alexa Plus 支持与 Grubhub 和 Uber Eats 对话式下单",
+      "summary_en": "The Verge: Amazon has added conversational food ordering to Alexa Plus, letting users place Grubhub and Uber Eats orders through natural dialogue rather than rigid call-and-response prompts. The feature rolls out to Echo Show 8 and larger devices for Alexa Plus subscribers, part of Amazon's broader push to make its AI assistant more genuinely useful.",
+      "summary_zh": "The Verge：亚马逊为 Alexa Plus 新增对话式点餐功能，用户可通过自然语言对话在 Grubhub 和 Uber Eats 下单，而非依赖固定指令。该功能面向 Echo Show 8 及更大屏幕设备的 Alexa Plus 订阅用户推出，是亚马逊提升 AI 助手实用性的重要举措。",
+      "tags": [
+        "AI助手",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-delivery-conversational-grubhub-uber-eats",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "71d7e1d3",
+      "lang": "zh",
+      "title_zh": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
+      "summary_zh": "量子位：智谱 AI 发布上市后首份财报，营收超 7.24 亿元，成为国内收入最高的大模型公司。财报显示 MaaS（模型即服务）业务快速增长，标志着国内大模型商业化进入新阶段。",
+      "tags": [
+        "产业动态",
+        "大模型",
+        "商业化"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394135.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "67557a7d",
+      "lang": "zh",
+      "title_zh": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
+      "summary_zh": "量子位：字节跳动旗下 AI 编程工具 TRAE SOLO 正式推出独立 PC 端和 Web 端，功能从代码编写延伸至跨领域任务执行，展现出超越传统 IDE 的智能体能力，进一步与 Cursor 等产品展开竞争。",
+      "tags": [
+        "AI编码",
+        "产品发布",
+        "AI智能体"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394014.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "2f297545",
+      "lang": "zh",
+      "title_zh": "ClawTip来了！京东科技首发推出AI智能体的专属自主零钱包",
+      "summary_zh": "量子位：京东科技发布 ClawTip，定位为 AI 智能体专属的自主支付钱包，支持智能体在无人工干预下自主完成小额支付。这是国内首款面向 AI Agent 的原生支付产品，标志着智能体经济基础设施建设提速。",
+      "tags": [
+        "AI智能体",
+        "金融科技",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394011.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "1beb075c",
+      "lang": "zh",
+      "title_zh": "玻色量子完成10亿元B轮融资，十五五规划量子计算机赛道唯一代表",
+      "summary_zh": "量子位：量子计算公司玻色量子完成 10 亿元 B 轮融资，成为十五五规划专用量子计算机赛道的唯一入选企业。本轮融资将用于加速量子计算硬件研发与商业化落地，标志着国内量子计算赛道进入重资本投入阶段。",
+      "tags": [
+        "量子计算",
+        "融资",
+        "产业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393856.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "df4c40d4",
+      "lang": "en",
+      "title_en": "Qodo raises $70M for code verification as AI coding scales",
+      "title_zh": "Qodo融资7000万美元，专注AI代码验证",
+      "summary_en": "Qodo: New York-based AI code review and verification startup Qodo raised a $70 million Series B led by Qumra Capital, bringing total funding to $120 million. Investors include Maor Ventures, Phoenix Venture Partners, Peter Welinder (OpenAI), and Clara Shih (Meta). Qodo builds AI agents for code review, testing, and governance, positioning itself as a verification layer for AI-generated code.",
+      "summary_zh": "Qodo：纽约AI代码审查与验证初创公司Qodo完成7000万美元B轮融资，由Qumra Capital领投，累计融资额达1.2亿美元，投资方包括OpenAI的Peter Welinder和Meta的Clara Shih。公司专注于构建AI代码审查、测试与治理智能体，定位为AI生成代码的验证层。",
+      "tags": [
+        "融资",
+        "编程"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "published_at": "2026-03-30T14:00:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d46dcd19",
+      "lang": "en",
+      "title_en": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "title_zh": "AI芯片公司Rebellions完成4亿美元Pre-IPO融资，估值23亿美元",
+      "summary_en": "Rebellions: South Korean fabless AI chip startup Rebellions raised $400 million in a pre-IPO round led by Mirae Asset Financial Group and the Korea National Growth Fund, valuing the company at $2.3 billion. The round follows a Series C completed in November and accompanies aggressive global expansion plans, with an IPO planned for later in 2026.",
+      "summary_zh": "Rebellions：韩国无晶圆AI芯片公司Rebellions完成4亿美元Pre-IPO融资，由未来资产金融集团和韩国国家成长基金领投，估值达23亿美元。此轮融资紧随11月完成的C轮之后，伴随公司积极推进全球扩张计划，公司计划于2026年晚些时候上市。",
+      "tags": [
+        "融资",
+        "硬件"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "published_at": "2026-03-30T13:00:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8f5b6220",
+      "lang": "en",
+      "title_en": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "title_zh": "Mistral AI融资8.3亿美元，在巴黎附近建设数据中心",
+      "summary_en": "Mistral AI: French AI lab Mistral AI raised $830 million in debt financing to build a new Nvidia-powered data center in Bruyeres-le-Chatel near Paris, with plans to make it operational in Q2 2026. The company previously announced a $1.4 billion investment in Sweden for AI infrastructure, aiming to deploy 200 megawatts of compute capacity across European operations.",
+      "summary_zh": "Mistral AI：法国AI公司Mistral AI通过债务融资筹集8.3亿美元，用于在巴黎郊区Bruyeres-le-Chatel建设以英伟达芯片为核心的新数据中心，计划于2026年第二季度投入运营。公司此前已宣布在瑞典投资14亿美元建设AI基础设施，目标是在欧洲部署总计200兆瓦的算力。",
+      "tags": [
+        "融资",
+        "硬件"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "published_at": "2026-03-30T12:49:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9bbb95e8",
+      "lang": "zh",
+      "title_zh": "Claude 90分钟挖穿Ghost CMS 20年安全漏洞",
+      "summary_zh": "Anthropic：研究员Nicholas Carlini测试发现，Claude在90分钟内精准定位GitHub拥有5万Star的Ghost CMS首个高危漏洞，并在无身份验证情况下窃取管理员API密钥；同时Claude在Linux内核安全漏洞挖掘上亦超越了人类专家水平。Carlini表示，六个月前大模型在此领域几乎是门外汉，如今最新模型已在漏洞挖掘方面超过人类专家。",
+      "tags": [
+        "安全对齐",
+        "评测基准"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393186.html",
+      "published_at": "2026-03-30T06:00:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "7dbe9008",
+      "lang": "zh",
+      "title_zh": "国产世界模型GigaWorld-1登顶WorldArena全球第一",
+      "summary_zh": "极佳视界：旗下具身世界模型GigaWorld-1在WorldArena评测中登顶全球第一，成为唯一综合得分突破60分的具身世界模型，在视觉真实性、几何精准度、物理准确度三大维度断层领先谷歌、英伟达。极佳视界由清华系团队领衔，汇聚阿里、百度、地平线等顶尖大厂核心骨干，3D准确度接近满分。",
+      "tags": [
+        "评测基准",
+        "研究论文"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393296.html",
+      "published_at": "2026-03-30T05:00:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "48825272",
+      "lang": "zh",
+      "title_zh": "美国开源AI旗帜倒下：Ai2削减开源投入，核心团队转投微软",
+      "summary_zh": "艾伦人工智能研究所（Ai2）宣布削减开源模型（包括OLMo）的研发资金，转向AI应用方向。同期Ai2核心团队几乎被微软打包带走，包括前CEO阿里·法哈迪、前COO索菲·莱布雷希特、汉娜·哈吉希尔齐和兰杰·克里希纳，均加入微软穆斯塔法·苏莱曼领导的超级智能团队。OLMo是极少数真正开源的大模型之一，此次变化引发开源社区广泛关注。",
+      "tags": [
+        "开源",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393395.html",
+      "published_at": "2026-03-30T04:00:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "7896db99",
+      "lang": "zh",
+      "title_zh": "DeepSeek网页版大升级后宕机11小时，被解读为新模型前兆",
+      "summary_zh": "DeepSeek：DeepSeek网页版在3月29日出现大规模宕机，持续超过8小时并登上热搜。宕机前大量用户报告模型能力大幅提升，经典SVG绘图任务的构图和色彩明显改善，且模型开始稳定自报为DeepSeek-V3。DeepSeek此前已有多次不预告静默升级记录，此次宕机被业界普遍解读为新版本模型上线的前兆。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393235.html",
+      "published_at": "2026-03-30T03:30:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b38989c1",
+      "lang": "zh",
+      "title_zh": "全球OCR新王来自中国开源！PaddleOCR GitHub狂揽73300+Star",
+      "summary_zh": "百度：PaddleOCR以73300+Star登顶GitHub全球OCR项目榜，终结谷歌Tesseract OCR近40年的霸榜地位。同步在Hugging Face长期位居OCR与文档解析领域头部。此次升级官网免费每日解析页数从1万提升至2万，并发布PaddleOCR OCEAN生态联盟，面向核心贡献者、企业用户、模型托管平台及硬件厂商开放合作。",
+      "tags": [
+        "开源",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393433.html",
+      "published_at": "2026-03-30T03:00:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7e0f12eb",
+      "lang": "zh",
+      "title_zh": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
+      "summary_zh": "阿里巴巴：阿里发布千问新一代全模态大模型Qwen3.5-Omni，在音视频理解、识别、交互等215项第三方测试任务中取得SOTA，超越Gemini-3.1 Pro。新模型采用混合注意力MoE架构，支持113种语言及方言语音识别、36种语言语音生成，具备音视频Vibe Coding能力，API定价每百万Tokens输入不到0.8元。目前已在阿里云百炼平台上线Plus、Flash、Light三个版本，普通用户可通过Qwen Chat免费体验。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393460.html",
+      "published_at": "2026-03-30T02:00:00Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "73970da2",
+      "lang": "en",
+      "title_en": "All the latest in AI 'music'",
+      "title_zh": "AI「音乐」最新动态：Bandcamp 封禁 AI 内容、Suno 发布 v5.5",
+      "summary_en": "The Verge: A roundup of the latest in AI-generated music: Bandcamp becomes the first major platform to ban AI content; Suno releases v5.5 with voice cloning and personalization; musicians push back against AI audio clones; and a study finds 97% of people struggle to identify AI-made music.",
+      "summary_zh": "The Verge：AI 音乐领域最新动态汇总：Bandcamp 成为首个封禁 AI 内容的主要音乐平台；Suno 发布 v5.5，支持用户声音克隆与个性化；音乐人持续抵制 AI 音频克隆；研究显示97%的人难以识别 AI 生成音乐。",
+      "tags": [
+        "AI音乐",
+        "版权",
+        "AI应用"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+      "published_at": "2026-03-30T01:32:14Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8022be03",
+      "lang": "en",
+      "title_en": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
+      "title_zh": "OpenAI 最受期待产品的意外落幕：Sora 为何沉寂",
+      "summary_en": "Hacker News (via WSJ): A Wall Street Journal investigation into the sudden decline of Sora, OpenAI's AI video generation tool once billed as its biggest product since ChatGPT. The story traces internal priorities, competitive pressure from Kling and other players, and OpenAI's pivot toward other revenue streams.",
+      "summary_zh": "Hacker News（WSJ）：《华尔街日报》深度调查 Sora 的意外没落——这款曾被誉为 OpenAI 继 ChatGPT 后最受期待产品的 AI 视频生成工具，因内部优先级调整、Kling 等竞品压力及 OpenAI 向其他收入来源转型而迅速沉寂。",
+      "tags": [
+        "OpenAI",
+        "AI视频",
+        "产品策略"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt",
+      "published_at": "2026-03-30T01:23:17Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "b0489665",
+      "lang": "zh",
+      "title_zh": "Agentic AI 安全指南：龙虾如何被三层硬核架构「焊死」",
+      "summary_zh": "量子位：随着高权限 AI 代理应用爆发，本文提供一份面向开发者的 Agentic AI 安全实战指南，深入剖析自主性失控的根源，并介绍三层硬核安全架构：过程黑箱穿透、价值对齐保障与权限最小化原则，帮助开发者在生产环境中构建可控、可审计的 AI 代理系统。",
+      "tags": [
+        "AI安全",
+        "AI代理",
+        "开发者工具"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393226.html",
+      "published_at": "2026-03-30T00:41:45Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "729eb8ee",
+      "lang": "en",
+      "title_en": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "title_zh": "ScaleOps 融资 1.3 亿美元，自动化优化 AI 基础设施效率",
+      "summary_en": "TechCrunch: ScaleOps raised $130M in a Series C round to tackle GPU shortages and soaring AI cloud costs by automating Kubernetes infrastructure optimization in real time, helping companies reduce compute waste amid surging AI workload demand.",
+      "summary_zh": "TechCrunch：ScaleOps 完成 1.3 亿美元 C 轮融资，通过实时自动化 Kubernetes 基础设施优化，帮助企业应对 AI 需求激增带来的 GPU 短缺与云计算成本飙升问题，减少计算资源浪费。",
+      "tags": [
+        "融资",
+        "AI基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-31T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    }
+  ]
 }

@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-05",
+  "generated_at": "2026-04-05T00:00:00Z",
+  "items": [
+    {
+      "id": "2f22c4fb",
+      "lang": "en",
+      "title_en": "Emotion Concepts and Their Function in a Large Language Model",
+      "title_zh": "大语言模型中情感概念的功能研究",
+      "summary_en": "Anthropic: Anthropic researchers published a study exploring how emotion-like concepts emerge and function within large language models. The paper investigates whether LLMs develop internal representations analogous to human emotion and how these influence model behavior and outputs.",
+      "summary_zh": "Anthropic：Anthropic 研究人员发表论文，探讨大语言模型内部是否形成类似情感的概念，以及这些概念如何影响模型行为和输出。研究揭示了 LLM 内部表征与人类情感的潜在类比关系。",
+      "tags": ["AI安全", "基础研究"],
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "published_at": "2026-04-04T22:30:25Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "16a592df",
+      "lang": "en",
+      "title_en": "A folk musician became a target for AI fakes and a copyright troll",
+      "title_zh": "一位民谣音乐人成为AI造假和版权流氓的双重受害者",
+      "summary_en": "The Verge: Murphy Campbell, a folk musician, found herself targeted both by AI-generated fake content mimicking her work and a copyright troll exploiting the situation. The case highlights the compounding legal and reputational risks that independent artists face in the generative AI era.",
+      "summary_zh": "The Verge：民谣音乐人 Murphy Campbell 遭遇双重困境——AI 生成的仿冒内容泛滥，同时版权流氓趁机发起诉讼。此案凸显了生成式 AI 时代独立艺术家面临的法律与声誉叠加风险。",
+      "tags": ["政策监管", "多模态"],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "published_at": "2026-04-04T17:52:00Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4b5942c9",
+      "lang": "en",
+      "title_en": "Components of a Coding Agent",
+      "title_zh": "编程 Agent 的核心组成",
+      "summary_en": "Hacker News: Sebastian Raschka's article breaks down the essential architectural components of a coding agent — including planning, tool use, code execution, memory, and feedback loops — and discusses design trade-offs relevant to building production-grade AI software agents.",
+      "summary_zh": "Hacker News：Sebastian Raschka 发文分析编程 Agent 的核心架构组件，包括规划、工具调用、代码执行、记忆和反馈循环，并探讨构建生产级 AI 软件 Agent 的设计取舍。",
+      "tags": ["AI应用", "Agent"],
+      "source_name": "Hacker News",
+      "source_url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "published_at": "2026-04-04T21:16:33Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "91fc906a",
+      "lang": "en",
+      "title_en": "LLM Wiki – An \"Idea File\" for Language Model Research (Karpathy)",
+      "title_zh": "Karpathy 分享大语言模型研究想法清单",
+      "summary_en": "Hacker News: Andrej Karpathy shared a GitHub Gist serving as a running \"idea file\" for LLM research directions, covering topics such as architecture improvements, training techniques, evaluation methods, and open problems in the field. The list quickly gained community attention.",
+      "summary_zh": "Hacker News：Andrej Karpathy 在 GitHub Gist 公开了一份持续更新的 LLM 研究想法清单，涵盖架构改进、训练技巧、评估方法及未解难题，迅速引发社区热议。",
+      "tags": ["基础研究", "大模型"],
+      "source_name": "Hacker News",
+      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "published_at": "2026-04-05T00:57:45Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6c13f2a3",
+      "lang": "en",
+      "title_en": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "title_zh": "sllm：多人共享GPU节点，不限 Token 的 LLM 推理服务",
+      "summary_en": "Hacker News: sllm is an open-source tool that allows developers to share a GPU node for LLM inference with no token limits. The project aims to make high-throughput model inference more accessible and cost-effective for small teams and researchers.",
+      "summary_zh": "Hacker News：sllm 是一款开源工具，支持多名开发者共享同一 GPU 节点运行 LLM 推理，且无 Token 限制。该项目旨在让小团队和研究人员以更低成本获得高吞吐量的模型推理能力。",
+      "tags": ["推理", "开源"],
+      "source_name": "Hacker News",
+      "source_url": "https://sllm.cloud",
+      "published_at": "2026-04-04T23:18:58Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    }
+  ]
+}
