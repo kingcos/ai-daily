@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T00:00:00Z",
+  "updated_at": "2026-04-06T15:08:00Z",
   "dates": [
     "2026-04-06",
     "2026-04-05",
@@ -35,11 +35,128 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 8,
+  "total_items": 460,
   "page": 1,
   "page_size": 20,
-  "total_pages": 1,
+  "total_pages": 23,
   "items": [
+    {
+      "id": "4cf3b237",
+      "lang": "zh",
+      "title_zh": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+      "summary_zh": "量子位：OpenAI 在 IPO 前夕再度曝出内部矛盾，多名高层相继离职或职位调整。据报道，团队内部在战略方向与公司治理上存在分歧，此次动荡引发外界对其上市进程及组织稳定性的担忧。",
+      "tags": [
+        "公司动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396704.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "4132b859",
+      "lang": "zh",
+      "title_zh": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR'26",
+      "summary_zh": "量子位：ICLR 2026 入选研究提出新方法，解决离线强化学习中策略优化局限于局部分布的问题，使智能体能够进行更全局性的策略规划。该方法在多个基准任务上显著提升了样本效率和泛化能力。",
+      "tags": [
+        "研究突破",
+        "强化学习"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396738.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7272db74",
+      "lang": "zh",
+      "title_zh": "AI创业，已经没有「出海」这个词了丨量子位沙龙",
+      "summary_zh": "量子位：量子位沙龙探讨 AI 创业新趋势。多位创业者指出，AI 时代的全球化创业已不再区分「国内」与「出海」，产品从立项起即面向全球市场，竞争与机会同步呈现国际化特征。",
+      "tags": [
+        "AI产业",
+        "创业"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396675.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d304f09b",
+      "lang": "zh",
+      "title_zh": "具身龙虾，上车理想",
+      "summary_zh": "量子位：具身智能创业公司与理想汽车展开合作，将机器人技术与智能汽车场景深度结合。报道介绍了该具身 AI 初创团队的技术路线及与理想汽车的战略合作背景。",
+      "tags": [
+        "具身智能",
+        "AI产业"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396517.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1f0eb934",
+      "lang": "en",
+      "title_en": "Show HN: I built a tiny LLM to demystify how language models work",
+      "title_zh": "我构建了一个微型 LLM，揭秘语言模型的工作原理",
+      "summary_en": "Hacker News: A developer shared GuppyLM, a minimal educational LLM implementation designed to help beginners understand the internals of large language models, including tokenization, attention mechanisms, and training loops. Published on GitHub.",
+      "summary_zh": "Hacker News：一名开发者分享了 GuppyLM，面向初学者的极简 LLM 实现项目，通过可读代码帮助理解分词、注意力机制和训练过程等语言模型核心概念。",
+      "tags": [
+        "开源",
+        "教育"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/arman-bd/guppylm",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "6ef24382",
+      "lang": "en",
+      "title_en": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "title_zh": "Gemma Gem：无需 API key 的浏览器端 Gemma 模型",
+      "summary_en": "Hacker News: A developer released Gemma Gem, an open-source project that embeds Google's Gemma model directly in the browser using WebAssembly or WebGPU. It runs entirely client-side with no cloud API keys or server required.",
+      "summary_zh": "Hacker News：开发者发布 Gemma Gem，利用 WebAssembly 或 WebGPU 将 Gemma 模型嵌入浏览器端本地运行，无需 API key 或云端服务。",
+      "tags": [
+        "开源",
+        "本地部署"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/kessler/gemma-gem",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b72d7f14",
+      "lang": "en",
+      "title_en": "Does coding with LLMs mean more microservices?",
+      "title_zh": "LLM 辅助编程会催生更多微服务架构吗？",
+      "summary_en": "Hacker News: An essay exploring whether LLM-assisted coding is driving increased microservices adoption. The author argues that LLMs produce cleaner outputs when given small, isolated contexts, which may push developers toward microservice-style architectures.",
+      "summary_zh": "Hacker News：一篇探讨 LLM 辅助编程是否推动微服务增长的文章。作者认为 LLM 在小而独立的上下文中表现更好，这可能无意中引导开发者倾向微服务架构。",
+      "tags": [
+        "软件工程",
+        "AI工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ben.page/microservices",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "c6ea48d2",
       "lang": "en",
@@ -148,20 +265,75 @@
       "merged_sources": []
     },
     {
-      "id": "e2a4d6b1",
-      "lang": "zh",
-      "title_zh": "OpenAI新模型不是GPTX！全新预训练「土豆」曝光，Sora成弃子的原因找到了",
-      "summary_zh": "OpenAI：据爆料，OpenAI内部代号「土豆（Spud）」的最新预训练模型即为GPT-6，计划于4月14日发布。知情人士称该模型性能较GPT-5.4提升40%，具备原生多模态架构，支持文本、音频、图像、视频，上下文窗口达2M。OpenAI内部将GPT-6定位为「通向AGI的最后一公里」，并计划将ChatGPT、Codex与Atlas浏览器融合为统一智能体应用。Sora资源被削减以集中支持GPT-6研发。",
+      "id": "7be922b9",
+      "lang": "en",
+      "title_en": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "title_zh": "Gemini 接管 Google Maps 行程规划：出人意料地好用",
+      "summary_en": "The Verge: Google's Gemini AI, integrated into Google Maps, was tested for full-day itinerary planning. The hands-on found it capable of building coherent travel plans with restaurant picks, transit suggestions, and timing — outperforming earlier AI map assistants in practical usability.",
+      "summary_zh": "The Verge：测试者将 Google Maps 中的 Gemini AI 用于全天行程规划，发现其能自动整合餐厅推荐、交通建议和时间安排，实用性超出预期，表现优于以往的 AI 地图助手。",
       "tags": [
-        "产品发布",
-        "推理",
-        "多模态"
+        "AI应用",
+        "产品发布"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/396535.html",
-      "published_at": "2026-04-05T04:49:33Z",
-      "collected_at": "2026-04-06T00:00:00Z",
-      "importance": 5,
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "published_at": "2026-04-05T14:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9c73d434",
+      "lang": "en",
+      "title_en": "Eight years of wanting, three months of building with AI",
+      "title_zh": "渴望了八年，借助 AI 三个月造出来了",
+      "summary_en": "Hacker News: A developer who spent eight years wishing for better SQLite developer tooling used AI to build SyntaQLite in just three months. The post explores how AI coding assistants dramatically compressed the time from idea to shipping product for solo developers.",
+      "summary_zh": "Hacker News：一位开发者等待了八年，希望有更好的 SQLite 开发工具，最终借助 AI 在三个月内完成了 SyntaQLite。文章探讨了 AI 编码助手如何大幅压缩独立开发者从想法到上线的时间。",
+      "tags": [
+        "AI应用",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "published_at": "2026-04-05T12:43:47Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9571bb9e",
+      "lang": "en",
+      "title_en": "Grammarly's sloppelganger saga",
+      "title_zh": "Grammarly 的 AI 审稿困境",
+      "summary_en": "The Verge: An expert reviewer recounts a lengthy saga with Grammarly, whose AI suggestions increasingly homogenized their writing style — raising questions about how AI grammar and writing tools reshape individual voice and the broader implications for authentic expression.",
+      "summary_zh": "The Verge：一位专业审稿人讲述了与 Grammarly 的漫长纠葛——AI 建议不断同质化其写作风格，引发了对 AI 写作工具如何重塑个人表达以及真实性的深层思考。",
+      "tags": [
+        "AI应用",
+        "政策监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "published_at": "2026-04-05T12:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2d5b2299",
+      "lang": "en",
+      "title_en": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "title_zh": "日本机器人不抢工作，专填无人愿做的岗位",
+      "summary_en": "TechCrunch: Driven by severe labor shortages, Japan is moving physical AI and robotics from pilot projects into real-world deployment at scale — focusing on physically demanding or undesirable jobs in logistics, agriculture, and care sectors rather than displacing white-collar workers.",
+      "summary_zh": "TechCrunch：面对严峻的劳动力短缺，日本正将物理 AI 与机器人技术从试点推向大规模落地，重点填补物流、农业和护理等行业中无人愿做的体力岗位，而非取代脑力工作者。",
+      "tags": [
+        "AI应用",
+        "机器人"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "published_at": "2026-04-05T10:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
@@ -178,6 +350,38 @@
       "published_at": "2026-04-05T08:53:12Z",
       "collected_at": "2026-04-06T00:00:00Z",
       "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "5ef1c864",
+      "lang": "zh",
+      "title_zh": "OpenAI新模型不是GPTX！全新预训练「土豆」曝光，Sora成弃子的原因找到了",
+      "summary_zh": "量子位：据报道，OpenAI 正在训练一款代号为「土豆」的全新预训练基础模型，定位并非 GPT-X 系列延续，同时有消息称 Sora 团队遭遇内部资源重组，可能是其发展滞后的主因。",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396535.html",
+      "published_at": "2026-04-05T08:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "3d90023f",
+      "lang": "zh",
+      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "summary_zh": "量子位：国内 AI 公司太初元碁宣布向全体员工发放价值百亿的算力 token，并计划与高校共建 AI 科教融合学院，推动产学研深度合作，加速 AI 人才培养与应用落地。",
+      "tags": [
+        "AI应用",
+        "产业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396533.html",
+      "published_at": "2026-04-05T06:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]

@@ -1,7 +1,124 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T00:00:00Z",
+  "generated_at": "2026-04-06T15:08:00Z",
   "items": [
+    {
+      "id": "4cf3b237",
+      "lang": "zh",
+      "title_zh": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+      "summary_zh": "量子位：OpenAI 在 IPO 前夕再度曝出内部矛盾，多名高层相继离职或职位调整。据报道，团队内部在战略方向与公司治理上存在分歧，此次动荡引发外界对其上市进程及组织稳定性的担忧。",
+      "tags": [
+        "公司动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396704.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "4132b859",
+      "lang": "zh",
+      "title_zh": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR'26",
+      "summary_zh": "量子位：ICLR 2026 入选研究提出新方法，解决离线强化学习中策略优化局限于局部分布的问题，使智能体能够进行更全局性的策略规划。该方法在多个基准任务上显著提升了样本效率和泛化能力。",
+      "tags": [
+        "研究突破",
+        "强化学习"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396738.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7272db74",
+      "lang": "zh",
+      "title_zh": "AI创业，已经没有「出海」这个词了丨量子位沙龙",
+      "summary_zh": "量子位：量子位沙龙探讨 AI 创业新趋势。多位创业者指出，AI 时代的全球化创业已不再区分「国内」与「出海」，产品从立项起即面向全球市场，竞争与机会同步呈现国际化特征。",
+      "tags": [
+        "AI产业",
+        "创业"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396675.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d304f09b",
+      "lang": "zh",
+      "title_zh": "具身龙虾，上车理想",
+      "summary_zh": "量子位：具身智能创业公司与理想汽车展开合作，将机器人技术与智能汽车场景深度结合。报道介绍了该具身 AI 初创团队的技术路线及与理想汽车的战略合作背景。",
+      "tags": [
+        "具身智能",
+        "AI产业"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396517.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1f0eb934",
+      "lang": "en",
+      "title_en": "Show HN: I built a tiny LLM to demystify how language models work",
+      "title_zh": "我构建了一个微型 LLM，揭秘语言模型的工作原理",
+      "summary_en": "Hacker News: A developer shared GuppyLM, a minimal educational LLM implementation designed to help beginners understand the internals of large language models, including tokenization, attention mechanisms, and training loops. Published on GitHub.",
+      "summary_zh": "Hacker News：一名开发者分享了 GuppyLM，面向初学者的极简 LLM 实现项目，通过可读代码帮助理解分词、注意力机制和训练过程等语言模型核心概念。",
+      "tags": [
+        "开源",
+        "教育"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/arman-bd/guppylm",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "6ef24382",
+      "lang": "en",
+      "title_en": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "title_zh": "Gemma Gem：无需 API key 的浏览器端 Gemma 模型",
+      "summary_en": "Hacker News: A developer released Gemma Gem, an open-source project that embeds Google's Gemma model directly in the browser using WebAssembly or WebGPU. It runs entirely client-side with no cloud API keys or server required.",
+      "summary_zh": "Hacker News：开发者发布 Gemma Gem，利用 WebAssembly 或 WebGPU 将 Gemma 模型嵌入浏览器端本地运行，无需 API key 或云端服务。",
+      "tags": [
+        "开源",
+        "本地部署"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/kessler/gemma-gem",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b72d7f14",
+      "lang": "en",
+      "title_en": "Does coding with LLMs mean more microservices?",
+      "title_zh": "LLM 辅助编程会催生更多微服务架构吗？",
+      "summary_en": "Hacker News: An essay exploring whether LLM-assisted coding is driving increased microservices adoption. The author argues that LLMs produce cleaner outputs when given small, isolated contexts, which may push developers toward microservice-style architectures.",
+      "summary_zh": "Hacker News：一篇探讨 LLM 辅助编程是否推动微服务增长的文章。作者认为 LLM 在小而独立的上下文中表现更好，这可能无意中引导开发者倾向微服务架构。",
+      "tags": [
+        "软件工程",
+        "AI工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ben.page/microservices",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "c6ea48d2",
       "lang": "en",
@@ -110,6 +227,22 @@
       "merged_sources": []
     },
     {
+      "id": "f3b7e290",
+      "lang": "zh",
+      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "summary_zh": "太初元碁：在公司成立五周年大会上，太初元碁宣布向20名员工发放总价值约100万元的百亿算力token（均来自国产智算中心），鼓励员工开展AI Agent创新。同时，太初元碁与浙江工商大学、国家超级计算无锡中心、浙江力积存储科技共建人工智能科教融合学院，为该学院提供智能算力底座，推动「产-学-研」深度融合的AI人才培养。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396533.html",
+      "published_at": "2026-04-05T08:53:12Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
       "id": "e2a4d6b1",
       "lang": "zh",
       "title_zh": "OpenAI新模型不是GPTX！全新预训练「土豆」曝光，Sora成弃子的原因找到了",
@@ -127,19 +260,39 @@
       "merged_sources": []
     },
     {
-      "id": "f3b7e290",
-      "lang": "zh",
-      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
-      "summary_zh": "太初元碁：在公司成立五周年大会上，太初元碁宣布向20名员工发放总价值约100万元的百亿算力token（均来自国产智算中心），鼓励员工开展AI Agent创新。同时，太初元碁与浙江工商大学、国家超级计算无锡中心、浙江力积存储科技共建人工智能科教融合学院，为该学院提供智能算力底座，推动「产-学-研」深度融合的AI人才培养。",
+      "id": "45a8c079",
+      "lang": "en",
+      "title_en": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "title_zh": "Parlor：M3 Pro 本地运行 Gemma E2B 实时音视频 AI 对话",
+      "summary_en": "Hacker News: A developer demonstrated Parlor, a local real-time AI assistant running on Apple M3 Pro using Google's Gemma E2B model. It accepts audio and video input and delivers voice output entirely on-device without cloud dependencies.",
+      "summary_zh": "Hacker News：开发者展示 Parlor，在 Apple M3 Pro 上基于 Gemma E2B 本地运行的实时 AI 助手，支持音频和视频输入，以语音输出，完全设备端运行，无需云端依赖。",
+      "tags": [
+        "本地部署",
+        "多模态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/fikrikarim/parlor",
+      "published_at": "2026-04-05T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "41f7a052",
+      "lang": "en",
+      "title_en": "Gemma 4: Byte for byte, the most capable open models",
+      "title_zh": "Gemma 4 发布：最高性价比开源模型",
+      "summary_en": "Google DeepMind: Google DeepMind introduced Gemma 4, its most capable open model family to date. Built on Gemini 3 technology, Gemma 4 supports advanced reasoning, agentic workflows, multimodal input, and 140 languages. Released under Apache 2.0 license, available across multiple model sizes optimized for different hardware.",
+      "summary_zh": "Google DeepMind：Google DeepMind 发布 Gemma 4，基于 Gemini 3 研究构建，是目前最智能的开源模型家族。支持高级推理、智能体工作流、多模态输入及 140 种语言，以 Apache 2.0 授权发布，提供多个尺寸适配不同硬件。",
       "tags": [
         "产品发布",
-        "Agent"
+        "开源"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/396533.html",
-      "published_at": "2026-04-05T08:53:12Z",
-      "collected_at": "2026-04-06T00:00:00Z",
-      "importance": 2,
+      "source_name": "Google DeepMind",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+      "published_at": "2026-04-02T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 5,
       "merged_sources": []
     }
   ]

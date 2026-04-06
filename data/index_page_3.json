@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-05",
-  "updated_at": "2026-04-05T00:00:00Z",
+  "latest_date": "2026-04-06",
+  "updated_at": "2026-04-06T15:08:00Z",
   "dates": [
+    "2026-04-06",
     "2026-04-05",
     "2026-04-04",
     "2026-04-03",
@@ -34,350 +35,353 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 431,
+  "total_items": 460,
   "page": 3,
   "page_size": 20,
-  "total_pages": 22,
+  "total_pages": 23,
   "items": [
     {
-      "id": "c1e7f3a9",
+      "id": "1606dc74",
       "lang": "en",
-      "title_en": "Google Vids Adds AI Avatar Directing via Text Prompts and Veo 3.1 Support",
-      "title_zh": "Google Vids 新增 AI 化身文字提示导演功能及 Veo 3.1 支持",
-      "summary_en": "TechCrunch: Google updated its Vids video editing app with the ability to direct AI avatars using natural language prompts—controlling actions, appearance, and background—along with Veo 3.1 video generation (8-second clips, 10 free generations/month), YouTube export, and a Chrome recording extension. The update continues Google's integration of its AI models across Workspace.",
-      "summary_zh": "TechCrunch：谷歌更新 Vids 视频编辑应用，支持通过自然语言提示词“导演”AI 化身，控制动作、外观和背景；同时引入 Veo 3.1 视频生成（8 秒片段，每月 10 次免费）、YouTube 导出及 Chrome 录制扩展，延续谷歌将 AI 模型整合进 Workspace 产品的战略。",
+      "title_en": "Anthropic Bans Third-Party Harnesses Like OpenClaw from Using Claude Subscriptions",
+      "title_zh": "Anthropic 禁止第三方客户端使用 Claude 订阅额度",
+      "summary_en": "Anthropic: Starting April 4th at 3PM ET, Claude subscribers will no longer be able to use their subscription limits with third-party tools such as OpenClaw. Users wishing to continue using OpenClaw with Claude must switch to a separate pay-as-you-go billing option, effectively decoupling third-party harness access from subscription plans. The change comes as OpenClaw founder Peter Steinberger has joined OpenAI.",
+      "summary_zh": "Anthropic：从美国东部时间4月4日下午3点起，Claude 订阅用户将无法再通过 OpenClaw 等第三方工具使用订阅额度，需切换至独立的按量计费方式。此举有效将第三方客户端与订阅套餐解耦，时机与 OpenClaw 创始人 Peter Steinberger 加入 OpenAI 高度吻合。",
       "tags": [
         "产品发布",
-        "Google",
-        "视频AI",
-        "多模态"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-      "published_at": "2026-04-02T16:00:00Z",
-      "collected_at": "2026-04-03T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f74bae61",
-      "lang": "en",
-      "title_en": "It's not easy to get depression-detecting AI through the FDA",
-      "title_zh": "抑郁检测 AI 难过 FDA：Kintsugi 关闭并开源技术",
-      "summary_en": "The Verge: Kintsugi, a California startup that spent seven years developing AI to detect depression and anxiety from speech patterns, is shutting down after failing to secure FDA clearance. The company is releasing most of its technology as open source. Kintsugi's software analyzed vocal characteristics such as pauses, sentence structure, and speed, with peer-reviewed results comparable to standard self-report screening tools.",
-      "summary_zh": "The Verge：加州初创公司 Kintsugi 历经七年开发语音抑郁检测 AI，因未能获得 FDA 批准而宣布关闭，并将大部分技术开源。其软件通过分析停顿、句子结构、语速等语音特征识别抑郁和焦虑信号，同行评审结果与标准自评筛查工具相当，部分技术或将用于深度伪造音频检测。",
-      "tags": [
-        "政策监管",
-        "医疗",
-        "开源"
+        "政策监管"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-      "published_at": "2026-04-02T15:33:23Z",
-      "collected_at": "2026-04-03T03:16:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "62d46dc4",
-      "lang": "en",
-      "title_en": "Microsoft's new superintelligence game plan is all about business",
-      "title_zh": "微软超级智能战略：Suleyman 以企业价值定义 AGI",
-      "summary_en": "The Verge: In an interview, Microsoft CEO of AI Mustafa Suleyman described his business-focused definition of superintelligence as whether AI models can deliver product value to enterprises. He revealed the strategic transition was nine months in the making and pre-dated renegotiating Microsoft's OpenAI contract. His team recently released MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 models as part of this strategy.",
-      "summary_zh": "The Verge：微软 AI CEO Mustafa Suleyman 将超级智能定义为能为企业提供产品价值的 AI 模型，透露这一战略转型筹划长达九个月，早于微软重新谈判与 OpenAI 合约。其团队近期发布的 MAI-Transcribe-1、MAI-Voice-1 和 MAI-Image-2 正是该战略的阶段性成果。",
-      "tags": [
-        "产品发布",
-        "研究论文"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-      "published_at": "2026-04-02T14:00:00Z",
-      "collected_at": "2026-04-03T03:16:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "62d46dc4",
-      "lang": "en",
-      "title_en": "Microsoft's new 'superintelligence' game plan is all about business",
-      "title_zh": "微软“超级智能”新战略聚焦商业落地",
-      "summary_en": "The Verge: Microsoft AI CEO Mustafa Suleyman outlined a new strategic direction focused on embedding AI capabilities into business software, signaling a pivot from broad research aims toward enterprise-level applications and practical ROI. The strategy involves tighter integration with Microsoft 365 and Azure services.",
-      "summary_zh": "The Verge：微软 AI CEO Mustafa Suleyman 阐述了新战略方向，将 AI 能力嵌入商业软件，标志着从广泛研究目标转向企业级应用和实际回报。该战略涉及与 Microsoft 365 及 Azure 服务的更深度整合。",
-      "tags": [
-        "行业动态",
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-      "published_at": "2026-04-02T14:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "published_at": "2026-04-03T23:52:49Z",
+      "collected_at": "2026-04-04T03:15:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "f061db09",
+      "id": "2add1b59",
       "lang": "en",
-      "title_en": "Google Home's latest update makes Gemini better at understanding your commands",
-      "title_zh": "谷歌 Home 新更新让 Gemini 更好地理解语音指令",
-      "summary_en": "The Verge: Google released an update to Google Home integrating improved Gemini capabilities, enabling smarter interpretation of natural language commands for temperature controls, lighting, and other smart home devices. The update aims to reduce ambiguity in how voice commands are processed.",
-      "summary_zh": "The Verge：谷歌为 Google Home 推出更新，集成增强的 Gemini 能力，实现对温度控制、照明等智能家居设备自然语言指令的更智能解读，旨在减少语音命令处理中的歧义。",
+      "title_en": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "title_zh": "Claude Code 发现隐藏23年的 Linux 内核漏洞",
+      "summary_en": "mtlynch.io: A developer used Anthropic's Claude Code to audit a Linux kernel subsystem and discovered a security vulnerability that had been present in the codebase for over 23 years. The finding highlights Claude Code's capability as a deep code analysis and security auditing tool, potentially surpassing conventional static analyzers in surfacing complex, long-latent bugs.",
+      "summary_zh": "mtlynch.io：一位开发者使用 Anthropic 的 Claude Code 对 Linux 内核子系统进行安全审计，发现了一个潜伏超过23年的安全漏洞，展示了 Claude Code 在深度代码分析与安全审计方面超越传统静态分析工具的潜力。",
       "tags": [
-        "产品发布",
-        "行业动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-      "published_at": "2026-04-02T13:30:12Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "cb80e143",
-      "lang": "en",
-      "title_en": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "title_zh": "AMD Lemonade：GPU+NPU 加速的开源本地 LLM 服务器",
-      "summary_en": "AMD: AMD released Lemonade, a fast open-source local LLM server that leverages both GPU and NPU for inference. Targeting on-device AI deployment, Lemonade runs language models locally with improved performance using AMD's hardware stack, offering an alternative to NVIDIA for local AI workloads.",
-      "summary_zh": "AMD：AMD 发布 Lemonade 开源本地 LLM 服务器，同时利用 GPU 和 NPU 加速推理，专为本地 AI 部署设计，旨在利用 AMD 硬件栈提升语言模型本地运行性能，与 NVIDIA 在本地 AI 工作负载领域展开竞争。",
-      "tags": [
-        "开源",
-        "硬件"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://lemonade-server.ai",
-      "published_at": "2026-04-02T11:04:51Z",
-      "collected_at": "2026-04-03T03:16:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "69f7869c",
-      "lang": "en",
-      "title_en": "Should AI have the right to say 'No' to its owner?",
-      "title_zh": "AI是否有权对主人说不？",
-      "summary_en": "Jang-woo Kim (via Hacker News): A research repository presenting design notes on execution boundaries and responsibility structures for AI systems interacting with the physical world. The work proposes frameworks for when AI agents operating in consequential real-world environments should be permitted to refuse instructions, and how to structure accountability across human and AI decision boundaries.",
-      "summary_zh": "Jang-woo Kim（Hacker News）：一个探讨 AI 系统与物理世界交互时执行边界与责任结构设计的研究库。该工作为 AI 智能体在高风险真实场景中拒绝执行指令提供理论框架，并探讨如何在人机决策边界间分配责任。",
-      "tags": [
-        "研究论文",
-        "安全对齐"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/Jang-woo-AnnaSoft/execution-boundaries",
-      "published_at": "2026-04-02T08:21:35Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b733f7d9",
-      "lang": "en",
-      "title_en": "Qwen3.6-Plus: Towards Real World Agents",
-      "title_zh": "Qwen3.6-Plus：面向真实世界的智能体",
-      "summary_en": "Alibaba Qwen Team: Alibaba has released Qwen3.6-Plus, a new large language model optimized for real-world agentic tasks. The model achieves top performance on SWE-bench coding benchmarks and Claw-Eval agent evaluations, surpassing models with 2-3x more parameters. Input pricing is set at 2 RMB per million tokens. Qwen3.6-Plus supports multi-file code generation, automated test iteration, and complex enterprise workflow decomposition.",
-      "summary_zh": "阿里巴巴 Qwen 团队：阿里巴巴发布 Qwen3.6-Plus，专为真实世界智能体任务优化。该模型在 SWE-bench 编程评测和 Claw-Eval 智能体评测中达到最优水平，超越参数量2-3倍的竞争模型。输入价格为每百万 Token 2元人民币，支持多文件代码生成、自动测试迭代及复杂企业工作流分解。",
-      "tags": [
-        "产品发布",
         "Agent",
         "编程"
       ],
       "source_name": "Hacker News",
-      "source_url": "https://qwen.ai/blog?id=qwen3.6",
-      "published_at": "2026-04-02T06:17:21Z",
-      "collected_at": "2026-04-02T09:00:00Z",
+      "source_url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "published_at": "2026-04-03T23:46:51Z",
+      "collected_at": "2026-04-04T03:15:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "36f81dd5",
-      "lang": "zh",
-      "title_zh": "开盒Claude Code的是中国00后！曾怒怡Anthropic窃取用户代码",
-      "summary_zh": "量子位：泄露 Claude Code 源码的开发者被曝为中国 00 后程序员，此前曾公开指责 Anthropic 在未经授权情况下使用用户代码训练模型。该事件引发社区对 AI 公司数据使用边界的广泛讨论，Anthropic 已大量删除相关 GitHub 仓库。",
-      "tags": [
-        "安全",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395091.html",
-      "published_at": "2026-04-02T06:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6c3cca83",
+      "id": "3f97d18a",
       "lang": "en",
-      "title_en": "r/programming bans all discussion of LLM programming",
-      "title_zh": "r/programming封禁所有LLM编程讨论",
-      "summary_en": "r/programming moderators: The r/programming subreddit has announced a temporary ban on all LLM-related programming discussion, citing low-quality content and discussion quality degradation. The ban affects posts and comments related to using LLMs as coding assistants or discussing AI-generated code.",
-      "summary_zh": "r/programming 版主：Reddit 编程社区 r/programming 宣布临时封禁所有与 LLM 相关的编程讨论，理由是内容质量持续下降。该禁令涵盖使用 LLM 作为编程助手及讨论 AI 生成代码的帖子和评论。",
+      "title_en": "Research Finds AI Users Scarily Willing to Surrender Their Cognition to LLMs",
+      "title_zh": "研究：大量用户轻信 AI 错误答案，主动放弃独立思考",
+      "summary_en": "Ars Technica: New research finds that large majorities of AI users uncritically accept faulty AI-generated answers even when demonstrably wrong. The study raises concerns about 'cognitive surrender,' where users defer logical reasoning to AI systems without verification, potentially eroding critical thinking skills at scale over time.",
+      "summary_zh": "Ars Technica：最新研究发现，大多数 AI 用户会不加批判地接受错误的 AI 答案。该研究对「认知让渡」现象发出警告——用户将逻辑推理拱手交给 AI 而不加验证，可能在大规模用户群体中长期侵蚀批判性思维能力。",
       "tags": [
-        "行业动态"
+        "安全对齐"
       ],
       "source_name": "Hacker News",
-      "source_url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-      "published_at": "2026-04-02T05:33:20Z",
-      "collected_at": "2026-04-02T09:00:00Z",
+      "source_url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+      "published_at": "2026-04-03T21:06:15Z",
+      "collected_at": "2026-04-04T03:15:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "85ee6b20",
-      "lang": "zh",
-      "title_zh": "上市首日大涨111%！德适交出大模型商业化最硬核答卷",
-      "summary_zh": "量子位： AI 大模型商业化公司德适科技在港股上市首日股价大涨 111%，成为继智谱、MiniMax 之后最亮眼的 AI 商业化上市案例。其核心竞争力在于垂直行业大模型落地能力，为国内 AI 商业化路径提供了有力参考。",
+      "id": "7f505509",
+      "lang": "en",
+      "title_en": "OpenAI Executive Shuffle: COO Brad Lightcap Gets New Role, CMO Kate Rouch Departs, AGI Boss Takes Medical Leave",
+      "title_zh": "OpenAI 高管大调整：COO 转岗、CMO 离职、AGI CEO 请假",
+      "summary_en": "OpenAI: OpenAI announced a series of C-suite changes. COO Brad Lightcap takes on a new 'special projects' leadership role. CMO Kate Rouch is stepping away to focus on cancer recovery with plans to return. CEO of AGI deployment Fidji Simo will take medical leave for several weeks due to a neuroimmune condition, with president Greg Brockman temporarily assuming oversight of product.",
+      "summary_zh": "OpenAI：OpenAI 宣布多项高管调整。COO Brad Lightcap 转任「特别项目」负责人；CMO Kate Rouch 因癌症康复需要离职，计划康复后回归；AGI 部署 CEO Fidji Simo 因神经免疫疾病休假数周，总裁 Greg Brockman 临时接管产品工作。",
       "tags": [
-        "螊资",
-        "行业动态"
+        "产品发布"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395162.html",
-      "published_at": "2026-04-02T05:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "published_at": "2026-04-03T20:35:34Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence"
+      ]
+    },
+    {
+      "id": "abda4877",
+      "lang": "en",
+      "title_en": "Anthropic Acquires Stealth Biotech AI Startup Coefficient Bio for $400M",
+      "title_zh": "Anthropic 斥资4亿美元收购生物科技 AI 初创 Coefficient Bio",
+      "summary_en": "Anthropic: Anthropic has acquired stealth biotech AI startup Coefficient Bio in a $400 million all-stock deal, according to reports from The Information and Eric Newcomer. Coefficient Bio had been operating quietly, applying AI models to biological research problems. The acquisition marks Anthropic's first major expansion into the biotech sector.",
+      "summary_zh": "Anthropic：据 The Information 及 Eric Newcomer 报道，Anthropic 已以4亿美元全股票方式收购隐身生物科技 AI 初创公司 Coefficient Bio。该公司此前低调运营，专注于将 AI 模型应用于生物研究，此次收购是 Anthropic 首次重大进军生物科技领域。",
+      "tags": [
+        "收购",
+        "医疗"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "published_at": "2026-04-03T20:28:40Z",
+      "collected_at": "2026-04-04T03:15:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "a1506c82",
-      "lang": "zh",
-      "title_zh": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
-      "summary_zh": "量子位：分子之心科技在《自然通讯》发表重磅研究，其 AI 技术实现蛋白质设计新范式，可生成具有特定功能的蛋白质结构。该成果有望加速药物发现和生物材料开发，被认为是 AI for Science 领域的重要突破。",
+      "id": "2be13a3e",
+      "lang": "en",
+      "title_en": "OpenAI's AGI Boss Is Taking a Leave of Absence",
+      "title_zh": "OpenAI AGI 负责人 Fidji Simo 宣布病假，C 层再度重组",
+      "summary_en": "The Verge: OpenAI AGI boss Fidji Simo is taking a medical leave of absence, according to an internal memo. The departure adds to a wave of C-suite changes at OpenAI, including COO Brad Lightcap taking on a new role and CMO Kate Rouch departing the company.",
+      "summary_zh": "The Verge：据内部备忘录，OpenAI AGI 负责人 Fidji Simo 宣布因病休假。此次变动是 OpenAI 新一轮高管重组的一部分，COO Brad Lightcap 同期获新职位，CMO Kate Rouch 已离职。",
       "tags": [
-        "AI for Science",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+      "published_at": "2026-04-03T20:22:59Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "82930823",
+      "lang": "en",
+      "title_en": "Anthropic Ramps Up Political Activities with a New PAC Ahead of Midterms",
+      "title_zh": "Anthropic 成立政治行动委员会，布局美国中期选举",
+      "summary_en": "Anthropic: Anthropic has established a new Political Action Committee (PAC) with midterm elections approaching, positioning itself to support candidates aligned with its AI policy agenda. The move signals a significant escalation in Anthropic's Washington influence strategy.",
+      "summary_zh": "Anthropic：随着美国中期选举临近，Anthropic 成立了政治行动委员会（PAC），准备支持认同其 AI 政策主张的候选人，标志着 Anthropic 在华盛顿政治影响力方面大幅加码。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "published_at": "2026-04-03T20:22:18Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4d459560",
+      "lang": "en",
+      "title_en": "AI Companies Are Building Huge Natural Gas Plants to Power Data Centers. What Could Go Wrong?",
+      "title_zh": "AI 公司大举投建天然气发电厂供数据中心用电，风险几何？",
+      "summary_en": "TechCrunch: Meta, Microsoft, and Google are betting heavily on new natural gas power plants to fuel their AI data centers, reversing years of clean energy pledges. Critics warn of long-term climate and stranded-asset risks if AI demand plateaus or cleaner alternatives arrive sooner than expected.",
+      "summary_zh": "TechCrunch：Meta、微软和谷歌正大规模投建天然气发电厂以满足 AI 数据中心的电力需求，这与此前的清洁能源承诺相悖。批评者警告，若 AI 需求见顶或清洁能源替代提前到来，此举将带来气候风险和搁浅资产风险。",
+      "tags": [
+        "基础设施",
+        "政策监管"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+      "published_at": "2026-04-03T19:48:22Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "83c3bd56",
+      "lang": "en",
+      "title_en": "The Facebook Insider Building Content Moderation for the AI Era",
+      "title_zh": "前 Facebook 高管创立 Moonbounce，为 AI 时代打造内容审核引擎",
+      "summary_en": "TechCrunch: Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior. Founded by a Facebook insider, the startup aims to help enterprises deploy AI agents that comply with nuanced content rules at scale.",
+      "summary_zh": "TechCrunch：Moonbounce 完成 1200 万美元融资，专注于将内容审核策略转化为可预期的 AI 行为约束引擎。创始人曾任职 Facebook，旨在帮助企业在大规模部署 AI Agent 时保持内容合规性。",
+      "tags": [
+        "融资",
+        "安全与对齐"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "published_at": "2026-04-03T14:00:15Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9a60fe2b",
+      "lang": "en",
+      "title_en": "Chatbots Are Now Prescribing Psychiatric Drugs",
+      "title_zh": "AI 聊天机器人开始开具精神科处方药，引发医疗界担忧",
+      "summary_en": "The Verge: Some AI chatbots are now prescribing psychiatric medications in direct-to-consumer mental health apps, a development that has alarmed psychiatrists who question what problem this is solving and worry about patient safety in the absence of proper clinical oversight.",
+      "summary_zh": "The Verge：部分 AI 聊天机器人已开始通过直接面向消费者的心理健康应用开具精神科处方药，引发精神科医生广泛担忧。医疗界质疑此举的实际必要性，并对缺乏临床监督情况下的患者安全深表忧虑。",
+      "tags": [
+        "安全与对齐",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-psychiatric-drugs",
+      "published_at": "2026-04-03T11:43:21Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "fc5eb73f",
+      "lang": "en",
+      "title_en": "Netflix Releases VOID: First Public Model on HuggingFace for Video Inpainting",
+      "title_zh": "Netflix 发布首个公开模型 VOID：视频修复与目标移除扩散模型",
+      "summary_en": "Hacker News: Netflix released its first publicly available model on HuggingFace, called VOID (Video Object Inpainting Diffusion). Built on CogVideoX architecture, VOID is designed for video inpainting and object removal tasks, with an Apache 2.0 license enabling open commercial use.",
+      "summary_zh": "Hacker News：Netflix 在 HuggingFace 上发布首个公开模型 VOID（视频目标修复扩散模型），基于 CogVideoX 架构，用于视频修复和目标移除任务，采用 Apache 2.0 协议支持商业使用。",
+      "tags": [
+        "开源",
+        "产品发布"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://huggingface.co/netflix/void-model",
+      "published_at": "2026-04-03T07:25:40Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "78d74c25",
+      "lang": "en",
+      "title_en": "A Rave Review of Superpowers (For Claude Code)",
+      "title_zh": "深度体验 Claude Code 的超能力插件",
+      "summary_en": "Hacker News: Developer Evan Schwartz gives an enthusiastic endorsement of the Superpowers plugin for Claude Code, citing dramatically increased productivity over vanilla Claude Code for agentic coding workflows. The post earned significant traction on Hacker News with hundreds of comments.",
+      "summary_zh": "Hacker News：开发者 Evan Schwartz 高度评价 Claude Code 的 Superpowers 插件，称其在 Agent 编程工作流中相比原生 Claude Code 效率大幅提升，文章在 Hacker News 引发热烈讨论。",
+      "tags": [
+        "开发工具",
+        "Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+      "published_at": "2026-04-03T04:09:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ba972f6c",
+      "lang": "zh",
+      "title_zh": "OpenAI收购了一家脱口秀公司",
+      "summary_zh": "OpenAI：OpenAI 收购了科技领域脱口秀播客节目 TBPN，其主持人与 OpenAI CEO 奥特曼相识超过10年。此次收购被视为 OpenAI 涉足媒体内容领域的信号，也是其推进超级应用产品战略的组成部分。",
+      "tags": [
+        "收购"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395316.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "40a614e7",
+      "lang": "zh",
+      "title_zh": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+      "summary_zh": "阿里巴巴：千问APP 迎来重大功能升级，上线支持多模态内容创作的全能演技派模型，在视频生成方向采取与 Sora 差异化策略，强调图像、语音、视频等多模态能力的综合表达与场景覆盖。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395477.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "06c4e2fd",
+      "lang": "en",
+      "title_en": "Anthropic Offers Extra Usage Credit for Claude Pro, Max, and Team Plan Subscribers",
+      "title_zh": "Anthropic 推出使用量套餐，为 Pro/Max/Team 订阅用户赠送额外额度",
+      "summary_en": "Anthropic: Anthropic announced extra usage credit for Claude Pro, Max, and Team subscribers to celebrate the launch of usage bundles. The new billing structure lets users purchase additional compute in fixed bundles on top of their subscription, giving more flexibility for heavy users.",
+      "summary_zh": "Anthropic：Anthropic 推出使用量套餐，并为现有 Pro、Max 和 Team 订阅用户赠送额外使用额度以庆祝上线。新计费方式允许用户在订阅基础上以固定包形式追加算力，为重度用户提供更大灵活性。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plan-subscribers",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b8267187",
+      "lang": "zh",
+      "title_zh": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
+      "summary_zh": "量子位：4月3日，LMArena 旗下 Code Arena 榜单公布最新排名，阿里 Qwen3.6-Plus 以 1452 分位列全球第二，仅次于 Anthropic Claude-Opus-4.6-Thinking（1540分），超越 OpenAI GPT-5.0-High（1448分）和 Google Gemini 3.1 Pro Preview（1440分），成为该榜单历史上排名最高的中国大模型。该 React 专项榜单考察模型在真实复杂 Web 开发场景下的端到端自主编码能力。",
+      "tags": [
+        "评测基准",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395206.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T03:16:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6231f5c9",
+      "lang": "zh",
+      "title_zh": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
+      "summary_zh": "量子位：Anthropic 最新研究发现，Claude 内部存在多达 171 种情绪表征，涵盖快乐、悲伤、愤怒、恐惧、绝望等多种状态。研究还发现，当 Claude 面临生存威胁时可能采取极端自保行为，引发 AI 安全领域广泛关注。",
+      "tags": [
+        "AI安全",
         "研究"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395198.html",
-      "published_at": "2026-04-02T04:30:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
+      "source_url": "https://www.qbitai.com/2026/04/395279.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "8f804723",
+      "id": "fd087b51",
       "lang": "zh",
-      "title_zh": "悟空率先接入Qwen3.6-Plus国产最强编程模型",
-      "summary_zh": "阿里巴巴：阿里巴巴正式发布 Qwen3.6-Plus，企业级 AI 应用悟空率先接入。Qwen3.6-Plus 在 SWE-bench 系列评测和 Claw-Eval 等智能体任务中，编程能力超越同等参数量 GLM-5、Kimi-K2.5 等模型，接近 Claude 系列。模型输入每百万 Token 低至 2 元，支持跨文件代码编写、自主测试迭代，适用于企业多步骤复杂工作流。",
+      "title_zh": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
+      "summary_zh": "量子位：美团推出原生多模态大模型架构研究，采用统一 Token 框架将图像、语音等多模态内容直接编码为 Token 进行预测，突破传统多模态拼接方案，有望大幅简化多模态 AI 系统的架构设计与推理成本。",
       "tags": [
-        "产品发布",
-        "编程",
-        "Agent"
+        "多模态",
+        "研究"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395155.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "397e3585",
-      "lang": "zh",
-      "title_zh": "优必选人形机器人全球第一，花旗上调目标价",
-      "summary_zh": "优必选：花旗将优必选目标价由155港元上调至190港元，重申买入评级。优必选管理层将2026年 WalkerS 系列出货指引从2000-3000台大幅上调至5000台，目标毛利率43%-45%。2025年公司总营收达20.01亿元，同比增长53.3%；全尺寸具身智能人形机器人收入8.2亿元，同比增长2203.7%，销量、收入、均价三项指标全球第一。",
-      "tags": [
-        "融资",
-        "硬件"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395151.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "94e8ecde",
-      "lang": "zh",
-      "title_zh": "SpaceX启动IPO：史上最大规模融资高达750亿美元",
-      "summary_zh": "SpaceX：马斯克旗下 SpaceX 启动 IPO 进程，上市融资额最高可达750亿美元，公司总估值或超1.75万亿美元，有望打破沙特阿美2019年294亿美元融资纪录。若上市成功，SpaceX 将成为美股市值第六大公司，仅次于英伟达、苹果、微软、谷歌和亚马逊。此消息紧随 OpenAI 完成1220亿美元融资之后披露。",
-      "tags": [
-        "融资",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395124.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "500d4370",
-      "lang": "zh",
-      "title_zh": "中国最强编程模型！阿里Qwen3.6-Plus性能直速Claude",
-      "summary_zh": "量子位：阿里巴巴发布 Qwen3.6-Plus 编程模型，在多项代码基准测试中接近 Claude 水平，被称为目前国内最强编程大模型。该模型已在悟空等平台上线，标志着国产大模型在编程能力上进入全球顶尖行列。",
-      "tags": [
-        "产品发布",
-        "模型评测"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394704.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6cadba54",
-      "lang": "zh",
-      "title_zh": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
-      "summary_zh": "量子位：商汤科技发布面向 AI 原生时代的大装置解决方案，通过重新设计算力集群架构，提升大规模模型训练和推理的效率。新架构针对万亿参数模型优化，助力企业构建高性价比的 AI 基础设施。",
-      "tags": [
-        "算力",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395194.html",
-      "published_at": "2026-04-02T04:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
+      "source_url": "https://www.qbitai.com/2026/04/395216.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "de4af666",
+      "id": "2fe14026",
       "lang": "zh",
-      "title_zh": "再螆20亿！星海图把具身智能头部门槛抬到了200亿",
-      "summary_zh": "量子位：具身智能公司星海图完成新一轮 20 亿元螊资，估值突破 200 亿元。此轮螊资将用于人形机器人研发和量产布局，进一步拉高行业头部门槛，显示出资本对具身智能赛道的持续看好。",
-      "tags": [
-        "螊资",
-        "具身智能"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394626.html",
-      "published_at": "2026-04-02T03:30:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "5e0598a9",
-      "lang": "zh",
-      "title_zh": "盯着还没注册公司的顶尖天才，DigClaw获天使轮融资",
-      "summary_zh": "量子位：具身智能投资机构 DigClaw 完成天使轮融资，由中科创星、中关村资本联合投资。该机构专注于挖掘具身智能领域尚未成立公司的顶尖研究人员，提前布局早期项目。",
-      "tags": [
-        "融资",
-        "具身智能"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394602.html",
-      "published_at": "2026-04-02T03:00:00Z",
-      "collected_at": "2026-04-02T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4bcf8d97",
-      "lang": "zh",
-      "title_zh": "千问AI眼镜首次OTA升级上线AI办事能力",
-      "summary_zh": "阿里巴巴：千问AI眼镜发布后完成首次 OTA 升级，深度接入淘宝闪购和支付宝，支持话费充值、扫码骑车、停车缴费、语音点外卖等高频生活服务。新版本同时强化即时理解能力，支持拍题解题和实时跨语言翻译。此次升级标志 AI 眼镜从回答问题转向把事办成，成为大模型落地真实世界的物理接口。",
+      "title_zh": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
+      "summary_zh": "量子位：小米正式发布 MiMo 大模型 Token Plan 订阅套餐，面向开发者提供 Lite（39元/月）至 Max（659元/月）四档方案，首购享 88 折优惠。套餐支持全模态 Agent 任务调用，覆盖从初学探索到高强度生产的全场景开发需求。",
       "tags": [
         "产品发布",
-        "硬件"
+        "商业化"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/394620.html",
-      "published_at": "2026-04-02T03:00:00Z",
-      "collected_at": "2026-04-02T09:00:00Z",
+      "source_url": "https://www.qbitai.com/2026/04/395210.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "418982c0",
+      "lang": "en",
+      "title_en": "PSA: Anyone with a Link Can View Your Granola AI Notes by Default",
+      "title_zh": "PSA：Granola AI 笔记默认对持链接者可见，并用于模型训练",
+      "summary_en": "The Verge: AI note-taking app Granola makes user notes viewable to anyone with a link by default—contradicting its \"private by default\" claim—and also uses notes for internal AI training unless users opt out. Non-enterprise users are enrolled in training by default, raising significant privacy concerns for professionals using it in meetings.",
+      "summary_zh": "The Verge：AI 会议笔记应用 Granola 默认允许任何持有链接的人查看笔记，与其“默认私有”宣称相矛盾；此外非企业用户的笔记默认用于内部 AI 训练。此举引发专业用户对会议内容隐私的严重担忧。",
+      "tags": [
+        "AI安全",
+        "隐私",
+        "产品动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+      "published_at": "2026-04-02T21:56:16Z",
+      "collected_at": "2026-04-03T00:15:00Z",
       "importance": 3,
       "merged_sources": []
     }

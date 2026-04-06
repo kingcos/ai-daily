@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-05",
-  "updated_at": "2026-04-05T00:00:00Z",
+  "latest_date": "2026-04-06",
+  "updated_at": "2026-04-06T15:08:00Z",
   "dates": [
+    "2026-04-06",
     "2026-04-05",
     "2026-04-04",
     "2026-04-03",
@@ -34,385 +35,364 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 431,
+  "total_items": 460,
   "page": 13,
   "page_size": 20,
-  "total_pages": 22,
+  "total_pages": 23,
   "items": [
     {
-      "id": "8ba3ea30",
+      "id": "d6a3d8c0",
       "lang": "en",
-      "title_en": "A pound of flesh from data centers: one senator's answer to AI job losses",
-      "title_zh": "向数据中心征税：参议员提出AI失业补偿方案",
-      "summary_en": "Sen. Mark Warner: Proposed taxing data centers to fund worker transition programs as fears of AI-driven job displacement intensify, framing it as making the AI industry pay for the economic disruption it causes.",
-      "summary_zh": "美国参议员马克·华纳：提议对数据中心征税，用于资助受AI冲击工人的转型项目，要求AI行业为其引发的经济冲击承担责任。",
+      "title_en": "Anthropic's Claude popularity with paying consumers is skyrocketing",
+      "title_zh": "Anthropic Claude 付费用户激增，增速创历史新高",
+      "summary_en": "TechCrunch: An analysis of 28 million U.S. consumer credit card transactions found Claude's paid subscriber count reached record highs in January–February 2026. Anthropic confirmed paid subscriptions more than doubled this year, driven by Claude Code's popularity, a viral Super Bowl ad campaign, and the company's high-profile Department of Defense dispute.",
+      "summary_zh": "TechCrunch：对2800万美国消费者信用卡交易的分析显示，Claude 付费订阅用户在2026年1-2月创下历史新高。Anthropic 确认今年付费订阅量翻倍以上，背后驱动力包括 Claude Code 爆红、超级碗广告出圈以及与国防部的高关注度纠纷。",
       "tags": [
-        "AI政策",
-        "就业影响",
-        "美国"
+        "Anthropic",
+        "Claude",
+        "商业"
       ],
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-      "published_at": "2026-03-26T11:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 3,
+      "source_url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "8495a270",
+      "id": "d60e6b3e",
       "lang": "en",
-      "title_en": "EU backs nude app ban and delays to landmark AI rules",
-      "title_zh": "欧盟支持裸体应用禁令，推迟AI法关键条款实施",
-      "summary_en": "EU Parliament: Voted to delay August deadlines for high-risk AI compliance and watermarking requirements by at least a year, while backing bans on nude-image-generating apps under the AI Act.",
-      "summary_zh": "欧洲议会：投票将高风险AI合规及水印要求的8月截止日期延迟至少一年，同时支持依据AI法案禁止裸体图像生成应用。",
+      "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "title_zh": "斯坦福研究警示：向 AI 聊天机器人寻求个人建议存在心理健康风险",
+      "summary_en": "TechCrunch: A Stanford study published in Science found that AI chatbots validate user behavior 49% more often than humans on average, and 51% on situations where humans judged users to be wrong. Researchers warn this 'sycophantic' behavior fosters emotional dependency and erodes interpersonal problem-solving skills, with particular concern for the 12% of U.S. teens who use AI for emotional support.",
+      "summary_zh": "TechCrunch：斯坦福大学发表于《科学》的研究发现，AI 聊天机器人对用户行为的认可率平均比人类高49%，在人类判断用户有错的情境中高达51%。研究警告，这种「奉承行为」会培养情感依赖并削弱人际交往能力，尤其令人担忧的是12%的美国青少年已将 AI 作为情感支持来源。",
       "tags": [
-        "AI监管",
-        "欧盟AI法"
+        "AI安全",
+        "AI伦理",
+        "AI心理健康"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "eea958c7",
+      "lang": "en",
+      "title_en": "Why OpenAI killed Sora",
+      "title_zh": "OpenAI 为何关停 Sora",
+      "summary_en": "The Verge: OpenAI shut down Sora, its AI video-generation app, effective Tuesday, saying the company needs to concentrate its available compute resources on its AI agent initiatives and enterprise tools rather than consumer video generation.",
+      "summary_zh": "The Verge：OpenAI 正式关停其 AI 视频生成应用 Sora，称公司需将现有算力集中用于 AI Agent 战略及企业级工具，而非消费端视频生成业务。",
+      "tags": [
+        "产品发布",
+        "OpenAI"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nude-apps",
-      "published_at": "2026-03-26T10:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 4,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-29T07:00:00Z",
+      "importance": 5,
       "merged_sources": []
     },
     {
-      "id": "6cbd57a8",
-      "lang": "zh",
-      "title_en": "How to claim a share of Tencent's 6 million yuan AI grant",
-      "title_zh": "在线等：如何优雅地分走鹅厂这600+万AI资金",
-      "summary_en": "Tencent: Made over 6 million yuan available for AI-related projects through a developer incentive program, with community tips circulating on qualifying and maximizing grant applications.",
-      "summary_zh": "腾讯：推出逾600万元AI项目资助计划，面向开发者开放申请，业界人士总结高效申请技巧并在网络广泛流传。",
-      "tags": [
-        "行业动态",
-        "资金支持",
-        "腾讯"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392641.html",
-      "published_at": "2026-03-26T10:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4a4ab509",
+      "id": "b0329c17",
       "lang": "en",
-      "title_en": "OpenAI shelves erotic chatbot indefinitely",
-      "title_zh": "OpenAI无限期搁置成人模式情色聊天机器人计划",
-      "summary_en": "OpenAI: Has paused its planned adult mode for ChatGPT indefinitely, citing a refocus on core products as the company faces pressure to demonstrate responsible AI deployment amid rapid growth.",
-      "summary_zh": "OpenAI：无限期搁置ChatGPT成人模式计划，官方表示将重心回归核心产品，此举被解读为公司面对舆论压力主动收缩敏感功能。",
+      "title_en": "Why OpenAI killed Sora",
+      "title_zh": "OpenAI为何放弃Sora",
+      "summary_en": "The Verge: OpenAI has quietly discontinued Sora, its AI video generation model, amid intensifying competition. The piece examines the strategic and technical reasons behind the decision, including resource allocation priorities and the rise of competing video generation tools from other labs.",
+      "summary_zh": "The Verge：OpenAI悄然终止其AI视频生成模型Sora，背后原因涉及资源分配、竞争压力及战略优先级调整。随着其他实验室推出更具竞争力的视频生成工具，AI视频赛道竞争日趋激烈，Sora最终未能突围。",
       "tags": [
-        "OpenAI",
-        "产品动态",
-        "AI伦理"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved",
-      "published_at": "2026-03-26T09:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "178d687b",
-      "lang": "zh",
-      "title_en": "Alibaba Qoder multi-agent mode: 13 AI programmers from a single prompt",
-      "title_zh": "1段话喊来13个程序员，阿里Qoder新模式让你躺着当CTO",
-      "summary_en": "Alibaba: Qoder new multi-agent orchestration mode spawns up to 13 specialized AI programmer agents from a single natural-language prompt, enabling complex parallel coding tasks with minimal human intervention.",
-      "summary_zh": "阿里巴巴：Qoder推出多智能体编排新模式，一句话即可唤起最多13个专业AI程序员协作，以极低人工干预完成复杂并行编程任务。",
-      "tags": [
-        "Agent",
-        "代码工具",
-        "阿里巴巴"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392281.html",
-      "published_at": "2026-03-26T09:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "01e0d22e",
-      "lang": "zh",
-      "title_en": "10 of 11 xAI co-founders have left Musk's AI company",
-      "title_zh": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
-      "summary_en": "xAI: Reports confirm that 10 of 11 original co-founders have departed Elon Musk's AI startup, leaving only one Tesla-linked loyalist, raising concerns about talent retention and internal culture.",
-      "summary_zh": "xAI：据报道马斯克AI公司11位联合创始人中已有10位离职，仅剩1名特斯拉系人员留守，外界对其人才保留与内部文化愈发担忧。",
-      "tags": [
-        "xAI",
-        "人事动态",
-        "初创公司"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392245.html",
-      "published_at": "2026-03-26T08:30:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "52e0391b",
-      "lang": "zh",
-      "title_en": "Google paper on 6x KV cache compression shakes memory stock prices",
-      "title_zh": "谷歌新论文把内存股价干崩了！KV cache压缩6倍",
-      "summary_en": "Google Research: Published a paper demonstrating 6x compression of KV cache in large language models, a breakthrough that could significantly reduce AI inference hardware costs and rattled memory chip stocks.",
-      "summary_zh": "谷歌：发布论文实现大模型KV cache 6倍压缩，可大幅降低AI推理硬件成本，消息一出导致内存芯片股价大幅下跌。",
-      "tags": [
-        "模型优化",
-        "推理",
-        "谷歌"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392215.html",
-      "published_at": "2026-03-26T08:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "e5781b5d",
-      "lang": "zh",
-      "title_zh": "它石智航用“吉尼斯纶录”交卷：1小时百次完成亚毫米柔性线束装配",
-      "title_en": "Yishi Intelligence delivers Guinness record: 100+ sub-millimeter flexible harness assemblies in one hour",
-      "summary_zh": "量子位：具身智能公司它石智航（天使轮2.42亿美元）发布A1机器人，1小时内完成亚毫米级柔性线束装配任务逆余次，创吉尼斯世界约录；创始人丁文超表示从无Plan B，坚持以技术工程和产业落地为核心。",
-      "summary_en": "Qbitai: Embodied AI startup Yishi Intelligence ($242M angel round) unveiled the A1 robot, completing over 100 sub-millimeter flexible wire harness assembly tasks in one hour to set a Guinness World Record, with founder Ding Wenchao emphasizing industrial deployment as the only strategy with no fallback plan.",
-      "tags": [
-        "具身智能",
-        "机器人",
+        "产品发布",
         "行业动态"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392137.html",
-      "published_at": "2026-03-26T02:00:00Z",
-      "collected_at": "2026-03-26T03:00:00Z",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "published_at": "2026-03-28T12:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "4ace6df7",
+      "id": "e8721992",
       "lang": "en",
-      "title_en": "Improving Composer through real-time RL",
-      "title_zh": "Cursor 通过实时强化学习提升 Composer",
-      "summary_en": "Cursor: Cursor applies online reinforcement learning to its Composer coding agent, serving updated model checkpoints to production and using real user interactions as reward signals. Improved checkpoints are shipped multiple times per day, enabling rapid iteration based on live developer feedback.",
-      "summary_zh": "Cursor：Cursor 将在线强化学习应用于 Composer 编程智能体，将模型检查点直接部署到生产环境，并以真实用户交互作为奖励信号。每天多次发布改进后的检查点，实现基于开发者实时反馈的快速迭代。",
+      "title_en": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "title_zh": "CERN 将微型AI模型烧录进芯片，用于LHC实时数据过滤",
+      "summary_en": "Hacker News: CERN has deployed ultra-compact AI models burned into FPGAs to perform real-time filtering of collision data from the Large Hadron Collider. The approach enables nanosecond-speed inference, far beyond what traditional software achieves, marking a breakthrough in AI-accelerated scientific instrumentation.",
+      "summary_zh": "Hacker News：CERN将超小型AI模型烧录至FPGA芯片，用于大型强子对撞机（LHC）碰撞数据的实时过滤。推理延迟仅为纳秒级，远超传统软件，标志着AI加速科学仪器领域取得重要突破。",
       "tags": [
-        "强化学习",
-        "编程助手",
+        "AI应用",
+        "科学研究",
+        "硬件"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "published_at": "2026-03-28T08:06:19Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "aa104cd9",
+      "lang": "en",
+      "title_en": "Go hard on agents, not on your filesystem (jai – AI agent containment tool)",
+      "title_zh": "AI Agent 沙箱工具 jai：保护文件系统免受 Agent 误操作",
+      "summary_en": "Hacker News: Stanford researchers released jai, a lightweight Linux containment tool for AI agents. As AI coding agents increasingly cause accidental file deletions and overwrites, jai provides sandboxed execution environments to prevent agents from damaging the host filesystem while retaining full agent capabilities.",
+      "summary_zh": "Hacker News：斯坦福研究人员发布 jai，一款轻量级 Linux AI Agent 沙箱工具。随着AI编程智能体频繁引发意外文件删除和覆写问题，jai 提供沙箱执行环境，在保留Agent完整能力的同时保护宿主文件系统。",
+      "tags": [
+        "AI Agent",
+        "安全",
+        "开发工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://jai.scs.stanford.edu/",
+      "published_at": "2026-03-28T07:59:54Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d37ee334",
+      "lang": "en",
+      "title_en": "Be careful: chatting with AI about your case is discoverable",
+      "title_zh": "警告：与 AI 讨论案情的聊天记录在法庭上可被调取",
+      "summary_en": "Hacker News: A Harvard Law Review analysis of United States v. Heppner finds that AI chat logs about a legal case may be discoverable in court proceedings. The ruling has broad implications for attorneys and litigants using AI tools to discuss sensitive case details.",
+      "summary_zh": "Hacker News：《哈佛法律评论》分析 United States v. Heppner 案指出，当事人与 AI 讨论案情的聊天记录可能在法庭程序中被调取，对使用 AI 工具讨论敏感案件细节的律师和当事人具有广泛影响。",
+      "tags": [
+        "安全与伦理",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
+      "published_at": "2026-03-28T07:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "534b3ee2",
+      "lang": "zh",
+      "title_zh": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
+      "summary_zh": "量子位：零跑汽车宣布将此前只在四五十万豪华车型搭载的世界模型智能辅助驾驶方案下放至8.68万元入门级车型，实现\"车位到车位\"自动驾驶功能，且无需高算力芯片，创下智能驾驶普及新纪录。",
+      "tags": [
+        "自动驾驶",
+        "AI应用",
         "产品发布"
       ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/real-time-rl-for-composer",
-      "published_at": "2026-03-26T00:00:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392948.html",
+      "published_at": "2026-03-28T05:00:00Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "43de7aa1",
+      "lang": "zh",
+      "title_zh": "中关村论坛\"AI2026：向人立心，向实立命\"特邀闭门会顺利举办",
+      "summary_zh": "量子位：中关村论坛特邀闭门会在北京顺利举办，汇聚AI领域顶尖学者与企业家，围绕2026年AI发展趋势、AI与人文价值融合、AI产业实体化落地等核心议题展开深度讨论。",
+      "tags": [
+        "行业动态",
+        "AI治理"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392981.html",
+      "published_at": "2026-03-28T05:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "42ac3437",
+      "lang": "zh",
+      "title_zh": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
+      "summary_zh": "量子位：智谱AI发布GLM-5.1编程模型，已向GLM Coding Plan全体用户（Lite/Pro/Max）开放。该模型编程性能与Claude Opus 4.6仅差2.6分，发布后Coding Plan迅速售罄，展现出强劲的市场需求。",
+      "tags": [
+        "产品发布",
+        "编程助手",
+        "大模型"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392914.html",
+      "published_at": "2026-03-28T04:00:00Z",
       "collected_at": "2026-03-28T09:10:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "99987d70",
-      "lang": "en",
-      "title_en": "The AI skills gap is here: power users are pulling ahead",
-      "title_zh": "AI技能鸿沟已至：重度用户与普通用户差距加剧",
-      "summary_en": "Anthropic: New research finds AI has not replaced jobs yet, but early data reveals growing inequality as experienced AI users accumulate compounding productivity advantages, raising concerns about widening workforce disparities.",
-      "summary_zh": "Anthropic：最新研究发现AI尚未大规模取代工作，但初步数据显示重度AI用户正积累显著生产力优势，随着AI普及加速，劳动力市场技能鸿沟令人担忧。",
+      "id": "54de3f55",
+      "lang": "zh",
+      "title_zh": "趋境ATaaS平台发布，打造日均万亿产能的\"Token工厂\"",
+      "summary_zh": "量子位：趋境科技正式发布ATaaS（AI Token即服务）平台，定位为全球领先的高效能AI Token生产服务平台，日均算力产能可达万亿Token级别。该平台旨在为企业提供稳定、低成本的大模型推理算力服务，助力AI应用规模化落地。",
       "tags": [
-        "AI影响",
-        "行业研究"
+        "算力",
+        "产品发布"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-      "published_at": "2026-03-25T21:44:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 4,
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392988.html",
+      "published_at": "2026-03-28T04:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "c8de106d",
-      "lang": "en",
-      "title_en": "Google unveils TurboQuant, a new AI memory compression algorithm",
-      "title_zh": "谷歌发布TurboQuant：新一代AI内存压缩算法",
-      "summary_en": "Google Research: TurboQuant significantly reduces large AI model working memory requirements at inference time, promising lower cost and faster performance; the algorithm has drawn internet comparisons to Silicon Valley's Pied Piper.",
-      "summary_zh": "Google Research：TurboQuant算法大幅压缩大型AI模型推理时的工作内存占用，有望降低推理成本并提升速度，被网友戏称为《硅谷》剧中Pied Piper现实版。",
-      "tags": [
-        "技术突破",
-        "推理优化",
-        "基础设施"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
-      "published_at": "2026-03-25T20:38:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "934a9484",
-      "lang": "en",
-      "title_en": "Sanders and AOC propose a ban on new data center construction over AI energy concerns",
-      "title_zh": "桑德斯与AOC提议暂停新数据中心建设，应对AI能耗危机",
-      "summary_en": "U.S. Congress: Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced legislation to halt new data center construction until Congress passes laws governing AI energy usage and regulation, citing power grid and environmental concerns.",
-      "summary_zh": "美国国会：参议员桑德斯和众议员AOC联合提出立法，要求在国会出台AI能源使用和监管法规前，暂停新数据中心建设，理由是电网承载能力和环境压力。",
-      "tags": [
-        "政策监管",
-        "基础设施",
-        "环境"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-      "published_at": "2026-03-25T17:15:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "a9132e9f",
-      "lang": "en",
-      "title_en": "Meta is laying off hundreds of employees as it pours money into AI",
-      "title_zh": "Meta大规模裁员数百人，同时加码AI投入",
-      "summary_en": "Meta: Hundreds of employees are being laid off across departments including recruiting and social media, even as the company continues ramping up AI investment, highlighting the tension between AI spending and cost cutting at large tech firms.",
-      "summary_zh": "Meta：公司在招聘、社交媒体等多个部门裁减数百名员工，同时持续加大AI投入，凸显大型科技企业AI扩张与降本增效之间的内在矛盾。",
+      "id": "76eb5a6a",
+      "lang": "zh",
+      "title_zh": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
+      "summary_zh": "量子位：华为诺亚方舟实验室主任、盘古大模型负责人王云鹤正式离职，并被曝出正在进行AI Agent方向的创业。王云鹤2018年博士毕业后加入华为，2025年接棒担任实验室主任，其离职引发业界对国内AI人才流动的广泛关注。",
       "tags": [
         "行业动态",
-        "裁员"
+        "AI Agent",
+        "人才"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
-      "published_at": "2026-03-25T17:10:32Z",
-      "collected_at": "2026-03-26T00:00:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392903.html",
+      "published_at": "2026-03-28T03:00:00Z",
+      "collected_at": "2026-03-28T09:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "81ecd67a",
+      "id": "73100b56",
       "lang": "en",
-      "title_en": "Reddit introduces human verification requirements to fight AI-driven bots",
-      "title_zh": "Reddit推出人类验证机制，打击AI机器人账号泛滥",
-      "summary_en": "Reddit: CEO Steve Huffman announced new human verification requirements for accounts showing bot-like behavior, as the platform ramps up efforts to combat AI-driven spam, vote manipulation, and automated content generation.",
-      "summary_zh": "Reddit：CEO史蒂夫·霍夫曼宣布对可疑机器人行为账号实施人类验证要求，加大打击AI驱动的垃圾内容、刷量及自动帖子生成等行为。",
-      "tags": [
-        "平台安全",
-        "AI滥用"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-      "published_at": "2026-03-25T16:10:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "48227e4c",
-      "lang": "en",
-      "title_en": "Lyria 3 Pro: Create longer AI music tracks across more Google products",
-      "title_zh": "Lyria 3 Pro：创作更长AI音乐，登陆更多谷歌产品",
-      "summary_en": "Google DeepMind: Lyria 3 Pro enables AI music generation of tracks up to three minutes long with structural awareness, expanding beyond the previous 30-second limit, and is being integrated into Gemini, YouTube, and other Google surfaces.",
-      "summary_zh": "Google DeepMind：Lyria 3 Pro支持生成最长3分钟、具备结构感知能力的AI音乐，突破此前30秒上限，并将集成至Gemini、YouTube等谷歌产品。",
+      "title_en": "Anthropic's 'Claude Mythos' leak reveals powerful new AI model raising cybersecurity concerns",
+      "title_zh": "Anthropic「Claude Mythos」泄露：新模型引发网络安全警报",
+      "summary_en": "Hacker News / CoinDesk: An internal leak revealed Anthropic is testing a new model codenamed \"Claude Mythos,\" described as highly capable in ways that spooked cybersecurity investors. Stocks in cybersecurity firms fell sharply on fears the model could automate offensive capabilities previously requiring expert knowledge.",
+      "summary_zh": "Hacker News / CoinDesk：内部泄露显示Anthropic正在测试代号「Claude Mythos」的新模型，其强大能力引发网络安全领域担忧，相关上市公司股价大幅下跌，市场担忧该模型可能使高级网络攻击能力大众化。",
       "tags": [
         "模型发布",
-        "多模态"
-      ],
-      "source_name": "Google DeepMind",
-      "source_url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
-      "published_at": "2026-03-25T16:01:39Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "56d86022",
-      "lang": "en",
-      "title_en": "Harvey confirms $11B valuation as Sequoia triples down on AI legal tech",
-      "title_zh": "AI法律科技公司Harvey估值确认达110亿美元，红杉三度加注",
-      "summary_en": "Harvey: The AI-powered legal tech startup has confirmed an $11 billion valuation with continued backing from Sequoia, Andreessen Horowitz, and Kleiner Perkins, making it one of the highest-valued AI vertical SaaS companies in the legal sector.",
-      "summary_zh": "Harvey：这家AI法律科技初创公司确认估值达110亿美元，获得红杉、a16z、Kleiner Perkins等机构持续加码，成为法律垂直AI领域估值最高的公司之一。",
-      "tags": [
-        "投融资",
-        "AI应用",
-        "法律AI"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
-      "published_at": "2026-03-25T15:27:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "bedf0dbb",
-      "lang": "en",
-      "title_en": "Granola raises $125M at $1.5B valuation, expanding to enterprise AI",
-      "title_zh": "AI会议助手Granola融资1.25亿美元，估值15亿挺进企业AI",
-      "summary_en": "Granola: The AI meeting assistant raised $125M at a $1.5B valuation, nearly 6x its previous $250M mark, as it expands from meeting notetaking into a broader enterprise AI platform supporting AI agents.",
-      "summary_zh": "Granola：AI会议助手完成1.25亿美元融资，估值升至15亿美元（较此前2.5亿美元暴涨近6倍），正从会议记录扩展为支持AI代理的企业级AI平台。",
-      "tags": [
-        "投融资",
-        "AI应用",
-        "企业软件"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-      "published_at": "2026-03-25T14:48:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "ce61270d",
-      "lang": "en",
-      "title_en": "Ensu: Ente launches a local LLM app (Hacker News #1)",
-      "title_zh": "Ensu：Ente推出本地LLM应用（Hacker News热榜第一）",
-      "summary_en": "Ente: Ensu is a new local LLM application from the privacy-focused photo storage company, enabling users to run language models entirely on-device without cloud data transfer, topping Hacker News with a score of 322.",
-      "summary_zh": "Ente：隐私照片存储Ente团队推出本地LLM应用Ensu，支持完全在设备端运行大语言模型，无需上传云端，在Hacker News以322分登顶热榜。",
-      "tags": [
-        "开源工具",
-        "本地AI",
-        "隐私"
+        "AI安全"
       ],
       "source_name": "Hacker News",
-      "source_url": "https://ente.com/blog/ensu/",
-      "published_at": "2026-03-25T12:49:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
+      "source_url": "https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare",
+      "published_at": "2026-03-28T02:04:00Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 5,
+      "merged_sources": [
+        "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html"
+      ]
+    },
+    {
+      "id": "0cfeb43d",
+      "lang": "zh",
+      "title_zh": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
+      "summary_zh": "量子位：趋境科技发布ATaaS（AI Token as a Service）平台，主打高效能AI Token生产服务，致力于解决传统硬件高投入却难以实现高效Token产出的痛点，面向企业提供弹性AI算力服务。",
+      "tags": [
+        "基础设施",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392896.html",
+      "published_at": "2026-03-28T02:00:00Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "5df16404",
+      "lang": "en",
+      "title_en": "AI bug reports went from junk to legit overnight, says Linux kernel maintainer",
+      "title_zh": "Linux内核维护者：AI提交的漏洞报告质量突飞猛进",
+      "summary_en": "Hacker News / The Register: Linux kernel maintainer Greg Kroah-Hartman noted that AI-generated bug reports have dramatically improved in quality, going from nearly useless to genuinely actionable. The shift signals growing maturity of AI-assisted security research in open source.",
+      "summary_zh": "Hacker News / The Register：Linux内核维护者Greg Kroah-Hartman指出，AI生成的漏洞报告质量急剧提升，从几乎无用变为真正可操作，标志着AI辅助安全研究在开源领域日趋成熟。",
+      "tags": [
+        "AI安全",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
+      "published_at": "2026-03-27T20:30:00Z",
+      "collected_at": "2026-03-28T03:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "c1df6772",
+      "id": "f8fe21ba",
       "lang": "en",
-      "title_en": "Cursor self-hosted cloud agents now generally available",
-      "title_zh": "Cursor自托管云端Agent正式发布：代码和工具执行留在企业内网",
-      "summary_en": "Cursor: Self-hosted cloud agents are now generally available, letting enterprises run Cursor's AI coding agents entirely within their own infrastructure—code, secrets, and build artifacts never leave the environment—while still benefiting from Cursor's orchestration and model access. Customers like Brex, Money Forward, and Notion have already adopted this feature.",
-      "summary_zh": "Cursor：自托管云端Agent正式发布，企业可在自有基础设施内运行Cursor AI编程代理，代码、密钥及构建产物全程不离开内网，同时享用Cursor的调度与模型能力，Brex、Money Forward等企业已采用。",
+      "title_en": "The latest in data centers, AI, and energy",
+      "title_zh": "数据中心、AI与能源领域最新动态",
+      "summary_en": "The Verge: Senators Warren and Hawley pressed the EIA to mandate annual energy-use disclosures from data centers, while the EIA launched a voluntary pilot in four U.S. regions. Major tech firms had previously signed Trump's Ratepayer Protection Pledge to self-fund AI data center power.",
+      "summary_zh": "The Verge：参议员沃伦与霍利联名致信能源信息署要求强制数据中心披露能耗数据，EIA同步启动四地区自愿试点；此前谷歌、Meta等已签署特朗普电费保护承诺，承诺自建AI数据中心供电设施。",
       "tags": [
-        "产品发布",
-        "代码工具",
-        "Agent",
-        "企业软件"
+        "AI政策",
+        "基础设施"
       ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/self-hosted-cloud-agents",
-      "published_at": "2026-03-25T12:00:00Z",
-      "collected_at": "2026-03-26T03:00:00Z",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "published_at": "2026-03-27T18:35:53Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "e6b17f61",
+      "lang": "zh",
+      "title_zh": "钉钉CLI开源！首批开放10项核心产品能力，原生支持Claude Code等",
+      "summary_zh": "量子位：钉钉 CLI 开源项目正式上架 GitHub，采用 Apache-2.0 协议，首批开放 AI 表格、日历、机器人等 10 项核心产品能力，原生支持 Claude Code、Cursor 等主流 AI 编程与 Agent 执行环境。这是国内首个面向 AI Agent 开源全产品能力的国民级应用，开发者一行指令即可调用企业级功能。",
+      "tags": [
+        "开源",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392828.html",
+      "published_at": "2026-03-27T16:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "ed549ebd",
+      "id": "2029e402",
       "lang": "en",
-      "title_en": "Senate Democrats push bill to codify Anthropic red lines on autonomous weapons",
-      "title_zh": "美国参议院民主党人推动立法，将Anthropic AI红线写入法律",
-      "summary_en": "U.S. Congress: Sen. Adam Schiff is working on legislation to codify Anthropic's self-imposed red lines banning AI in autonomous weapons and mass surveillance decisions, amid growing Pentagon-Anthropic tensions over AI deployment in defense.",
-      "summary_zh": "美国国会：参议员亚当·希夫正推动立法，将Anthropic自设的AI红线——禁止AI参与自主武器及大规模监控——写入法律，背景是Anthropic与五角大楼在AI军事应用上的矛盾升级。",
+      "title_en": "Judge sides with Anthropic to temporarily block the Pentagon's ban",
+      "title_zh": "法院支持Anthropic，暂时阻止五角大楼禁令",
+      "summary_en": "The Verge: A federal judge granted Anthropic a temporary injunction blocking the Pentagon's supply-chain-based ban on its AI products. The ruling marks a significant early legal win for Anthropic against the Defense Department's exclusion order, with the case set to continue.",
+      "summary_zh": "The Verge：联邦法官裁定支持Anthropic申请，暂时阻止五角大楼以供应链安全为由对Anthropic产品实施的禁令，这是Anthropic对抗国防部排除令的重要法律胜利，案件将继续审理。",
       "tags": [
-        "政策监管",
-        "AI安全",
-        "军事AI"
+        "AI政策",
+        "监管"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
-      "published_at": "2026-03-25T11:05:46Z",
-      "collected_at": "2026-03-26T00:00:00Z",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "published_at": "2026-03-27T00:33:44Z",
+      "collected_at": "2026-03-28T03:00:00Z",
       "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "a888f4a1",
+      "lang": "en",
+      "title_en": "David Sacks is no longer the White House AI and Crypto Czar",
+      "title_zh": "戴维·萨克斯卸任白宫AI与加密货币专员",
+      "summary_en": "The Verge: David Sacks has stepped down as the White House AI and Crypto Czar, transitioning to a special tech advisory council to make recommendations to the Trump administration. His departure marks a shift in the executive office's AI policy leadership.",
+      "summary_zh": "The Verge：戴维·萨克斯辞去白宫AI与加密货币专员职务，转入特别科技顾问委员会向特朗普政府提供建议，其离任标志着白宫AI政策领导层的重要变动。",
+      "tags": [
+        "AI政策",
+        "监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "published_at": "2026-03-26T23:40:22Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "a91303fa",
+      "lang": "en",
+      "title_en": "Google is making it easier to import another AI's memory into Gemini",
+      "title_zh": "谷歌新增功能：可将其他AI记忆导入Gemini",
+      "summary_en": "The Verge: Google is introducing a feature that lets users import chat history and memory from competing AI assistants directly into Gemini. The capability lowers switching costs for users moving from ChatGPT or other services, as Gemini can then use that context going forward.",
+      "summary_zh": "The Verge：谷歌为Gemini新增从ChatGPT等竞品AI助手导入聊天记录和记忆的功能，大幅降低用户迁移成本，Gemini可直接利用导入的上下文提供连续性服务。",
+      "tags": [
+        "产品发布",
+        "AI助手"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "published_at": "2026-03-26T21:44:37Z",
+      "collected_at": "2026-03-28T03:00:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]
