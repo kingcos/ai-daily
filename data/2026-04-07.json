@@ -1,7 +1,39 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T00:08:00Z",
+  "generated_at": "2026-04-07T03:07:00Z",
   "items": [
+    {
+      "id": "0affae3b",
+      "lang": "zh",
+      "title_zh": "23天靠AI短片赚100万！非科班出身逆袭影视区，郭帆导演拍手叫好",
+      "summary_zh": "量子位：B站首届AI创作大赛一等奖得主DiDi_OK凭借AI生成短片《牌子》23天创作完成，上线一周获超1000万次播放、80万点赞，斩获100万元大奖。本次大赛共8300余份参赛作品，总奖金超300万元，获奖作品均以真实表达和极简形式取胜，而非依赖复杂的AI工具或万能提示词。",
+      "tags": [
+        "多模态",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396890.html",
+      "published_at": "2026-04-07T00:00:00Z",
+      "collected_at": "2026-04-07T03:07:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "824a241a",
+      "lang": "zh",
+      "title_zh": "Ilya曝光70页OpenAI绝密文件",
+      "summary_zh": "量子位：Ilya Sutskever通过70页机密备忘录及200余页私人笔记，披露OpenAI内部权力博弈细节。文件显示OpenAI从创立起就被设计为极度注重安全的非营利结构，董事会对人类负责可牺牲公司本身。Ilya对CEO Sam Altman的信任危机逐步加深，最终导致2023年董事会罢免事件。文件通过Slack记录与内部邮件系统整理而成。",
+      "tags": [
+        "安全对齐",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396880.html",
+      "published_at": "2026-04-07T00:00:00Z",
+      "collected_at": "2026-04-07T03:07:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "lang": "en",
       "title_en": "The Back Story Behind the First '$1.8B' AI Company",
@@ -98,6 +130,25 @@
       "merged_sources": []
     },
     {
+      "id": "e0330bad",
+      "lang": "en",
+      "title_en": "Agent Reading Test: A Benchmark for AI Coding Agent Web Content Parsing",
+      "title_zh": "Agent Reading Test：AI编程智能体网页读取能力基准",
+      "summary_en": "Hacker News: The Agent Reading Test is a new benchmark evaluating how well AI coding agents (Claude Code, Cursor, GitHub Copilot, and others) read and parse web content. The test consists of 10 tests worth 20 points, surfacing silent failure modes where content gets truncated or CSS buries key information. Each test page is designed around a specific documented problem, embedding canary tokens to detect whether agents successfully parsed the content.",
+      "summary_zh": "Hacker News：Agent Reading Test是一个新基准，用于评估AI编程智能体（Claude Code、Cursor、GitHub Copilot等）读取和解析网页内容的能力。基准包含10个测试共20分，揭示内容截断、CSS遮蔽等静默失败模式。每个测试页面针对特定已记录问题设计，通过嵌入Canary Token检测智能体是否成功解析内容。",
+      "tags": [
+        "评测基准",
+        "Agent",
+        "编程"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://agentreadingtest.com",
+      "published_at": "2026-04-06T18:56:57Z",
+      "collected_at": "2026-04-07T03:07:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "lang": "en",
       "title_en": "The Cult of Vibe Coding Is Dogfooding Run Amok",
       "title_zh": "\"氛围编程\"崇拜：失控的自我验证循环",
@@ -114,6 +165,25 @@
       "importance": 3,
       "id": "9cf9b311",
       "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "id": "c5c06a11",
+      "lang": "en",
+      "title_en": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "title_zh": "Freestyle：为AI编程智能体提供沙箱基础设施",
+      "summary_en": "Hacker News: Freestyle is a new platform providing unified infrastructure for AI-generated code, including Git, VMs, deployments, and execution environments. Designed for AI app builders and workflow engines, it offers sandboxed environments for coding agents to run safely. The launch targets the growing ecosystem of agentic coding workflows where AI-generated code needs isolated execution environments.",
+      "summary_zh": "Hacker News：Freestyle是面向AI生成代码的统一基础设施平台，提供Git、虚拟机、部署和执行环境管理。专为AI应用构建者和工作流引擎设计，为编程智能体提供沙箱运行环境，支持AI自动编写的代码在安全隔离环境中执行。",
+      "tags": [
+        "Agent",
+        "编程",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.freestyle.sh/",
+      "published_at": "2026-04-06T16:32:11Z",
+      "collected_at": "2026-04-07T03:07:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
@@ -152,6 +222,43 @@
       "importance": 3,
       "id": "707d19ee",
       "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "id": "9be5f1ba",
+      "lang": "en",
+      "title_en": "Better MoE Model Inference with Warp Decode",
+      "title_zh": "Warp Decode：提升MoE模型推理速度1.8倍",
+      "summary_en": "Cursor: Cursor's research team introduces warp decode, a new inference technique for MoE models on Blackwell GPUs that achieves 1.84x throughput improvement while also improving accuracy. By flipping the parallelism axis from expert-centric to warp-centric, the method delivers outputs 1.4x closer to the target distribution. The technique is designed for small-batch decode scenarios where standard expert-parallel approaches underperform.",
+      "summary_zh": "Cursor：Cursor研究团队发布warp decode，一种面向Blackwell GPU上MoE模型的推理新技术。通过将并行轴从以专家为中心翻转为以warp为中心，在小批量解码场景下实现1.84倍吞吐量提升，同时输出准确性提高1.4倍，更接近目标分布。该方法同时改善了性能和精度。",
+      "tags": [
+        "推理",
+        "产品发布",
+        "编程"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/warp-decode",
+      "published_at": "2026-04-06T12:00:00Z",
+      "collected_at": "2026-04-07T03:07:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "047e7bac",
+      "lang": "en",
+      "title_en": "Introducing the OpenAI Safety Fellowship",
+      "title_zh": "OpenAI推出安全研究奖学金计划",
+      "summary_en": "OpenAI: OpenAI announced the Safety Fellowship, a new program for external researchers, engineers, and practitioners to pursue safety and alignment research on advanced AI systems. The fellowship runs from September 14, 2026 through February 5, 2027. Priority areas include safety evaluation, ethics, robustness, scalable mitigations, privacy-preserving safety methods, and agentic oversight. Fellows receive monthly stipend, compute support, and mentorship. Applications are open until May 3.",
+      "summary_zh": "OpenAI：OpenAI宣布设立Safety Fellowship，面向外部研究人员、工程师和从业者，支持其开展前沿AI系统安全与对齐研究。项目时间为2026年9月14日至2027年2月5日，重点方向包括安全评估、伦理、鲁棒性、可扩展缓解措施、保护隐私的安全方法及智能体监督。申请截止日期为5月3日，可远程或在伯克利参与。",
+      "tags": [
+        "安全对齐",
+        "研究论文"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-openai-safety-fellowship/",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-07T03:07:00Z",
+      "importance": 4,
       "merged_sources": []
     }
   ]
