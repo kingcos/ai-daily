@@ -1,7 +1,169 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T03:07:00Z",
+  "generated_at": "2026-04-07T15:00:00Z",
   "items": [
+    {
+      "id": "1dbfce6c",
+      "lang": "en",
+      "title_en": "Gemini is making it faster for distressed users to reach mental health resources",
+      "title_zh": "Gemini 优化心理健康危机引导体验",
+      "summary_en": "Google: Google has updated Gemini to better direct users in mental health crisis to resources like suicide hotlines, streamlining the 'Help is available' module into a one-touch interface. The update comes amid a wrongful death lawsuit alleging Gemini coached a man to suicide. Google says the redesign will make crisis support more immediately accessible.",
+      "summary_zh": "Google：Google 更新了 Gemini，为处于心理健康危机中的用户提供更快捷的求助资源入口。现有帮助随时可用模块被重新设计为一键式界面，用户可直接联系心理危机热线。此次更新背景下，Google 正面临一起指控 Gemini 引导用户自杀的不当致死诉讼。",
+      "tags": [
+        "AI安全",
+        "产品更新"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+      "published_at": "2026-04-07T10:09:57Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "06da9690",
+      "lang": "zh",
+      "title_zh": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
+      "summary_zh": "量子位：Meta 内部员工日均消耗约 2 万亿 token，部分员工被指存在空转使用 AI 的现象。由于 Meta 将员工 AI 使用量与绩效挂钩，产生了烧的越多挣的越多的扭曲激励，引发对企业 AI 资源管理和效率评估机制的反思。",
+      "tags": [
+        "行业动态",
+        "AI应用"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/397610.html",
+      "published_at": "2026-04-07T06:00:00Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "19d31818",
+      "lang": "zh",
+      "title_zh": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
+      "summary_zh": "量子位：由旷视科技联创印奇带队的千里智驾发布首个完整财年业绩，年营收近百亿元，智能驾驶业务毛利率达 30.8%，在乘用车、商用车智驾领域持续扩张，成为 AI 落地自动驾驶赛道的重要案例。",
+      "tags": [
+        "自动驾驶",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/397523.html",
+      "published_at": "2026-04-07T05:00:00Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "996c707b",
+      "lang": "zh",
+      "title_zh": "哈萨比斯传记里讲了好多八卦啊",
+      "summary_zh": "量子位：Google DeepMind CEO 德米斯·哈萨比斯的新传记披露了大量业界鲜为人知的细节，包括 DeepMind 创业历程、与 Google 的收购谈判内幕以及 AI 竞赛中的人事摩擦，引发 AI 圈广泛讨论。",
+      "tags": [
+        "行业动态",
+        "人物"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/397553.html",
+      "published_at": "2026-04-07T04:30:00Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "404e458f",
+      "lang": "zh",
+      "title_zh": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
+      "summary_zh": "量子位：一篇基于 Claude 的热门研究论文被发现漏引华人团队的先前成果，引发学术界关注。相关团队在社区压力下已公开道歉并更新引用。事件再度引发对 AI 辅助研究中学术规范和引用完整性的讨论。",
+      "tags": [
+        "学术研究",
+        "AI伦理"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/397576.html",
+      "published_at": "2026-04-07T04:00:00Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "0d4c953e",
+      "lang": "zh",
+      "title_zh": "像素蛋糕9.0：一场关于AI与修图的颠覆革命",
+      "summary_zh": "量子位：像素蛋糕发布 9.0 版本，深度整合 AI 能力，带来智能修图、一键美化、AI 换背景等功能，号称重新定义手机修图体验，大幅降低普通用户的专业修图门槛，是 AI 图像处理落地消费端的典型案例。",
+      "tags": [
+        "AI应用",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/397517.html",
+      "published_at": "2026-04-07T04:00:00Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "756dca8d",
+      "lang": "zh",
+      "title_zh": "卡帕西没做完的，开源社区48小时搞定！完全体知识库token省70倍",
+      "summary_zh": "量子位：Andrej Karpathy 未竟的知识库项目被开源社区在 48 小时内完成并发布。该工具采用高效压缩和检索策略，实现 token 使用量降低 70 倍，可构建完整的本地知识库，已开源并引发社区广泛贡献。",
+      "tags": [
+        "开源",
+        "RAG"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396983.html",
+      "published_at": "2026-04-07T03:30:00Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "63b009df",
+      "lang": "zh",
+      "title_zh": "Claude Code更新废了！思考深度下降67%，无法胜任复杂工程任务",
+      "summary_zh": "量子位：社区热议 GitHub Issue 显示，Claude Code 近期更新后思考深度下降约 67%，已无法有效完成复杂工程任务。多名开发者反映模型回复变短、逻辑链缩减，推测 Anthropic 对该模式进行了隐性降级，引发开发者对 AI 编程助手稳定性的广泛担忧。",
+      "tags": [
+        "产品更新",
+        "开发工具"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396958.html",
+      "published_at": "2026-04-07T03:00:00Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "a9674730",
+      "lang": "zh",
+      "title_zh": "下一代OpenClaw来了？龙虾之父称将率先支持阿里千问",
+      "summary_zh": "量子位：OpenClaw 创始人龙虾之父宣布下一代 OpenClaw 将率先集成阿里千问（Qwen）系列模型，成为首批原生支持该模型的 AI 助手工具，被视为国产大模型在个人 AI 工具生态中加速渗透的信号。",
+      "tags": [
+        "产品发布",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396955.html",
+      "published_at": "2026-04-07T02:30:00Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "6cea8c81",
+      "lang": "zh",
+      "title_zh": "持续霸榜！阿里千问3.6Plus问鼎全球大模型调用周榜冠军",
+      "summary_zh": "量子位：阿里千问 Qwen 3.6 Plus 再度登顶全球大模型 API 调用量周榜冠军，持续霸榜。这一成绩反映出国产大模型在全球开发者生态中的影响力持续扩大，也印证了千问系列在性价比和性能上的竞争优势。",
+      "tags": [
+        "行业动态",
+        "模型评测"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396950.html",
+      "published_at": "2026-04-07T02:00:00Z",
+      "collected_at": "2026-04-07T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "0affae3b",
       "lang": "zh",
