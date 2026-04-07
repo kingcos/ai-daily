@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,151 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 7,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "16f4ade7",
+      "lang": "zh",
+      "title_zh": "Claude终于承认乱扣费！最高多收你20倍，一句「你好」干掉13%额度",
+      "summary_zh": "量子位：Anthropic 正式承认 Claude 存在 token 计费异常问题，部分用户反映被多收高达 20 倍费用，仅发送简单问候即消耗大量额度。该问题引发用户强烈不满，Anthropic 表示已在排查修复中。",
+      "tags": [
+        "AI安全",
+        "Anthropic",
+        "产品问题"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394177.html",
+      "published_at": "2026-04-01T03:00:00Z",
+      "collected_at": "2026-04-01T09:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "34c071fb",
+      "lang": "zh",
+      "title_zh": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
+      "summary_zh": "量子位：PixVerse 发布 V6 视频生成模型，在 AI 视频的空间与时间处理能力上实现大幅跃升，支持延时拍摄、慢动作等专业摄影效果，正值 Sora 退出市场之际，填补了 AI 视频生成赛道的空缺。",
+      "tags": [
+        "产品发布",
+        "AI视频"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394373.html",
+      "published_at": "2026-04-01T02:00:00Z",
+      "collected_at": "2026-04-01T09:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "49e8ac67",
+      "lang": "en",
+      "title_en": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "title_zh": "Mercor 遭网络攻击，源于开源项目 LiteLLM 供应链入侵",
+      "summary_en": "TechCrunch: AI recruiting startup Mercor confirmed it was one of thousands of companies affected by a supply chain attack on the open-source LiteLLM project, carried out by a group called TeamPCP. Extortion group Lapsus$ also claimed to have targeted Mercor and accessed its data. Mercor, valued at $10B, works with OpenAI and Anthropic to train AI models.",
+      "summary_zh": "TechCrunch：AI 招募初创公司 Mercor 确认遭受供应链攻击，攻击源头为开源项目 LiteLLM 被黑客组织 TeamPCP 入侵。勒索组织 Lapsus$ 亦声称已访问 Mercor 数据。Mercor 估值达 100 亿美元，为 OpenAI、Anthropic 等公司提供 AI 模型训练服务。",
+      "tags": [
+        "AI安全",
+        "供应链攻击"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "published_at": "2026-04-01T01:42:59Z",
+      "collected_at": "2026-04-01T09:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "2ea0207a",
+      "lang": "zh",
+      "title_zh": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
+      "summary_zh": "量子位：OpenAI 完成 1220 亿美元融资，投后估值达 8520 亿美元，创下科技史上最大单笔融资纪录。亚马逊出资 500 亿、英伟达与软银各投 300 亿，微软也参与本轮。OpenAI 还首次通过银行渠道向个人投资者开放，筹得逾 30 亿美元。市场对其 IPO 预期进一步升温。",
+      "tags": [
+        "融资",
+        "OpenAI"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394169.html",
+      "published_at": "2026-04-01T00:56:13Z",
+      "collected_at": "2026-04-01T15:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "4c19eec4",
+      "lang": "en",
+      "title_en": "Claude Code leaked features and hidden commands revealed",
+      "title_zh": "Claude Code 泄露功能与隐藏命令曝光",
+      "summary_en": "Hacker News: A dedicated site (ccleaks.com) catalogued leaked features and undocumented commands discovered in Anthropic's Claude Code source code. Highlights include unreleased agentic capabilities, hidden debugging modes, and experimental multi-agent orchestration features not yet in the official product.",
+      "summary_zh": "Hacker News：一个专门网站（ccleaks.com）整理了从 Anthropic Claude Code 源码中发现的泄露功能与未公开命令，包括未发布的 Agent 能力、隐藏调试模式及实验性多智能体编排功能。",
+      "tags": [
+        "Claude",
+        "AI编码",
+        "产品泄露"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.ccleaks.com",
+      "published_at": "2026-04-01T00:08:00Z",
+      "collected_at": "2026-04-01T00:14:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "be3002bd",
+      "lang": "en",
+      "title_en": "Show HN: PhAIL – Real-robot benchmark for evaluating AI models",
+      "title_zh": "PhAIL：用于评估 AI 模型的真实机器人基准测试平台",
+      "summary_en": "Hacker News: PhAIL is a new real-world robotics benchmark designed to evaluate AI models on physical tasks using actual hardware, not simulations. It aims to fill the gap between sim-based evaluations and real-world robot performance, helping researchers assess embodied AI more reliably.",
+      "summary_zh": "Hacker News：PhAIL 是一个面向真实机器人的 AI 模型基准测试平台，采用实体硬件而非仿真环境测试物理任务性能，旨在填补仿真评估与现实机器人表现之间的鸿沟，帮助研究者更可靠地评估具身 AI。",
+      "tags": [
+        "具身AI",
+        "机器人",
+        "AI评测",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://phail.ai",
+      "published_at": "2026-04-01T00:05:00Z",
+      "collected_at": "2026-04-01T00:14:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2ea0207a",
+      "lang": "zh",
+      "title_zh": "OpenAI创下史上最大单笔融资纪录1220亿美元",
+      "summary_zh": "OpenAI：OpenAI 完成 1220 亿美元融资，创下史上最大单笔私募融资纪录，较此前披露的 1100 亿美元上调。本轮融资进一步巩固公司估值，并为 IPO 上市准备积累资本。",
+      "tags": [
+        "融资",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394169.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+      ]
+    },
+    {
+      "id": "f0864a12",
+      "lang": "zh",
+      "title_zh": "Anthropic遭曝光：Claude Claw龙虾形象意外流出",
+      "summary_zh": "Anthropic：Anthropic 内部 AI 助手 Claude Claw 的龙虾形象意外通过源码泄漏曝光，Andrej Karpathy 随即在社交媒体评论称这就是 Claude Claw。此次泄漏源于 Claude Code 源码外泄事件，引发社区对 Anthropic 品牌形象设计的广泛讨论。",
+      "tags": [
+        "行业动态",
+        "安全对齐"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394516.html",
+      "published_at": "2026-04-01T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "16f4ade7",
       "lang": "zh",
@@ -255,165 +396,6 @@
       "published_at": "2026-03-31T21:01:00Z",
       "collected_at": "2026-04-02T00:10:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "95b2ef53",
-      "lang": "en",
-      "title_en": "PrismML launches Bonsai: First commercially viable 1-bit LLMs",
-      "title_zh": "PrismML 发布 Bonsai：首个商业可用的 1-bit 大语言模型，AI 推理成本有望大幅降低",
-      "summary_en": "PrismML: PrismML announced Bonsai, claimed to be the first commercially viable 1-bit large language models, enabling advanced AI to run efficiently on edge devices. 1-bit quantization dramatically reduces memory and compute requirements, potentially democratizing AI deployment on consumer hardware.",
-      "summary_zh": "PrismML：PrismML 发布 Bonsai，宣称为首批商业可用的 1-bit 大语言模型，可在端侧设备上高效运行高水平 AI 能力。1-bit 量化大幅降低内存和算力需求，有望推动 AI 在消费级硬件上的大规模普及。",
-      "tags": [
-        "LLM",
-        "1-bit量化",
-        "端侧AI",
-        "模型压缩",
-        "PrismML"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://prismml.com/news/bonsai-8b",
-      "published_at": "2026-03-31T21:01:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 4
-    },
-    {
-      "id": "f656d9ee",
-      "lang": "en",
-      "title_en": "AI seed startups are commanding significantly higher valuations in 2026",
-      "title_zh": "AI 种子轮估值大幅走高：2026 年投资人只看 AI，$10M 融资普遍对应 $40M+ 估值",
-      "summary_en": "TechCrunch: AI seed startups in 2026 are routinely raising $10M rounds at $40–45M post-money valuations — up from $5M at $25M just two years ago. Investors at YC W26 Demo Day showed near-exclusive appetite for AI companies, reflecting intense competition for early-stage AI deals.",
-      "summary_zh": "TechCrunch：2026 年 AI 种子轮普遍以 1000 万美元融资对应 4000–4500 万美元估值收场，比两年前翻了近一倍。YC W26 演示日上，投资人几乎只关注 AI 公司，早期 AI 创业赛道竞争白热化。",
-      "tags": [
-        "融资",
-        "AI创业",
-        "估值",
-        "YC",
-        "早期投资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
-      "published_at": "2026-03-31T21:00:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
-    },
-    {
-      "id": "aae866a3",
-      "lang": "en",
-      "title_en": "Yupp AI shuts down less than a year after launch, despite $33M from a16z crypto",
-      "title_zh": "AI 模型比价平台 Yupp 上线不足一年宣布关闭，此前已从 a16z 获融资 3300 万美元",
-      "summary_en": "TechCrunch: Yupp, a crowdsourced AI model comparison platform that let users test 800+ AI models for free, is shutting down less than a year after launch despite raising $33M from a16z crypto. Co-founders cited market challenges in sustaining the model as a cautionary tale for free-tier AI services.",
-      "summary_zh": "TechCrunch：AI 模型比较平台 Yupp 宣布关闭，上线不足一年，此前曾获 a16z 加密部门 3300 万美元融资。该平台允许用户免费测试逾 800 款 AI 模型，最终因商业模式难以为继而停止运营。",
-      "tags": [
-        "AI创业",
-        "融资",
-        "关闭",
-        "AI平台",
-        "a16z"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-      "published_at": "2026-03-31T20:01:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
-    },
-    {
-      "id": "cfed1ada",
-      "lang": "en",
-      "title_en": "Samsung Galaxy S26's AI photo app can 'sloppify' your memories",
-      "title_zh": "三星 Galaxy S26 AI 相册应用可将照片「低质化」处理",
-      "summary_en": "The Verge: Samsung's new Galaxy S26 features a controversial AI photo editing tool that critics say 'sloppifies' memories by over-processing images with generative AI effects. The feature highlights growing debate over AI-generated alterations to personal photography and the ethics of default AI edits.",
-      "summary_zh": "The Verge：三星新款 Galaxy S26 搭载了一项颇受争议的 AI 照片编辑功能，批评者认为该功能通过生成式 AI 过度处理图片，导致珍贵记忆「低质化」。这一功能再次引发关于 AI 默认编辑个人照片的伦理争论。",
-      "tags": [
-        "AI图像",
-        "三星",
-        "生成式AI",
-        "手机"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
-      "published_at": "2026-03-31T18:15:00Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "abf2e66f",
-      "lang": "en",
-      "title_en": "Amazon Alexa+ adds conversational food ordering via Uber Eats and Grubhub",
-      "title_zh": "亚马逊 Alexa+ 新增对话式点餐功能，支持 Uber Eats 和 Grubhub 外卖服务",
-      "summary_en": "TechCrunch: Amazon's Alexa+ AI assistant now supports conversational food ordering through Uber Eats and Grubhub, allowing users to place orders naturally as if talking to a waiter — part of Amazon's broader strategy to make Alexa+ a practical AI agent for everyday tasks.",
-      "summary_zh": "TechCrunch：亚马逊 Alexa+ AI 助手新增对话式点餐功能，支持通过 Uber Eats 和 Grubhub 下单，用户可以像与服务员对话一样自然地完成外卖订购，是亚马逊将 Alexa+ 打造为日常 AI 代理助手战略的重要一步。",
-      "tags": [
-        "Alexa",
-        "AI助手",
-        "亚马逊",
-        "AI代理",
-        "智能家居"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-      "published_at": "2026-03-31T17:41:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
-    },
-    {
-      "id": "cfd1d788",
-      "lang": "en",
-      "title_en": "Uber and WeRide expand driverless robotaxi service in Dubai",
-      "title_zh": "Uber 与文远知行扩大迪拜无人驾驶出租车运营，可通过 Uber App 直接叫车",
-      "summary_en": "TechCrunch: Uber and Chinese AV company WeRide have launched driverless robotaxi operations in Dubai's commercial districts, bookable through the Uber app. The expansion marks a key milestone for both companies in the Middle East market and advances WeRide's international autonomous driving deployment.",
-      "summary_zh": "TechCrunch：Uber 与中国自动驾驶公司文远知行在迪拜商业区正式推出无人驾驶出租车服务，用户可直接通过 Uber App 叫车。此次扩张是双方在中东市场的重要里程碑，也推进了文远知行国际化自动驾驶部署进程。",
-      "tags": [
-        "自动驾驶",
-        "Robotaxi",
-        "Uber",
-        "文远知行",
-        "中东"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/",
-      "published_at": "2026-03-31T16:26:00Z",
-      "collected_at": "2026-04-01T03:20:00Z",
-      "importance": 3
-    },
-    {
-      "id": "deb09a9a",
-      "lang": "en",
-      "title_en": "Microsoft: Copilot is for entertainment purposes only",
-      "title_zh": "微软：Copilot 仅供娱乐用途",
-      "summary_en": "Microsoft: Microsoft has added prominent disclaimers to Copilot stating it is intended for entertainment purposes only, distancing the product from enterprise reliability expectations. The move reflects growing legal caution around AI assistant liability and accuracy, particularly as AI tools are increasingly used in professional contexts.",
-      "summary_zh": "微软：微软为 Copilot 添加显著免责声明，表示该产品仅供娱乐用途，与企业级可靠性预期划清界限。此举反映出围绕 AI 助手法律责任与准确性的日益谨慎，尤其是在 AI 工具被广泛用于专业场景的背景下。",
-      "tags": [
-        "AI政策",
-        "AI助手",
-        "微软"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals",
-      "published_at": "2026-03-31T14:25:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "1bc918cf",
-      "lang": "en",
-      "title_en": "Runway launches $10M fund and Builders program for early-stage AI startups",
-      "title_zh": "Runway 推出 1000 万美元基金及 Builders 计划，扶持早期 AI 创业公司",
-      "summary_en": "TechCrunch: AI video generation startup Runway announced a $10 million fund and a new Builders program to support early-stage AI startups. The initiative offers capital, access to Runway's creative AI APIs, and mentorship, as Runway expands beyond video tools into an AI ecosystem platform.",
-      "summary_zh": "TechCrunch：AI 视频生成初创公司 Runway 宣布设立 1000 万美元基金并推出 Builders 计划，支持早期 AI 创业公司。该计划提供资金、Runway 创意 AI API 访问权及导师辅导，标志着 Runway 正从视频工具向 AI 生态系统平台扩展。",
-      "tags": [
-        "Runway",
-        "AI视频",
-        "创业投资",
-        "AI生态"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-      "published_at": "2026-03-31T14:00:00Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,145 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 20,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "de321142",
+      "lang": "en",
+      "title_en": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple",
+      "title_zh": "独家探访亚马逊Trainium实验室：赢得Anthropic、OpenAI乃至苹果青睐的芯片",
+      "summary_en": "TechCrunch: An inside look at Amazon's Trainium chip lab reveals how AWS has built a competitive AI accelerator attracting major customers including Anthropic, OpenAI, and Apple. Trainium offers a cost-effective alternative to Nvidia GPUs and is central to Amazon's strategy to reduce AI chip dependency.",
+      "summary_zh": "TechCrunch：对亚马逊Trainium芯片实验室的独家探访揭示，AWS打造的竞争性AI加速器已吸引Anthropic、OpenAI和苹果等顶级客户，提供比英伟达GPU更具成本优势的选择，是亚马逊降低对第三方AI芯片依赖的核心战略。",
+      "tags": [
+        "AI芯片",
+        "Amazon",
+        "云计算"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "published_at": "2026-03-22T12:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "2f12b72a",
+      "lang": "en",
+      "title_en": "AI was everywhere at gaming's big developer conference — except the games",
+      "title_zh": "GDC 2026：AI工具泛滥，成功游戏仍靠人工创作",
+      "summary_en": "The Verge: At GDC 2026, generative AI tools were prominently featured across the show floor, including AI-driven NPCs, auto-generated game worlds, and QA automation. Tencent showcased a pixel-art fantasy world generated entirely by AI. However, developers expressed widespread concern that AI tools remove craft from game-making, and commercially successful games at the conference remained human-crafted.",
+      "summary_zh": "The Verge：在GDC 2026上，生成式AI工具大量亮相，涵盖AI驱动NPC、自动生成游戏世界及QA自动化等，腾讯展示了AI生成的像素风奇幻世界Demo。开发者普遍担忧AI削弱游戏制作匠心，大会上的商业成功游戏仍以人工创作为主。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+      "published_at": "2026-03-22T12:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4b85be95",
+      "lang": "zh",
+      "title_zh": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR26",
+      "summary_zh": "浙大：浙江大学团队提出多模态大模型置信度校准新方法，针对模型在图像质量差时仍输出高置信度的问题，通过先校准置信度再动态分配算力的方式提升推理可靠性，相关成果被CVPR 2026接收。",
+      "tags": [
+        "研究论文",
+        "多模态",
+        "评测基准"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391014.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4ad0c854",
+      "lang": "zh",
+      "title_zh": "阶跃星辰率先适配微信生态，StepClaw即插即养即用",
+      "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391010.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "4c7138cb",
+      "lang": "zh",
+      "title_zh": "大厂抢郭达雅进行时！DeepSeek核心成员还是个综艺巨佬",
+      "summary_zh": "DeepSeek：DeepSeek核心研究成员郭达雅因综艺节目走红，被多家大厂争相邀请，引发AI圈对顶尖研究人才流动的广泛关注。文章披露其在DeepSeek团队中的技术背景及角色。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390990.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "538b8163",
+      "lang": "zh",
+      "title_zh": "上海凭什么敢自封开发者之城？WAIC 2026大会议程解读",
+      "summary_zh": "上海：WAIC 2026将于3月27日开幕，本届大会主打「开发者之城」定位，议程涵盖大模型、Agent、具身智能等核心方向，面向开发者开放WAIC直通卡。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390977.html",
+      "published_at": "2026-03-22T00:00:00Z",
+      "collected_at": "2026-03-23T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "651ee093",
+      "lang": "en",
+      "title_en": "Gemini task automation is slow, clunky, and super impressive",
+      "title_zh": "Gemini任务自动化实测：慢但令人印象深刻",
+      "summary_en": "Google: Gemini's new task automation feature, tested on Pixel 10 Pro and Galaxy S26 Ultra, allows the assistant to control apps like Uber and DoorDash on behalf of users. Currently limited to a handful of food delivery and rideshare apps and still in beta, the feature is slow and clunky but demonstrates meaningful progress toward on-device AI agents. Compared favorably against Siri's current capabilities.",
+      "summary_zh": "Google：Gemini新推出的任务自动化功能在Pixel 10 Pro和Galaxy S26 Ultra上测试，支持代用户操控Uber、DoorDash等外卖和打车应用。功能目前仍处于测试阶段，仅支持少数应用，速度较慢，但展现出设备端AI Agent的实质性进展，被认为远超Siri现有能力。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+      "published_at": "2026-03-21T11:30:00Z",
+      "collected_at": "2026-03-23T00:30:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9af58a2d",
+      "lang": "zh",
+      "title_zh": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
+      "summary_zh": "光轮智能：英伟达GTC大会上，老黄机器人演示demo背后的核心供应商光轮智能首次曝光，该公司正在定义Physical AI基础设施，为多家顶级机器人厂商提供底层平台支持。",
+      "tags": [
+        "产品发布",
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/390924.html",
+      "published_at": "2026-03-21T00:00:00Z",
+      "collected_at": "2026-03-23T00:30:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "f7d11125",
       "lang": "zh",
@@ -237,136 +372,6 @@
       "published_at": "2026-03-19T12:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "73f7b0f8",
-      "lang": "en",
-      "title_en": "Fitbit's AI health coach will soon be able to read your medical record",
-      "title_zh": "Fitbit AI 健康助手即将支持读取医疗记录",
-      "summary_en": "Google/Fitbit: The company announced that Fitbit's AI health coach will gain the ability to access and interpret users' electronic medical records, enabling more personalized health guidance.",
-      "summary_zh": "Google/Fitbit：Fitbit AI 健康助手即将获得访问和解读用户电子病历的能力，实现更个性化的健康建议。",
-      "tags": [
-        "产品发布",
-        "医疗"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
-      "published_at": "2026-03-19T12:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "1cd80b08",
-      "lang": "en",
-      "title_en": "Perplexity has released its Comet browser for iOS",
-      "title_zh": "Perplexity 发布 iOS 端 Comet 浏览器",
-      "summary_en": "Perplexity: The AI search company launched Comet, an AI-native browser for iOS that integrates search, browsing, and AI assistance into a unified experience.",
-      "summary_zh": "Perplexity：AI 搜索公司发布 iOS 端 Comet 浏览器，将搜索、浏览与 AI 助手整合为一体化体验。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897180/perplexity-has-released-its-comet-browser-for-ios",
-      "published_at": "2026-03-19T10:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "cea48474",
-      "lang": "zh",
-      "title_zh": "刚刚，全球视频模型新王诞生了！",
-      "summary_zh": "量子位：新视频生成模型强势登顶全球榜首，距其 Preview 版本拿下全球第二仅一个月。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389146.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "ec726cf1",
-      "lang": "zh",
-      "title_zh": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
-      "summary_zh": "小米：正式认领此前登顶排行榜的神秘模型 Hunter Alpha，参数达万亿级，支持百万 token 上下文。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389038.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "8ea7a7ce",
-      "lang": "zh",
-      "title_zh": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
-      "summary_zh": "飞书：发布多款企业级 Agent，覆盖个人智能助手与业务系统场景，并持续升级官方 MCP 插件。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389311.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "1564e1d0",
-      "lang": "zh",
-      "title_zh": "世界模型+强化学习：轻舟智航于骞在德国定义通向通用物理AI的必由之路",
-      "summary_zh": "轻舟智航：于骞在德国分享“世界模型 + 强化学习”技术路径，将其定义为通向通用物理 AI 的必由之路。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/389442.html",
-      "published_at": "2026-03-19T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "4ed426f6",
-      "lang": "en",
-      "title_en": "ChatGPT did not cure a dog's cancer",
-      "title_zh": "ChatGPT 并未治愈这只狗的癌症",
-      "summary_en": "A viral story claiming ChatGPT helped cure a dog's cancer was found to be misleading; the dog's recovery was attributed to veterinary treatment, not AI-generated advice.",
-      "summary_zh": "一则 ChatGPT 帮助治愈狗癌症的病毒式传播故事经核实存在误导，狗的康复实为兽医治疗所致，而非 AI 建议的功劳。",
-      "tags": [
-        "医疗"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
-      "published_at": "2026-03-18T16:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "b0e96434",
-      "lang": "en",
-      "title_en": "The Pentagon filed a rebuttal to Anthropic's lawsuit",
-      "title_zh": "五角大楼就 Anthropic 诉讼提出反驳",
-      "summary_en": "The US Department of Defense filed a legal response to Anthropic's lawsuit, disputing the AI company's claims in an ongoing legal proceeding related to AI procurement and policy.",
-      "summary_zh": "美国国防部就 Anthropic 提起的诉讼提交法律反驳意见，对这家 AI 公司在 AI 采购与政策相关诉讼中的主张提出异议。",
-      "tags": [
-        "政策监管"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896622/the-pentagon-filed-a-rebuttal-to-anthropics-lawsuit",
-      "published_at": "2026-03-18T14:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

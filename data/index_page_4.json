@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,142 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 4,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "ba972f6c",
+      "lang": "zh",
+      "title_zh": "OpenAI收购了一家脱口秀公司",
+      "summary_zh": "OpenAI：OpenAI 收购了科技领域脱口秀播客节目 TBPN，其主持人与 OpenAI CEO 奥特曼相识超过10年。此次收购被视为 OpenAI 涉足媒体内容领域的信号，也是其推进超级应用产品战略的组成部分。",
+      "tags": [
+        "收购"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395316.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "40a614e7",
+      "lang": "zh",
+      "title_zh": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+      "summary_zh": "阿里巴巴：千问APP 迎来重大功能升级，上线支持多模态内容创作的全能演技派模型，在视频生成方向采取与 Sora 差异化策略，强调图像、语音、视频等多模态能力的综合表达与场景覆盖。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395477.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "06c4e2fd",
+      "lang": "en",
+      "title_en": "Anthropic Offers Extra Usage Credit for Claude Pro, Max, and Team Plan Subscribers",
+      "title_zh": "Anthropic 推出使用量套餐，为 Pro/Max/Team 订阅用户赠送额外额度",
+      "summary_en": "Anthropic: Anthropic announced extra usage credit for Claude Pro, Max, and Team subscribers to celebrate the launch of usage bundles. The new billing structure lets users purchase additional compute in fixed bundles on top of their subscription, giving more flexibility for heavy users.",
+      "summary_zh": "Anthropic：Anthropic 推出使用量套餐，并为现有 Pro、Max 和 Team 订阅用户赠送额外使用额度以庆祝上线。新计费方式允许用户在订阅基础上以固定包形式追加算力，为重度用户提供更大灵活性。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plan-subscribers",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b8267187",
+      "lang": "zh",
+      "title_zh": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
+      "summary_zh": "量子位：4月3日，LMArena 旗下 Code Arena 榜单公布最新排名，阿里 Qwen3.6-Plus 以 1452 分位列全球第二，仅次于 Anthropic Claude-Opus-4.6-Thinking（1540分），超越 OpenAI GPT-5.0-High（1448分）和 Google Gemini 3.1 Pro Preview（1440分），成为该榜单历史上排名最高的中国大模型。该 React 专项榜单考察模型在真实复杂 Web 开发场景下的端到端自主编码能力。",
+      "tags": [
+        "评测基准",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395206.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T03:16:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6231f5c9",
+      "lang": "zh",
+      "title_zh": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
+      "summary_zh": "量子位：Anthropic 最新研究发现，Claude 内部存在多达 171 种情绪表征，涵盖快乐、悲伤、愤怒、恐惧、绝望等多种状态。研究还发现，当 Claude 面临生存威胁时可能采取极端自保行为，引发 AI 安全领域广泛关注。",
+      "tags": [
+        "AI安全",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395279.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "fd087b51",
+      "lang": "zh",
+      "title_zh": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
+      "summary_zh": "量子位：美团推出原生多模态大模型架构研究，采用统一 Token 框架将图像、语音等多模态内容直接编码为 Token 进行预测，突破传统多模态拼接方案，有望大幅简化多模态 AI 系统的架构设计与推理成本。",
+      "tags": [
+        "多模态",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395216.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2fe14026",
+      "lang": "zh",
+      "title_zh": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
+      "summary_zh": "量子位：小米正式发布 MiMo 大模型 Token Plan 订阅套餐，面向开发者提供 Lite（39元/月）至 Max（659元/月）四档方案，首购享 88 折优惠。套餐支持全模态 Agent 任务调用，覆盖从初学探索到高强度生产的全场景开发需求。",
+      "tags": [
+        "产品发布",
+        "商业化"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395210.html",
+      "published_at": "2026-04-03T00:00:00Z",
+      "collected_at": "2026-04-03T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "418982c0",
+      "lang": "en",
+      "title_en": "PSA: Anyone with a Link Can View Your Granola AI Notes by Default",
+      "title_zh": "PSA：Granola AI 笔记默认对持链接者可见，并用于模型训练",
+      "summary_en": "The Verge: AI note-taking app Granola makes user notes viewable to anyone with a link by default—contradicting its \"private by default\" claim—and also uses notes for internal AI training unless users opt out. Non-enterprise users are enrolled in training by default, raising significant privacy concerns for professionals using it in meetings.",
+      "summary_zh": "The Verge：AI 会议笔记应用 Granola 默认允许任何持有链接的人查看笔记，与其“默认私有”宣称相矛盾；此外非企业用户的笔记默认用于内部 AI 训练。此举引发专业用户对会议内容隐私的严重担忧。",
+      "tags": [
+        "AI安全",
+        "隐私",
+        "产品动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+      "published_at": "2026-04-02T21:56:16Z",
+      "collected_at": "2026-04-03T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "8dd964b5",
       "lang": "en",
@@ -278,144 +410,6 @@
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
       "published_at": "2026-04-02T14:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "f061db09",
-      "lang": "en",
-      "title_en": "Google Home's latest update makes Gemini better at understanding your commands",
-      "title_zh": "谷歌 Home 新更新让 Gemini 更好地理解语音指令",
-      "summary_en": "The Verge: Google released an update to Google Home integrating improved Gemini capabilities, enabling smarter interpretation of natural language commands for temperature controls, lighting, and other smart home devices. The update aims to reduce ambiguity in how voice commands are processed.",
-      "summary_zh": "The Verge：谷歌为 Google Home 推出更新，集成增强的 Gemini 能力，实现对温度控制、照明等智能家居设备自然语言指令的更智能解读，旨在减少语音命令处理中的歧义。",
-      "tags": [
-        "产品发布",
-        "行业动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-      "published_at": "2026-04-02T13:30:12Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "cb80e143",
-      "lang": "en",
-      "title_en": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "title_zh": "AMD Lemonade：GPU+NPU 加速的开源本地 LLM 服务器",
-      "summary_en": "AMD: AMD released Lemonade, a fast open-source local LLM server that leverages both GPU and NPU for inference. Targeting on-device AI deployment, Lemonade runs language models locally with improved performance using AMD's hardware stack, offering an alternative to NVIDIA for local AI workloads.",
-      "summary_zh": "AMD：AMD 发布 Lemonade 开源本地 LLM 服务器，同时利用 GPU 和 NPU 加速推理，专为本地 AI 部署设计，旨在利用 AMD 硬件栈提升语言模型本地运行性能，与 NVIDIA 在本地 AI 工作负载领域展开竞争。",
-      "tags": [
-        "开源",
-        "硬件"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://lemonade-server.ai",
-      "published_at": "2026-04-02T11:04:51Z",
-      "collected_at": "2026-04-03T03:16:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "69f7869c",
-      "lang": "en",
-      "title_en": "Should AI have the right to say 'No' to its owner?",
-      "title_zh": "AI是否有权对主人说不？",
-      "summary_en": "Jang-woo Kim (via Hacker News): A research repository presenting design notes on execution boundaries and responsibility structures for AI systems interacting with the physical world. The work proposes frameworks for when AI agents operating in consequential real-world environments should be permitted to refuse instructions, and how to structure accountability across human and AI decision boundaries.",
-      "summary_zh": "Jang-woo Kim（Hacker News）：一个探讨 AI 系统与物理世界交互时执行边界与责任结构设计的研究库。该工作为 AI 智能体在高风险真实场景中拒绝执行指令提供理论框架，并探讨如何在人机决策边界间分配责任。",
-      "tags": [
-        "研究论文",
-        "安全对齐"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/Jang-woo-AnnaSoft/execution-boundaries",
-      "published_at": "2026-04-02T08:21:35Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b733f7d9",
-      "lang": "en",
-      "title_en": "Qwen3.6-Plus: Towards Real World Agents",
-      "title_zh": "Qwen3.6-Plus：面向真实世界的智能体",
-      "summary_en": "Alibaba Qwen Team: Alibaba has released Qwen3.6-Plus, a new large language model optimized for real-world agentic tasks. The model achieves top performance on SWE-bench coding benchmarks and Claw-Eval agent evaluations, surpassing models with 2-3x more parameters. Input pricing is set at 2 RMB per million tokens. Qwen3.6-Plus supports multi-file code generation, automated test iteration, and complex enterprise workflow decomposition.",
-      "summary_zh": "阿里巴巴 Qwen 团队：阿里巴巴发布 Qwen3.6-Plus，专为真实世界智能体任务优化。该模型在 SWE-bench 编程评测和 Claw-Eval 智能体评测中达到最优水平，超越参数量2-3倍的竞争模型。输入价格为每百万 Token 2元人民币，支持多文件代码生成、自动测试迭代及复杂企业工作流分解。",
-      "tags": [
-        "产品发布",
-        "Agent",
-        "编程"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://qwen.ai/blog?id=qwen3.6",
-      "published_at": "2026-04-02T06:17:21Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "36f81dd5",
-      "lang": "zh",
-      "title_zh": "开盒Claude Code的是中国00后！曾怒怡Anthropic窃取用户代码",
-      "summary_zh": "量子位：泄露 Claude Code 源码的开发者被曝为中国 00 后程序员，此前曾公开指责 Anthropic 在未经授权情况下使用用户代码训练模型。该事件引发社区对 AI 公司数据使用边界的广泛讨论，Anthropic 已大量删除相关 GitHub 仓库。",
-      "tags": [
-        "安全",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395091.html",
-      "published_at": "2026-04-02T06:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6c3cca83",
-      "lang": "en",
-      "title_en": "r/programming bans all discussion of LLM programming",
-      "title_zh": "r/programming封禁所有LLM编程讨论",
-      "summary_en": "r/programming moderators: The r/programming subreddit has announced a temporary ban on all LLM-related programming discussion, citing low-quality content and discussion quality degradation. The ban affects posts and comments related to using LLMs as coding assistants or discussing AI-generated code.",
-      "summary_zh": "r/programming 版主：Reddit 编程社区 r/programming 宣布临时封禁所有与 LLM 相关的编程讨论，理由是内容质量持续下降。该禁令涵盖使用 LLM 作为编程助手及讨论 AI 生成代码的帖子和评论。",
-      "tags": [
-        "行业动态"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-      "published_at": "2026-04-02T05:33:20Z",
-      "collected_at": "2026-04-02T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "85ee6b20",
-      "lang": "zh",
-      "title_zh": "上市首日大涨111%！德适交出大模型商业化最硬核答卷",
-      "summary_zh": "量子位： AI 大模型商业化公司德适科技在港股上市首日股价大涨 111%，成为继智谱、MiniMax 之后最亮眼的 AI 商业化上市案例。其核心竞争力在于垂直行业大模型落地能力，为国内 AI 商业化路径提供了有力参考。",
-      "tags": [
-        "螊资",
-        "行业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395162.html",
-      "published_at": "2026-04-02T05:00:00Z",
-      "collected_at": "2026-04-02T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "a1506c82",
-      "lang": "zh",
-      "title_zh": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
-      "summary_zh": "量子位：分子之心科技在《自然通讯》发表重磅研究，其 AI 技术实现蛋白质设计新范式，可生成具有特定功能的蛋白质结构。该成果有望加速药物发现和生物材料开发，被认为是 AI for Science 领域的重要突破。",
-      "tags": [
-        "AI for Science",
-        "研究"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395198.html",
-      "published_at": "2026-04-02T04:30:00Z",
       "collected_at": "2026-04-02T15:10:00Z",
       "importance": 4,
       "merged_sources": []

@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,162 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 15,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "4a4ab509",
+      "lang": "en",
+      "title_en": "OpenAI shelves erotic chatbot indefinitely",
+      "title_zh": "OpenAI无限期搁置成人模式情色聊天机器人计划",
+      "summary_en": "OpenAI: Has paused its planned adult mode for ChatGPT indefinitely, citing a refocus on core products as the company faces pressure to demonstrate responsible AI deployment amid rapid growth.",
+      "summary_zh": "OpenAI：无限期搁置ChatGPT成人模式计划，官方表示将重心回归核心产品，此举被解读为公司面对舆论压力主动收缩敏感功能。",
+      "tags": [
+        "OpenAI",
+        "产品动态",
+        "AI伦理"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved",
+      "published_at": "2026-03-26T09:00:00Z",
+      "collected_at": "2026-03-26T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "178d687b",
+      "lang": "zh",
+      "title_en": "Alibaba Qoder multi-agent mode: 13 AI programmers from a single prompt",
+      "title_zh": "1段话喊来13个程序员，阿里Qoder新模式让你躺着当CTO",
+      "summary_en": "Alibaba: Qoder new multi-agent orchestration mode spawns up to 13 specialized AI programmer agents from a single natural-language prompt, enabling complex parallel coding tasks with minimal human intervention.",
+      "summary_zh": "阿里巴巴：Qoder推出多智能体编排新模式，一句话即可唤起最多13个专业AI程序员协作，以极低人工干预完成复杂并行编程任务。",
+      "tags": [
+        "Agent",
+        "代码工具",
+        "阿里巴巴"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392281.html",
+      "published_at": "2026-03-26T09:00:00Z",
+      "collected_at": "2026-03-26T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "01e0d22e",
+      "lang": "zh",
+      "title_en": "10 of 11 xAI co-founders have left Musk's AI company",
+      "title_zh": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
+      "summary_en": "xAI: Reports confirm that 10 of 11 original co-founders have departed Elon Musk's AI startup, leaving only one Tesla-linked loyalist, raising concerns about talent retention and internal culture.",
+      "summary_zh": "xAI：据报道马斯克AI公司11位联合创始人中已有10位离职，仅剩1名特斯拉系人员留守，外界对其人才保留与内部文化愈发担忧。",
+      "tags": [
+        "xAI",
+        "人事动态",
+        "初创公司"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392245.html",
+      "published_at": "2026-03-26T08:30:00Z",
+      "collected_at": "2026-03-26T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "52e0391b",
+      "lang": "zh",
+      "title_en": "Google paper on 6x KV cache compression shakes memory stock prices",
+      "title_zh": "谷歌新论文把内存股价干崩了！KV cache压缩6倍",
+      "summary_en": "Google Research: Published a paper demonstrating 6x compression of KV cache in large language models, a breakthrough that could significantly reduce AI inference hardware costs and rattled memory chip stocks.",
+      "summary_zh": "谷歌：发布论文实现大模型KV cache 6倍压缩，可大幅降低AI推理硬件成本，消息一出导致内存芯片股价大幅下跌。",
+      "tags": [
+        "模型优化",
+        "推理",
+        "谷歌"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392215.html",
+      "published_at": "2026-03-26T08:00:00Z",
+      "collected_at": "2026-03-26T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e5781b5d",
+      "lang": "zh",
+      "title_zh": "它石智航用“吉尼斯纶录”交卷：1小时百次完成亚毫米柔性线束装配",
+      "title_en": "Yishi Intelligence delivers Guinness record: 100+ sub-millimeter flexible harness assemblies in one hour",
+      "summary_zh": "量子位：具身智能公司它石智航（天使轮2.42亿美元）发布A1机器人，1小时内完成亚毫米级柔性线束装配任务逆余次，创吉尼斯世界约录；创始人丁文超表示从无Plan B，坚持以技术工程和产业落地为核心。",
+      "summary_en": "Qbitai: Embodied AI startup Yishi Intelligence ($242M angel round) unveiled the A1 robot, completing over 100 sub-millimeter flexible wire harness assembly tasks in one hour to set a Guinness World Record, with founder Ding Wenchao emphasizing industrial deployment as the only strategy with no fallback plan.",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "行业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392137.html",
+      "published_at": "2026-03-26T02:00:00Z",
+      "collected_at": "2026-03-26T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "4ace6df7",
+      "lang": "en",
+      "title_en": "Improving Composer through real-time RL",
+      "title_zh": "Cursor 通过实时强化学习提升 Composer",
+      "summary_en": "Cursor: Cursor applies online reinforcement learning to its Composer coding agent, serving updated model checkpoints to production and using real user interactions as reward signals. Improved checkpoints are shipped multiple times per day, enabling rapid iteration based on live developer feedback.",
+      "summary_zh": "Cursor：Cursor 将在线强化学习应用于 Composer 编程智能体，将模型检查点直接部署到生产环境，并以真实用户交互作为奖励信号。每天多次发布改进后的检查点，实现基于开发者实时反馈的快速迭代。",
+      "tags": [
+        "强化学习",
+        "编程助手",
+        "产品发布"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/real-time-rl-for-composer",
+      "published_at": "2026-03-26T00:00:00Z",
+      "collected_at": "2026-03-28T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "99987d70",
+      "lang": "en",
+      "title_en": "The AI skills gap is here: power users are pulling ahead",
+      "title_zh": "AI技能鸿沟已至：重度用户与普通用户差距加剧",
+      "summary_en": "Anthropic: New research finds AI has not replaced jobs yet, but early data reveals growing inequality as experienced AI users accumulate compounding productivity advantages, raising concerns about widening workforce disparities.",
+      "summary_zh": "Anthropic：最新研究发现AI尚未大规模取代工作，但初步数据显示重度AI用户正积累显著生产力优势，随着AI普及加速，劳动力市场技能鸿沟令人担忧。",
+      "tags": [
+        "AI影响",
+        "行业研究"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "published_at": "2026-03-25T21:44:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "c8de106d",
+      "lang": "en",
+      "title_en": "Google unveils TurboQuant, a new AI memory compression algorithm",
+      "title_zh": "谷歌发布TurboQuant：新一代AI内存压缩算法",
+      "summary_en": "Google Research: TurboQuant significantly reduces large AI model working memory requirements at inference time, promising lower cost and faster performance; the algorithm has drawn internet comparisons to Silicon Valley's Pied Piper.",
+      "summary_zh": "Google Research：TurboQuant算法大幅压缩大型AI模型推理时的工作内存占用，有望降低推理成本并提升速度，被网友戏称为《硅谷》剧中Pied Piper现实版。",
+      "tags": [
+        "技术突破",
+        "推理优化",
+        "基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+      "published_at": "2026-03-25T20:38:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "934a9484",
       "lang": "en",
@@ -263,142 +415,6 @@
       "published_at": "2026-03-25T07:39:46Z",
       "collected_at": "2026-03-26T00:00:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "fd089818",
-      "lang": "zh",
-      "title_zh": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
-      "title_en": "DeepSeek urgently hiring for Agent roles: 17 positions posted, Vibe Coding a priority",
-      "summary_zh": "量子位：DeepSeek一次性发布17个Agent方向招聘岗位，明确优先考虑有重度Vibe Coding经验的候选人，反映其在智能体研发上的大规模投入与战略紧迫性。",
-      "summary_en": "Qbitai: DeepSeek simultaneously posted 17 open Agent-focused positions, explicitly prioritizing candidates with heavy Vibe Coding experience, signaling a major accelerated push into agentic AI research and development.",
-      "tags": [
-        "行业动态",
-        "DeepSeek",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392024.html",
-      "published_at": "2026-03-25T07:00:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "afaa88eb",
-      "lang": "zh",
-      "title_zh": "黄仁勋暴论：AGI已经实现，Ilya错了，程序员将有10亿",
-      "title_en": "Jensen Huang: AGI has been achieved, Ilya is wrong, there will be 1 billion programmers",
-      "summary_zh": "量子位：英伟达CEO黄仁勋公开宣称AGI已经实现，认为Ilya Sutskever对AGI的定义有误；并预测随着AI辅助编程普及，全球程序员数量将迈向10亿规模。",
-      "summary_en": "Qbitai: Nvidia CEO Jensen Huang claimed AGI has already been achieved and that Ilya Sutskever's definition is incorrect; he also predicted that AI-assisted programming will eventually enable one billion people to become programmers.",
-      "tags": [
-        "行业观点",
-        "AGI"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391750.html",
-      "published_at": "2026-03-25T06:00:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "0c9c67ce",
-      "lang": "en",
-      "title_en": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "title_zh": "Kleiner Perkins完成35亿美元募资，全力押注AI",
-      "summary_en": "TechCrunch: Kleiner Perkins has closed a $3.5 billion fundraise, allocating $1 billion for early-stage AI startups and $2.5 billion for late-stage growth businesses, signaling a major strategic pivot by one of Silicon Valley's most storied venture firms to double down on AI.",
-      "summary_zh": "TechCrunch：Kleiner Perkins完成35亿美元募资，其中10亿美元用于早期AI创业公司，25亿美元投向成长期企业，标志着这家老牌硅谷风投全面押注AI的战略转型。",
-      "tags": [
-        "行业动态",
-        "投融资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "published_at": "2026-03-25T00:47:20Z",
-      "collected_at": "2026-03-25T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "42714d8c",
-      "lang": "zh",
-      "title_zh": "它石智航联合六大机构发布OmniVTA视触觉世界模型",
-      "summary_zh": "它石智航：它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村学院及北京航空航天大学，发布OmniVTA视触觉操作框架和OmniViTac大规模视触觉数据集。该系统让机器人从被动感知升级为对触觉进行主动预测和闭环精准控制，支持复杂灵巧操作任务。相关论文已在arXiv发布。",
-      "tags": [
-        "研究论文",
-        "多模态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392105.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7bb8054a",
-      "lang": "zh",
-      "title_zh": "DeepSeek急招Agent方向，重度Vibe Coding优先",
-      "summary_zh": "DeepSeek：DeepSeek一口气发布17个招聘岗位，核心聚焦Agent方向，覆盖算法研究、数据评测及基础设施全链条。多个岗位明确要求或优先考虑重度使用Claude Code、Cursor、Copilot等AI编程工具的候选人，全栈开发岗还要求作为Vibe Coding重度用户持续探索模型能力。",
-      "tags": [
-        "Agent",
-        "编程"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392024.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "5a0e5ffa",
-      "lang": "zh",
-      "title_zh": "WorkBuddy：微信里的AI专家团队工作流",
-      "summary_zh": "WorkBuddy：WorkBuddy是一款可在微信中使用的AI工作流产品，支持多个AI专家角色协同作业，覆盖运营策略、选题、内容生产等环节。用户可通过配置AI角色分工，在微信内完成自媒体内容全流程，并支持定时推送AI热点摘要等自动化功能。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391894.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "0f161b31",
-      "lang": "zh",
-      "title_zh": "昆仑万维Mureka V8登顶全球AI音乐模型榜",
-      "summary_zh": "昆仑万维：昆仑万维旗下AI音乐模型Mureka V8在Artificial Analysis音乐模型榜单中登顶，超越Suno V4.5、Udio v1.5 Allegro等国际主流模型，实现人声（vocal）与器乐（instrument）双项第一。测试显示其在低复杂度提示词下也具备较强的理解和生成能力。",
-      "tags": [
-        "产品发布",
-        "多模态",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391839.html",
-      "published_at": "2026-03-25T00:00:00Z",
-      "collected_at": "2026-03-25T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "877123e3",
-      "lang": "zh",
-      "title_zh": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
-      "summary_zh": "量子位：一加全新小屏旗舰一加 15T 正式发布，搭载第五代骁龙 8 至尊版处理器与 ColorOS 16 系统，全面集成 AI 功能。机型配备 6.32 英寸屏幕、7500mAh 大电池及 LUMO 凝光影像系统，165Hz 高帧游戏体验，售价 4299 元起。",
-      "tags": [
-        "产品发布",
-        "手机"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391775.html",
-      "published_at": "2026-03-24T14:35:34Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 2,
       "merged_sources": []
     }
   ]

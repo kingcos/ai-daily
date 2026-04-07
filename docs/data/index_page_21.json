@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,141 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 21,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "73f7b0f8",
+      "lang": "en",
+      "title_en": "Fitbit's AI health coach will soon be able to read your medical record",
+      "title_zh": "Fitbit AI 健康助手即将支持读取医疗记录",
+      "summary_en": "Google/Fitbit: The company announced that Fitbit's AI health coach will gain the ability to access and interpret users' electronic medical records, enabling more personalized health guidance.",
+      "summary_zh": "Google/Fitbit：Fitbit AI 健康助手即将获得访问和解读用户电子病历的能力，实现更个性化的健康建议。",
+      "tags": [
+        "产品发布",
+        "医疗"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+      "published_at": "2026-03-19T12:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1cd80b08",
+      "lang": "en",
+      "title_en": "Perplexity has released its Comet browser for iOS",
+      "title_zh": "Perplexity 发布 iOS 端 Comet 浏览器",
+      "summary_en": "Perplexity: The AI search company launched Comet, an AI-native browser for iOS that integrates search, browsing, and AI assistance into a unified experience.",
+      "summary_zh": "Perplexity：AI 搜索公司发布 iOS 端 Comet 浏览器，将搜索、浏览与 AI 助手整合为一体化体验。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897180/perplexity-has-released-its-comet-browser-for-ios",
+      "published_at": "2026-03-19T10:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "cea48474",
+      "lang": "zh",
+      "title_zh": "刚刚，全球视频模型新王诞生了！",
+      "summary_zh": "量子位：新视频生成模型强势登顶全球榜首，距其 Preview 版本拿下全球第二仅一个月。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389146.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "ec726cf1",
+      "lang": "zh",
+      "title_zh": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
+      "summary_zh": "小米：正式认领此前登顶排行榜的神秘模型 Hunter Alpha，参数达万亿级，支持百万 token 上下文。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389038.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "8ea7a7ce",
+      "lang": "zh",
+      "title_zh": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
+      "summary_zh": "飞书：发布多款企业级 Agent，覆盖个人智能助手与业务系统场景，并持续升级官方 MCP 插件。",
+      "tags": [
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389311.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1564e1d0",
+      "lang": "zh",
+      "title_zh": "世界模型+强化学习：轻舟智航于骞在德国定义通向通用物理AI的必由之路",
+      "summary_zh": "轻舟智航：于骞在德国分享“世界模型 + 强化学习”技术路径，将其定义为通向通用物理 AI 的必由之路。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/389442.html",
+      "published_at": "2026-03-19T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "4ed426f6",
+      "lang": "en",
+      "title_en": "ChatGPT did not cure a dog's cancer",
+      "title_zh": "ChatGPT 并未治愈这只狗的癌症",
+      "summary_en": "A viral story claiming ChatGPT helped cure a dog's cancer was found to be misleading; the dog's recovery was attributed to veterinary treatment, not AI-generated advice.",
+      "summary_zh": "一则 ChatGPT 帮助治愈狗癌症的病毒式传播故事经核实存在误导，狗的康复实为兽医治疗所致，而非 AI 建议的功劳。",
+      "tags": [
+        "医疗"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "published_at": "2026-03-18T16:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b0e96434",
+      "lang": "en",
+      "title_en": "The Pentagon filed a rebuttal to Anthropic's lawsuit",
+      "title_zh": "五角大楼就 Anthropic 诉讼提出反驳",
+      "summary_en": "The US Department of Defense filed a legal response to Anthropic's lawsuit, disputing the AI company's claims in an ongoing legal proceeding related to AI procurement and policy.",
+      "summary_zh": "美国国防部就 Anthropic 提起的诉讼提交法律反驳意见，对这家 AI 公司在 AI 采购与政策相关诉讼中的主张提出异议。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896622/the-pentagon-filed-a-rebuttal-to-anthropics-lawsuit",
+      "published_at": "2026-03-18T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "cd58f905",
       "lang": "en",
@@ -236,130 +367,6 @@
       "published_at": "2026-03-17T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "de32cd69",
-      "lang": "zh",
-      "title_zh": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍",
-      "summary_zh": "OpenAI：GPT-5.4 上线首周 ARR 突破10亿美元，单次调用成本最高80美元，但任务效率提升32倍。",
-      "tags": [
-        "融资",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388443.html",
-      "published_at": "2026-03-17T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6fcd379d",
-      "lang": "zh",
-      "title_zh": "Kimi新架构让马斯克叹服！17岁高中生作者一战成名",
-      "summary_zh": "Moonshot AI：Kimi 新架构论文引发马斯克称赞，第一作者为17岁高中生，将注意力机制“旋转90度”实现突破。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388493.html",
-      "published_at": "2026-03-17T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "355162f1",
-      "lang": "zh",
-      "title_zh": "百度龙虾全家桶火速上桌！出手就是全球最大搜索skill",
-      "summary_zh": "百度：全套 MCP（龙虾）服务集中上线，接入全球最大搜索数据 Skill，提供行业级开箱即用解决方案。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388672.html",
-      "published_at": "2026-03-17T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "b9ad6e98",
-      "lang": "en",
-      "title_en": "Securing our codebase with autonomous agents",
-      "title_zh": "Cursor 用自治安全 Agent 守护代码库",
-      "summary_en": "Cursor: Security team deployed a fleet of autonomous agents to automatically find and fix vulnerabilities across a rapidly evolving codebase.",
-      "summary_zh": "Cursor：安全团队构建自治 Agent 集群，在快速迭代的代码库中自动发现并修复安全漏洞。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/security-agents",
-      "published_at": "2026-03-16T12:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f7e19806",
-      "lang": "zh",
-      "title_zh": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
-      "summary_zh": "量子位：揭秘315曝光的“AI 投毒”原理——GEO（生成引擎优化）可操控大模型推荐结果，甚至虚构产品也会被推荐。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388387.html",
-      "published_at": "2026-03-16T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "557f9455",
-      "lang": "zh",
-      "title_zh": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
-      "summary_zh": "量子位：新型“赛博骡子” AI Agent 平台上线，无需部署、7×24小时在线、支持自进化，或将改变 MCP 生态格局。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388071.html",
-      "published_at": "2026-03-16T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "09bbfc3d",
-      "lang": "zh",
-      "title_zh": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
-      "summary_zh": "量子位：实测首个 MCP 专属模型，长路径任务零失误，一人可完成全栈开发，并推出配套专属套餐。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388352.html",
-      "published_at": "2026-03-16T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "c444df44",
-      "lang": "zh",
-      "title_zh": "天下苦「调参」久矣！MIT师生推出全新RandOpt算法",
-      "summary_zh": "MIT：研究团队推出 RandOpt 全新超参数优化算法，揭示预训练模型周围早已“藏匿”大量专家知识。",
-      "tags": [
-        "研究论文"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/388054.html",
-      "published_at": "2026-03-16T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
       "merged_sources": []
     }
   ]

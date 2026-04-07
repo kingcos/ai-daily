@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,145 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 19,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "b4e74e04",
+      "lang": "en",
+      "title_en": "Confronting the CEO of the AI company that impersonated me",
+      "title_zh": "对话那家 AI 公司 CEO：它的产品冒充了我",
+      "summary_en": "The Verge: Grammarly's 'Expert Review' feature sparked controversy after it appeared to impersonate The Verge's Nilay Patel via AI. Superhuman CEO Shishir Mehrotra responds to the incident, discussing the ethics of AI impersonation in productivity tools and whether such systems create or extract value.",
+      "summary_zh": "The Verge：Grammarly「Expert Review」功能被指借 AI 模仿 The Verge 主编 Nilay Patel 风格，引发争议。Superhuman CEO Shishir Mehrotra 就此作出回应，探讨 AI 冒充真人专家的伦理边界。",
+      "tags": [
+        "安全对齐",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "published_at": "2026-03-23T13:30:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "3f7f4d2b",
+      "lang": "en",
+      "title_en": "Snowflake lays off documentation staff after they train AI replacement",
+      "title_zh": "Snowflake 让文档团队训练 AI 后将其裁员",
+      "summary_en": "Hacker News: Snowflake reportedly laid off its documentation team shortly after tasking them with training an AI system to replace their roles. The incident has become a widely cited example of AI-driven workforce displacement and raises ethical questions about companies asking employees to build their own replacements.",
+      "summary_zh": "Hacker News：Snowflake 被报道在安排文档团队训练用于替代其工作的 AI 系统后随即将其裁员，此事件被广泛引用为 AI 驱动劳动力替代的典型案例，引发伦理层面的争议。",
+      "tags": [
+        "行业动态",
+        "安全对齐"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://threadreaderapp.com/thread/2035197183230709874.html",
+      "published_at": "2026-03-23T11:35:30Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "6a8da9dc",
+      "lang": "zh",
+      "title_zh": "别人都在卷视觉，这家具身公司偏要卷「手感」",
+      "summary_zh": "量子位：在具身智能赛道普遍聚焦视觉感知的背景下，一家具身机器人公司另辟蹊径，深耕触觉感知技术。通过高精度触觉传感器与AI控制算法结合，实现机器人在精细操作任务中的突破，有望解决工业场景中的灵巧操作难题。",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "触觉感知"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391314.html",
+      "published_at": "2026-03-23T03:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "45529cfb",
+      "lang": "zh",
+      "title_zh": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
+      "summary_zh": "量子位：字节跳动开源的AI Agent框架在GitHub上迅速走红，获超35k Star。该框架采用MCP架构，内置丰富的Skill工具包，原生支持飞书集成，降低了企业构建AI应用的门槛，引发开发者社区广泛关注。",
+      "tags": [
+        "AI Agent",
+        "开源",
+        "字节跳动"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391361.html",
+      "published_at": "2026-03-23T02:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "95ec809e",
+      "lang": "en",
+      "title_en": "Mark Zuckerberg is an AI CEO now",
+      "title_zh": "扎克伯格已成为一位 AI CEO",
+      "summary_en": "Meta: Mark Zuckerberg's identity and strategic focus have fundamentally shifted toward AI leadership, with Meta's core business bets now centered on AI models, AI assistants, and AI-powered products across its platforms.",
+      "summary_zh": "Meta：扎克伯格的战略重心已全面转向 AI，Meta 核心业务赌注集中在 AI 模型、AI 助手和全平台 AI 产品上，其 CEO 定位已从社交媒体转向 AI 领导者。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898804/ai-ceo-mark-zuckerberg",
+      "published_at": "2026-03-23T01:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "13f0d4a0",
+      "lang": "zh",
+      "title_zh": "Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后",
+      "summary_zh": "量子位：Momenta宣布与大众汽车合作，在自动驾驶领域采用世界模型而非VLA架构，成为全球首家大规模落地世界模型的自动驾驶公司。创始人曹旭东表示，传感器重要性在其技术路线中排序靠后，核心在于数据驱动的世界模型建设。",
+      "tags": [
+        "具身智能",
+        "自动驾驶",
+        "世界模型"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391474.html",
+      "published_at": "2026-03-23T01:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "af9be772",
+      "lang": "zh",
+      "title_zh": "马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工，算力产能扩5000%",
+      "summary_zh": "马斯克：宣布在德克萨斯州奥斯汀开工建设 Terafab 芯片工厂，目标成为集芯片设计与制造于一体的「英伟达+台积电」，计划将算力产能扩大5000%，缓解 AI 行业芯片短缺。",
+      "tags": [
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391045.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e7f7b8fc",
+      "lang": "zh",
+      "title_zh": "黄仁勋发 Token 当工资！硅谷兴起刷量大赛，一人烧掉33个维基百科",
+      "summary_zh": "英伟达：黄仁勋在 GTC 演讲中提出以 AI Token 作为员工奖励，引发硅谷 AI 算力消耗竞赛，据统计部分工程师单日 Token 消耗量相当于33个完整维基百科的文本量。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391061.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "3c73930e",
       "lang": "zh",
@@ -239,140 +374,6 @@
       "published_at": "2026-03-22T14:06:48Z",
       "collected_at": "2026-03-23T00:00:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "de321142",
-      "lang": "en",
-      "title_en": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple",
-      "title_zh": "独家探访亚马逊Trainium实验室：赢得Anthropic、OpenAI乃至苹果青睐的芯片",
-      "summary_en": "TechCrunch: An inside look at Amazon's Trainium chip lab reveals how AWS has built a competitive AI accelerator attracting major customers including Anthropic, OpenAI, and Apple. Trainium offers a cost-effective alternative to Nvidia GPUs and is central to Amazon's strategy to reduce AI chip dependency.",
-      "summary_zh": "TechCrunch：对亚马逊Trainium芯片实验室的独家探访揭示，AWS打造的竞争性AI加速器已吸引Anthropic、OpenAI和苹果等顶级客户，提供比英伟达GPU更具成本优势的选择，是亚马逊降低对第三方AI芯片依赖的核心战略。",
-      "tags": [
-        "AI芯片",
-        "Amazon",
-        "云计算"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-      "published_at": "2026-03-22T12:00:00Z",
-      "collected_at": "2026-03-23T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2f12b72a",
-      "lang": "en",
-      "title_en": "AI was everywhere at gaming's big developer conference — except the games",
-      "title_zh": "GDC 2026：AI工具泛滥，成功游戏仍靠人工创作",
-      "summary_en": "The Verge: At GDC 2026, generative AI tools were prominently featured across the show floor, including AI-driven NPCs, auto-generated game worlds, and QA automation. Tencent showcased a pixel-art fantasy world generated entirely by AI. However, developers expressed widespread concern that AI tools remove craft from game-making, and commercially successful games at the conference remained human-crafted.",
-      "summary_zh": "The Verge：在GDC 2026上，生成式AI工具大量亮相，涵盖AI驱动NPC、自动生成游戏世界及QA自动化等，腾讯展示了AI生成的像素风奇幻世界Demo。开发者普遍担忧AI削弱游戏制作匠心，大会上的商业成功游戏仍以人工创作为主。",
-      "tags": [
-        "产品发布",
-        "多模态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-      "published_at": "2026-03-22T12:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4b85be95",
-      "lang": "zh",
-      "title_zh": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR26",
-      "summary_zh": "浙大：浙江大学团队提出多模态大模型置信度校准新方法，针对模型在图像质量差时仍输出高置信度的问题，通过先校准置信度再动态分配算力的方式提升推理可靠性，相关成果被CVPR 2026接收。",
-      "tags": [
-        "研究论文",
-        "多模态",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391014.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4ad0c854",
-      "lang": "zh",
-      "title_zh": "阶跃星辰率先适配微信生态，StepClaw即插即养即用",
-      "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391010.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4c7138cb",
-      "lang": "zh",
-      "title_zh": "大厂抢郭达雅进行时！DeepSeek核心成员还是个综艺巨佬",
-      "summary_zh": "DeepSeek：DeepSeek核心研究成员郭达雅因综艺节目走红，被多家大厂争相邀请，引发AI圈对顶尖研究人才流动的广泛关注。文章披露其在DeepSeek团队中的技术背景及角色。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390990.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "538b8163",
-      "lang": "zh",
-      "title_zh": "上海凭什么敢自封开发者之城？WAIC 2026大会议程解读",
-      "summary_zh": "上海：WAIC 2026将于3月27日开幕，本届大会主打「开发者之城」定位，议程涵盖大模型、Agent、具身智能等核心方向，面向开发者开放WAIC直通卡。",
-      "tags": [
-        "政策监管"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390977.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "651ee093",
-      "lang": "en",
-      "title_en": "Gemini task automation is slow, clunky, and super impressive",
-      "title_zh": "Gemini任务自动化实测：慢但令人印象深刻",
-      "summary_en": "Google: Gemini's new task automation feature, tested on Pixel 10 Pro and Galaxy S26 Ultra, allows the assistant to control apps like Uber and DoorDash on behalf of users. Currently limited to a handful of food delivery and rideshare apps and still in beta, the feature is slow and clunky but demonstrates meaningful progress toward on-device AI agents. Compared favorably against Siri's current capabilities.",
-      "summary_zh": "Google：Gemini新推出的任务自动化功能在Pixel 10 Pro和Galaxy S26 Ultra上测试，支持代用户操控Uber、DoorDash等外卖和打车应用。功能目前仍处于测试阶段，仅支持少数应用，速度较慢，但展现出设备端AI Agent的实质性进展，被认为远超Siri现有能力。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
-      "published_at": "2026-03-21T11:30:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "9af58a2d",
-      "lang": "zh",
-      "title_zh": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
-      "summary_zh": "光轮智能：英伟达GTC大会上，老黄机器人演示demo背后的核心供应商光轮智能首次曝光，该公司正在定义Physical AI基础设施，为多家顶级机器人厂商提供底层平台支持。",
-      "tags": [
-        "产品发布",
-        "硬件"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390924.html",
-      "published_at": "2026-03-21T00:00:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

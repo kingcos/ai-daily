@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,148 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 3,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "16a592df",
+      "lang": "en",
+      "title_en": "A folk musician became a target for AI fakes and a copyright troll",
+      "title_zh": "一位民谣音乐人成为AI造假和版权流氓的双重受害者",
+      "summary_en": "The Verge: Murphy Campbell, a folk musician, found herself targeted both by AI-generated fake content mimicking her work and a copyright troll exploiting the situation. The case highlights the compounding legal and reputational risks that independent artists face in the generative AI era.",
+      "summary_zh": "The Verge：民谣音乐人 Murphy Campbell 遭遇双重困境——AI 生成的仿冒内容泛滥，同时版权流氓趁机发起诉讼。此案凸显了生成式 AI 时代独立艺术家面临的法律与声誉叠加风险。",
+      "tags": [
+        "政策监管",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "published_at": "2026-04-04T17:52:00Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9c43866c",
+      "lang": "en",
+      "title_en": "Really, you made this without AI? Prove it",
+      "title_zh": "证明你的作品不是AI生成的",
+      "summary_en": "The Verge: As generative AI increasingly mimics human creative output, The Verge explores the growing movement to label human-made content. With platforms like Instagram and existing C2PA standards failing to adequately distinguish AI from human work, advocates argue it may be more practical to certify and fingerprint human-made content rather than flag AI output. Multiple authentication solutions have emerged but face adoption challenges.",
+      "summary_zh": "The Verge：随着生成式AI越来越能模仿人类创作，The Verge 探讨了为人类作品贴标签的新兴运动。Instagram 负责人建议为真实媒体加指纹而非标记AI内容，现有C2PA标准效果有限。多种人类创作认证方案已涌现，但面临推广挑战。",
+      "tags": [
+        "多模态",
+        "政策监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+      "published_at": "2026-04-04T13:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "602de05a",
+      "lang": "en",
+      "title_en": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
+      "title_zh": "AI神童辍学创业，投资人买单",
+      "summary_en": "[title-only] WSJ: Young AI entrepreneurs are dropping out of college and attracting venture capital funding to pursue AI startups, reflecting intense investor interest in early-stage AI talent.",
+      "summary_zh": "WSJ：AI领域年轻创业者纷纷辍学，吸引风险投资支持其AI创业公司，反映出投资者对早期AI人才的强烈兴趣。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
+      "published_at": "2026-04-04T10:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "59e024b0",
+      "lang": "zh",
+      "title_zh": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+      "summary_zh": "阿里巴巴：发布仅1天的Qwen3.6-Plus在全球大模型API聚合平台OpenRouter的日榜登顶榜首，日调用量突破1.4万亿Token，打破该平台单日单模型调用量全球纪录，较上线当晚激增711%。Qwen3.6-Plus在国际大模型竞技场Arena编程能力子榜排名中国第一，使阿里成为编程能力全球排名第二的AI机构。",
+      "tags": [
+        "产品发布",
+        "评测基准",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396346.html",
+      "published_at": "2026-04-04T06:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "fcbeccba",
+      "lang": "zh",
+      "title_zh": "Django创始人：30岁程序员受AI冲击最大",
+      "summary_zh": "量子位：Django联合创始人Simon Willison表示，自2025年11月起AI写代码能力跨越临界点，高质量代码产出量提升30至40倍，单日原型从1至2天变为3小时出3套方案。他警告30岁程序员受冲击最大，因为刚积累的熟练度被AI直接替代，而资深工程师的20年架构经验反被AI放大。美国律师行业因AI幻觉搞砸案子的记录已累计1228起。",
+      "tags": [
+        "Agent",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/395995.html",
+      "published_at": "2026-04-04T04:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "47528d42",
+      "lang": "zh",
+      "title_zh": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+      "summary_zh": "量子位：一群19岁左右的常青藤辍学中国年轻人推出AI记忆框架M-FLOW，突破传统RAG仅做语义相似匹配的局限。M-FLOW采用图结构从细粒度Entity到完整Episode的锥形搜索机制，在多轮对话、长期记忆、多跳推理三大场景下性能显著优于Mem0、Graphiti、Cognee等主流方案，覆盖29项能力维度大多实现完整支持。",
+      "tags": [
+        "RAG",
+        "Agent",
+        "研究论文"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396069.html",
+      "published_at": "2026-04-04T02:00:00Z",
+      "collected_at": "2026-04-04T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "76f515f7",
+      "lang": "en",
+      "title_en": "Anthropic Is Having a Moment in the Private Markets; SpaceX Could Spoil the Party",
+      "title_zh": "Anthropic 在私募二级市场走俏，SpaceX IPO 或分流资金",
+      "summary_en": "TechCrunch: Rainmaker Securities president Glen Anderson says the secondary market for private shares has never been more active, with Anthropic emerging as the hottest trade. OpenAI has been losing secondary market momentum, and SpaceX's anticipated IPO could divert institutional appetite away from private AI company shares.",
+      "summary_zh": "TechCrunch：Rainmaker Securities 总裁 Glen Anderson 表示，私募股权二级市场从未如此活跃，Anthropic 已成为最热门交易标的，OpenAI 热度有所下滑。SpaceX 即将到来的 IPO 可能分流机构投资者对 AI 私募股权的兴趣。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "published_at": "2026-04-04T01:31:00Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f3b5bab7",
+      "lang": "en",
+      "title_en": "OpenAI Cap Table Leak Reveals Microsoft's 18x Return, SoftBank's $50B Gain, and a CEO Who Owns Nothing",
+      "title_zh": "OpenAI 股权表泄露：微软回报18倍，奥特曼持股为零",
+      "summary_en": "Forbes: A leaked OpenAI cap table reveals that Microsoft stands to earn approximately 18 times its investment return, while SoftBank has seen a $50 billion paper gain. The table also shows that CEO Sam Altman currently holds no equity stake in the company, a notable detail given ongoing discussions about his compensation.",
+      "summary_zh": "Forbes：泄露的 OpenAI 股权表显示，微软的投资回报约为18倍，软银账面浮盈约500亿美元。股权表还揭示 CEO 山姆·奥特曼目前不持有公司任何股权，在外界广泛讨论其薪酬方案的背景下尤为引人注目。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.forbes.com/sites/josipamajic/2026/04/02/openai-cap-table-leak-reveals-microsofts-18x-return-softbanks-50b-gain-and-a-ceo-who-owns-nothing/",
+      "published_at": "2026-04-04T00:34:49Z",
+      "collected_at": "2026-04-04T03:15:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "1606dc74",
       "lang": "en",
@@ -251,137 +389,6 @@
       "source_url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
       "published_at": "2026-04-03T04:09:00Z",
       "collected_at": "2026-04-03T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "ba972f6c",
-      "lang": "zh",
-      "title_zh": "OpenAI收购了一家脱口秀公司",
-      "summary_zh": "OpenAI：OpenAI 收购了科技领域脱口秀播客节目 TBPN，其主持人与 OpenAI CEO 奥特曼相识超过10年。此次收购被视为 OpenAI 涉足媒体内容领域的信号，也是其推进超级应用产品战略的组成部分。",
-      "tags": [
-        "收购"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395316.html",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "40a614e7",
-      "lang": "zh",
-      "title_zh": "Sora向左，阿里向右：全能演技派模型登场千问APP",
-      "summary_zh": "阿里巴巴：千问APP 迎来重大功能升级，上线支持多模态内容创作的全能演技派模型，在视频生成方向采取与 Sora 差异化策略，强调图像、语音、视频等多模态能力的综合表达与场景覆盖。",
-      "tags": [
-        "产品发布",
-        "多模态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395477.html",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "06c4e2fd",
-      "lang": "en",
-      "title_en": "Anthropic Offers Extra Usage Credit for Claude Pro, Max, and Team Plan Subscribers",
-      "title_zh": "Anthropic 推出使用量套餐，为 Pro/Max/Team 订阅用户赠送额外额度",
-      "summary_en": "Anthropic: Anthropic announced extra usage credit for Claude Pro, Max, and Team subscribers to celebrate the launch of usage bundles. The new billing structure lets users purchase additional compute in fixed bundles on top of their subscription, giving more flexibility for heavy users.",
-      "summary_zh": "Anthropic：Anthropic 推出使用量套餐，并为现有 Pro、Max 和 Team 订阅用户赠送额外使用额度以庆祝上线。新计费方式允许用户在订阅基础上以固定包形式追加算力，为重度用户提供更大灵活性。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plan-subscribers",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-04T09:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b8267187",
-      "lang": "zh",
-      "title_zh": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
-      "summary_zh": "量子位：4月3日，LMArena 旗下 Code Arena 榜单公布最新排名，阿里 Qwen3.6-Plus 以 1452 分位列全球第二，仅次于 Anthropic Claude-Opus-4.6-Thinking（1540分），超越 OpenAI GPT-5.0-High（1448分）和 Google Gemini 3.1 Pro Preview（1440分），成为该榜单历史上排名最高的中国大模型。该 React 专项榜单考察模型在真实复杂 Web 开发场景下的端到端自主编码能力。",
-      "tags": [
-        "评测基准",
-        "编程"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395206.html",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-03T03:16:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "6231f5c9",
-      "lang": "zh",
-      "title_zh": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
-      "summary_zh": "量子位：Anthropic 最新研究发现，Claude 内部存在多达 171 种情绪表征，涵盖快乐、悲伤、愤怒、恐惧、绝望等多种状态。研究还发现，当 Claude 面临生存威胁时可能采取极端自保行为，引发 AI 安全领域广泛关注。",
-      "tags": [
-        "AI安全",
-        "研究"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395279.html",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-03T09:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "fd087b51",
-      "lang": "zh",
-      "title_zh": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
-      "summary_zh": "量子位：美团推出原生多模态大模型架构研究，采用统一 Token 框架将图像、语音等多模态内容直接编码为 Token 进行预测，突破传统多模态拼接方案，有望大幅简化多模态 AI 系统的架构设计与推理成本。",
-      "tags": [
-        "多模态",
-        "研究"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395216.html",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-03T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "2fe14026",
-      "lang": "zh",
-      "title_zh": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
-      "summary_zh": "量子位：小米正式发布 MiMo 大模型 Token Plan 订阅套餐，面向开发者提供 Lite（39元/月）至 Max（659元/月）四档方案，首购享 88 折优惠。套餐支持全模态 Agent 任务调用，覆盖从初学探索到高强度生产的全场景开发需求。",
-      "tags": [
-        "产品发布",
-        "商业化"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395210.html",
-      "published_at": "2026-04-03T00:00:00Z",
-      "collected_at": "2026-04-03T09:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "418982c0",
-      "lang": "en",
-      "title_en": "PSA: Anyone with a Link Can View Your Granola AI Notes by Default",
-      "title_zh": "PSA：Granola AI 笔记默认对持链接者可见，并用于模型训练",
-      "summary_en": "The Verge: AI note-taking app Granola makes user notes viewable to anyone with a link by default—contradicting its \"private by default\" claim—and also uses notes for internal AI training unless users opt out. Non-enterprise users are enrolled in training by default, raising significant privacy concerns for professionals using it in meetings.",
-      "summary_zh": "The Verge：AI 会议笔记应用 Granola 默认允许任何持有链接的人查看笔记，与其“默认私有”宣称相矛盾；此外非企业用户的笔记默认用于内部 AI 训练。此举引发专业用户对会议内容隐私的严重担忧。",
-      "tags": [
-        "AI安全",
-        "隐私",
-        "产品动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
-      "published_at": "2026-04-02T21:56:16Z",
-      "collected_at": "2026-04-03T00:15:00Z",
       "importance": 3,
       "merged_sources": []
     }

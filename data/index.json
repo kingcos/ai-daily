@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,163 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 1,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "lang": "en",
+      "title_en": "The Back Story Behind the First '$1.8B' AI Company",
+      "title_zh": "首家\"18亿美元\"AI公司背后的真实故事",
+      "summary_en": "Hacker News: AI critic Gary Marcus investigates the origins behind what was marketed as the first $1.8 billion AI company. The piece examines AI hype cycles, valuation inflation, and the gap between marketing narratives and technological reality in the AI industry.",
+      "summary_zh": "Hacker News：AI批评家加里·马库斯深挖首家自称估值18亿美元的AI公司背后的故事，回顾AI炒作周期历史，探讨估值泡沫以及AI行业营销叙事与技术现实之间的落差。",
+      "tags": [
+        "行业动态",
+        "观点",
+        "AI治理"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+      "published_at": "2026-04-06T23:16:27Z",
+      "importance": 3,
+      "id": "1f5b7e7f",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Bernie Sanders: AI Is a Threat to Everything the American People Hold Dear",
+      "title_zh": "伯尼·桑德斯：AI威胁到美国人民珍视的一切",
+      "summary_en": "Hacker News: Senator Bernie Sanders published a Wall Street Journal op-ed arguing that unchecked AI poses an existential threat to jobs, democracy, and social welfare. Sanders calls for aggressive AI regulation including worker protections, democratic oversight of AI deployment, and redistribution of AI-generated wealth.",
+      "summary_zh": "Hacker News：参议员伯尼·桑德斯在《华尔街日报》发表社论，警告不受约束的AI对就业、民主和社会福利构成根本性威胁，呼吁推行强力AI监管，包括工人保护、民主化AI部署监督及AI收益再分配。",
+      "tags": [
+        "AI治理",
+        "政策监管",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear",
+      "published_at": "2026-04-06T21:57:54Z",
+      "importance": 3,
+      "id": "670ac2ad",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Anthropic Expands Partnership with Google and Broadcom for Multi-Gigawatt Compute",
+      "title_zh": "Anthropic与谷歌、博通扩大合作，建设多吉瓦算力基础设施",
+      "summary_en": "Anthropic: Anthropic announced an expanded partnership with Google and Broadcom to develop multiple gigawatts of AI compute infrastructure. The deal aims to significantly scale the compute capacity available for training and deploying frontier AI models, reinforcing Anthropic's long-term investment in advanced AI research and product development.",
+      "summary_zh": "Anthropic：Anthropic宣布与谷歌和博通扩大合作，共同建设多吉瓦级AI算力基础设施。此次合作旨在大幅扩展用于训练和部署前沿AI模型的算力规模，进一步巩固Anthropic在尖端AI研究和产品开发方面的长期投入。",
+      "tags": [
+        "基础设施",
+        "合作伙伴",
+        "算力"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "published_at": "2026-04-06T21:52:08Z",
+      "importance": 5,
+      "id": "8589c87e",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Show HN: Hippo – Biologically Inspired Memory for AI Agents",
+      "title_zh": "Hippo：仿生物海马体记忆架构的AI智能体记忆系统",
+      "summary_en": "Hacker News: An open-source project introducing Hippo, a biologically inspired memory system for AI agents. Drawing on hippocampal memory models from neuroscience, the library provides agents with structured short-term and long-term memory, improving recall and contextual reasoning in extended interactions.",
+      "summary_zh": "Hacker News：开源项目Hippo推出面向AI智能体的仿生记忆系统，借鉴神经科学海马体模型，为智能体提供结构化短期与长期记忆能力，提升长对话中的回忆准确性和上下文推理效果。",
+      "tags": [
+        "智能体",
+        "开源",
+        "研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/kitfunso/hippo-memory",
+      "published_at": "2026-04-06T21:49:34Z",
+      "importance": 3,
+      "id": "ad37c82b",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Show HN: Meta-agent – Self-Improving Agent Harnesses from Live Traces",
+      "title_zh": "Meta-agent：从实时轨迹中自我进化的智能体框架",
+      "summary_en": "Hacker News: An open-source meta-agent framework that automatically improves agent behaviors by learning from live execution traces. The system analyzes real interaction logs to refine agent decision-making, offering a practical approach to continuous improvement without manual prompt engineering.",
+      "summary_zh": "Hacker News：一个开源元智能体框架，通过分析实时执行轨迹自动改善智能体行为，系统从真实交互日志学习以持续优化决策流程，无需手动提示工程即可实现自我进化。",
+      "tags": [
+        "智能体",
+        "开源",
+        "AI编程"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/canvas-org/meta-agent",
+      "published_at": "2026-04-06T19:22:06Z",
+      "importance": 3,
+      "id": "724dc49b",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "The Cult of Vibe Coding Is Dogfooding Run Amok",
+      "title_zh": "\"氛围编程\"崇拜：失控的自我验证循环",
+      "summary_en": "Hacker News: A critical essay arguing that 'vibe coding' — AI-assisted coding driven by feel rather than engineering discipline — has become a cult-like movement. Over-reliance on LLMs for coding encourages sloppy practices and creates technical debt, especially when the tools themselves are built this way.",
+      "summary_zh": "Hacker News：一篇批评性文章指出\"氛围编程\"（以感觉驱动的AI辅助编程）已演变为狂热运动，过度依赖LLM编程会催生随意开发习惯并积累技术债，尤其当开发工具本身也用此方式构建时问题更甚。",
+      "tags": [
+        "AI编程",
+        "行业动态",
+        "观点"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+      "published_at": "2026-04-06T18:31:03Z",
+      "importance": 3,
+      "id": "9cf9b311",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Iran Threatens OpenAI's Stargate Data Center in Abu Dhabi",
+      "title_zh": "伊朗威胁OpenAI在阿布扎比的Stargate数据中心",
+      "summary_en": "The Verge: Iran has issued threats targeting OpenAI's Stargate data center under construction in Abu Dhabi, UAE. The threats highlight geopolitical risks surrounding major AI infrastructure investments in the Middle East, raising security concerns for OpenAI's ambitious billion-dollar compute expansion.",
+      "summary_zh": "The Verge：伊朗对OpenAI在阿联酋阿布扎比在建的Stargate数据中心发出威胁，凸显中东地区大型AI基础设施投资面临的地缘政治风险，引发外界对OpenAI数十亿美元算力扩张计划的安全担忧。",
+      "tags": [
+        "地缘政治",
+        "基础设施",
+        "OpenAI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "published_at": "2026-04-06T15:54:19Z",
+      "importance": 4,
+      "id": "7501dfe2",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Cisco CEO Chuck Robbins Wants Data Centers in Space",
+      "title_zh": "思科CEO罗宾斯：未来数据中心将建在太空",
+      "summary_en": "The Verge: Cisco CEO Chuck Robbins shared his vision for placing data centers in space to meet the exploding power demands of AI. Robbins discussed energy challenges facing AI infrastructure and Cisco's positioning in the evolving AI networking landscape.",
+      "summary_zh": "The Verge：思科CEO查克·罗宾斯在采访中提出将数据中心建设在太空的构想，以应对AI爆炸式增长带来的能源需求挑战，并探讨思科在AI网络领域的战略布局。",
+      "tags": [
+        "基础设施",
+        "算力",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
+      "published_at": "2026-04-06T15:15:00Z",
+      "importance": 3,
+      "id": "707d19ee",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
     {
       "id": "4cf3b237",
       "lang": "zh",
@@ -244,144 +397,6 @@
       "published_at": "2026-04-05T17:13:51Z",
       "collected_at": "2026-04-06T00:00:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "22bfdeb3",
-      "lang": "en",
-      "title_en": "Suno is a music copyright nightmare",
-      "title_zh": "Suno版权问题调查：AI仿冒乐曲泛滥",
-      "summary_en": "Suno: An investigation found Suno's copyright filters are easily bypassed, enabling users to generate AI imitations of songs including works by Beyonce, Black Sabbath, and Aqua using free software. AI detectors flagged the outputs as likely AI-generated. Suno's policy prohibits copyrighted material, but enforcement appears ineffective, raising concerns about streaming platforms being flooded with AI cover slop.",
-      "summary_zh": "Suno：调查发现Suno平台版权过滤器极易绕过，用户可利用免费软件生成碧昂斯、黑色安息日等歌手作品的AI仿冒版本，AI检测工具均将其标记为疑似AI生成。Suno声称禁止使用受版权保护素材，但实际执行效果存疑，外界担忧流媒体平台将被AI仿冒音乐大量侵占。",
-      "tags": [
-        "政策监管",
-        "多模态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-      "published_at": "2026-04-05T16:00:00Z",
-      "collected_at": "2026-04-06T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7be922b9",
-      "lang": "en",
-      "title_en": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-      "title_zh": "Gemini 接管 Google Maps 行程规划：出人意料地好用",
-      "summary_en": "The Verge: Google's Gemini AI, integrated into Google Maps, was tested for full-day itinerary planning. The hands-on found it capable of building coherent travel plans with restaurant picks, transit suggestions, and timing — outperforming earlier AI map assistants in practical usability.",
-      "summary_zh": "The Verge：测试者将 Google Maps 中的 Gemini AI 用于全天行程规划，发现其能自动整合餐厅推荐、交通建议和时间安排，实用性超出预期，表现优于以往的 AI 地图助手。",
-      "tags": [
-        "AI应用",
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-      "published_at": "2026-04-05T14:00:00Z",
-      "collected_at": "2026-04-05T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9c73d434",
-      "lang": "en",
-      "title_en": "Eight years of wanting, three months of building with AI",
-      "title_zh": "渴望了八年，借助 AI 三个月造出来了",
-      "summary_en": "Hacker News: A developer who spent eight years wishing for better SQLite developer tooling used AI to build SyntaQLite in just three months. The post explores how AI coding assistants dramatically compressed the time from idea to shipping product for solo developers.",
-      "summary_zh": "Hacker News：一位开发者等待了八年，希望有更好的 SQLite 开发工具，最终借助 AI 在三个月内完成了 SyntaQLite。文章探讨了 AI 编码助手如何大幅压缩独立开发者从想法到上线的时间。",
-      "tags": [
-        "AI应用",
-        "开源"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "published_at": "2026-04-05T12:43:47Z",
-      "collected_at": "2026-04-05T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9571bb9e",
-      "lang": "en",
-      "title_en": "Grammarly's sloppelganger saga",
-      "title_zh": "Grammarly 的 AI 审稿困境",
-      "summary_en": "The Verge: An expert reviewer recounts a lengthy saga with Grammarly, whose AI suggestions increasingly homogenized their writing style — raising questions about how AI grammar and writing tools reshape individual voice and the broader implications for authentic expression.",
-      "summary_zh": "The Verge：一位专业审稿人讲述了与 Grammarly 的漫长纠葛——AI 建议不断同质化其写作风格，引发了对 AI 写作工具如何重塑个人表达以及真实性的深层思考。",
-      "tags": [
-        "AI应用",
-        "政策监管"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-      "published_at": "2026-04-05T12:00:00Z",
-      "collected_at": "2026-04-05T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "2d5b2299",
-      "lang": "en",
-      "title_en": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
-      "title_zh": "日本机器人不抢工作，专填无人愿做的岗位",
-      "summary_en": "TechCrunch: Driven by severe labor shortages, Japan is moving physical AI and robotics from pilot projects into real-world deployment at scale — focusing on physically demanding or undesirable jobs in logistics, agriculture, and care sectors rather than displacing white-collar workers.",
-      "summary_zh": "TechCrunch：面对严峻的劳动力短缺，日本正将物理 AI 与机器人技术从试点推向大规模落地，重点填补物流、农业和护理等行业中无人愿做的体力岗位，而非取代脑力工作者。",
-      "tags": [
-        "AI应用",
-        "机器人"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "published_at": "2026-04-05T10:00:00Z",
-      "collected_at": "2026-04-05T15:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f3b7e290",
-      "lang": "zh",
-      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
-      "summary_zh": "太初元碁：在公司成立五周年大会上，太初元碁宣布向20名员工发放总价值约100万元的百亿算力token（均来自国产智算中心），鼓励员工开展AI Agent创新。同时，太初元碁与浙江工商大学、国家超级计算无锡中心、浙江力积存储科技共建人工智能科教融合学院，为该学院提供智能算力底座，推动「产-学-研」深度融合的AI人才培养。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/396533.html",
-      "published_at": "2026-04-05T08:53:12Z",
-      "collected_at": "2026-04-06T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "5ef1c864",
-      "lang": "zh",
-      "title_zh": "OpenAI新模型不是GPTX！全新预训练「土豆」曝光，Sora成弃子的原因找到了",
-      "summary_zh": "量子位：据报道，OpenAI 正在训练一款代号为「土豆」的全新预训练基础模型，定位并非 GPT-X 系列延续，同时有消息称 Sora 团队遭遇内部资源重组，可能是其发展滞后的主因。",
-      "tags": [
-        "大模型",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/396535.html",
-      "published_at": "2026-04-05T08:00:00Z",
-      "collected_at": "2026-04-05T15:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "3d90023f",
-      "lang": "zh",
-      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
-      "summary_zh": "量子位：国内 AI 公司太初元碁宣布向全体员工发放价值百亿的算力 token，并计划与高校共建 AI 科教融合学院，推动产学研深度合作，加速 AI 人才培养与应用落地。",
-      "tags": [
-        "AI应用",
-        "产业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/396533.html",
-      "published_at": "2026-04-05T06:00:00Z",
-      "collected_at": "2026-04-05T15:10:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,147 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 16,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "fd089818",
+      "lang": "zh",
+      "title_zh": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
+      "title_en": "DeepSeek urgently hiring for Agent roles: 17 positions posted, Vibe Coding a priority",
+      "summary_zh": "量子位：DeepSeek一次性发布17个Agent方向招聘岗位，明确优先考虑有重度Vibe Coding经验的候选人，反映其在智能体研发上的大规模投入与战略紧迫性。",
+      "summary_en": "Qbitai: DeepSeek simultaneously posted 17 open Agent-focused positions, explicitly prioritizing candidates with heavy Vibe Coding experience, signaling a major accelerated push into agentic AI research and development.",
+      "tags": [
+        "行业动态",
+        "DeepSeek",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392024.html",
+      "published_at": "2026-03-25T07:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "afaa88eb",
+      "lang": "zh",
+      "title_zh": "黄仁勋暴论：AGI已经实现，Ilya错了，程序员将有10亿",
+      "title_en": "Jensen Huang: AGI has been achieved, Ilya is wrong, there will be 1 billion programmers",
+      "summary_zh": "量子位：英伟达CEO黄仁勋公开宣称AGI已经实现，认为Ilya Sutskever对AGI的定义有误；并预测随着AI辅助编程普及，全球程序员数量将迈向10亿规模。",
+      "summary_en": "Qbitai: Nvidia CEO Jensen Huang claimed AGI has already been achieved and that Ilya Sutskever's definition is incorrect; he also predicted that AI-assisted programming will eventually enable one billion people to become programmers.",
+      "tags": [
+        "行业观点",
+        "AGI"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391750.html",
+      "published_at": "2026-03-25T06:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "0c9c67ce",
+      "lang": "en",
+      "title_en": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "title_zh": "Kleiner Perkins完成35亿美元募资，全力押注AI",
+      "summary_en": "TechCrunch: Kleiner Perkins has closed a $3.5 billion fundraise, allocating $1 billion for early-stage AI startups and $2.5 billion for late-stage growth businesses, signaling a major strategic pivot by one of Silicon Valley's most storied venture firms to double down on AI.",
+      "summary_zh": "TechCrunch：Kleiner Perkins完成35亿美元募资，其中10亿美元用于早期AI创业公司，25亿美元投向成长期企业，标志着这家老牌硅谷风投全面押注AI的战略转型。",
+      "tags": [
+        "行业动态",
+        "投融资"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "published_at": "2026-03-25T00:47:20Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "42714d8c",
+      "lang": "zh",
+      "title_zh": "它石智航联合六大机构发布OmniVTA视触觉世界模型",
+      "summary_zh": "它石智航：它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村学院及北京航空航天大学，发布OmniVTA视触觉操作框架和OmniViTac大规模视触觉数据集。该系统让机器人从被动感知升级为对触觉进行主动预测和闭环精准控制，支持复杂灵巧操作任务。相关论文已在arXiv发布。",
+      "tags": [
+        "研究论文",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392105.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7bb8054a",
+      "lang": "zh",
+      "title_zh": "DeepSeek急招Agent方向，重度Vibe Coding优先",
+      "summary_zh": "DeepSeek：DeepSeek一口气发布17个招聘岗位，核心聚焦Agent方向，覆盖算法研究、数据评测及基础设施全链条。多个岗位明确要求或优先考虑重度使用Claude Code、Cursor、Copilot等AI编程工具的候选人，全栈开发岗还要求作为Vibe Coding重度用户持续探索模型能力。",
+      "tags": [
+        "Agent",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392024.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "5a0e5ffa",
+      "lang": "zh",
+      "title_zh": "WorkBuddy：微信里的AI专家团队工作流",
+      "summary_zh": "WorkBuddy：WorkBuddy是一款可在微信中使用的AI工作流产品，支持多个AI专家角色协同作业，覆盖运营策略、选题、内容生产等环节。用户可通过配置AI角色分工，在微信内完成自媒体内容全流程，并支持定时推送AI热点摘要等自动化功能。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391894.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "0f161b31",
+      "lang": "zh",
+      "title_zh": "昆仑万维Mureka V8登顶全球AI音乐模型榜",
+      "summary_zh": "昆仑万维：昆仑万维旗下AI音乐模型Mureka V8在Artificial Analysis音乐模型榜单中登顶，超越Suno V4.5、Udio v1.5 Allegro等国际主流模型，实现人声（vocal）与器乐（instrument）双项第一。测试显示其在低复杂度提示词下也具备较强的理解和生成能力。",
+      "tags": [
+        "产品发布",
+        "多模态",
+        "评测基准"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391839.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "877123e3",
+      "lang": "zh",
+      "title_zh": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
+      "summary_zh": "量子位：一加全新小屏旗舰一加 15T 正式发布，搭载第五代骁龙 8 至尊版处理器与 ColorOS 16 系统，全面集成 AI 功能。机型配备 6.32 英寸屏幕、7500mAh 大电池及 LUMO 凝光影像系统，165Hz 高帧游戏体验，售价 4299 元起。",
+      "tags": [
+        "产品发布",
+        "手机"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391775.html",
+      "published_at": "2026-03-24T14:35:34Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "66c9a554",
       "lang": "en",
@@ -257,145 +394,6 @@
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
       "published_at": "2026-03-24T10:00:00Z",
       "collected_at": "2026-03-25T01:12:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "22db4cab",
-      "lang": "en",
-      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-      "title_zh": "ProofShot：为AI编程智能体提供UI视觉验证能力",
-      "summary_en": "ProofShot: ProofShot is an open tool that gives AI coding agents visual verification capabilities for the UIs they generate. It enables agents to capture screenshots of their output and compare actual vs. intended UI state, helping detect visual discrepancies without manual review. Submitted as a Show HN project.",
-      "summary_zh": "ProofShot：ProofShot是一款为AI编程智能体提供UI视觉验证能力的开源工具。该工具使智能体能够截图并检查自身生成的界面，帮助识别实际UI与预期之间的视觉差异，降低人工审核成本。",
-      "tags": [
-        "AI编程",
-        "工具",
-        "智能体"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://proofshot.argil.io/",
-      "published_at": "2026-03-24T07:46:00Z",
-      "collected_at": "2026-03-24T09:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "580668b1",
-      "lang": "en",
-      "title_en": "Pool spare GPU capacity to run LLMs at larger scale",
-      "title_zh": "聚合闲置GPU算力以更大规模运行大语言模型",
-      "summary_en": "Hacker News: An open-source project, mesh-llm, proposes pooling idle GPU capacity across machines to run large language models at greater scale without dedicated infrastructure. The approach enables distributed LLM inference by treating spare compute as a shared mesh network.",
-      "summary_zh": "Hacker News：开源项目mesh-llm提出将多台机器闲置GPU算力汇集起来，无需专属基础设施即可大规模运行大语言模型，将空余算力视为共享网格网络，实现分布式LLM推理。",
-      "tags": [
-        "开源",
-        "基础设施"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/michaelneale/mesh-llm",
-      "published_at": "2026-03-24T05:43:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "6354345b",
-      "lang": "en",
-      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-      "title_zh": "ProofShot：让AI编程Agent能看见并验证自己构建的UI",
-      "summary_en": "Hacker News: ProofShot is a new tool that provides AI coding agents with visual verification capabilities, allowing them to take screenshots and validate that the UI they generate matches intended designs. The Show HN post highlights growing demand for closed-loop feedback in AI-assisted software development.",
-      "summary_zh": "Hacker News：ProofShot是一款为AI编程Agent提供视觉验证能力的新工具，使其能截图并确认自动生成的UI是否符合预期设计，体现了AI辅助软件开发中对闭环反馈机制的迫切需求。",
-      "tags": [
-        "AI编程",
-        "工具与平台"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://proofshot.argil.io/",
-      "published_at": "2026-03-24T04:23:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "77da0ae0",
-      "lang": "zh",
-      "title_zh": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
-      "summary_zh": "量子位：英伟达CEO黄仁勋抛出重磅论断，称AGI已经实现，并直言Ilya Sutskever关于预训练触顶的判断是错的，认为合成数据将进一步推动数据规模扩张。他预测全球将出现10亿级AI程序员，并强调推理计算比预训练更难、更重要，引发业界广泛讨论。",
-      "tags": [
-        "行业动态",
-        "模型能力"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391750.html",
-      "published_at": "2026-03-24T03:00:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "6f6397af",
-      "lang": "zh",
-      "title_zh": "RoboChallenge Table30 V2 正式发布，泛化时代开幕",
-      "summary_zh": "量子位：具身智能评测基准RoboChallenge Table30 V2正式发布，新增18个双臂灵巧操作任务，总计30个高难度任务，专注考核模型泛化能力。新版本重构了学习与测试协议，终结了为比赛调参的旧模式，旨在为全球具身智能研究者提供公平开放的真机竞技场。",
-      "tags": [
-        "具身智能",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391744.html",
-      "published_at": "2026-03-24T02:30:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9355a186",
-      "lang": "en",
-      "title_en": "Epoch confirms GPT-5.4 Pro solved a Frontier Math Open Problem for the first time",
-      "title_zh": "Epoch AI确认：GPT-5.4 Pro首次解决FrontierMath开放数学难题",
-      "summary_en": "Epoch AI: Epoch confirmed that OpenAI's GPT-5.4 Pro successfully solved an open problem from the FrontierMath benchmark, marking the first time any AI model has cracked a problem in this rigorous mathematical challenge set designed to push beyond current AI capabilities.",
-      "summary_zh": "Epoch AI：研究机构Epoch确认，OpenAI的GPT-5.4 Pro成功解决了FrontierMath基准测试中的一道开放数学难题，标志着AI模型首次攻克该为突破当前AI能力极限而设计的严苛数学挑战赛中的开放性问题。",
-      "tags": [
-        "模型能力",
-        "评测基准"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-      "published_at": "2026-03-24T01:53:00Z",
-      "collected_at": "2026-03-24T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "4f759cf2",
-      "lang": "en",
-      "title_en": "I Created My First AI-Assisted Pull Request and I Feel Like a Fraud",
-      "title_zh": "我用 AI 辅助完成了第一个 Pull Request，却感觉像个骗子",
-      "summary_en": "Hacker News: A developer reflects on using AI coding tools to submit their first AI-assisted pull request, exploring feelings of imposter syndrome and questions about authenticity in AI-augmented software development. The personal essay resonates with many developers navigating the shift toward AI-assisted workflows.",
-      "summary_zh": "Hacker News：一位开发者分享了使用 AI 编程工具提交第一个 AI 辅助 Pull Request 的心路历程，探讨了在 AI 增强软件开发中关于冒名顶替综合症和真实性的思考，引发了大量开发者对 AI 辅助工作流的共鸣。",
-      "tags": [
-        "工具与平台",
-        "行业动态"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
-      "published_at": "2026-03-24T01:42:38Z",
-      "collected_at": "2026-03-24T03:08:59.590728Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "6162e5ae",
-      "lang": "zh",
-      "title_zh": "LeCun的世界模型单GPU就能跑了",
-      "summary_zh": "量子位：新研究实现仅需单GPU即可稳定训练LeCun提倡的世界模型（JEPA类架构），只靠像素输入无需复杂技巧，能预测执行某动作后世界的变化。通过SIGReg正则化解决了以往JEPA方案的崩溃问题，可直接用于机器人和智能体规划控制，兼顾速度与稳定性。",
-      "tags": [
-        "具身智能",
-        "模型能力"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391698.html",
-      "published_at": "2026-03-24T01:30:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
       "importance": 4,
       "merged_sources": []
     }

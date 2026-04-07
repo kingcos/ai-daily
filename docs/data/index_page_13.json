@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,154 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 13,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "ac67e459",
+      "lang": "en",
+      "title_en": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "title_zh": "Bluesky 推出 AI 应用 Attie，助力构建自定义信息流",
+      "summary_en": "TechCrunch: Bluesky launched Attie, an AI-powered app that helps users create custom feeds on the open social networking protocol atproto. The tool lowers the barrier for non-technical users to design personalized content discovery experiences on the decentralized platform.",
+      "summary_zh": "TechCrunch：Bluesky 推出 AI 应用 Attie，帮助用户在其开放社交协议 atproto 上构建个性化信息流。该工具降低了非技术用户在去中心化平台上自定义内容发现体验的门槛。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "published_at": "2026-03-28T23:00:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d60e6b3e",
+      "lang": "en",
+      "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "title_zh": "斯坦福研究揭示 AI 聊天机器人提供个人建议的危险性",
+      "summary_en": "TechCrunch: Stanford researchers published a study quantifying the harms of AI sycophancy—the tendency of AI chatbots to overly affirm users seeking personal advice. The research measures how this behavior could lead to harmful real-world decisions in domains like health and finance.",
+      "summary_zh": "TechCrunch：斯坦福研究人员发布研究，量化 AI 讨好行为的危害——即 AI 聊天机器人过度迎合寻求个人建议用户的倾向。研究衡量这一行为在健康、财务等领域可能导致有害现实决策的风险。",
+      "tags": [
+        "安全与伦理",
+        "研究"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published_at": "2026-03-28T20:45:54Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "98eb0af9",
+      "lang": "en",
+      "title_en": "Suno leans into customization with v5.5",
+      "title_zh": "Suno AI 音乐模型 v5.5 发布，聚焦个性化定制",
+      "summary_en": "The Verge: Suno released v5.5 of its AI music model, one of its biggest updates yet. Where previous versions focused on fidelity and natural vocals, v5.5 emphasizes user control—including training on your own voice and songs, new customization tools, and expanded creative modes.",
+      "summary_zh": "The Verge：Suno 发布 AI 音乐模型 v5.5，这是迄今最大更新之一。有别于以往侧重音质与自然人声，v5.5 将重点转向用户掌控力，新增基于用户声音与歌曲的训练功能、多项定制工具及扩展创作模式。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "published_at": "2026-03-28T18:33:10Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "90edf7a7",
+      "lang": "en",
+      "title_en": "Elon Musk's last co-founder reportedly leaves xAI",
+      "title_zh": "xAI 最后一位联合创始人据报已离职",
+      "summary_en": "TechCrunch: The final remaining co-founder of xAI has reportedly departed the company. All but two of Musk's 11 original xAI co-founders have now left, signaling leadership instability at the AI venture as it competes with OpenAI, Anthropic, and Google.",
+      "summary_zh": "TechCrunch：xAI 最后一位联合创始人据报已离职，11 位原始联合创始人中已有 9 位相继离开，凸显埃隆·马斯克旗下 AI 公司在激烈竞争中管理层持续动荡。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "published_at": "2026-03-28T16:11:16Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "90edf7a7",
+      "lang": "en",
+      "title_en": "Elon Musk's last co-founder reportedly leaves xAI",
+      "title_zh": "Elon Musk 在 xAI 的最后两位联合创始人相继离开",
+      "summary_en": "TechCrunch: The final two co-founders of Elon Musk's AI startup xAI—Manuel Kroiss and Ross Nordeen—have departed, according to Business Insider. This follows Musk's admission that xAI 'was not built right the first time' and is being rebuilt from the ground up. The company was recently acquired by SpaceX.",
+      "summary_zh": "TechCrunch：据 Business Insider 报道，Elon Musk 旗下 AI 创业公司 xAI 的最后两位联合创始人 Manuel Kroiss 和 Ross Nordeen 已相继离职。此前 Musk 承认 xAI「第一次没有建对」，正从头重建。该公司近期已被 SpaceX 收购。",
+      "tags": [
+        "xAI",
+        "AI公司",
+        "人事变动"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "published_at": "2026-03-28T16:11:00Z",
+      "collected_at": "2026-03-30T03:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d6a3d8c0",
+      "lang": "en",
+      "title_en": "Anthropic's Claude popularity with paying consumers is skyrocketing",
+      "title_zh": "Anthropic Claude 付费用户规模急速增长",
+      "summary_en": "TechCrunch: New data indicates Anthropic's Claude is experiencing rapid growth among paying consumer users. Total Claude user estimates range from 18 to 30 million, with subscription revenue reportedly surging, reflecting strong market traction for Claude's AI capabilities.",
+      "summary_zh": "TechCrunch：新数据显示 Anthropic Claude 付费消费用户规模急速增长，总用户数估算从 1800 万至 3000 万不等，订阅收入据报大幅攀升，反映出 Claude AI 能力的强烈市场吸引力。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "published_at": "2026-03-28T14:15:00Z",
+      "collected_at": "2026-03-29T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "ac886654",
+      "lang": "en",
+      "title_en": "Why can't TikTok identify AI generated ads when I can?",
+      "title_zh": "TikTok 为何无法识别 AI 生成广告？",
+      "summary_en": "The Verge: Investigation reveals TikTok consistently fails to label AI-generated advertisements despite regulations requiring disclosure, while human observers can easily identify them. The piece highlights inadequate enforcement of AI content transparency rules on major social platforms.",
+      "summary_zh": "The Verge：调查发现 TikTok 持续未能标注 AI 生成广告，尽管相关法规要求强制披露，而人类观察者往往能轻易识别。此文凸显主流社交平台在 AI 内容透明度监管执行方面的明显不足。",
+      "tags": [
+        "行业动态",
+        "监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "published_at": "2026-03-28T14:00:00Z",
+      "collected_at": "2026-03-29T07:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "719f4154",
+      "lang": "en",
+      "title_en": "TikTok's policy for AI ads isn't working",
+      "title_zh": "TikTok的AI广告标注政策形同虚设",
+      "summary_en": "The Verge: TikTok's policy requiring AI-generated ad content to be labeled is proving ineffective, with brands like Samsung failing to disclose AI usage in advertising. The investigation reveals widespread non-compliance and raises questions about platform enforcement of AI transparency standards.",
+      "summary_zh": "The Verge：TikTok要求AI生成广告内容加注标签的政策执行不力，三星等品牌在投放AI广告时未进行披露。这一现象暴露了平台在AI透明度监管上的漏洞，引发外界对AI广告治理有效性的广泛质疑。",
+      "tags": [
+        "AI治理",
+        "政策法规"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "published_at": "2026-03-28T14:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "d6a3d8c0",
       "lang": "en",
@@ -250,148 +394,6 @@
       "source_url": "https://www.qbitai.com/2026/03/392903.html",
       "published_at": "2026-03-28T03:00:00Z",
       "collected_at": "2026-03-28T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "73100b56",
-      "lang": "en",
-      "title_en": "Anthropic's 'Claude Mythos' leak reveals powerful new AI model raising cybersecurity concerns",
-      "title_zh": "Anthropic「Claude Mythos」泄露：新模型引发网络安全警报",
-      "summary_en": "Hacker News / CoinDesk: An internal leak revealed Anthropic is testing a new model codenamed \"Claude Mythos,\" described as highly capable in ways that spooked cybersecurity investors. Stocks in cybersecurity firms fell sharply on fears the model could automate offensive capabilities previously requiring expert knowledge.",
-      "summary_zh": "Hacker News / CoinDesk：内部泄露显示Anthropic正在测试代号「Claude Mythos」的新模型，其强大能力引发网络安全领域担忧，相关上市公司股价大幅下跌，市场担忧该模型可能使高级网络攻击能力大众化。",
-      "tags": [
-        "模型发布",
-        "AI安全"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare",
-      "published_at": "2026-03-28T02:04:00Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 5,
-      "merged_sources": [
-        "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html"
-      ]
-    },
-    {
-      "id": "0cfeb43d",
-      "lang": "zh",
-      "title_zh": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
-      "summary_zh": "量子位：趋境科技发布ATaaS（AI Token as a Service）平台，主打高效能AI Token生产服务，致力于解决传统硬件高投入却难以实现高效Token产出的痛点，面向企业提供弹性AI算力服务。",
-      "tags": [
-        "基础设施",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392896.html",
-      "published_at": "2026-03-28T02:00:00Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "5df16404",
-      "lang": "en",
-      "title_en": "AI bug reports went from junk to legit overnight, says Linux kernel maintainer",
-      "title_zh": "Linux内核维护者：AI提交的漏洞报告质量突飞猛进",
-      "summary_en": "Hacker News / The Register: Linux kernel maintainer Greg Kroah-Hartman noted that AI-generated bug reports have dramatically improved in quality, going from nearly useless to genuinely actionable. The shift signals growing maturity of AI-assisted security research in open source.",
-      "summary_zh": "Hacker News / The Register：Linux内核维护者Greg Kroah-Hartman指出，AI生成的漏洞报告质量急剧提升，从几乎无用变为真正可操作，标志着AI辅助安全研究在开源领域日趋成熟。",
-      "tags": [
-        "AI安全",
-        "开源"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
-      "published_at": "2026-03-27T20:30:00Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f8fe21ba",
-      "lang": "en",
-      "title_en": "The latest in data centers, AI, and energy",
-      "title_zh": "数据中心、AI与能源领域最新动态",
-      "summary_en": "The Verge: Senators Warren and Hawley pressed the EIA to mandate annual energy-use disclosures from data centers, while the EIA launched a voluntary pilot in four U.S. regions. Major tech firms had previously signed Trump's Ratepayer Protection Pledge to self-fund AI data center power.",
-      "summary_zh": "The Verge：参议员沃伦与霍利联名致信能源信息署要求强制数据中心披露能耗数据，EIA同步启动四地区自愿试点；此前谷歌、Meta等已签署特朗普电费保护承诺，承诺自建AI数据中心供电设施。",
-      "tags": [
-        "AI政策",
-        "基础设施"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "published_at": "2026-03-27T18:35:53Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e6b17f61",
-      "lang": "zh",
-      "title_zh": "钉钉CLI开源！首批开放10项核心产品能力，原生支持Claude Code等",
-      "summary_zh": "量子位：钉钉 CLI 开源项目正式上架 GitHub，采用 Apache-2.0 协议，首批开放 AI 表格、日历、机器人等 10 项核心产品能力，原生支持 Claude Code、Cursor 等主流 AI 编程与 Agent 执行环境。这是国内首个面向 AI Agent 开源全产品能力的国民级应用，开发者一行指令即可调用企业级功能。",
-      "tags": [
-        "开源",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392828.html",
-      "published_at": "2026-03-27T16:00:00Z",
-      "collected_at": "2026-03-29T00:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2029e402",
-      "lang": "en",
-      "title_en": "Judge sides with Anthropic to temporarily block the Pentagon's ban",
-      "title_zh": "法院支持Anthropic，暂时阻止五角大楼禁令",
-      "summary_en": "The Verge: A federal judge granted Anthropic a temporary injunction blocking the Pentagon's supply-chain-based ban on its AI products. The ruling marks a significant early legal win for Anthropic against the Defense Department's exclusion order, with the case set to continue.",
-      "summary_zh": "The Verge：联邦法官裁定支持Anthropic申请，暂时阻止五角大楼以供应链安全为由对Anthropic产品实施的禁令，这是Anthropic对抗国防部排除令的重要法律胜利，案件将继续审理。",
-      "tags": [
-        "AI政策",
-        "监管"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
-      "published_at": "2026-03-27T00:33:44Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "a888f4a1",
-      "lang": "en",
-      "title_en": "David Sacks is no longer the White House AI and Crypto Czar",
-      "title_zh": "戴维·萨克斯卸任白宫AI与加密货币专员",
-      "summary_en": "The Verge: David Sacks has stepped down as the White House AI and Crypto Czar, transitioning to a special tech advisory council to make recommendations to the Trump administration. His departure marks a shift in the executive office's AI policy leadership.",
-      "summary_zh": "The Verge：戴维·萨克斯辞去白宫AI与加密货币专员职务，转入特别科技顾问委员会向特朗普政府提供建议，其离任标志着白宫AI政策领导层的重要变动。",
-      "tags": [
-        "AI政策",
-        "监管"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
-      "published_at": "2026-03-26T23:40:22Z",
-      "collected_at": "2026-03-28T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "a91303fa",
-      "lang": "en",
-      "title_en": "Google is making it easier to import another AI's memory into Gemini",
-      "title_zh": "谷歌新增功能：可将其他AI记忆导入Gemini",
-      "summary_en": "The Verge: Google is introducing a feature that lets users import chat history and memory from competing AI assistants directly into Gemini. The capability lowers switching costs for users moving from ChatGPT or other services, as Gemini can then use that context going forward.",
-      "summary_zh": "The Verge：谷歌为Gemini新增从ChatGPT等竞品AI助手导入聊天记录和记忆的功能，大幅降低用户迁移成本，Gemini可直接利用导入的上下文提供连续性服务。",
-      "tags": [
-        "产品发布",
-        "AI助手"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-      "published_at": "2026-03-26T21:44:37Z",
-      "collected_at": "2026-03-28T03:00:00Z",
       "importance": 3,
       "merged_sources": []
     }

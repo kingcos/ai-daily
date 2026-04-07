@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-07",
+  "generated_at": "2026-04-07T00:08:00Z",
+  "items": [
+    {
+      "lang": "en",
+      "title_en": "The Back Story Behind the First '$1.8B' AI Company",
+      "title_zh": "首家\"18亿美元\"AI公司背后的真实故事",
+      "summary_en": "Hacker News: AI critic Gary Marcus investigates the origins behind what was marketed as the first $1.8 billion AI company. The piece examines AI hype cycles, valuation inflation, and the gap between marketing narratives and technological reality in the AI industry.",
+      "summary_zh": "Hacker News：AI批评家加里·马库斯深挖首家自称估值18亿美元的AI公司背后的故事，回顾AI炒作周期历史，探讨估值泡沫以及AI行业营销叙事与技术现实之间的落差。",
+      "tags": [
+        "行业动态",
+        "观点",
+        "AI治理"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+      "published_at": "2026-04-06T23:16:27Z",
+      "importance": 3,
+      "id": "1f5b7e7f",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Bernie Sanders: AI Is a Threat to Everything the American People Hold Dear",
+      "title_zh": "伯尼·桑德斯：AI威胁到美国人民珍视的一切",
+      "summary_en": "Hacker News: Senator Bernie Sanders published a Wall Street Journal op-ed arguing that unchecked AI poses an existential threat to jobs, democracy, and social welfare. Sanders calls for aggressive AI regulation including worker protections, democratic oversight of AI deployment, and redistribution of AI-generated wealth.",
+      "summary_zh": "Hacker News：参议员伯尼·桑德斯在《华尔街日报》发表社论，警告不受约束的AI对就业、民主和社会福利构成根本性威胁，呼吁推行强力AI监管，包括工人保护、民主化AI部署监督及AI收益再分配。",
+      "tags": [
+        "AI治理",
+        "政策监管",
+        "行业动态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear",
+      "published_at": "2026-04-06T21:57:54Z",
+      "importance": 3,
+      "id": "670ac2ad",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Anthropic Expands Partnership with Google and Broadcom for Multi-Gigawatt Compute",
+      "title_zh": "Anthropic与谷歌、博通扩大合作，建设多吉瓦算力基础设施",
+      "summary_en": "Anthropic: Anthropic announced an expanded partnership with Google and Broadcom to develop multiple gigawatts of AI compute infrastructure. The deal aims to significantly scale the compute capacity available for training and deploying frontier AI models, reinforcing Anthropic's long-term investment in advanced AI research and product development.",
+      "summary_zh": "Anthropic：Anthropic宣布与谷歌和博通扩大合作，共同建设多吉瓦级AI算力基础设施。此次合作旨在大幅扩展用于训练和部署前沿AI模型的算力规模，进一步巩固Anthropic在尖端AI研究和产品开发方面的长期投入。",
+      "tags": [
+        "基础设施",
+        "合作伙伴",
+        "算力"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "published_at": "2026-04-06T21:52:08Z",
+      "importance": 5,
+      "id": "8589c87e",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Show HN: Hippo – Biologically Inspired Memory for AI Agents",
+      "title_zh": "Hippo：仿生物海马体记忆架构的AI智能体记忆系统",
+      "summary_en": "Hacker News: An open-source project introducing Hippo, a biologically inspired memory system for AI agents. Drawing on hippocampal memory models from neuroscience, the library provides agents with structured short-term and long-term memory, improving recall and contextual reasoning in extended interactions.",
+      "summary_zh": "Hacker News：开源项目Hippo推出面向AI智能体的仿生记忆系统，借鉴神经科学海马体模型，为智能体提供结构化短期与长期记忆能力，提升长对话中的回忆准确性和上下文推理效果。",
+      "tags": [
+        "智能体",
+        "开源",
+        "研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/kitfunso/hippo-memory",
+      "published_at": "2026-04-06T21:49:34Z",
+      "importance": 3,
+      "id": "ad37c82b",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Show HN: Meta-agent – Self-Improving Agent Harnesses from Live Traces",
+      "title_zh": "Meta-agent：从实时轨迹中自我进化的智能体框架",
+      "summary_en": "Hacker News: An open-source meta-agent framework that automatically improves agent behaviors by learning from live execution traces. The system analyzes real interaction logs to refine agent decision-making, offering a practical approach to continuous improvement without manual prompt engineering.",
+      "summary_zh": "Hacker News：一个开源元智能体框架，通过分析实时执行轨迹自动改善智能体行为，系统从真实交互日志学习以持续优化决策流程，无需手动提示工程即可实现自我进化。",
+      "tags": [
+        "智能体",
+        "开源",
+        "AI编程"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/canvas-org/meta-agent",
+      "published_at": "2026-04-06T19:22:06Z",
+      "importance": 3,
+      "id": "724dc49b",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "The Cult of Vibe Coding Is Dogfooding Run Amok",
+      "title_zh": "\"氛围编程\"崇拜：失控的自我验证循环",
+      "summary_en": "Hacker News: A critical essay arguing that 'vibe coding' — AI-assisted coding driven by feel rather than engineering discipline — has become a cult-like movement. Over-reliance on LLMs for coding encourages sloppy practices and creates technical debt, especially when the tools themselves are built this way.",
+      "summary_zh": "Hacker News：一篇批评性文章指出\"氛围编程\"（以感觉驱动的AI辅助编程）已演变为狂热运动，过度依赖LLM编程会催生随意开发习惯并积累技术债，尤其当开发工具本身也用此方式构建时问题更甚。",
+      "tags": [
+        "AI编程",
+        "行业动态",
+        "观点"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+      "published_at": "2026-04-06T18:31:03Z",
+      "importance": 3,
+      "id": "9cf9b311",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Iran Threatens OpenAI's Stargate Data Center in Abu Dhabi",
+      "title_zh": "伊朗威胁OpenAI在阿布扎比的Stargate数据中心",
+      "summary_en": "The Verge: Iran has issued threats targeting OpenAI's Stargate data center under construction in Abu Dhabi, UAE. The threats highlight geopolitical risks surrounding major AI infrastructure investments in the Middle East, raising security concerns for OpenAI's ambitious billion-dollar compute expansion.",
+      "summary_zh": "The Verge：伊朗对OpenAI在阿联酋阿布扎比在建的Stargate数据中心发出威胁，凸显中东地区大型AI基础设施投资面临的地缘政治风险，引发外界对OpenAI数十亿美元算力扩张计划的安全担忧。",
+      "tags": [
+        "地缘政治",
+        "基础设施",
+        "OpenAI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "published_at": "2026-04-06T15:54:19Z",
+      "importance": 4,
+      "id": "7501dfe2",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Cisco CEO Chuck Robbins Wants Data Centers in Space",
+      "title_zh": "思科CEO罗宾斯：未来数据中心将建在太空",
+      "summary_en": "The Verge: Cisco CEO Chuck Robbins shared his vision for placing data centers in space to meet the exploding power demands of AI. Robbins discussed energy challenges facing AI infrastructure and Cisco's positioning in the evolving AI networking landscape.",
+      "summary_zh": "The Verge：思科CEO查克·罗宾斯在采访中提出将数据中心建设在太空的构想，以应对AI爆炸式增长带来的能源需求挑战，并探讨思科在AI网络领域的战略布局。",
+      "tags": [
+        "基础设施",
+        "算力",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
+      "published_at": "2026-04-06T15:15:00Z",
+      "importance": 3,
+      "id": "707d19ee",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    }
+  ]
+}

@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,149 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 2,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "22bfdeb3",
+      "lang": "en",
+      "title_en": "Suno is a music copyright nightmare",
+      "title_zh": "Suno版权问题调查：AI仿冒乐曲泛滥",
+      "summary_en": "Suno: An investigation found Suno's copyright filters are easily bypassed, enabling users to generate AI imitations of songs including works by Beyonce, Black Sabbath, and Aqua using free software. AI detectors flagged the outputs as likely AI-generated. Suno's policy prohibits copyrighted material, but enforcement appears ineffective, raising concerns about streaming platforms being flooded with AI cover slop.",
+      "summary_zh": "Suno：调查发现Suno平台版权过滤器极易绕过，用户可利用免费软件生成碧昂斯、黑色安息日等歌手作品的AI仿冒版本，AI检测工具均将其标记为疑似AI生成。Suno声称禁止使用受版权保护素材，但实际执行效果存疑，外界担忧流媒体平台将被AI仿冒音乐大量侵占。",
+      "tags": [
+        "政策监管",
+        "多模态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "published_at": "2026-04-05T16:00:00Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7be922b9",
+      "lang": "en",
+      "title_en": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "title_zh": "Gemini 接管 Google Maps 行程规划：出人意料地好用",
+      "summary_en": "The Verge: Google's Gemini AI, integrated into Google Maps, was tested for full-day itinerary planning. The hands-on found it capable of building coherent travel plans with restaurant picks, transit suggestions, and timing — outperforming earlier AI map assistants in practical usability.",
+      "summary_zh": "The Verge：测试者将 Google Maps 中的 Gemini AI 用于全天行程规划，发现其能自动整合餐厅推荐、交通建议和时间安排，实用性超出预期，表现优于以往的 AI 地图助手。",
+      "tags": [
+        "AI应用",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "published_at": "2026-04-05T14:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9c73d434",
+      "lang": "en",
+      "title_en": "Eight years of wanting, three months of building with AI",
+      "title_zh": "渴望了八年，借助 AI 三个月造出来了",
+      "summary_en": "Hacker News: A developer who spent eight years wishing for better SQLite developer tooling used AI to build SyntaQLite in just three months. The post explores how AI coding assistants dramatically compressed the time from idea to shipping product for solo developers.",
+      "summary_zh": "Hacker News：一位开发者等待了八年，希望有更好的 SQLite 开发工具，最终借助 AI 在三个月内完成了 SyntaQLite。文章探讨了 AI 编码助手如何大幅压缩独立开发者从想法到上线的时间。",
+      "tags": [
+        "AI应用",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "published_at": "2026-04-05T12:43:47Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9571bb9e",
+      "lang": "en",
+      "title_en": "Grammarly's sloppelganger saga",
+      "title_zh": "Grammarly 的 AI 审稿困境",
+      "summary_en": "The Verge: An expert reviewer recounts a lengthy saga with Grammarly, whose AI suggestions increasingly homogenized their writing style — raising questions about how AI grammar and writing tools reshape individual voice and the broader implications for authentic expression.",
+      "summary_zh": "The Verge：一位专业审稿人讲述了与 Grammarly 的漫长纠葛——AI 建议不断同质化其写作风格，引发了对 AI 写作工具如何重塑个人表达以及真实性的深层思考。",
+      "tags": [
+        "AI应用",
+        "政策监管"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "published_at": "2026-04-05T12:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2d5b2299",
+      "lang": "en",
+      "title_en": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "title_zh": "日本机器人不抢工作，专填无人愿做的岗位",
+      "summary_en": "TechCrunch: Driven by severe labor shortages, Japan is moving physical AI and robotics from pilot projects into real-world deployment at scale — focusing on physically demanding or undesirable jobs in logistics, agriculture, and care sectors rather than displacing white-collar workers.",
+      "summary_zh": "TechCrunch：面对严峻的劳动力短缺，日本正将物理 AI 与机器人技术从试点推向大规模落地，重点填补物流、农业和护理等行业中无人愿做的体力岗位，而非取代脑力工作者。",
+      "tags": [
+        "AI应用",
+        "机器人"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "published_at": "2026-04-05T10:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f3b7e290",
+      "lang": "zh",
+      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "summary_zh": "太初元碁：在公司成立五周年大会上，太初元碁宣布向20名员工发放总价值约100万元的百亿算力token（均来自国产智算中心），鼓励员工开展AI Agent创新。同时，太初元碁与浙江工商大学、国家超级计算无锡中心、浙江力积存储科技共建人工智能科教融合学院，为该学院提供智能算力底座，推动「产-学-研」深度融合的AI人才培养。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396533.html",
+      "published_at": "2026-04-05T08:53:12Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "5ef1c864",
+      "lang": "zh",
+      "title_zh": "OpenAI新模型不是GPTX！全新预训练「土豆」曝光，Sora成弃子的原因找到了",
+      "summary_zh": "量子位：据报道，OpenAI 正在训练一款代号为「土豆」的全新预训练基础模型，定位并非 GPT-X 系列延续，同时有消息称 Sora 团队遭遇内部资源重组，可能是其发展滞后的主因。",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396535.html",
+      "published_at": "2026-04-05T08:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "3d90023f",
+      "lang": "zh",
+      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "summary_zh": "量子位：国内 AI 公司太初元碁宣布向全体员工发放价值百亿的算力 token，并计划与高校共建 AI 科教融合学院，推动产学研深度合作，加速 AI 人才培养与应用落地。",
+      "tags": [
+        "AI应用",
+        "产业动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396533.html",
+      "published_at": "2026-04-05T06:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "3d8ec146",
       "lang": "en",
@@ -245,143 +384,6 @@
       "published_at": "2026-04-04T21:16:33Z",
       "collected_at": "2026-04-05T00:00:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "16a592df",
-      "lang": "en",
-      "title_en": "A folk musician became a target for AI fakes and a copyright troll",
-      "title_zh": "一位民谣音乐人成为AI造假和版权流氓的双重受害者",
-      "summary_en": "The Verge: Murphy Campbell, a folk musician, found herself targeted both by AI-generated fake content mimicking her work and a copyright troll exploiting the situation. The case highlights the compounding legal and reputational risks that independent artists face in the generative AI era.",
-      "summary_zh": "The Verge：民谣音乐人 Murphy Campbell 遭遇双重困境——AI 生成的仿冒内容泛滥，同时版权流氓趁机发起诉讼。此案凸显了生成式 AI 时代独立艺术家面临的法律与声誉叠加风险。",
-      "tags": [
-        "政策监管",
-        "多模态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-      "published_at": "2026-04-04T17:52:00Z",
-      "collected_at": "2026-04-05T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9c43866c",
-      "lang": "en",
-      "title_en": "Really, you made this without AI? Prove it",
-      "title_zh": "证明你的作品不是AI生成的",
-      "summary_en": "The Verge: As generative AI increasingly mimics human creative output, The Verge explores the growing movement to label human-made content. With platforms like Instagram and existing C2PA standards failing to adequately distinguish AI from human work, advocates argue it may be more practical to certify and fingerprint human-made content rather than flag AI output. Multiple authentication solutions have emerged but face adoption challenges.",
-      "summary_zh": "The Verge：随着生成式AI越来越能模仿人类创作，The Verge 探讨了为人类作品贴标签的新兴运动。Instagram 负责人建议为真实媒体加指纹而非标记AI内容，现有C2PA标准效果有限。多种人类创作认证方案已涌现，但面临推广挑战。",
-      "tags": [
-        "多模态",
-        "政策监管"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-      "published_at": "2026-04-04T13:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "602de05a",
-      "lang": "en",
-      "title_en": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
-      "title_zh": "AI神童辍学创业，投资人买单",
-      "summary_en": "[title-only] WSJ: Young AI entrepreneurs are dropping out of college and attracting venture capital funding to pursue AI startups, reflecting intense investor interest in early-stage AI talent.",
-      "summary_zh": "WSJ：AI领域年轻创业者纷纷辍学，吸引风险投资支持其AI创业公司，反映出投资者对早期AI人才的强烈兴趣。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
-      "published_at": "2026-04-04T10:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "59e024b0",
-      "lang": "zh",
-      "title_zh": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
-      "summary_zh": "阿里巴巴：发布仅1天的Qwen3.6-Plus在全球大模型API聚合平台OpenRouter的日榜登顶榜首，日调用量突破1.4万亿Token，打破该平台单日单模型调用量全球纪录，较上线当晚激增711%。Qwen3.6-Plus在国际大模型竞技场Arena编程能力子榜排名中国第一，使阿里成为编程能力全球排名第二的AI机构。",
-      "tags": [
-        "产品发布",
-        "评测基准",
-        "编程"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/396346.html",
-      "published_at": "2026-04-04T06:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "fcbeccba",
-      "lang": "zh",
-      "title_zh": "Django创始人：30岁程序员受AI冲击最大",
-      "summary_zh": "量子位：Django联合创始人Simon Willison表示，自2025年11月起AI写代码能力跨越临界点，高质量代码产出量提升30至40倍，单日原型从1至2天变为3小时出3套方案。他警告30岁程序员受冲击最大，因为刚积累的熟练度被AI直接替代，而资深工程师的20年架构经验反被AI放大。美国律师行业因AI幻觉搞砸案子的记录已累计1228起。",
-      "tags": [
-        "Agent",
-        "编程"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395995.html",
-      "published_at": "2026-04-04T04:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "47528d42",
-      "lang": "zh",
-      "title_zh": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
-      "summary_zh": "量子位：一群19岁左右的常青藤辍学中国年轻人推出AI记忆框架M-FLOW，突破传统RAG仅做语义相似匹配的局限。M-FLOW采用图结构从细粒度Entity到完整Episode的锥形搜索机制，在多轮对话、长期记忆、多跳推理三大场景下性能显著优于Mem0、Graphiti、Cognee等主流方案，覆盖29项能力维度大多实现完整支持。",
-      "tags": [
-        "RAG",
-        "Agent",
-        "研究论文"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/396069.html",
-      "published_at": "2026-04-04T02:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "76f515f7",
-      "lang": "en",
-      "title_en": "Anthropic Is Having a Moment in the Private Markets; SpaceX Could Spoil the Party",
-      "title_zh": "Anthropic 在私募二级市场走俏，SpaceX IPO 或分流资金",
-      "summary_en": "TechCrunch: Rainmaker Securities president Glen Anderson says the secondary market for private shares has never been more active, with Anthropic emerging as the hottest trade. OpenAI has been losing secondary market momentum, and SpaceX's anticipated IPO could divert institutional appetite away from private AI company shares.",
-      "summary_zh": "TechCrunch：Rainmaker Securities 总裁 Glen Anderson 表示，私募股权二级市场从未如此活跃，Anthropic 已成为最热门交易标的，OpenAI 热度有所下滑。SpaceX 即将到来的 IPO 可能分流机构投资者对 AI 私募股权的兴趣。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "published_at": "2026-04-04T01:31:00Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f3b5bab7",
-      "lang": "en",
-      "title_en": "OpenAI Cap Table Leak Reveals Microsoft's 18x Return, SoftBank's $50B Gain, and a CEO Who Owns Nothing",
-      "title_zh": "OpenAI 股权表泄露：微软回报18倍，奥特曼持股为零",
-      "summary_en": "Forbes: A leaked OpenAI cap table reveals that Microsoft stands to earn approximately 18 times its investment return, while SoftBank has seen a $50 billion paper gain. The table also shows that CEO Sam Altman currently holds no equity stake in the company, a notable detail given ongoing discussions about his compensation.",
-      "summary_zh": "Forbes：泄露的 OpenAI 股权表显示，微软的投资回报约为18倍，软银账面浮盈约500亿美元。股权表还揭示 CEO 山姆·奥特曼目前不持有公司任何股权，在外界广泛讨论其薪酬方案的背景下尤为引人注目。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.forbes.com/sites/josipamajic/2026/04/02/openai-cap-table-leak-reveals-microsofts-18x-return-softbanks-50b-gain-and-a-ceo-who-owns-nothing/",
-      "published_at": "2026-04-04T00:34:49Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]

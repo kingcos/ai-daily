@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-06",
-  "updated_at": "2026-04-06T15:08:00Z",
+  "latest_date": "2026-04-07",
+  "updated_at": "2026-04-07T00:08:00Z",
   "dates": [
+    "2026-04-07",
     "2026-04-06",
     "2026-04-05",
     "2026-04-04",
@@ -35,11 +36,155 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 460,
+  "total_items": 466,
   "page": 9,
   "page_size": 20,
-  "total_pages": 23,
+  "total_pages": 24,
   "items": [
+    {
+      "id": "2ef279ef",
+      "lang": "en",
+      "title_en": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "title_zh": "Claude Code 源代码因 NPM 注册表中的 map 文件泄露",
+      "summary_en": "Community: A security researcher discovered that Claude Code's minified source code was inadvertently exposed via source map files published to the NPM registry. The leak revealed internal implementation details of Anthropic's coding agent, raising questions about supply chain security practices.",
+      "summary_zh": "社区：一名安全研究人员发现，Claude Code 的压缩源代码通过发布到 NPM 注册表的 source map 文件意外泄露。此次泄露暴露了 Anthropic 编码智能体的内部实现细节，引发对软件供应链安全实践的质疑。",
+      "tags": [
+        "安全与对齐",
+        "开发者"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "published_at": "2026-03-31T07:00:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "a71799ac",
+      "lang": "en",
+      "title_en": "Emerging Litigation Risks in Financing AI Data Centers Boom",
+      "title_zh": "AI 数据中心融资热潮中的新兴诉讼风险",
+      "summary_en": "Quinn Emanuel: Law firm Quinn Emanuel publishes a client alert outlining emerging litigation risks associated with the AI data center financing boom. Topics covered include contract disputes, regulatory exposure, environmental challenges, and lender liability in infrastructure deals. Relevant for investors and developers in the AI infrastructure space.",
+      "summary_zh": "Quinn Emanuel：律师事务所 Quinn Emanuel 发布客户提示，梳理 AI 数据中心融资热潮中的新兴诉讼风险，涵盖合同纠纷、监管敞口、环境挑战及基础设施交易中的出借方责任，对 AI 基础设施投资者和开发商具有参考价值。",
+      "tags": [
+        "分析",
+        "基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.quinnemanuel.com/the-firm/publications/client-alert-emerging-litigation-",
+      "published_at": "2026-03-31T06:30:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "0ee915ff",
+      "lang": "zh",
+      "title_en": "10 days old startup valued at over $1B — Embodied AI investment heats up in China",
+      "title_zh": "公司注册仅 10 天估值逾 10 亿美元！理想智驾大牛带热具身创投新热度",
+      "summary_en": "量子位: A robotics startup founded by a top autonomous driving engineer from Li Auto (LIXIANG) reached a valuation exceeding $1 billion just 10 days after incorporation, reflecting a frenzied wave of investor interest in embodied AI in China. The development signals that embodied robotics is entering a hyper-competitive funding cycle.",
+      "summary_zh": "量子位：一家由理想汽车智驾核心工程师创立的机器人公司，注册仅 10 天便获得逾 10 亿美元估值，折射出国内具身 AI 投资热潮持续升温。这一事件标志着具身机器人领域正式进入资本疯狂涌入的新周期。",
+      "tags": [
+        "具身AI",
+        "机器人",
+        "创业投资",
+        "中国AI"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394149.html",
+      "published_at": "2026-03-31T06:00:00Z",
+      "collected_at": "2026-04-01T00:14:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "881b4547",
+      "lang": "zh",
+      "title_zh": "黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国",
+      "summary_zh": "量子位：HuggingFace推出的低成本开源机器人因获得英伟达CEO黄仁勋公开背书而引爆市场，其背后核心硬件供应商来自中国深圳。该机器人凭借开源生态和低价策略正在成为开发者构建具身智能应用的首选平台。",
+      "tags": [
+        "机器人",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393483.html",
+      "published_at": "2026-03-31T05:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "ae4c1a78",
+      "lang": "zh",
+      "title_en": "Zhipu AI post-IPO earnings: Revenue tops ¥724M, leading domestic LLM firms via MaaS",
+      "title_zh": "智谱上市后首份财报：营收超 7.24 亿元，MaaS 业务发力成国内收入最高大模型公司",
+      "summary_en": "量子位: Zhipu AI released its first earnings report after going public, reporting revenue exceeding ¥724 million, making it the highest-revenue domestic large model company in China. Growth was driven by its MaaS (Model-as-a-Service) business, signaling strong enterprise adoption of domestic foundation models.",
+      "summary_zh": "量子位：智谱 AI 发布上市后首份财报，营收超 7.24 亿元，成为国内收入最高的大模型公司。增长主要由 MaaS（模型即服务）业务驱动，标志着国产基础模型在企业端的商业化已进入快速爬坡阶段。",
+      "tags": [
+        "智谱AI",
+        "大模型",
+        "MaaS",
+        "中国AI",
+        "财报"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394135.html",
+      "published_at": "2026-03-31T04:00:00Z",
+      "collected_at": "2026-04-01T00:14:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "9089e3da",
+      "lang": "zh",
+      "title_zh": "实测Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码",
+      "summary_zh": "量子位：量子位实测阿里最新发布的Qwen3.5-Omni多模态模型，该模型在215项基准测试中达到SOTA。测试表明其实时视觉理解能力出色，可通过摄像头即时解析论文内容、辅助编程，多模态交互体验接近GPT-4o水平。",
+      "tags": [
+        "产品发布",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393941.html",
+      "published_at": "2026-03-31T04:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "62c2309d",
+      "lang": "zh",
+      "title_zh": "2700GB高质量数据，训出空间智能SOTA，背后秘诀全栈开源",
+      "summary_zh": "量子位：研究团队基于2700GB高质量3D空间数据训练出空间智能模型，在多项空间理解基准上达到SOTA。团队全栈开源数据集、训练代码及模型权重，为具身智能和机器人领域研究提供重要基础设施。",
+      "tags": [
+        "开源",
+        "研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393864.html",
+      "published_at": "2026-03-31T03:30:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e16fea01",
+      "lang": "en",
+      "title_en": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+      "title_zh": "负责任地披露量子漏洞以保护加密货币安全",
+      "summary_en": "Google Research: Google Research has published a responsible disclosure of quantum computing vulnerabilities in elliptic curve cryptography used by major cryptocurrencies. The post outlines the timeline and methodology for coordinating with affected parties before publication, setting a precedent for how quantum threats to financial infrastructure should be handled.",
+      "summary_zh": "Google Research：谷歌研究院就主流加密货币所用椭圆曲线密码学中的量子漏洞进行了负责任披露，阐述了在发布前与相关方协调的时间线与方法论，为量子威胁金融基础设施的处理方式树立了先例。",
+      "tags": [
+        "量子计算",
+        "安全",
+        "加密货币"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+      "published_at": "2026-03-31T03:28:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "a1bd9fce",
       "lang": "zh",
@@ -250,144 +395,6 @@
       "published_at": "2026-03-31T00:00:00Z",
       "collected_at": "2026-03-31T15:15:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "71d7e1d3",
-      "lang": "zh",
-      "title_zh": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
-      "summary_zh": "量子位：智谱 AI 发布上市后首份财报，营收超 7.24 亿元，成为国内收入最高的大模型公司。财报显示 MaaS（模型即服务）业务快速增长，标志着国内大模型商业化进入新阶段。",
-      "tags": [
-        "产业动态",
-        "大模型",
-        "商业化"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/394135.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "67557a7d",
-      "lang": "zh",
-      "title_zh": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
-      "summary_zh": "量子位：字节跳动旗下 AI 编程工具 TRAE SOLO 正式推出独立 PC 端和 Web 端，功能从代码编写延伸至跨领域任务执行，展现出超越传统 IDE 的智能体能力，进一步与 Cursor 等产品展开竞争。",
-      "tags": [
-        "AI编码",
-        "产品发布",
-        "AI智能体"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/394014.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2f297545",
-      "lang": "zh",
-      "title_zh": "ClawTip来了！京东科技首发推出AI智能体的专属自主零钱包",
-      "summary_zh": "量子位：京东科技发布 ClawTip，定位为 AI 智能体专属的自主支付钱包，支持智能体在无人工干预下自主完成小额支付。这是国内首款面向 AI Agent 的原生支付产品，标志着智能体经济基础设施建设提速。",
-      "tags": [
-        "AI智能体",
-        "金融科技",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/394011.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "1beb075c",
-      "lang": "zh",
-      "title_zh": "玻色量子完成10亿元B轮融资，十五五规划量子计算机赛道唯一代表",
-      "summary_zh": "量子位：量子计算公司玻色量子完成 10 亿元 B 轮融资，成为十五五规划专用量子计算机赛道的唯一入选企业。本轮融资将用于加速量子计算硬件研发与商业化落地，标志着国内量子计算赛道进入重资本投入阶段。",
-      "tags": [
-        "量子计算",
-        "融资",
-        "产业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393856.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "df4c40d4",
-      "lang": "en",
-      "title_en": "Qodo raises $70M for code verification as AI coding scales",
-      "title_zh": "Qodo融资7000万美元，专注AI代码验证",
-      "summary_en": "Qodo: New York-based AI code review and verification startup Qodo raised a $70 million Series B led by Qumra Capital, bringing total funding to $120 million. Investors include Maor Ventures, Phoenix Venture Partners, Peter Welinder (OpenAI), and Clara Shih (Meta). Qodo builds AI agents for code review, testing, and governance, positioning itself as a verification layer for AI-generated code.",
-      "summary_zh": "Qodo：纽约AI代码审查与验证初创公司Qodo完成7000万美元B轮融资，由Qumra Capital领投，累计融资额达1.2亿美元，投资方包括OpenAI的Peter Welinder和Meta的Clara Shih。公司专注于构建AI代码审查、测试与治理智能体，定位为AI生成代码的验证层。",
-      "tags": [
-        "融资",
-        "编程"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-      "published_at": "2026-03-30T14:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "d46dcd19",
-      "lang": "en",
-      "title_en": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "title_zh": "AI芯片公司Rebellions完成4亿美元Pre-IPO融资，估值23亿美元",
-      "summary_en": "Rebellions: South Korean fabless AI chip startup Rebellions raised $400 million in a pre-IPO round led by Mirae Asset Financial Group and the Korea National Growth Fund, valuing the company at $2.3 billion. The round follows a Series C completed in November and accompanies aggressive global expansion plans, with an IPO planned for later in 2026.",
-      "summary_zh": "Rebellions：韩国无晶圆AI芯片公司Rebellions完成4亿美元Pre-IPO融资，由未来资产金融集团和韩国国家成长基金领投，估值达23亿美元。此轮融资紧随11月完成的C轮之后，伴随公司积极推进全球扩张计划，公司计划于2026年晚些时候上市。",
-      "tags": [
-        "融资",
-        "硬件"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-      "published_at": "2026-03-30T13:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "8f5b6220",
-      "lang": "en",
-      "title_en": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "title_zh": "Mistral AI融资8.3亿美元，在巴黎附近建设数据中心",
-      "summary_en": "Mistral AI: French AI lab Mistral AI raised $830 million in debt financing to build a new Nvidia-powered data center in Bruyeres-le-Chatel near Paris, with plans to make it operational in Q2 2026. The company previously announced a $1.4 billion investment in Sweden for AI infrastructure, aiming to deploy 200 megawatts of compute capacity across European operations.",
-      "summary_zh": "Mistral AI：法国AI公司Mistral AI通过债务融资筹集8.3亿美元，用于在巴黎郊区Bruyeres-le-Chatel建设以英伟达芯片为核心的新数据中心，计划于2026年第二季度投入运营。公司此前已宣布在瑞典投资14亿美元建设AI基础设施，目标是在欧洲部署总计200兆瓦的算力。",
-      "tags": [
-        "融资",
-        "硬件"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-      "published_at": "2026-03-30T12:49:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "9bbb95e8",
-      "lang": "zh",
-      "title_zh": "Claude 90分钟挖穿Ghost CMS 20年安全漏洞",
-      "summary_zh": "Anthropic：研究员Nicholas Carlini测试发现，Claude在90分钟内精准定位GitHub拥有5万Star的Ghost CMS首个高危漏洞，并在无身份验证情况下窃取管理员API密钥；同时Claude在Linux内核安全漏洞挖掘上亦超越了人类专家水平。Carlini表示，六个月前大模型在此领域几乎是门外汉，如今最新模型已在漏洞挖掘方面超过人类专家。",
-      "tags": [
-        "安全对齐",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393186.html",
-      "published_at": "2026-03-30T06:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]
