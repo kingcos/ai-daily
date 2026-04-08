@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-07",
-  "updated_at": "2026-04-07T15:00:00Z",
+  "latest_date": "2026-04-08",
+  "updated_at": "2026-04-08T00:15:00Z",
   "dates": [
+    "2026-04-08",
     "2026-04-07",
     "2026-04-06",
     "2026-04-05",
@@ -36,11 +37,106 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 24,
+  "total_items": 489,
   "page": 2,
   "page_size": 20,
-  "total_pages": 2,
+  "total_pages": 25,
   "items": [
+    {
+      "lang": "en",
+      "title_en": "Show HN: Hippo – Biologically Inspired Memory for AI Agents",
+      "title_zh": "Hippo：仿生物海马体记忆架构的AI智能体记忆系统",
+      "summary_en": "Hacker News: An open-source project introducing Hippo, a biologically inspired memory system for AI agents. Drawing on hippocampal memory models from neuroscience, the library provides agents with structured short-term and long-term memory, improving recall and contextual reasoning in extended interactions.",
+      "summary_zh": "Hacker News：开源项目Hippo推出面向AI智能体的仿生记忆系统，借鉴神经科学海马体模型，为智能体提供结构化短期与长期记忆能力，提升长对话中的回忆准确性和上下文推理效果。",
+      "tags": [
+        "智能体",
+        "开源",
+        "研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/kitfunso/hippo-memory",
+      "published_at": "2026-04-06T21:49:34Z",
+      "importance": 3,
+      "id": "ad37c82b",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "Show HN: Meta-agent – Self-Improving Agent Harnesses from Live Traces",
+      "title_zh": "Meta-agent：从实时轨迹中自我进化的智能体框架",
+      "summary_en": "Hacker News: An open-source meta-agent framework that automatically improves agent behaviors by learning from live execution traces. The system analyzes real interaction logs to refine agent decision-making, offering a practical approach to continuous improvement without manual prompt engineering.",
+      "summary_zh": "Hacker News：一个开源元智能体框架，通过分析实时执行轨迹自动改善智能体行为，系统从真实交互日志学习以持续优化决策流程，无需手动提示工程即可实现自我进化。",
+      "tags": [
+        "智能体",
+        "开源",
+        "AI编程"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/canvas-org/meta-agent",
+      "published_at": "2026-04-06T19:22:06Z",
+      "importance": 3,
+      "id": "724dc49b",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "id": "e0330bad",
+      "lang": "en",
+      "title_en": "Agent Reading Test: A Benchmark for AI Coding Agent Web Content Parsing",
+      "title_zh": "Agent Reading Test：AI编程智能体网页读取能力基准",
+      "summary_en": "Hacker News: The Agent Reading Test is a new benchmark evaluating how well AI coding agents (Claude Code, Cursor, GitHub Copilot, and others) read and parse web content. The test consists of 10 tests worth 20 points, surfacing silent failure modes where content gets truncated or CSS buries key information. Each test page is designed around a specific documented problem, embedding canary tokens to detect whether agents successfully parsed the content.",
+      "summary_zh": "Hacker News：Agent Reading Test是一个新基准，用于评估AI编程智能体（Claude Code、Cursor、GitHub Copilot等）读取和解析网页内容的能力。基准包含10个测试共20分，揭示内容截断、CSS遮蔽等静默失败模式。每个测试页面针对特定已记录问题设计，通过嵌入Canary Token检测智能体是否成功解析内容。",
+      "tags": [
+        "评测基准",
+        "Agent",
+        "编程"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://agentreadingtest.com",
+      "published_at": "2026-04-06T18:56:57Z",
+      "collected_at": "2026-04-07T03:07:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "lang": "en",
+      "title_en": "The Cult of Vibe Coding Is Dogfooding Run Amok",
+      "title_zh": "\"氛围编程\"崇拜：失控的自我验证循环",
+      "summary_en": "Hacker News: A critical essay arguing that 'vibe coding' — AI-assisted coding driven by feel rather than engineering discipline — has become a cult-like movement. Over-reliance on LLMs for coding encourages sloppy practices and creates technical debt, especially when the tools themselves are built this way.",
+      "summary_zh": "Hacker News：一篇批评性文章指出\"氛围编程\"（以感觉驱动的AI辅助编程）已演变为狂热运动，过度依赖LLM编程会催生随意开发习惯并积累技术债，尤其当开发工具本身也用此方式构建时问题更甚。",
+      "tags": [
+        "AI编程",
+        "行业动态",
+        "观点"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+      "published_at": "2026-04-06T18:31:03Z",
+      "importance": 3,
+      "id": "9cf9b311",
+      "collected_at": "2026-04-07T00:08:00Z",
+      "merged_sources": []
+    },
+    {
+      "id": "c5c06a11",
+      "lang": "en",
+      "title_en": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "title_zh": "Freestyle：为AI编程智能体提供沙箱基础设施",
+      "summary_en": "Hacker News: Freestyle is a new platform providing unified infrastructure for AI-generated code, including Git, VMs, deployments, and execution environments. Designed for AI app builders and workflow engines, it offers sandboxed environments for coding agents to run safely. The launch targets the growing ecosystem of agentic coding workflows where AI-generated code needs isolated execution environments.",
+      "summary_zh": "Hacker News：Freestyle是面向AI生成代码的统一基础设施平台，提供Git、虚拟机、部署和执行环境管理。专为AI应用构建者和工作流引擎设计，为编程智能体提供沙箱运行环境，支持AI自动编写的代码在安全隔离环境中执行。",
+      "tags": [
+        "Agent",
+        "编程",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.freestyle.sh/",
+      "published_at": "2026-04-06T16:32:11Z",
+      "collected_at": "2026-04-07T03:07:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "lang": "en",
       "title_en": "Iran Threatens OpenAI's Stargate Data Center in Abu Dhabi",
@@ -114,6 +210,194 @@
       "published_at": "2026-04-06T00:00:00Z",
       "collected_at": "2026-04-07T03:07:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "4cf3b237",
+      "lang": "zh",
+      "title_zh": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+      "summary_zh": "量子位：OpenAI 在 IPO 前夕再度曝出内部矛盾，多名高层相继离职或职位调整。据报道，团队内部在战略方向与公司治理上存在分歧，此次动荡引发外界对其上市进程及组织稳定性的担忧。",
+      "tags": [
+        "公司动态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396704.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "4132b859",
+      "lang": "zh",
+      "title_zh": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR'26",
+      "summary_zh": "量子位：ICLR 2026 入选研究提出新方法，解决离线强化学习中策略优化局限于局部分布的问题，使智能体能够进行更全局性的策略规划。该方法在多个基准任务上显著提升了样本效率和泛化能力。",
+      "tags": [
+        "研究突破",
+        "强化学习"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396738.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7272db74",
+      "lang": "zh",
+      "title_zh": "AI创业，已经没有「出海」这个词了丨量子位沙龙",
+      "summary_zh": "量子位：量子位沙龙探讨 AI 创业新趋势。多位创业者指出，AI 时代的全球化创业已不再区分「国内」与「出海」，产品从立项起即面向全球市场，竞争与机会同步呈现国际化特征。",
+      "tags": [
+        "AI产业",
+        "创业"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396675.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d304f09b",
+      "lang": "zh",
+      "title_zh": "具身龙虾，上车理想",
+      "summary_zh": "量子位：具身智能创业公司与理想汽车展开合作，将机器人技术与智能汽车场景深度结合。报道介绍了该具身 AI 初创团队的技术路线及与理想汽车的战略合作背景。",
+      "tags": [
+        "具身智能",
+        "AI产业"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396517.html",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1f0eb934",
+      "lang": "en",
+      "title_en": "Show HN: I built a tiny LLM to demystify how language models work",
+      "title_zh": "我构建了一个微型 LLM，揭秘语言模型的工作原理",
+      "summary_en": "Hacker News: A developer shared GuppyLM, a minimal educational LLM implementation designed to help beginners understand the internals of large language models, including tokenization, attention mechanisms, and training loops. Published on GitHub.",
+      "summary_zh": "Hacker News：一名开发者分享了 GuppyLM，面向初学者的极简 LLM 实现项目，通过可读代码帮助理解分词、注意力机制和训练过程等语言模型核心概念。",
+      "tags": [
+        "开源",
+        "教育"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/arman-bd/guppylm",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "6ef24382",
+      "lang": "en",
+      "title_en": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "title_zh": "Gemma Gem：无需 API key 的浏览器端 Gemma 模型",
+      "summary_en": "Hacker News: A developer released Gemma Gem, an open-source project that embeds Google's Gemma model directly in the browser using WebAssembly or WebGPU. It runs entirely client-side with no cloud API keys or server required.",
+      "summary_zh": "Hacker News：开发者发布 Gemma Gem，利用 WebAssembly 或 WebGPU 将 Gemma 模型嵌入浏览器端本地运行，无需 API key 或云端服务。",
+      "tags": [
+        "开源",
+        "本地部署"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/kessler/gemma-gem",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "b72d7f14",
+      "lang": "en",
+      "title_en": "Does coding with LLMs mean more microservices?",
+      "title_zh": "LLM 辅助编程会催生更多微服务架构吗？",
+      "summary_en": "Hacker News: An essay exploring whether LLM-assisted coding is driving increased microservices adoption. The author argues that LLMs produce cleaner outputs when given small, isolated contexts, which may push developers toward microservice-style architectures.",
+      "summary_zh": "Hacker News：一篇探讨 LLM 辅助编程是否推动微服务增长的文章。作者认为 LLM 在小而独立的上下文中表现更好，这可能无意中引导开发者倾向微服务架构。",
+      "tags": [
+        "软件工程",
+        "AI工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ben.page/microservices",
+      "published_at": "2026-04-06T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "c6ea48d2",
+      "lang": "en",
+      "title_en": "Qwen-3.6-Plus is the first model to break 1T tokens processed in a day",
+      "title_zh": "千问3.6Plus日处理量破万亿token",
+      "summary_en": "Alibaba: Qwen-3.6-Plus has become the first AI model to surpass 1 trillion tokens processed in a single day, according to OpenRouter data. The milestone reflects strong adoption and infrastructure scaling for Alibaba's Qwen series.",
+      "summary_zh": "阿里巴巴：据OpenRouter数据，阿里千问3.6Plus成为全球首个单日处理量突破1万亿token的AI模型，登顶全球模型调用量榜首，标志着千问系列在规模化部署与用户采用方面取得重大进展。",
+      "tags": [
+        "产品发布",
+        "评测基准"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/openrouter/status/2040239467865489874",
+      "published_at": "2026-04-05T21:18:25Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "b5a8b20d",
+      "lang": "en",
+      "title_en": "Musician says AI company is cloning her music, filing claims against her",
+      "title_zh": "音乐人指控AI公司克隆其音乐并反向投诉",
+      "summary_en": "A musician publicly accused an AI company of cloning her music and filing copyright claims against her when she attempted to take action. The case highlights an emerging pattern where AI-generated imitations are uploaded to streaming platforms, then weaponized against the original creators through automated copyright systems.",
+      "summary_zh": "一位音乐人公开指控一家AI公司克隆其音乐，并在其尝试维权后遭反向版权投诉。该案揭示了AI生成仿制品被上传至流媒体平台、进而通过自动化版权系统打压原创艺术家的新型侵权模式。",
+      "tags": [
+        "政策监管",
+        "多模态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/unlimited_ls/status/2040577536136974444",
+      "published_at": "2026-04-05T20:19:11Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "cad56508",
+      "lang": "en",
+      "title_en": "AI Cuts MRI Scan Time from 23 to 9 Minutes at Amsterdam Cancer Center",
+      "title_zh": "AI将阿姆斯特丹癌症中心MRI扫描时间缩至9分钟",
+      "summary_en": "Antoni van Leeuwenhoek Hospital: AI software at the Antoni van Leeuwenhoek Hospital in Amsterdam has reduced MRI scan times from 23 minutes to 9 minutes. The software accelerates conversion of scan data into images using smart calculation. Shorter sessions improve image quality as patients can more easily remain still. The change has increased hospital capacity and reduced pressure on patients and medical staff.",
+      "summary_zh": "阿姆斯特丹安东尼·范·列文虎克医院：引入AI软件后，MRI扫描时间从23分钟缩短至9分钟。该软件通过智能计算加速扫描数据转图像，扫描时间缩短后患者更易保持静止，图像质量随之提升，医院容量得到提升，患者与医务人员压力均有所降低。",
+      "tags": [
+        "医疗",
+        "产品发布"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://nltimes.nl/2026/04/05/ai-cuts-mri-scan-time-23-9-minutes-amsterdam-cancer-center",
+      "published_at": "2026-04-05T19:20:18Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b281bdf7",
+      "lang": "en",
+      "title_en": "Copilot is 'for entertainment purposes only,' according to Microsoft's terms of use",
+      "title_zh": "微软Copilot条款标注「仅供娱乐」",
+      "summary_en": "Microsoft: Microsoft's Copilot terms of use, last updated October 24, 2025, state the product is \"for entertainment purposes only\" and should not be relied on for important advice. A spokesperson said the language is outdated and will be updated to reflect how Copilot is used today. The disclosure surfaces amid broader industry scrutiny of how AI companies characterize model reliability in legal documents.",
+      "summary_zh": "微软：Copilot服务条款（最后更新于2025年10月24日）标注该产品「仅供娱乐目的」，警告用户不应依赖其进行重要决策。微软发言人承认该措辞已过时，将予以更新。此事引发外界对AI公司如何在法律文件中描述模型可靠性的广泛关注。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "published_at": "2026-04-05T18:51:37Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]

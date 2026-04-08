@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-07",
-  "updated_at": "2026-04-07T00:08:00Z",
+  "latest_date": "2026-04-08",
+  "updated_at": "2026-04-08T00:15:00Z",
   "dates": [
+    "2026-04-08",
     "2026-04-07",
     "2026-04-06",
     "2026-04-05",
@@ -36,352 +37,365 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 466,
+  "total_items": 489,
   "page": 10,
   "page_size": 20,
-  "total_pages": 24,
+  "total_pages": 25,
   "items": [
     {
-      "id": "71d7e1d3",
-      "lang": "zh",
-      "title_zh": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
-      "summary_zh": "量子位：智谱 AI 发布上市后首份财报，营收超 7.24 亿元，成为国内收入最高的大模型公司。财报显示 MaaS（模型即服务）业务快速增长，标志着国内大模型商业化进入新阶段。",
+      "id": "19a5891a",
+      "lang": "en",
+      "title_en": "Mr. Chatterbox is a Victorian-era ethically trained model",
+      "title_zh": "Mr. Chatterbox：以维多利亚时代伦理训练的 AI 模型",
+      "summary_en": "Simon Willison: Simon Willison writes about Mr. Chatterbox, a language model fine-tuned on Victorian-era texts and ethical frameworks. The experiment explores how training data period and cultural context shape model behavior and responses, offering insights into the relationship between data curation and AI alignment.",
+      "summary_zh": "Simon Willison：Simon Willison 介绍了 Mr. Chatterbox——一个基于维多利亚时代文本和伦理框架微调的语言模型。该实验探索训练数据时代背景如何塑造模型行为，为理解数据筛选与 AI 对齐的关系提供了新视角。",
       "tags": [
-        "产业动态",
+        "研究",
+        "安全与对齐"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+      "published_at": "2026-03-31T07:30:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2ef279ef",
+      "lang": "en",
+      "title_en": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "title_zh": "Claude Code 源代码因 NPM 注册表中的 map 文件泄露",
+      "summary_en": "Community: A security researcher discovered that Claude Code's minified source code was inadvertently exposed via source map files published to the NPM registry. The leak revealed internal implementation details of Anthropic's coding agent, raising questions about supply chain security practices.",
+      "summary_zh": "社区：一名安全研究人员发现，Claude Code 的压缩源代码通过发布到 NPM 注册表的 source map 文件意外泄露。此次泄露暴露了 Anthropic 编码智能体的内部实现细节，引发对软件供应链安全实践的质疑。",
+      "tags": [
+        "安全与对齐",
+        "开发者"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "published_at": "2026-03-31T07:00:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "a71799ac",
+      "lang": "en",
+      "title_en": "Emerging Litigation Risks in Financing AI Data Centers Boom",
+      "title_zh": "AI 数据中心融资热潮中的新兴诉讼风险",
+      "summary_en": "Quinn Emanuel: Law firm Quinn Emanuel publishes a client alert outlining emerging litigation risks associated with the AI data center financing boom. Topics covered include contract disputes, regulatory exposure, environmental challenges, and lender liability in infrastructure deals. Relevant for investors and developers in the AI infrastructure space.",
+      "summary_zh": "Quinn Emanuel：律师事务所 Quinn Emanuel 发布客户提示，梳理 AI 数据中心融资热潮中的新兴诉讼风险，涵盖合同纠纷、监管敞口、环境挑战及基础设施交易中的出借方责任，对 AI 基础设施投资者和开发商具有参考价值。",
+      "tags": [
+        "分析",
+        "基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.quinnemanuel.com/the-firm/publications/client-alert-emerging-litigation-",
+      "published_at": "2026-03-31T06:30:00Z",
+      "collected_at": "2026-03-31T09:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "0ee915ff",
+      "lang": "zh",
+      "title_en": "10 days old startup valued at over $1B — Embodied AI investment heats up in China",
+      "title_zh": "公司注册仅 10 天估值逾 10 亿美元！理想智驾大牛带热具身创投新热度",
+      "summary_en": "量子位: A robotics startup founded by a top autonomous driving engineer from Li Auto (LIXIANG) reached a valuation exceeding $1 billion just 10 days after incorporation, reflecting a frenzied wave of investor interest in embodied AI in China. The development signals that embodied robotics is entering a hyper-competitive funding cycle.",
+      "summary_zh": "量子位：一家由理想汽车智驾核心工程师创立的机器人公司，注册仅 10 天便获得逾 10 亿美元估值，折射出国内具身 AI 投资热潮持续升温。这一事件标志着具身机器人领域正式进入资本疯狂涌入的新周期。",
+      "tags": [
+        "具身AI",
+        "机器人",
+        "创业投资",
+        "中国AI"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394149.html",
+      "published_at": "2026-03-31T06:00:00Z",
+      "collected_at": "2026-04-01T00:14:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "881b4547",
+      "lang": "zh",
+      "title_zh": "黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国",
+      "summary_zh": "量子位：HuggingFace推出的低成本开源机器人因获得英伟达CEO黄仁勋公开背书而引爆市场，其背后核心硬件供应商来自中国深圳。该机器人凭借开源生态和低价策略正在成为开发者构建具身智能应用的首选平台。",
+      "tags": [
+        "机器人",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393483.html",
+      "published_at": "2026-03-31T05:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "ae4c1a78",
+      "lang": "zh",
+      "title_en": "Zhipu AI post-IPO earnings: Revenue tops ¥724M, leading domestic LLM firms via MaaS",
+      "title_zh": "智谱上市后首份财报：营收超 7.24 亿元，MaaS 业务发力成国内收入最高大模型公司",
+      "summary_en": "量子位: Zhipu AI released its first earnings report after going public, reporting revenue exceeding ¥724 million, making it the highest-revenue domestic large model company in China. Growth was driven by its MaaS (Model-as-a-Service) business, signaling strong enterprise adoption of domestic foundation models.",
+      "summary_zh": "量子位：智谱 AI 发布上市后首份财报，营收超 7.24 亿元，成为国内收入最高的大模型公司。增长主要由 MaaS（模型即服务）业务驱动，标志着国产基础模型在企业端的商业化已进入快速爬坡阶段。",
+      "tags": [
+        "智谱AI",
         "大模型",
-        "商业化"
+        "MaaS",
+        "中国AI",
+        "财报"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/394135.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
+      "published_at": "2026-03-31T04:00:00Z",
+      "collected_at": "2026-04-01T00:14:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "67557a7d",
+      "id": "9089e3da",
       "lang": "zh",
-      "title_zh": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
-      "summary_zh": "量子位：字节跳动旗下 AI 编程工具 TRAE SOLO 正式推出独立 PC 端和 Web 端，功能从代码编写延伸至跨领域任务执行，展现出超越传统 IDE 的智能体能力，进一步与 Cursor 等产品展开竞争。",
-      "tags": [
-        "AI编码",
-        "产品发布",
-        "AI智能体"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/394014.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2f297545",
-      "lang": "zh",
-      "title_zh": "ClawTip来了！京东科技首发推出AI智能体的专属自主零钱包",
-      "summary_zh": "量子位：京东科技发布 ClawTip，定位为 AI 智能体专属的自主支付钱包，支持智能体在无人工干预下自主完成小额支付。这是国内首款面向 AI Agent 的原生支付产品，标志着智能体经济基础设施建设提速。",
-      "tags": [
-        "AI智能体",
-        "金融科技",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/394011.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "1beb075c",
-      "lang": "zh",
-      "title_zh": "玻色量子完成10亿元B轮融资，十五五规划量子计算机赛道唯一代表",
-      "summary_zh": "量子位：量子计算公司玻色量子完成 10 亿元 B 轮融资，成为十五五规划专用量子计算机赛道的唯一入选企业。本轮融资将用于加速量子计算硬件研发与商业化落地，标志着国内量子计算赛道进入重资本投入阶段。",
-      "tags": [
-        "量子计算",
-        "融资",
-        "产业动态"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393856.html",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "df4c40d4",
-      "lang": "en",
-      "title_en": "Qodo raises $70M for code verification as AI coding scales",
-      "title_zh": "Qodo融资7000万美元，专注AI代码验证",
-      "summary_en": "Qodo: New York-based AI code review and verification startup Qodo raised a $70 million Series B led by Qumra Capital, bringing total funding to $120 million. Investors include Maor Ventures, Phoenix Venture Partners, Peter Welinder (OpenAI), and Clara Shih (Meta). Qodo builds AI agents for code review, testing, and governance, positioning itself as a verification layer for AI-generated code.",
-      "summary_zh": "Qodo：纽约AI代码审查与验证初创公司Qodo完成7000万美元B轮融资，由Qumra Capital领投，累计融资额达1.2亿美元，投资方包括OpenAI的Peter Welinder和Meta的Clara Shih。公司专注于构建AI代码审查、测试与治理智能体，定位为AI生成代码的验证层。",
-      "tags": [
-        "融资",
-        "编程"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-      "published_at": "2026-03-30T14:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "d46dcd19",
-      "lang": "en",
-      "title_en": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "title_zh": "AI芯片公司Rebellions完成4亿美元Pre-IPO融资，估值23亿美元",
-      "summary_en": "Rebellions: South Korean fabless AI chip startup Rebellions raised $400 million in a pre-IPO round led by Mirae Asset Financial Group and the Korea National Growth Fund, valuing the company at $2.3 billion. The round follows a Series C completed in November and accompanies aggressive global expansion plans, with an IPO planned for later in 2026.",
-      "summary_zh": "Rebellions：韩国无晶圆AI芯片公司Rebellions完成4亿美元Pre-IPO融资，由未来资产金融集团和韩国国家成长基金领投，估值达23亿美元。此轮融资紧随11月完成的C轮之后，伴随公司积极推进全球扩张计划，公司计划于2026年晚些时候上市。",
-      "tags": [
-        "融资",
-        "硬件"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-      "published_at": "2026-03-30T13:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "8f5b6220",
-      "lang": "en",
-      "title_en": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "title_zh": "Mistral AI融资8.3亿美元，在巴黎附近建设数据中心",
-      "summary_en": "Mistral AI: French AI lab Mistral AI raised $830 million in debt financing to build a new Nvidia-powered data center in Bruyeres-le-Chatel near Paris, with plans to make it operational in Q2 2026. The company previously announced a $1.4 billion investment in Sweden for AI infrastructure, aiming to deploy 200 megawatts of compute capacity across European operations.",
-      "summary_zh": "Mistral AI：法国AI公司Mistral AI通过债务融资筹集8.3亿美元，用于在巴黎郊区Bruyeres-le-Chatel建设以英伟达芯片为核心的新数据中心，计划于2026年第二季度投入运营。公司此前已宣布在瑞典投资14亿美元建设AI基础设施，目标是在欧洲部署总计200兆瓦的算力。",
-      "tags": [
-        "融资",
-        "硬件"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-      "published_at": "2026-03-30T12:49:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "9bbb95e8",
-      "lang": "zh",
-      "title_zh": "Claude 90分钟挖穿Ghost CMS 20年安全漏洞",
-      "summary_zh": "Anthropic：研究员Nicholas Carlini测试发现，Claude在90分钟内精准定位GitHub拥有5万Star的Ghost CMS首个高危漏洞，并在无身份验证情况下窃取管理员API密钥；同时Claude在Linux内核安全漏洞挖掘上亦超越了人类专家水平。Carlini表示，六个月前大模型在此领域几乎是门外汉，如今最新模型已在漏洞挖掘方面超过人类专家。",
-      "tags": [
-        "安全对齐",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393186.html",
-      "published_at": "2026-03-30T06:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "7dbe9008",
-      "lang": "zh",
-      "title_zh": "国产世界模型GigaWorld-1登顶WorldArena全球第一",
-      "summary_zh": "极佳视界：旗下具身世界模型GigaWorld-1在WorldArena评测中登顶全球第一，成为唯一综合得分突破60分的具身世界模型，在视觉真实性、几何精准度、物理准确度三大维度断层领先谷歌、英伟达。极佳视界由清华系团队领衔，汇聚阿里、百度、地平线等顶尖大厂核心骨干，3D准确度接近满分。",
-      "tags": [
-        "评测基准",
-        "研究论文"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393296.html",
-      "published_at": "2026-03-30T05:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "48825272",
-      "lang": "zh",
-      "title_zh": "美国开源AI旗帜倒下：Ai2削减开源投入，核心团队转投微软",
-      "summary_zh": "艾伦人工智能研究所（Ai2）宣布削减开源模型（包括OLMo）的研发资金，转向AI应用方向。同期Ai2核心团队几乎被微软打包带走，包括前CEO阿里·法哈迪、前COO索菲·莱布雷希特、汉娜·哈吉希尔齐和兰杰·克里希纳，均加入微软穆斯塔法·苏莱曼领导的超级智能团队。OLMo是极少数真正开源的大模型之一，此次变化引发开源社区广泛关注。",
-      "tags": [
-        "开源",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393395.html",
-      "published_at": "2026-03-30T04:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "7896db99",
-      "lang": "zh",
-      "title_zh": "DeepSeek网页版大升级后宕机11小时，被解读为新模型前兆",
-      "summary_zh": "DeepSeek：DeepSeek网页版在3月29日出现大规模宕机，持续超过8小时并登上热搜。宕机前大量用户报告模型能力大幅提升，经典SVG绘图任务的构图和色彩明显改善，且模型开始稳定自报为DeepSeek-V3。DeepSeek此前已有多次不预告静默升级记录，此次宕机被业界普遍解读为新版本模型上线的前兆。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393235.html",
-      "published_at": "2026-03-30T03:30:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b38989c1",
-      "lang": "zh",
-      "title_zh": "全球OCR新王来自中国开源！PaddleOCR GitHub狂揽73300+Star",
-      "summary_zh": "百度：PaddleOCR以73300+Star登顶GitHub全球OCR项目榜，终结谷歌Tesseract OCR近40年的霸榜地位。同步在Hugging Face长期位居OCR与文档解析领域头部。此次升级官网免费每日解析页数从1万提升至2万，并发布PaddleOCR OCEAN生态联盟，面向核心贡献者、企业用户、模型托管平台及硬件厂商开放合作。",
-      "tags": [
-        "开源",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393433.html",
-      "published_at": "2026-03-30T03:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7e0f12eb",
-      "lang": "zh",
-      "title_zh": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
-      "summary_zh": "阿里巴巴：阿里发布千问新一代全模态大模型Qwen3.5-Omni，在音视频理解、识别、交互等215项第三方测试任务中取得SOTA，超越Gemini-3.1 Pro。新模型采用混合注意力MoE架构，支持113种语言及方言语音识别、36种语言语音生成，具备音视频Vibe Coding能力，API定价每百万Tokens输入不到0.8元。目前已在阿里云百炼平台上线Plus、Flash、Light三个版本，普通用户可通过Qwen Chat免费体验。",
+      "title_zh": "实测Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码",
+      "summary_zh": "量子位：量子位实测阿里最新发布的Qwen3.5-Omni多模态模型，该模型在215项基准测试中达到SOTA。测试表明其实时视觉理解能力出色，可通过摄像头即时解析论文内容、辅助编程，多模态交互体验接近GPT-4o水平。",
       "tags": [
         "产品发布",
         "多模态"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393460.html",
-      "published_at": "2026-03-30T02:00:00Z",
-      "collected_at": "2026-03-31T00:15:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/393941.html",
+      "published_at": "2026-03-31T04:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "73970da2",
-      "lang": "en",
-      "title_en": "All the latest in AI 'music'",
-      "title_zh": "AI「音乐」最新动态：Bandcamp 封禁 AI 内容、Suno 发布 v5.5",
-      "summary_en": "The Verge: A roundup of the latest in AI-generated music: Bandcamp becomes the first major platform to ban AI content; Suno releases v5.5 with voice cloning and personalization; musicians push back against AI audio clones; and a study finds 97% of people struggle to identify AI-made music.",
-      "summary_zh": "The Verge：AI 音乐领域最新动态汇总：Bandcamp 成为首个封禁 AI 内容的主要音乐平台；Suno 发布 v5.5，支持用户声音克隆与个性化；音乐人持续抵制 AI 音频克隆；研究显示97%的人难以识别 AI 生成音乐。",
-      "tags": [
-        "AI音乐",
-        "版权",
-        "AI应用"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
-      "published_at": "2026-03-30T01:32:14Z",
-      "collected_at": "2026-03-30T03:08:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "8022be03",
-      "lang": "en",
-      "title_en": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
-      "title_zh": "OpenAI 最受期待产品的意外落幕：Sora 为何沉寂",
-      "summary_en": "Hacker News (via WSJ): A Wall Street Journal investigation into the sudden decline of Sora, OpenAI's AI video generation tool once billed as its biggest product since ChatGPT. The story traces internal priorities, competitive pressure from Kling and other players, and OpenAI's pivot toward other revenue streams.",
-      "summary_zh": "Hacker News（WSJ）：《华尔街日报》深度调查 Sora 的意外没落——这款曾被誉为 OpenAI 继 ChatGPT 后最受期待产品的 AI 视频生成工具，因内部优先级调整、Kling 等竞品压力及 OpenAI 向其他收入来源转型而迅速沉寂。",
-      "tags": [
-        "OpenAI",
-        "AI视频",
-        "产品策略"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt",
-      "published_at": "2026-03-30T01:23:17Z",
-      "collected_at": "2026-03-30T03:08:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "b0489665",
+      "id": "62c2309d",
       "lang": "zh",
-      "title_zh": "Agentic AI 安全指南：龙虾如何被三层硬核架构「焊死」",
-      "summary_zh": "量子位：随着高权限 AI 代理应用爆发，本文提供一份面向开发者的 Agentic AI 安全实战指南，深入剖析自主性失控的根源，并介绍三层硬核安全架构：过程黑箱穿透、价值对齐保障与权限最小化原则，帮助开发者在生产环境中构建可控、可审计的 AI 代理系统。",
+      "title_zh": "2700GB高质量数据，训出空间智能SOTA，背后秘诀全栈开源",
+      "summary_zh": "量子位：研究团队基于2700GB高质量3D空间数据训练出空间智能模型，在多项空间理解基准上达到SOTA。团队全栈开源数据集、训练代码及模型权重，为具身智能和机器人领域研究提供重要基础设施。",
       "tags": [
-        "AI安全",
-        "AI代理",
-        "开发者工具"
+        "开源",
+        "研究"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393226.html",
-      "published_at": "2026-03-30T00:41:45Z",
-      "collected_at": "2026-03-30T03:08:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/393864.html",
+      "published_at": "2026-03-31T03:30:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "729eb8ee",
+      "id": "e16fea01",
       "lang": "en",
-      "title_en": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-      "title_zh": "ScaleOps 融资 1.3 亿美元，自动化优化 AI 基础设施效率",
-      "summary_en": "TechCrunch: ScaleOps raised $130M in a Series C round to tackle GPU shortages and soaring AI cloud costs by automating Kubernetes infrastructure optimization in real time, helping companies reduce compute waste amid surging AI workload demand.",
-      "summary_zh": "TechCrunch：ScaleOps 完成 1.3 亿美元 C 轮融资，通过实时自动化 Kubernetes 基础设施优化，帮助企业应对 AI 需求激增带来的 GPU 短缺与云计算成本飙升问题，减少计算资源浪费。",
+      "title_en": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+      "title_zh": "负责任地披露量子漏洞以保护加密货币安全",
+      "summary_en": "Google Research: Google Research has published a responsible disclosure of quantum computing vulnerabilities in elliptic curve cryptography used by major cryptocurrencies. The post outlines the timeline and methodology for coordinating with affected parties before publication, setting a precedent for how quantum threats to financial infrastructure should be handled.",
+      "summary_zh": "Google Research：谷歌研究院就主流加密货币所用椭圆曲线密码学中的量子漏洞进行了负责任披露，阐述了在发布前与相关方协调的时间线与方法论，为量子威胁金融基础设施的处理方式树立了先例。",
       "tags": [
-        "融资",
-        "AI基础设施"
+        "量子计算",
+        "安全",
+        "加密货币"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
+      "source_name": "Hacker News",
+      "source_url": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+      "published_at": "2026-03-31T03:28:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "198ab0ea",
-      "lang": "en",
-      "title_en": "Starcloud raises $170 million Series A to build data centers in space",
-      "title_zh": "Starcloud 完成 1.7 亿美元 A 轮融资，计划建造太空数据中心",
-      "summary_en": "TechCrunch: Starcloud raised $170M in a Series A round to build AI data centers in space, becoming the fastest Y Combinator startup to reach unicorn status just 17 months after demo day. The company aims to leverage orbital infrastructure to meet surging AI compute demand.",
-      "summary_zh": "TechCrunch：Starcloud 完成 1.7 亿美元 A 轮融资，计划在太空建造 AI 数据中心，成为 YC 史上最快达到独角兽估值的初创公司（Demo Day 后仅 17 个月）。公司旨在通过轨道基础设施满足 AI 算力需求。",
+      "id": "a1bd9fce",
+      "lang": "zh",
+      "title_en": "ByteDance TRAE SOLO launches standalone app: From code to cross-domain AI work",
+      "title_zh": "字节 TRAE SOLO 上线独立端：已不满足写代码，还要跨界干活",
+      "summary_en": "量子位: ByteDance's TRAE SOLO coding AI has launched as a standalone desktop app, moving beyond pure code generation to handle cross-domain tasks including document processing, UI design, and multi-step workflows. The expansion signals ByteDance's ambition to compete with Claude Code and Cursor in the agentic IDE market.",
+      "summary_zh": "量子位：字节跳动旗下 TRAE SOLO 编程 AI 推出独立桌面端，功能不再局限于代码生成，还将承担文档处理、UI 设计及多步骤工作流等跨领域任务，显示字节在 Agent IDE 市场与 Claude Code、Cursor 正面竞争的野心。",
       "tags": [
-        "融资",
-        "AI基础设施"
+        "字节跳动",
+        "AI编码",
+        "AI Agent",
+        "IDE"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/394014.html",
+      "published_at": "2026-03-31T03:00:00Z",
+      "collected_at": "2026-04-01T00:14:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "1c92da65",
+      "lang": "zh",
+      "title_zh": "机器人线下真机对线打PK！这届黑客松可太会玩了",
+      "summary_zh": "量子位：一场以人形机器人为主角的线下黑客松活动引发热议，参赛者携带真实机器人现场竞技，展示了抓取、操控、运动等多项能力。活动显示机器人开发门槛快速降低，开发者社区活跃度显著提升。",
+      "tags": [
+        "机器人",
+        "AI应用"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393887.html",
+      "published_at": "2026-03-31T03:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "7012a6b0",
+      "id": "a2efdf65",
+      "lang": "zh",
+      "title_zh": "瑞声科技公开人形机器人感知解决方案，释放机器人业务加速落地信号",
+      "summary_zh": "量子位：声学元件巨头瑞声科技正式公开其人形机器人感知系统，涵盖触觉、听觉等多传感器融合方案。此举被视为该公司加速布局机器人硬件供应链的重要信号，有望进一步推动人形机器人规模化落地。",
+      "tags": [
+        "机器人",
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393883.html",
+      "published_at": "2026-03-31T02:30:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "2090a8b4",
       "lang": "en",
-      "title_en": "As more Americans adopt AI tools, fewer say they can trust the results",
-      "title_zh": "美国 AI 使用率上升，但信任度反而下滑",
-      "summary_en": "TechCrunch: A new poll finds that AI adoption is rising across the U.S., but trust in AI outputs is declining simultaneously. Most Americans remain concerned about AI transparency, regulation, and the technology's broader societal impact despite increased usage.",
-      "summary_zh": "TechCrunch：最新民调显示，美国 AI 工具使用率持续上升，但用户对 AI 结果的信任度却同步下降。多数美国人对 AI 的透明度、监管及其社会影响表示担忧。",
+      "title_en": "Anthropic signs MOU with Australia for AI safety, invests AUD$3M in research",
+      "title_zh": "Anthropic 与澳大利亚政府签署 AI 安全合作备忘录，投资 300 万澳元推进研究",
+      "summary_en": "Anthropic: Anthropic signed a Memorandum of Understanding with the Australian government to cooperate on AI safety research aligned with Australia's National AI Plan. CEO Dario Amodei met Prime Minister Anthony Albanese in Canberra. Anthropic also pledged AUD$3 million to Australian research institutions to apply Claude in disease diagnosis, treatment, and CS education.",
+      "summary_zh": "Anthropic：Anthropic 与澳大利亚政府签署了人工智能安全合作备忘录，旨在支持澳大利亚《国家 AI 计划》目标。CEO Dario Amodei 在堪培拉与总理安东尼·阿尔巴内塞会面。Anthropic 还宣布向澳大利亚领先研究机构提供 300 万澳元合作资助，将 Claude 应用于疾病诊断、治疗及计算机科学教育与研究领域。",
+      "tags": [
+        "AI政策",
+        "国际合作",
+        "Anthropic",
+        "AI安全"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/australia-MOU",
+      "published_at": "2026-03-31T02:00:00Z",
+      "collected_at": "2026-04-01T00:14:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "7b0fd0ea",
+      "lang": "zh",
+      "title_zh": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+      "summary_zh": "量子位：港股AI公司明源云旗下智能体业务收入同比暴涨68%，其核心策略是通过「关系图谱」将企业内部复杂协作关系结构化，让AI智能体能够在真实企业场景中高效运转，实现全链路自动化落地。",
+      "tags": [
+        "AI应用",
+        "智能体"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393984.html",
+      "published_at": "2026-03-31T02:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "d1b28473",
+      "lang": "en",
+      "title_en": "Learn Claude Code by doing, not reading",
+      "title_zh": "通过实践学习Claude Code",
+      "summary_en": "Community: An interactive tutorial site teaches developers how to use Claude Code through hands-on exercises rather than documentation reading. The resource gained significant traction on Hacker News with 109 upvotes, reflecting strong community interest in practical AI coding assistant education.",
+      "summary_zh": "社区：交互式教程网站claude.nagdy.me通过动手实践而非文档阅读方式教授开发者使用Claude Code，在Hacker News获得109票关注，反映出开发者社区对AI编程助手实践教程的强烈需求。",
+      "tags": [
+        "编程",
+        "Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://claude.nagdy.me/",
+      "published_at": "2026-03-31T01:19:43Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f515d6ca",
+      "lang": "en",
+      "title_en": "Agentic AI and the next intelligence explosion",
+      "title_zh": "Agent AI与下一次智能爆炸",
+      "summary_en": "Researchers: A preprint on arXiv argues that the AI singularity should not be conceived as a monolithic godlike mind, but as a plural, social, relational phenomenon. The paper highlights that frontier reasoning models like DeepSeek-R1 improve not by thinking longer but by simulating internal societies of thought as spontaneous cognitive debates. The authors propose that scaling intelligence requires shifting from dyadic alignment to managing collective human-AI agency, describing an era of human-AI centaurs.",
+      "summary_zh": "研究人员：arXiv预印本论文提出，AI奇点不应被理解为单一的神级智能，而是多元化的社会性现象。文章指出DeepSeek-R1等前沿推理模型通过模拟内部思想社会而非单纯更长思考来提升能力，并提出扩展智能需要从双边对齐转向管理集体人机协同，描述即将到来的人机半人马时代。",
+      "tags": [
+        "研究论文",
+        "推理",
+        "Agent"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://arxiv.org/abs/2603.20639",
+      "published_at": "2026-03-31T01:14:17Z",
+      "collected_at": "2026-03-31T00:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9dd374a0",
+      "lang": "zh",
+      "title_zh": "别再让AI只干零活了！AI工具正在接管投放全链路",
+      "summary_zh": "量子位：艾瑞咨询报告显示，中国AI营销市场规模达669亿元，年复合增长率26.2%。当前多环节协同成为AI营销引擎新趋势，快手等平台已实现从素材生产、策略制定到实时投放、诊断复盘的全链路AI化，推动营销行业从单点AI工具向全流程智能化演进。",
       "tags": [
         "行业观察",
-        "AI治理"
+        "产品发布"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-      "published_at": "2026-03-30T00:00:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393471.html",
+      "published_at": "2026-03-31T01:03:38Z",
       "collected_at": "2026-03-31T03:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "95a48935",
-      "lang": "en",
-      "title_en": "15% of Americans say they'd be willing to work for an AI boss, according to new poll",
-      "title_zh": "调查：仅 15% 美国人愿意接受 AI 担任直属上司",
-      "summary_en": "TechCrunch: A Quinnipiac University poll finds that only 15% of Americans say they'd be willing to have an AI program as their direct workplace supervisor, highlighting widespread hesitancy toward AI authority in professional settings.",
-      "summary_zh": "TechCrunch：昆尼皮亚克大学民调显示，仅 15% 的美国人表示愿意接受 AI 程序担任直属上司，反映公众对 AI 在职场中行使管理权力仍持普遍观望态度。",
+      "id": "fb75edf8",
+      "lang": "zh",
+      "title_zh": "Meta华人实习生搞出超级智能体！自己写代码实现自我进化",
+      "summary_zh": "量子位：Meta一名华人实习生开发出能够自主编写代码并实现自我迭代的超级智能体系统，该系统可通过反复试错不断优化自身能力。这一工作展示了智能体自主进化的可行路径，引发AI社区广泛关注。",
       "tags": [
-        "行业观察"
+        "智能体",
+        "研究"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
-      "importance": 2,
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/393645.html",
+      "published_at": "2026-03-31T01:00:00Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "6d9d2ac5",
+      "lang": "en",
+      "title_en": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
+      "title_zh": "OpenAI完成1220亿美元融资破纪录",
+      "summary_en": "OpenAI: OpenAI has closed a record-breaking $122 billion funding round, up from the previously announced $110 billion figure. The round represents the largest private funding round in history. The financing comes as anticipation builds for a potential IPO.",
+      "summary_zh": "OpenAI：OpenAI 完成了 1220 亿美元的融资，较此前披露的 1100 亿美元进一步上调，创下史上最大单笔私募融资纪录。此轮融资是在 IPO 预期升温背景下完成的。",
+      "tags": [
+        "融资",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-04-02T00:10:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "d0eee8cd",
+      "lang": "en",
+      "title_en": "Like it or not, AI is part of art school curriculums",
+      "title_zh": "无论喜不喜欢，AI 已成为艺术院校课程的一部分",
+      "summary_en": "The Verge: Art schools across the US are integrating generative AI tools into their curriculums despite student protests. From CalArts to University of Alaska Fairbanks, students and faculty grapple with AI's impact on creative education and job prospects as text-to-image, music, and video generation tools become ubiquitous.",
+      "summary_zh": "The Verge：美国各大艺术院校正将生成式 AI 工具纳入课程体系，尽管引发学生抗议。从加州艺术学院到阿拉斯加费尔班克斯大学，师生们正在与 AI 对创意教育和就业前景的冲击抗争，而文生图、音乐和视频生成工具已日趋普及。",
+      "tags": [
+        "AI伦理",
+        "教育",
+        "生成式AI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-practice",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]
