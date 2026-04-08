@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,30 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 18,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "56974e3d",
+      "lang": "en",
+      "title_en": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "title_zh": "OpenAI宣布关停Sora并终止与迪士尼的合作",
+      "summary_en": "The Verge: OpenAI is winding down its Sora AI video generation model and app, and ending a recently-announced partnership with Disney, marking a significant strategic retreat from the AI video generation market just 25 months after Sora's debut.",
+      "summary_zh": "The Verge：OpenAI宣布关停Sora AI视频生成模型及应用，并终止与迪士尼的合作协议，距Sora发布仅25个月，是OpenAI在AI视频赛道的重大战略退出。",
+      "tags": [
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "published_at": "2026-03-24T10:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 5,
+      "merged_sources": [
+        "https://www.qbitai.com/2026/03/391799.html"
+      ]
+    },
     {
       "id": "eabcc45a",
       "lang": "en",
@@ -368,25 +387,6 @@
       "published_at": "2026-03-23T22:00:00Z",
       "collected_at": "2026-03-24T09:05:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7204a8f0",
-      "lang": "en",
-      "title_en": "Claude Code Cheat Sheet",
-      "title_zh": "Claude Code 速查手册上线",
-      "summary_en": "Hacker News: A community-contributed Claude Code cheat sheet surfaced on Hacker News, consolidating key commands, workflows, and tips for using Anthropic's Claude Code agentic coding tool. The resource quickly gained traction among developers integrating Claude Code into daily workflows.",
-      "summary_zh": "Hacker News：一份社区整理的 Claude Code 速查手册在 Hacker News 走红，汇聚了 Anthropic 编程代理工具 Claude Code 的核心命令、工作流与使用技巧，受到广泛开发者关注。",
-      "tags": [
-        "AI工具",
-        "Anthropic",
-        "代码生成"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://cc.storyfox.cz",
-      "published_at": "2026-03-23T21:44:20Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 2,
       "merged_sources": []
     }
   ]

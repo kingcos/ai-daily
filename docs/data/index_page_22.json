@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,28 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 22,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "128248f2",
+      "lang": "en",
+      "title_en": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "title_zh": "贝佐斯据报拟筹资千亿美元 收购传统制造企业并以 AI 改造",
+      "summary_en": "Jeff Bezos: The billionaire is reportedly seeking to raise $100 billion to acquire traditional manufacturing companies and transform them using AI and automation technologies.",
+      "summary_zh": "贝佐斯：据报道这位亿万富翁正寻求筹集 1000 亿美元，收购传统制造企业，并以 AI 和自动化技术对其进行改造。",
+      "tags": [
+        "融资"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "published_at": "2026-03-19T14:00:00Z",
+      "collected_at": "2026-03-23T09:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "10ce3a17",
       "lang": "en",
@@ -349,24 +366,6 @@
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/895835/openai-cuts-back-on-side-quests",
       "published_at": "2026-03-17T12:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e3ccec42",
-      "lang": "en",
-      "title_en": "OpenAI's Sora video generator is reportedly coming to ChatGPT",
-      "title_zh": "OpenAI Sora 视频生成器据报将集成进 ChatGPT",
-      "summary_en": "OpenAI: Reports indicate the company plans to integrate its Sora video generation model directly into ChatGPT, making AI video creation accessible to a broader user base.",
-      "summary_zh": "OpenAI：据报道公司计划将 Sora 视频生成模型直接集成进 ChatGPT，让更广泛的用户能够使用 AI 视频创作功能。",
-      "tags": [
-        "产品发布",
-        "多模态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
-      "published_at": "2026-03-17T08:00:00Z",
       "collected_at": "2026-03-23T09:10:00Z",
       "importance": 3,
       "merged_sources": []

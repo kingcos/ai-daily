@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,27 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 15,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "54de3f55",
+      "lang": "zh",
+      "title_zh": "趋境ATaaS平台发布，打造日均万亿产能的\"Token工厂\"",
+      "summary_zh": "量子位：趋境科技正式发布ATaaS（AI Token即服务）平台，定位为全球领先的高效能AI Token生产服务平台，日均算力产能可达万亿Token级别。该平台旨在为企业提供稳定、低成本的大模型推理算力服务，助力AI应用规模化落地。",
+      "tags": [
+        "算力",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392988.html",
+      "published_at": "2026-03-28T04:00:00Z",
+      "collected_at": "2026-03-28T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "76eb5a6a",
       "lang": "zh",
@@ -383,24 +399,6 @@
       "published_at": "2026-03-26T11:00:00Z",
       "collected_at": "2026-03-26T15:00:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "8495a270",
-      "lang": "en",
-      "title_en": "EU backs nude app ban and delays to landmark AI rules",
-      "title_zh": "欧盟支持裸体应用禁令，推迟AI法关键条款实施",
-      "summary_en": "EU Parliament: Voted to delay August deadlines for high-risk AI compliance and watermarking requirements by at least a year, while backing bans on nude-image-generating apps under the AI Act.",
-      "summary_zh": "欧洲议会：投票将高风险AI合规及水印要求的8月截止日期延迟至少一年，同时支持依据AI法案禁止裸体图像生成应用。",
-      "tags": [
-        "AI监管",
-        "欧盟AI法"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nude-apps",
-      "published_at": "2026-03-26T10:00:00Z",
-      "collected_at": "2026-03-26T15:00:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]

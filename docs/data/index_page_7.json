@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,27 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 7,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "80b925b0",
+      "lang": "zh",
+      "title_zh": "Claude Code爆改Python版加冕最快10万星，且clone且珍惜",
+      "summary_zh": "量子位：一位开发者将 Claude Code 的 TypeScript 版本改写为 Python，项目在 GitHub 上以史上最快速度突破 10 万 star。该项目因绕过官方限制、功能相似且开源免费引发广泛关注，但随时面临被下架风险。",
+      "tags": [
+        "开发工具",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/394570.html",
+      "published_at": "2026-04-02T02:00:00Z",
+      "collected_at": "2026-04-02T03:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "d5fe455b",
       "lang": "zh",
@@ -371,25 +387,6 @@
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/04/394516.html",
       "published_at": "2026-04-01T07:00:00Z",
-      "collected_at": "2026-04-01T09:08:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b4fbd115",
-      "lang": "en",
-      "title_en": "Claude Code Unpacked: A visual guide",
-      "title_zh": "Claude Code 深度拆解：图解指南",
-      "summary_en": "Hacker News: A community-created visual guide unpacking Claude Code's architecture, internals, and usage patterns. The resource gained significant traction on Hacker News, reflecting strong developer interest in understanding and extending Anthropic's AI coding agent.",
-      "summary_zh": "Hacker News：一份由社区创作的 Claude Code 可视化拆解指南，深入解析其架构、内部机制与使用方式，在 Hacker News 获得广泛关注，反映出开发者对 Anthropic AI 编程智能体的高度兴趣。",
-      "tags": [
-        "开发工具",
-        "Claude",
-        "AI编程"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://ccunpacked.dev/",
-      "published_at": "2026-04-01T06:35:37Z",
       "collected_at": "2026-04-01T09:08:00Z",
       "importance": 3,
       "merged_sources": []

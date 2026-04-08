@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,28 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 24,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "781789f4",
+      "lang": "zh",
+      "title_zh": "老黄入局吃龙虾！英伟达发布最强开源Agent推理模型",
+      "summary_zh": "英伟达：发布最强开源 Agent 推理模型，黄仁勋宣布向开源模型投入260亿美元。",
+      "tags": [
+        "产品发布",
+        "Agent",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/386572.html",
+      "published_at": "2026-03-12T00:00:00Z",
+      "collected_at": "2026-03-23T03:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "20f160f8",
       "lang": "zh",
@@ -337,22 +354,6 @@
       "published_at": "2026-03-09T00:00:00Z",
       "collected_at": "2026-03-23T03:20:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "79445b1c",
-      "lang": "zh",
-      "title_zh": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
-      "summary_zh": "量子位：20岁大学生用10天 VibeCoding 完成开源项目，获盛大3000万元投资。",
-      "tags": [
-        "融资",
-        "开源"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/384728.html",
-      "published_at": "2026-03-08T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 2,
       "merged_sources": []
     }
   ]

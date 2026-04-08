@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,30 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 8,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "b4fbd115",
+      "lang": "en",
+      "title_en": "Claude Code Unpacked: A visual guide",
+      "title_zh": "Claude Code 深度拆解：图解指南",
+      "summary_en": "Hacker News: A community-created visual guide unpacking Claude Code's architecture, internals, and usage patterns. The resource gained significant traction on Hacker News, reflecting strong developer interest in understanding and extending Anthropic's AI coding agent.",
+      "summary_zh": "Hacker News：一份由社区创作的 Claude Code 可视化拆解指南，深入解析其架构、内部机制与使用方式，在 Hacker News 获得广泛关注，反映出开发者对 Anthropic AI 编程智能体的高度兴趣。",
+      "tags": [
+        "开发工具",
+        "Claude",
+        "AI编程"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ccunpacked.dev/",
+      "published_at": "2026-04-01T06:35:37Z",
+      "collected_at": "2026-04-01T09:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "62f2b4c2",
       "lang": "en",
@@ -378,26 +397,6 @@
       "published_at": "2026-03-31T21:21:00Z",
       "collected_at": "2026-04-01T03:20:00Z",
       "importance": 3
-    },
-    {
-      "id": "3ed70def",
-      "lang": "en",
-      "title_en": "You can now use ChatGPT with Apple's CarPlay",
-      "title_zh": "ChatGPT 现已支持苹果 CarPlay，可在车载系统中使用",
-      "summary_en": "The Verge: OpenAI has expanded ChatGPT's integration to Apple's CarPlay, allowing drivers to access the AI assistant directly through their car's infotainment system. The feature enables hands-free conversational AI while driving, deepening the OpenAI–Apple partnership announced in 2025.",
-      "summary_zh": "The Verge：OpenAI 将 ChatGPT 接入苹果 CarPlay，驾驶者可直接通过车载娱乐系统使用 AI 助手。该功能支持免提对话式 AI 交互，进一步深化了 OpenAI 与苹果于 2025 年建立的合作关系。",
-      "tags": [
-        "ChatGPT",
-        "苹果",
-        "AI助手",
-        "汽车科技"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "published_at": "2026-03-31T21:03:18Z",
-      "collected_at": "2026-04-01T00:14:00Z",
-      "importance": 3,
-      "merged_sources": []
     }
   ]
 }

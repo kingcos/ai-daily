@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,30 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 13,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "e5f6g7h8",
+      "lang": "en",
+      "title_en": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
+      "title_zh": "AI 并非消灭工作，而是将其「拆包」为低薪碎片任务",
+      "summary_en": "Hacker News: The Register reports research showing AI is restructuring jobs by splitting complex roles into fragmented, lower-paid micro-tasks rather than outright eliminating positions. This 'unbundling' effect raises new concerns about wage erosion and labor market fragmentation.",
+      "summary_zh": "Hacker News：The Register 报道研究显示，AI 正将复杂岗位拆解为碎片化低薪微任务，而非直接消灭职位。这种「拆包」效应引发对薪资下降和劳动力市场碎片化的新担忧。",
+      "tags": [
+        "AI就业",
+        "AI伦理",
+        "劳动力市场"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/2026/03/24/ai_job_unbundling/",
+      "published_at": "2026-03-29T20:51:55Z",
+      "collected_at": "2026-03-30T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "f6g7h8i9",
       "lang": "en",
@@ -377,24 +396,6 @@
       "published_at": "2026-03-29T01:09:41Z",
       "collected_at": "2026-03-29T03:00:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "14f08b43",
-      "lang": "en",
-      "title_en": "Show HN: I built an OS that is pure AI",
-      "title_zh": "Show HN：我构建了一个纯 AI 操作系统",
-      "summary_en": "Hacker News: A developer showcased Pneuma, an experimental operating system built entirely around AI inference — replacing traditional OS abstractions with AI-driven process management, UI rendering, and system calls. The project sparked significant discussion about AI-native computing paradigms.",
-      "summary_zh": "Hacker News：一位开发者展示了 Pneuma，一个完全围绕 AI 推理构建的实验性操作系统，用 AI 驱动的机制替代传统 OS 的进程管理、界面渲染和系统调用，引发了对 AI 原生计算范式的广泛讨论。",
-      "tags": [
-        "AI应用",
-        "研究"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://pneuma.computer",
-      "published_at": "2026-03-29T00:02:17Z",
-      "collected_at": "2026-03-29T09:00:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

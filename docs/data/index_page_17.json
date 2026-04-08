@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,30 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 17,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "336ca8c8",
+      "lang": "zh",
+      "title_zh": "OpenAI关停Sora！25个月从封神到退场",
+      "title_en": "OpenAI shuts down Sora: 25 months from hype to exit",
+      "summary_zh": "量子位：OpenAI正式关停视频生成模型Sora，距其发布仅25个月；同步曝光与迪士尼10亿美元合作谈判破裂，折射出AI视频赛道的激烈竞争与商业化困境。",
+      "summary_en": "Qbitai: OpenAI has officially shut down Sora video generation model just 25 months after launch, concurrent with reports that a billion-dollar Disney deal fell through, highlighting fierce competition and commercialization challenges in AI video.",
+      "tags": [
+        "产品动态",
+        "OpenAI",
+        "AI视频"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391799.html",
+      "published_at": "2026-03-25T08:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
     {
       "id": "03758a62",
       "lang": "en",
@@ -380,25 +399,6 @@
       "collected_at": "2026-03-25T03:00:00Z",
       "importance": 3,
       "merged_sources": []
-    },
-    {
-      "id": "56974e3d",
-      "lang": "en",
-      "title_en": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-      "title_zh": "OpenAI宣布关停Sora并终止与迪士尼的合作",
-      "summary_en": "The Verge: OpenAI is winding down its Sora AI video generation model and app, and ending a recently-announced partnership with Disney, marking a significant strategic retreat from the AI video generation market just 25 months after Sora's debut.",
-      "summary_zh": "The Verge：OpenAI宣布关停Sora AI视频生成模型及应用，并终止与迪士尼的合作协议，距Sora发布仅25个月，是OpenAI在AI视频赛道的重大战略退出。",
-      "tags": [
-        "行业动态"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-      "published_at": "2026-03-24T10:00:00Z",
-      "collected_at": "2026-03-25T01:12:00Z",
-      "importance": 5,
-      "merged_sources": [
-        "https://www.qbitai.com/2026/03/391799.html"
-      ]
     }
   ]
 }

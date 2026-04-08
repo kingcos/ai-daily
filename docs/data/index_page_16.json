@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,29 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 16,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "8495a270",
+      "lang": "en",
+      "title_en": "EU backs nude app ban and delays to landmark AI rules",
+      "title_zh": "欧盟支持裸体应用禁令，推迟AI法关键条款实施",
+      "summary_en": "EU Parliament: Voted to delay August deadlines for high-risk AI compliance and watermarking requirements by at least a year, while backing bans on nude-image-generating apps under the AI Act.",
+      "summary_zh": "欧洲议会：投票将高风险AI合规及水印要求的8月截止日期延迟至少一年，同时支持依据AI法案禁止裸体图像生成应用。",
+      "tags": [
+        "AI监管",
+        "欧盟AI法"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nude-apps",
+      "published_at": "2026-03-26T10:00:00Z",
+      "collected_at": "2026-03-26T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "6cbd57a8",
       "lang": "zh",
@@ -397,25 +415,6 @@
       "published_at": "2026-03-25T10:41:21Z",
       "collected_at": "2026-03-26T00:00:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "336ca8c8",
-      "lang": "zh",
-      "title_zh": "OpenAI关停Sora！25个月从封神到退场",
-      "title_en": "OpenAI shuts down Sora: 25 months from hype to exit",
-      "summary_zh": "量子位：OpenAI正式关停视频生成模型Sora，距其发布仅25个月；同步曝光与迪士尼10亿美元合作谈判破裂，折射出AI视频赛道的激烈竞争与商业化困境。",
-      "summary_en": "Qbitai: OpenAI has officially shut down Sora video generation model just 25 months after launch, concurrent with reports that a billion-dollar Disney deal fell through, highlighting fierce competition and commercialization challenges in AI video.",
-      "tags": [
-        "产品动态",
-        "OpenAI",
-        "AI视频"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391799.html",
-      "published_at": "2026-03-25T08:00:00Z",
-      "collected_at": "2026-03-26T00:00:00Z",
-      "importance": 5,
       "merged_sources": []
     }
   ]

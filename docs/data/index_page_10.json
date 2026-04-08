@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,29 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 10,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "abca6098",
+      "lang": "en",
+      "title_en": "Claude Code bug can silently 10-20x API costs",
+      "title_zh": "Claude Code 缓存 Bug 可导致 API 费用暴增 10-20 倍",
+      "summary_en": "Community: A Reddit post flagged two cache-related bugs in Claude Code that can silently inflate API costs by 10-20x without any warning to the user. The bugs affect how prompt caching is handled, causing repeated full-context charges instead of cached responses.",
+      "summary_zh": "社区：Reddit 上的一篇帖子披露了 Claude Code 中两个与缓存相关的 Bug，可在用户毫不知情的情况下使 API 费用暴涨 10-20 倍。漏洞导致提示缓存失效，每次请求均按完整上下文计费而非使用缓存价格。",
+      "tags": [
+        "工具",
+        "AI应用"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
+      "published_at": "2026-03-31T07:37:33Z",
+      "collected_at": "2026-03-31T08:50:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "19a5891a",
       "lang": "en",
@@ -377,25 +395,6 @@
       "published_at": "2026-03-31T00:00:00Z",
       "collected_at": "2026-04-02T00:10:00Z",
       "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "d0eee8cd",
-      "lang": "en",
-      "title_en": "Like it or not, AI is part of art school curriculums",
-      "title_zh": "无论喜不喜欢，AI 已成为艺术院校课程的一部分",
-      "summary_en": "The Verge: Art schools across the US are integrating generative AI tools into their curriculums despite student protests. From CalArts to University of Alaska Fairbanks, students and faculty grapple with AI's impact on creative education and job prospects as text-to-image, music, and video generation tools become ubiquitous.",
-      "summary_zh": "The Verge：美国各大艺术院校正将生成式 AI 工具纳入课程体系，尽管引发学生抗议。从加州艺术学院到阿拉斯加费尔班克斯大学，师生们正在与 AI 对创意教育和就业前景的冲击抗争，而文生图、音乐和视频生成工具已日趋普及。",
-      "tags": [
-        "AI伦理",
-        "教育",
-        "生成式AI"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-practice",
-      "published_at": "2026-03-31T00:00:00Z",
-      "collected_at": "2026-03-31T15:15:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

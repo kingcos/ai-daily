@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,29 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 12,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "7012a6b0",
+      "lang": "en",
+      "title_en": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "title_zh": "美国 AI 使用率上升，但信任度反而下滑",
+      "summary_en": "TechCrunch: A new poll finds that AI adoption is rising across the U.S., but trust in AI outputs is declining simultaneously. Most Americans remain concerned about AI transparency, regulation, and the technology's broader societal impact despite increased usage.",
+      "summary_zh": "TechCrunch：最新民调显示，美国 AI 工具使用率持续上升，但用户对 AI 结果的信任度却同步下降。多数美国人对 AI 的透明度、监管及其社会影响表示担忧。",
+      "tags": [
+        "行业观察",
+        "AI治理"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "published_at": "2026-03-30T00:00:00Z",
+      "collected_at": "2026-03-31T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "95a48935",
       "lang": "en",
@@ -361,25 +379,6 @@
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
       "published_at": "2026-03-29T21:44:41Z",
-      "collected_at": "2026-03-30T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e5f6g7h8",
-      "lang": "en",
-      "title_en": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-      "title_zh": "AI 并非消灭工作，而是将其「拆包」为低薪碎片任务",
-      "summary_en": "Hacker News: The Register reports research showing AI is restructuring jobs by splitting complex roles into fragmented, lower-paid micro-tasks rather than outright eliminating positions. This 'unbundling' effect raises new concerns about wage erosion and labor market fragmentation.",
-      "summary_zh": "Hacker News：The Register 报道研究显示，AI 正将复杂岗位拆解为碎片化低薪微任务，而非直接消灭职位。这种「拆包」效应引发对薪资下降和劳动力市场碎片化的新担忧。",
-      "tags": [
-        "AI就业",
-        "AI伦理",
-        "劳动力市场"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.theregister.com/2026/03/24/ai_job_unbundling/",
-      "published_at": "2026-03-29T20:51:55Z",
       "collected_at": "2026-03-30T00:00:00Z",
       "importance": 3,
       "merged_sources": []

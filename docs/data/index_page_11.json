@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,30 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 11,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "d0eee8cd",
+      "lang": "en",
+      "title_en": "Like it or not, AI is part of art school curriculums",
+      "title_zh": "无论喜不喜欢，AI 已成为艺术院校课程的一部分",
+      "summary_en": "The Verge: Art schools across the US are integrating generative AI tools into their curriculums despite student protests. From CalArts to University of Alaska Fairbanks, students and faculty grapple with AI's impact on creative education and job prospects as text-to-image, music, and video generation tools become ubiquitous.",
+      "summary_zh": "The Verge：美国各大艺术院校正将生成式 AI 工具纳入课程体系，尽管引发学生抗议。从加州艺术学院到阿拉斯加费尔班克斯大学，师生们正在与 AI 对创意教育和就业前景的冲击抗争，而文生图、音乐和视频生成工具已日趋普及。",
+      "tags": [
+        "AI伦理",
+        "教育",
+        "生成式AI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-practice",
+      "published_at": "2026-03-31T00:00:00Z",
+      "collected_at": "2026-03-31T15:15:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "da7f95ac",
       "lang": "en",
@@ -363,24 +382,6 @@
       ],
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-      "published_at": "2026-03-30T00:00:00Z",
-      "collected_at": "2026-03-31T03:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7012a6b0",
-      "lang": "en",
-      "title_en": "As more Americans adopt AI tools, fewer say they can trust the results",
-      "title_zh": "美国 AI 使用率上升，但信任度反而下滑",
-      "summary_en": "TechCrunch: A new poll finds that AI adoption is rising across the U.S., but trust in AI outputs is declining simultaneously. Most Americans remain concerned about AI transparency, regulation, and the technology's broader societal impact despite increased usage.",
-      "summary_zh": "TechCrunch：最新民调显示，美国 AI 工具使用率持续上升，但用户对 AI 结果的信任度却同步下降。多数美国人对 AI 的透明度、监管及其社会影响表示担忧。",
-      "tags": [
-        "行业观察",
-        "AI治理"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
       "published_at": "2026-03-30T00:00:00Z",
       "collected_at": "2026-03-31T03:10:00Z",
       "importance": 3,

@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,30 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 19,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "7204a8f0",
+      "lang": "en",
+      "title_en": "Claude Code Cheat Sheet",
+      "title_zh": "Claude Code 速查手册上线",
+      "summary_en": "Hacker News: A community-contributed Claude Code cheat sheet surfaced on Hacker News, consolidating key commands, workflows, and tips for using Anthropic's Claude Code agentic coding tool. The resource quickly gained traction among developers integrating Claude Code into daily workflows.",
+      "summary_zh": "Hacker News：一份社区整理的 Claude Code 速查手册在 Hacker News 走红，汇聚了 Anthropic 编程代理工具 Claude Code 的核心命令、工作流与使用技巧，受到广泛开发者关注。",
+      "tags": [
+        "AI工具",
+        "Anthropic",
+        "代码生成"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://cc.storyfox.cz",
+      "published_at": "2026-03-23T21:44:20Z",
+      "collected_at": "2026-03-24T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
     {
       "id": "8dbaa11d",
       "lang": "en",
@@ -396,24 +415,6 @@
       "published_at": "2026-03-23T16:00:00Z",
       "collected_at": "2026-03-24T00:00:00Z",
       "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "c795aa86",
-      "lang": "en",
-      "title_en": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
-      "title_zh": "Altman 支持的核聚变初创公司 Helion 与 OpenAI 洽谈供电协议",
-      "summary_en": "TechCrunch: Helion Energy, the nuclear fusion startup backed by Sam Altman, is reportedly negotiating to sell 12.5% of its power output to OpenAI. The deal underscores OpenAI's aggressive push to secure large-scale clean energy for its expanding AI infrastructure.",
-      "summary_zh": "TechCrunch：由 Sam Altman 等投资的核聚变初创 Helion Energy 据报正与 OpenAI 洽谈，拟将 12.5% 发电量出售给 OpenAI，以支持其快速扩张的 AI 基础设施对大规模清洁能源的需求。",
-      "tags": [
-        "AI基础设施",
-        "能源"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
-      "published_at": "2026-03-23T15:03:36Z",
-      "collected_at": "2026-03-23T15:00:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]

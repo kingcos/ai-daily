@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,29 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 14,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "14f08b43",
+      "lang": "en",
+      "title_en": "Show HN: I built an OS that is pure AI",
+      "title_zh": "Show HN：我构建了一个纯 AI 操作系统",
+      "summary_en": "Hacker News: A developer showcased Pneuma, an experimental operating system built entirely around AI inference — replacing traditional OS abstractions with AI-driven process management, UI rendering, and system calls. The project sparked significant discussion about AI-native computing paradigms.",
+      "summary_zh": "Hacker News：一位开发者展示了 Pneuma，一个完全围绕 AI 推理构建的实验性操作系统，用 AI 驱动的机制替代传统 OS 的进程管理、界面渲染和系统调用，引发了对 AI 原生计算范式的广泛讨论。",
+      "tags": [
+        "AI应用",
+        "研究"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://pneuma.computer",
+      "published_at": "2026-03-29T00:02:17Z",
+      "collected_at": "2026-03-29T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "69b86121",
       "lang": "en",
@@ -381,22 +399,6 @@
       "published_at": "2026-03-28T04:00:00Z",
       "collected_at": "2026-03-28T09:10:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "54de3f55",
-      "lang": "zh",
-      "title_zh": "趋境ATaaS平台发布，打造日均万亿产能的\"Token工厂\"",
-      "summary_zh": "量子位：趋境科技正式发布ATaaS（AI Token即服务）平台，定位为全球领先的高效能AI Token生产服务平台，日均算力产能可达万亿Token级别。该平台旨在为企业提供稳定、低成本的大模型推理算力服务，助力AI应用规模化落地。",
-      "tags": [
-        "算力",
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/392988.html",
-      "published_at": "2026-03-28T04:00:00Z",
-      "collected_at": "2026-03-28T15:10:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

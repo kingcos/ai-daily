@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,29 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 21,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "464005dc",
+      "lang": "en",
+      "title_en": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "title_zh": "马斯克披露SpaceX和特斯拉芯片制造计划",
+      "summary_en": "TechCrunch: Elon Musk announced plans to build a Terafab chip manufacturing facility in Austin, Texas, jointly operated by SpaceX and Tesla. The goal is to produce chips at scale for robotics, AI, and space-based data centers. Analysts note the project faces significant technical and financial challenges.",
+      "summary_zh": "TechCrunch：马斯克宣布计划在德克萨斯州奥斯汀建设Terafab芯片制造厂，由SpaceX和特斯拉联合运营，目标是为机器人、AI和太空数据中心大规模生产芯片。分析人士指出该项目面临重大挑战。",
+      "tags": [
+        "芯片制造",
+        "硬件基础设施"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "published_at": "2026-03-22T16:20:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "b5b6efbc",
       "lang": "en",
@@ -354,23 +372,6 @@
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
       "published_at": "2026-03-19T16:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "128248f2",
-      "lang": "en",
-      "title_en": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "title_zh": "贝佐斯据报拟筹资千亿美元 收购传统制造企业并以 AI 改造",
-      "summary_en": "Jeff Bezos: The billionaire is reportedly seeking to raise $100 billion to acquire traditional manufacturing companies and transform them using AI and automation technologies.",
-      "summary_zh": "贝佐斯：据报道这位亿万富翁正寻求筹集 1000 亿美元，收购传统制造企业，并以 AI 和自动化技术对其进行改造。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-      "published_at": "2026-03-19T14:00:00Z",
       "collected_at": "2026-03-23T09:10:00Z",
       "importance": 4,
       "merged_sources": []

@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,29 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 5,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "fc5eb73f",
+      "lang": "en",
+      "title_en": "Netflix Releases VOID: First Public Model on HuggingFace for Video Inpainting",
+      "title_zh": "Netflix 发布首个公开模型 VOID：视频修复与目标移除扩散模型",
+      "summary_en": "Hacker News: Netflix released its first publicly available model on HuggingFace, called VOID (Video Object Inpainting Diffusion). Built on CogVideoX architecture, VOID is designed for video inpainting and object removal tasks, with an Apache 2.0 license enabling open commercial use.",
+      "summary_zh": "Hacker News：Netflix 在 HuggingFace 上发布首个公开模型 VOID（视频目标修复扩散模型），基于 CogVideoX 架构，用于视频修复和目标移除任务，采用 Apache 2.0 协议支持商业使用。",
+      "tags": [
+        "开源",
+        "产品发布"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://huggingface.co/netflix/void-model",
+      "published_at": "2026-04-03T07:25:40Z",
+      "collected_at": "2026-04-04T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "78d74c25",
       "lang": "en",
@@ -393,24 +411,6 @@
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
       "published_at": "2026-04-02T15:33:23Z",
-      "collected_at": "2026-04-03T03:16:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "62d46dc4",
-      "lang": "en",
-      "title_en": "Microsoft's new superintelligence game plan is all about business",
-      "title_zh": "微软超级智能战略：Suleyman 以企业价值定义 AGI",
-      "summary_en": "The Verge: In an interview, Microsoft CEO of AI Mustafa Suleyman described his business-focused definition of superintelligence as whether AI models can deliver product value to enterprises. He revealed the strategic transition was nine months in the making and pre-dated renegotiating Microsoft's OpenAI contract. His team recently released MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 models as part of this strategy.",
-      "summary_zh": "The Verge：微软 AI CEO Mustafa Suleyman 将超级智能定义为能为企业提供产品价值的 AI 模型，透露这一战略转型筹划长达九个月，早于微软重新谈判与 OpenAI 合约。其团队近期发布的 MAI-Transcribe-1、MAI-Voice-1 和 MAI-Image-2 正是该战略的阶段性成果。",
-      "tags": [
-        "产品发布",
-        "研究论文"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-      "published_at": "2026-04-02T14:00:00Z",
       "collected_at": "2026-04-03T03:16:00Z",
       "importance": 3,
       "merged_sources": []

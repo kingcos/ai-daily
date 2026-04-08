@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,27 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 1,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "bcea3ebb",
+      "lang": "zh",
+      "title_zh": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」",
+      "summary_zh": "Anthropic：Anthropic正式发布Claude Mythos Preview，各项基准测试全面超越Opus 4.6。该模型已发现数千个高危漏洞，覆盖主流操作系统和浏览器。因安全风险极高，Anthropic对其访问方式进行严格限制，官方博客字里行间透露出罕见的担忧与谨慎。",
+      "tags": [
+        "产品发布",
+        "安全"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/397710.html",
+      "published_at": "2026-04-08T02:00:00Z",
+      "collected_at": "2026-04-08T03:11:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
     {
       "id": "4bf8624c",
       "lang": "en",
@@ -371,25 +387,6 @@
       "published_at": "2026-04-06T21:57:54Z",
       "importance": 3,
       "id": "670ac2ad",
-      "collected_at": "2026-04-07T00:08:00Z",
-      "merged_sources": []
-    },
-    {
-      "lang": "en",
-      "title_en": "Anthropic Expands Partnership with Google and Broadcom for Multi-Gigawatt Compute",
-      "title_zh": "Anthropic与谷歌、博通扩大合作，建设多吉瓦算力基础设施",
-      "summary_en": "Anthropic: Anthropic announced an expanded partnership with Google and Broadcom to develop multiple gigawatts of AI compute infrastructure. The deal aims to significantly scale the compute capacity available for training and deploying frontier AI models, reinforcing Anthropic's long-term investment in advanced AI research and product development.",
-      "summary_zh": "Anthropic：Anthropic宣布与谷歌和博通扩大合作，共同建设多吉瓦级AI算力基础设施。此次合作旨在大幅扩展用于训练和部署前沿AI模型的算力规模，进一步巩固Anthropic在尖端AI研究和产品开发方面的长期投入。",
-      "tags": [
-        "基础设施",
-        "合作伙伴",
-        "算力"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "published_at": "2026-04-06T21:52:08Z",
-      "importance": 5,
-      "id": "8589c87e",
       "collected_at": "2026-04-07T00:08:00Z",
       "merged_sources": []
     }

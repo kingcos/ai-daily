@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,28 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 3,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "b281bdf7",
+      "lang": "en",
+      "title_en": "Copilot is 'for entertainment purposes only,' according to Microsoft's terms of use",
+      "title_zh": "微软Copilot条款标注「仅供娱乐」",
+      "summary_en": "Microsoft: Microsoft's Copilot terms of use, last updated October 24, 2025, state the product is \"for entertainment purposes only\" and should not be relied on for important advice. A spokesperson said the language is outdated and will be updated to reflect how Copilot is used today. The disclosure surfaces amid broader industry scrutiny of how AI companies characterize model reliability in legal documents.",
+      "summary_zh": "微软：Copilot服务条款（最后更新于2025年10月24日）标注该产品「仅供娱乐目的」，警告用户不应依赖其进行重要决策。微软发言人承认该措辞已过时，将予以更新。此事引发外界对AI公司如何在法律文件中描述模型可靠性的广泛关注。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "published_at": "2026-04-05T18:51:37Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "79753a90",
       "lang": "en",
@@ -367,24 +384,6 @@
       "published_at": "2026-04-04T23:18:58Z",
       "collected_at": "2026-04-05T00:00:00Z",
       "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "2f22c4fb",
-      "lang": "en",
-      "title_en": "Emotion Concepts and Their Function in a Large Language Model",
-      "title_zh": "大语言模型中情感概念的功能研究",
-      "summary_en": "Anthropic: Anthropic researchers published a study exploring how emotion-like concepts emerge and function within large language models. The paper investigates whether LLMs develop internal representations analogous to human emotion and how these influence model behavior and outputs.",
-      "summary_zh": "Anthropic：Anthropic 研究人员发表论文，探讨大语言模型内部是否形成类似情感的概念，以及这些概念如何影响模型行为和输出。研究揭示了 LLM 内部表征与人类情感的潜在类比关系。",
-      "tags": [
-        "AI安全",
-        "基础研究"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "published_at": "2026-04-04T22:30:25Z",
-      "collected_at": "2026-04-05T00:00:00Z",
-      "importance": 4,
       "merged_sources": []
     }
   ]

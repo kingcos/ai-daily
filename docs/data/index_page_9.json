@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "updated_at": "2026-04-08T03:11:00Z",
   "dates": [
     "2026-04-08",
     "2026-04-07",
@@ -37,11 +37,31 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 490,
   "page": 9,
   "page_size": 20,
   "total_pages": 25,
   "items": [
+    {
+      "id": "3ed70def",
+      "lang": "en",
+      "title_en": "You can now use ChatGPT with Apple's CarPlay",
+      "title_zh": "ChatGPT 现已支持苹果 CarPlay，可在车载系统中使用",
+      "summary_en": "The Verge: OpenAI has expanded ChatGPT's integration to Apple's CarPlay, allowing drivers to access the AI assistant directly through their car's infotainment system. The feature enables hands-free conversational AI while driving, deepening the OpenAI–Apple partnership announced in 2025.",
+      "summary_zh": "The Verge：OpenAI 将 ChatGPT 接入苹果 CarPlay，驾驶者可直接通过车载娱乐系统使用 AI 助手。该功能支持免提对话式 AI 交互，进一步深化了 OpenAI 与苹果于 2025 年建立的合作关系。",
+      "tags": [
+        "ChatGPT",
+        "苹果",
+        "AI助手",
+        "汽车科技"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "published_at": "2026-03-31T21:03:18Z",
+      "collected_at": "2026-04-01T00:14:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
     {
       "id": "ff153353",
       "lang": "en",
@@ -409,24 +429,6 @@
       "published_at": "2026-03-31T08:00:00Z",
       "collected_at": "2026-03-31T09:15:00Z",
       "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "abca6098",
-      "lang": "en",
-      "title_en": "Claude Code bug can silently 10-20x API costs",
-      "title_zh": "Claude Code 缓存 Bug 可导致 API 费用暴增 10-20 倍",
-      "summary_en": "Community: A Reddit post flagged two cache-related bugs in Claude Code that can silently inflate API costs by 10-20x without any warning to the user. The bugs affect how prompt caching is handled, causing repeated full-context charges instead of cached responses.",
-      "summary_zh": "社区：Reddit 上的一篇帖子披露了 Claude Code 中两个与缓存相关的 Bug，可在用户毫不知情的情况下使 API 费用暴涨 10-20 倍。漏洞导致提示缓存失效，每次请求均按完整上下文计费而非使用缓存价格。",
-      "tags": [
-        "工具",
-        "AI应用"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
-      "published_at": "2026-03-31T07:37:33Z",
-      "collected_at": "2026-03-31T08:50:00Z",
-      "importance": 3,
       "merged_sources": []
     }
   ]

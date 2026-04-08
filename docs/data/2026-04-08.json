@@ -1,7 +1,62 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T00:15:00Z",
+  "generated_at": "2026-04-08T03:11:00Z",
   "items": [
+    {
+      "id": "bcea3ebb",
+      "lang": "zh",
+      "title_zh": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」",
+      "summary_zh": "Anthropic：Anthropic正式发布Claude Mythos Preview，各项基准测试全面超越Opus 4.6。该模型已发现数千个高危漏洞，覆盖主流操作系统和浏览器。因安全风险极高，Anthropic对其访问方式进行严格限制，官方博客字里行间透露出罕见的担忧与谨慎。",
+      "tags": [
+        "产品发布",
+        "安全"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/397710.html",
+      "published_at": "2026-04-08T02:00:00Z",
+      "collected_at": "2026-04-08T03:11:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "4bf8624c",
+      "lang": "en",
+      "title_en": "Spotify's Prompted Playlists Can Help You Find New Podcasts to Listen To",
+      "title_zh": "Spotify 推出 AI 播放列表功能，助力发现新播客",
+      "summary_en": "The Verge: Spotify has launched Prompted Playlists, an AI-powered feature that generates sample podcast packs based on natural-language descriptions. Users can describe their mood, genre preferences, or topics of interest and Spotify's AI will surface relevant podcast episodes. The feature reflects Spotify's expanding use of generative AI to improve content discovery across its platform.",
+      "summary_zh": "The Verge：Spotify 推出 Prompted Playlists 功能，用户输入自然语言描述即可让 AI 生成播客推荐合集。该功能根据用户的情绪、类型偏好或感兴趣主题，推送相关播客单集。这是 Spotify 扩展生成式 AI 在内容发现领域应用的又一举措。",
+      "tags": [
+        "AI应用",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+      "published_at": "2026-04-07T20:13:00Z",
+      "collected_at": "2026-04-08T00:15:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "d737ab91",
+      "lang": "en",
+      "title_en": "Assessing Claude Mythos Preview's Cybersecurity Capabilities",
+      "title_zh": "Anthropic 评估 Claude Mythos Preview 网络安全能力",
+      "summary_en": "Anthropic: Anthropic's red team published an assessment of Claude Mythos Preview's cybersecurity capabilities, evaluating its ability to assist with offensive and defensive security tasks. The report accompanies the launch of Project Glasswing and describes the controlled evaluation methodology used to gauge the model's potential for misuse. Findings indicate significant capability uplift for security research while highlighting guardrails designed to prevent malicious exploitation.",
+      "summary_zh": "Anthropic：Anthropic 红队发布 Claude Mythos Preview 网络安全能力评估报告，系统测评其在攻防安全任务上的辅助能力，并随 Glasswing 项目同步披露。报告介绍了受控评估方法论，指出该模型在安全研究方面具有显著能力提升，同时阐述了防止恶意利用的护栏设计。",
+      "tags": [
+        "安全",
+        "模型评测",
+        "AI安全"
+      ],
+      "source_name": "Anthropic",
+      "source_url": "https://red.anthropic.com/2026/mythos-preview/",
+      "published_at": "2026-04-07T18:11:00Z",
+      "collected_at": "2026-04-08T00:15:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf"
+      ]
+    },
     {
       "id": "b0e28418",
       "lang": "en",
@@ -43,24 +98,6 @@
       "merged_sources": []
     },
     {
-      "id": "4bf8624c",
-      "lang": "en",
-      "title_en": "Spotify's Prompted Playlists Can Help You Find New Podcasts to Listen To",
-      "title_zh": "Spotify 推出 AI 播放列表功能，助力发现新播客",
-      "summary_en": "The Verge: Spotify has launched Prompted Playlists, an AI-powered feature that generates sample podcast packs based on natural-language descriptions. Users can describe their mood, genre preferences, or topics of interest and Spotify's AI will surface relevant podcast episodes. The feature reflects Spotify's expanding use of generative AI to improve content discovery across its platform.",
-      "summary_zh": "The Verge：Spotify 推出 Prompted Playlists 功能，用户输入自然语言描述即可让 AI 生成播客推荐合集。该功能根据用户的情绪、类型偏好或感兴趣主题，推送相关播客单集。这是 Spotify 扩展生成式 AI 在内容发现领域应用的又一举措。",
-      "tags": [
-        "AI应用",
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
-      "published_at": "2026-04-07T20:13:00Z",
-      "collected_at": "2026-04-08T00:15:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
       "id": "630088a2",
       "lang": "en",
       "title_en": "Gemma 4: Byte for Byte, the Most Capable Open Models",
@@ -79,27 +116,6 @@
       "importance": 5,
       "merged_sources": [
         "https://github.com/mattmireles/gemma-tuner-multimodal"
-      ]
-    },
-    {
-      "id": "d737ab91",
-      "lang": "en",
-      "title_en": "Assessing Claude Mythos Preview's Cybersecurity Capabilities",
-      "title_zh": "Anthropic 评估 Claude Mythos Preview 网络安全能力",
-      "summary_en": "Anthropic: Anthropic's red team published an assessment of Claude Mythos Preview's cybersecurity capabilities, evaluating its ability to assist with offensive and defensive security tasks. The report accompanies the launch of Project Glasswing and describes the controlled evaluation methodology used to gauge the model's potential for misuse. Findings indicate significant capability uplift for security research while highlighting guardrails designed to prevent malicious exploitation.",
-      "summary_zh": "Anthropic：Anthropic 红队发布 Claude Mythos Preview 网络安全能力评估报告，系统测评其在攻防安全任务上的辅助能力，并随 Glasswing 项目同步披露。报告介绍了受控评估方法论，指出该模型在安全研究方面具有显著能力提升，同时阐述了防止恶意利用的护栏设计。",
-      "tags": [
-        "安全",
-        "模型评测",
-        "AI安全"
-      ],
-      "source_name": "Anthropic",
-      "source_url": "https://red.anthropic.com/2026/mythos-preview/",
-      "published_at": "2026-04-07T18:11:00Z",
-      "collected_at": "2026-04-08T00:15:00Z",
-      "importance": 4,
-      "merged_sources": [
-        "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf"
       ]
     }
   ]
