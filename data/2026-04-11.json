@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "generated_at": "2026-04-11T00:10:00Z",
+  "generated_at": "2026-04-11T03:00:00Z",
   "items": [
     {
       "id": "eb632442",
@@ -68,6 +68,56 @@
       "source_url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
       "published_at": "2026-04-10T16:41:34Z",
       "collected_at": "2026-04-11T00:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "2c2f832b",
+      "lang": "zh",
+      "title_zh": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+      "summary_zh": "量子位：中国初创公司灵初智能发布近10万小时人类操作数据集，远超行业最大公开集（英伟达EgoScale 2万小时），并开源1000小时数据。该团队由00后创始人带队，采用人类第一视角视频进行具身智能训练，在多项全球基准测试中夺冠，标志着机器人训练进入大规模人类数据驱动新阶段。",
+      "tags": [
+        "具身智能",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/399417.html",
+      "published_at": "2026-04-11T02:07:08Z",
+      "collected_at": "2026-04-11T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "3859adc9",
+      "lang": "zh",
+      "title_zh": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
+      "summary_zh": "量子位：当地时间凌晨3:45，一名20岁男子向OpenAI CEO Sam Altman位于旧金山的住宅投掷简易燃烧瓶，随后被警方逮捕。燃烧瓶未命中房屋，无人受伤。Altman事后发文分享家人照片并表态，称事件促使他反思公众对AI焦虑情绪及媒体叙事的影响力。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/399473.html",
+      "published_at": "2026-04-11T02:19:13Z",
+      "collected_at": "2026-04-11T03:00:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail"
+      ]
+    },
+    {
+      "id": "e1099284",
+      "lang": "zh",
+      "title_zh": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
+      "summary_zh": "量子位：普林斯顿刘壮团队（陈丹琦参与）发布开源视觉推理强化学习框架Vero，无需思维链标注数据，在30余项测试中达到8B视觉语言模型SOTA。Vero解决了以往RL方案只能覆盖特定视觉任务、多任务混训易崩溃的问题，证明学术界在合适投入下可追平顶尖工业界表现。",
+      "tags": [
+        "推理",
+        "开源",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/399393.html",
+      "published_at": "2026-04-11T01:23:42Z",
+      "collected_at": "2026-04-11T03:00:00Z",
       "importance": 4,
       "merged_sources": []
     }

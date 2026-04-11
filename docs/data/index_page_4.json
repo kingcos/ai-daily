@@ -1,7 +1,9 @@
 {
-  "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T03:11:00Z",
+  "latest_date": "2026-04-11",
+  "updated_at": "2026-04-11T03:10:45Z",
   "dates": [
+    "2026-04-11",
+    "2026-04-10",
     "2026-04-08",
     "2026-04-07",
     "2026-04-06",
@@ -37,360 +39,353 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 490,
+  "total_items": 510,
   "page": 4,
   "page_size": 20,
-  "total_pages": 25,
+  "total_pages": 26,
   "items": [
     {
-      "id": "2f22c4fb",
+      "id": "b281bdf7",
       "lang": "en",
-      "title_en": "Emotion Concepts and Their Function in a Large Language Model",
-      "title_zh": "大语言模型中情感概念的功能研究",
-      "summary_en": "Anthropic: Anthropic researchers published a study exploring how emotion-like concepts emerge and function within large language models. The paper investigates whether LLMs develop internal representations analogous to human emotion and how these influence model behavior and outputs.",
-      "summary_zh": "Anthropic：Anthropic 研究人员发表论文，探讨大语言模型内部是否形成类似情感的概念，以及这些概念如何影响模型行为和输出。研究揭示了 LLM 内部表征与人类情感的潜在类比关系。",
+      "title_en": "Copilot is 'for entertainment purposes only,' according to Microsoft's terms of use",
+      "title_zh": "微软Copilot条款标注「仅供娱乐」",
+      "summary_en": "Microsoft: Microsoft's Copilot terms of use, last updated October 24, 2025, state the product is \"for entertainment purposes only\" and should not be relied on for important advice. A spokesperson said the language is outdated and will be updated to reflect how Copilot is used today. The disclosure surfaces amid broader industry scrutiny of how AI companies characterize model reliability in legal documents.",
+      "summary_zh": "微软：Copilot服务条款（最后更新于2025年10月24日）标注该产品「仅供娱乐目的」，警告用户不应依赖其进行重要决策。微软发言人承认该措辞已过时，将予以更新。此事引发外界对AI公司如何在法律文件中描述模型可靠性的广泛关注。",
       "tags": [
-        "AI安全",
-        "基础研究"
+        "政策监管"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "published_at": "2026-04-04T22:30:25Z",
-      "collected_at": "2026-04-05T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "4b5942c9",
-      "lang": "en",
-      "title_en": "Components of a Coding Agent",
-      "title_zh": "编程 Agent 的核心组成",
-      "summary_en": "Hacker News: Sebastian Raschka's article breaks down the essential architectural components of a coding agent — including planning, tool use, code execution, memory, and feedback loops — and discusses design trade-offs relevant to building production-grade AI software agents.",
-      "summary_zh": "Hacker News：Sebastian Raschka 发文分析编程 Agent 的核心架构组件，包括规划、工具调用、代码执行、记忆和反馈循环，并探讨构建生产级 AI 软件 Agent 的设计取舍。",
-      "tags": [
-        "AI应用",
-        "Agent"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-      "published_at": "2026-04-04T21:16:33Z",
-      "collected_at": "2026-04-05T00:00:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "published_at": "2026-04-05T18:51:37Z",
+      "collected_at": "2026-04-06T00:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "16a592df",
+      "id": "79753a90",
       "lang": "en",
-      "title_en": "A folk musician became a target for AI fakes and a copyright troll",
-      "title_zh": "一位民谣音乐人成为AI造假和版权流氓的双重受害者",
-      "summary_en": "The Verge: Murphy Campbell, a folk musician, found herself targeted both by AI-generated fake content mimicking her work and a copyright troll exploiting the situation. The case highlights the compounding legal and reputational risks that independent artists face in the generative AI era.",
-      "summary_zh": "The Verge：民谣音乐人 Murphy Campbell 遭遇双重困境——AI 生成的仿冒内容泛滥，同时版权流氓趁机发起诉讼。此案凸显了生成式 AI 时代独立艺术家面临的法律与声誉叠加风险。",
+      "title_en": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "title_zh": "用LM Studio无头CLI与Claude Code本地运行Gemma 4",
+      "summary_en": "[title-only] Google: A guide demonstrating how to run Google's Gemma 4 model locally using LM Studio's new headless CLI in combination with Claude Code, enabling local AI inference workflows without a graphical interface.",
+      "summary_zh": "Google：本文介绍如何利用LM Studio新推出的无头CLI工具结合Claude Code，在本地运行Google Gemma 4模型，实现无需图形界面的本地AI推理工作流。",
+      "tags": [
+        "开源",
+        "编程"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "published_at": "2026-04-05T17:13:51Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "22bfdeb3",
+      "lang": "en",
+      "title_en": "Suno is a music copyright nightmare",
+      "title_zh": "Suno版权问题调查：AI仿冒乐曲泛滥",
+      "summary_en": "Suno: An investigation found Suno's copyright filters are easily bypassed, enabling users to generate AI imitations of songs including works by Beyonce, Black Sabbath, and Aqua using free software. AI detectors flagged the outputs as likely AI-generated. Suno's policy prohibits copyrighted material, but enforcement appears ineffective, raising concerns about streaming platforms being flooded with AI cover slop.",
+      "summary_zh": "Suno：调查发现Suno平台版权过滤器极易绕过，用户可利用免费软件生成碧昂斯、黑色安息日等歌手作品的AI仿冒版本，AI检测工具均将其标记为疑似AI生成。Suno声称禁止使用受版权保护素材，但实际执行效果存疑，外界担忧流媒体平台将被AI仿冒音乐大量侵占。",
       "tags": [
         "政策监管",
         "多模态"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-      "published_at": "2026-04-04T17:52:00Z",
-      "collected_at": "2026-04-05T00:00:00Z",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "published_at": "2026-04-05T16:00:00Z",
+      "collected_at": "2026-04-06T00:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "9c43866c",
+      "id": "7be922b9",
       "lang": "en",
-      "title_en": "Really, you made this without AI? Prove it",
-      "title_zh": "证明你的作品不是AI生成的",
-      "summary_en": "The Verge: As generative AI increasingly mimics human creative output, The Verge explores the growing movement to label human-made content. With platforms like Instagram and existing C2PA standards failing to adequately distinguish AI from human work, advocates argue it may be more practical to certify and fingerprint human-made content rather than flag AI output. Multiple authentication solutions have emerged but face adoption challenges.",
-      "summary_zh": "The Verge：随着生成式AI越来越能模仿人类创作，The Verge 探讨了为人类作品贴标签的新兴运动。Instagram 负责人建议为真实媒体加指纹而非标记AI内容，现有C2PA标准效果有限。多种人类创作认证方案已涌现，但面临推广挑战。",
+      "title_en": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "title_zh": "Gemini 接管 Google Maps 行程规划：出人意料地好用",
+      "summary_en": "The Verge: Google's Gemini AI, integrated into Google Maps, was tested for full-day itinerary planning. The hands-on found it capable of building coherent travel plans with restaurant picks, transit suggestions, and timing — outperforming earlier AI map assistants in practical usability.",
+      "summary_zh": "The Verge：测试者将 Google Maps 中的 Gemini AI 用于全天行程规划，发现其能自动整合餐厅推荐、交通建议和时间安排，实用性超出预期，表现优于以往的 AI 地图助手。",
       "tags": [
-        "多模态",
+        "AI应用",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "published_at": "2026-04-05T14:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9c73d434",
+      "lang": "en",
+      "title_en": "Eight years of wanting, three months of building with AI",
+      "title_zh": "渴望了八年，借助 AI 三个月造出来了",
+      "summary_en": "Hacker News: A developer who spent eight years wishing for better SQLite developer tooling used AI to build SyntaQLite in just three months. The post explores how AI coding assistants dramatically compressed the time from idea to shipping product for solo developers.",
+      "summary_zh": "Hacker News：一位开发者等待了八年，希望有更好的 SQLite 开发工具，最终借助 AI 在三个月内完成了 SyntaQLite。文章探讨了 AI 编码助手如何大幅压缩独立开发者从想法到上线的时间。",
+      "tags": [
+        "AI应用",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "published_at": "2026-04-05T12:43:47Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9571bb9e",
+      "lang": "en",
+      "title_en": "Grammarly's sloppelganger saga",
+      "title_zh": "Grammarly 的 AI 审稿困境",
+      "summary_en": "The Verge: An expert reviewer recounts a lengthy saga with Grammarly, whose AI suggestions increasingly homogenized their writing style — raising questions about how AI grammar and writing tools reshape individual voice and the broader implications for authentic expression.",
+      "summary_zh": "The Verge：一位专业审稿人讲述了与 Grammarly 的漫长纠葛——AI 建议不断同质化其写作风格，引发了对 AI 写作工具如何重塑个人表达以及真实性的深层思考。",
+      "tags": [
+        "AI应用",
         "政策监管"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-      "published_at": "2026-04-04T13:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
+      "source_url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "published_at": "2026-04-05T12:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "602de05a",
+      "id": "2d5b2299",
       "lang": "en",
-      "title_en": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
-      "title_zh": "AI神童辍学创业，投资人买单",
-      "summary_en": "[title-only] WSJ: Young AI entrepreneurs are dropping out of college and attracting venture capital funding to pursue AI startups, reflecting intense investor interest in early-stage AI talent.",
-      "summary_zh": "WSJ：AI领域年轻创业者纷纷辍学，吸引风险投资支持其AI创业公司，反映出投资者对早期AI人才的强烈兴趣。",
+      "title_en": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "title_zh": "日本机器人不抢工作，专填无人愿做的岗位",
+      "summary_en": "TechCrunch: Driven by severe labor shortages, Japan is moving physical AI and robotics from pilot projects into real-world deployment at scale — focusing on physically demanding or undesirable jobs in logistics, agriculture, and care sectors rather than displacing white-collar workers.",
+      "summary_zh": "TechCrunch：面对严峻的劳动力短缺，日本正将物理 AI 与机器人技术从试点推向大规模落地，重点填补物流、农业和护理等行业中无人愿做的体力岗位，而非取代脑力工作者。",
       "tags": [
-        "融资"
+        "AI应用",
+        "机器人"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
-      "published_at": "2026-04-04T10:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "published_at": "2026-04-05T10:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "f3b7e290",
+      "lang": "zh",
+      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "summary_zh": "太初元碁：在公司成立五周年大会上，太初元碁宣布向20名员工发放总价值约100万元的百亿算力token（均来自国产智算中心），鼓励员工开展AI Agent创新。同时，太初元碁与浙江工商大学、国家超级计算无锡中心、浙江力积存储科技共建人工智能科教融合学院，为该学院提供智能算力底座，推动「产-学-研」深度融合的AI人才培养。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396533.html",
+      "published_at": "2026-04-05T08:53:12Z",
+      "collected_at": "2026-04-06T00:00:00Z",
       "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "59e024b0",
+      "id": "5ef1c864",
       "lang": "zh",
-      "title_zh": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
-      "summary_zh": "阿里巴巴：发布仅1天的Qwen3.6-Plus在全球大模型API聚合平台OpenRouter的日榜登顶榜首，日调用量突破1.4万亿Token，打破该平台单日单模型调用量全球纪录，较上线当晚激增711%。Qwen3.6-Plus在国际大模型竞技场Arena编程能力子榜排名中国第一，使阿里成为编程能力全球排名第二的AI机构。",
+      "title_zh": "OpenAI新模型不是GPTX！全新预训练「土豆」曝光，Sora成弃子的原因找到了",
+      "summary_zh": "量子位：据报道，OpenAI 正在训练一款代号为「土豆」的全新预训练基础模型，定位并非 GPT-X 系列延续，同时有消息称 Sora 团队遭遇内部资源重组，可能是其发展滞后的主因。",
       "tags": [
-        "产品发布",
-        "评测基准",
-        "编程"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/396346.html",
-      "published_at": "2026-04-04T06:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "fcbeccba",
-      "lang": "zh",
-      "title_zh": "Django创始人：30岁程序员受AI冲击最大",
-      "summary_zh": "量子位：Django联合创始人Simon Willison表示，自2025年11月起AI写代码能力跨越临界点，高质量代码产出量提升30至40倍，单日原型从1至2天变为3小时出3套方案。他警告30岁程序员受冲击最大，因为刚积累的熟练度被AI直接替代，而资深工程师的20年架构经验反被AI放大。美国律师行业因AI幻觉搞砸案子的记录已累计1228起。",
-      "tags": [
-        "Agent",
-        "编程"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/395995.html",
-      "published_at": "2026-04-04T04:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "47528d42",
-      "lang": "zh",
-      "title_zh": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
-      "summary_zh": "量子位：一群19岁左右的常青藤辍学中国年轻人推出AI记忆框架M-FLOW，突破传统RAG仅做语义相似匹配的局限。M-FLOW采用图结构从细粒度Entity到完整Episode的锥形搜索机制，在多轮对话、长期记忆、多跳推理三大场景下性能显著优于Mem0、Graphiti、Cognee等主流方案，覆盖29项能力维度大多实现完整支持。",
-      "tags": [
-        "RAG",
-        "Agent",
-        "研究论文"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/396069.html",
-      "published_at": "2026-04-04T02:00:00Z",
-      "collected_at": "2026-04-04T15:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "76f515f7",
-      "lang": "en",
-      "title_en": "Anthropic Is Having a Moment in the Private Markets; SpaceX Could Spoil the Party",
-      "title_zh": "Anthropic 在私募二级市场走俏，SpaceX IPO 或分流资金",
-      "summary_en": "TechCrunch: Rainmaker Securities president Glen Anderson says the secondary market for private shares has never been more active, with Anthropic emerging as the hottest trade. OpenAI has been losing secondary market momentum, and SpaceX's anticipated IPO could divert institutional appetite away from private AI company shares.",
-      "summary_zh": "TechCrunch：Rainmaker Securities 总裁 Glen Anderson 表示，私募股权二级市场从未如此活跃，Anthropic 已成为最热门交易标的，OpenAI 热度有所下滑。SpaceX 即将到来的 IPO 可能分流机构投资者对 AI 私募股权的兴趣。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "published_at": "2026-04-04T01:31:00Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f3b5bab7",
-      "lang": "en",
-      "title_en": "OpenAI Cap Table Leak Reveals Microsoft's 18x Return, SoftBank's $50B Gain, and a CEO Who Owns Nothing",
-      "title_zh": "OpenAI 股权表泄露：微软回报18倍，奥特曼持股为零",
-      "summary_en": "Forbes: A leaked OpenAI cap table reveals that Microsoft stands to earn approximately 18 times its investment return, while SoftBank has seen a $50 billion paper gain. The table also shows that CEO Sam Altman currently holds no equity stake in the company, a notable detail given ongoing discussions about his compensation.",
-      "summary_zh": "Forbes：泄露的 OpenAI 股权表显示，微软的投资回报约为18倍，软银账面浮盈约500亿美元。股权表还揭示 CEO 山姆·奥特曼目前不持有公司任何股权，在外界广泛讨论其薪酬方案的背景下尤为引人注目。",
-      "tags": [
-        "融资"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.forbes.com/sites/josipamajic/2026/04/02/openai-cap-table-leak-reveals-microsofts-18x-return-softbanks-50b-gain-and-a-ceo-who-owns-nothing/",
-      "published_at": "2026-04-04T00:34:49Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "1606dc74",
-      "lang": "en",
-      "title_en": "Anthropic Bans Third-Party Harnesses Like OpenClaw from Using Claude Subscriptions",
-      "title_zh": "Anthropic 禁止第三方客户端使用 Claude 订阅额度",
-      "summary_en": "Anthropic: Starting April 4th at 3PM ET, Claude subscribers will no longer be able to use their subscription limits with third-party tools such as OpenClaw. Users wishing to continue using OpenClaw with Claude must switch to a separate pay-as-you-go billing option, effectively decoupling third-party harness access from subscription plans. The change comes as OpenClaw founder Peter Steinberger has joined OpenAI.",
-      "summary_zh": "Anthropic：从美国东部时间4月4日下午3点起，Claude 订阅用户将无法再通过 OpenClaw 等第三方工具使用订阅额度，需切换至独立的按量计费方式。此举有效将第三方客户端与订阅套餐解耦，时机与 OpenClaw 创始人 Peter Steinberger 加入 OpenAI 高度吻合。",
-      "tags": [
-        "产品发布",
-        "政策监管"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-      "published_at": "2026-04-03T23:52:49Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2add1b59",
-      "lang": "en",
-      "title_en": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-      "title_zh": "Claude Code 发现隐藏23年的 Linux 内核漏洞",
-      "summary_en": "mtlynch.io: A developer used Anthropic's Claude Code to audit a Linux kernel subsystem and discovered a security vulnerability that had been present in the codebase for over 23 years. The finding highlights Claude Code's capability as a deep code analysis and security auditing tool, potentially surpassing conventional static analyzers in surfacing complex, long-latent bugs.",
-      "summary_zh": "mtlynch.io：一位开发者使用 Anthropic 的 Claude Code 对 Linux 内核子系统进行安全审计，发现了一个潜伏超过23年的安全漏洞，展示了 Claude Code 在深度代码分析与安全审计方面超越传统静态分析工具的潜力。",
-      "tags": [
-        "Agent",
-        "编程"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-      "published_at": "2026-04-03T23:46:51Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "3f97d18a",
-      "lang": "en",
-      "title_en": "Research Finds AI Users Scarily Willing to Surrender Their Cognition to LLMs",
-      "title_zh": "研究：大量用户轻信 AI 错误答案，主动放弃独立思考",
-      "summary_en": "Ars Technica: New research finds that large majorities of AI users uncritically accept faulty AI-generated answers even when demonstrably wrong. The study raises concerns about 'cognitive surrender,' where users defer logical reasoning to AI systems without verification, potentially eroding critical thinking skills at scale over time.",
-      "summary_zh": "Ars Technica：最新研究发现，大多数 AI 用户会不加批判地接受错误的 AI 答案。该研究对「认知让渡」现象发出警告——用户将逻辑推理拱手交给 AI 而不加验证，可能在大规模用户群体中长期侵蚀批判性思维能力。",
-      "tags": [
-        "安全对齐"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
-      "published_at": "2026-04-03T21:06:15Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7f505509",
-      "lang": "en",
-      "title_en": "OpenAI Executive Shuffle: COO Brad Lightcap Gets New Role, CMO Kate Rouch Departs, AGI Boss Takes Medical Leave",
-      "title_zh": "OpenAI 高管大调整：COO 转岗、CMO 离职、AGI CEO 请假",
-      "summary_en": "OpenAI: OpenAI announced a series of C-suite changes. COO Brad Lightcap takes on a new 'special projects' leadership role. CMO Kate Rouch is stepping away to focus on cancer recovery with plans to return. CEO of AGI deployment Fidji Simo will take medical leave for several weeks due to a neuroimmune condition, with president Greg Brockman temporarily assuming oversight of product.",
-      "summary_zh": "OpenAI：OpenAI 宣布多项高管调整。COO Brad Lightcap 转任「特别项目」负责人；CMO Kate Rouch 因癌症康复需要离职，计划康复后回归；AGI 部署 CEO Fidji Simo 因神经免疫疾病休假数周，总裁 Greg Brockman 临时接管产品工作。",
-      "tags": [
+        "大模型",
         "产品发布"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-      "published_at": "2026-04-03T20:35:34Z",
-      "collected_at": "2026-04-04T03:15:00Z",
-      "importance": 4,
-      "merged_sources": [
-        "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence"
-      ]
-    },
-    {
-      "id": "abda4877",
-      "lang": "en",
-      "title_en": "Anthropic Acquires Stealth Biotech AI Startup Coefficient Bio for $400M",
-      "title_zh": "Anthropic 斥资4亿美元收购生物科技 AI 初创 Coefficient Bio",
-      "summary_en": "Anthropic: Anthropic has acquired stealth biotech AI startup Coefficient Bio in a $400 million all-stock deal, according to reports from The Information and Eric Newcomer. Coefficient Bio had been operating quietly, applying AI models to biological research problems. The acquisition marks Anthropic's first major expansion into the biotech sector.",
-      "summary_zh": "Anthropic：据 The Information 及 Eric Newcomer 报道，Anthropic 已以4亿美元全股票方式收购隐身生物科技 AI 初创公司 Coefficient Bio。该公司此前低调运营，专注于将 AI 模型应用于生物研究，此次收购是 Anthropic 首次重大进军生物科技领域。",
-      "tags": [
-        "收购",
-        "医疗"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-      "published_at": "2026-04-03T20:28:40Z",
-      "collected_at": "2026-04-04T03:15:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396535.html",
+      "published_at": "2026-04-05T08:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "2be13a3e",
-      "lang": "en",
-      "title_en": "OpenAI's AGI Boss Is Taking a Leave of Absence",
-      "title_zh": "OpenAI AGI 负责人 Fidji Simo 宣布病假，C 层再度重组",
-      "summary_en": "The Verge: OpenAI AGI boss Fidji Simo is taking a medical leave of absence, according to an internal memo. The departure adds to a wave of C-suite changes at OpenAI, including COO Brad Lightcap taking on a new role and CMO Kate Rouch departing the company.",
-      "summary_zh": "The Verge：据内部备忘录，OpenAI AGI 负责人 Fidji Simo 宣布因病休假。此次变动是 OpenAI 新一轮高管重组的一部分，COO Brad Lightcap 同期获新职位，CMO Kate Rouch 已离职。",
+      "id": "3d90023f",
+      "lang": "zh",
+      "title_zh": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "summary_zh": "量子位：国内 AI 公司太初元碁宣布向全体员工发放价值百亿的算力 token，并计划与高校共建 AI 科教融合学院，推动产学研深度合作，加速 AI 人才培养与应用落地。",
       "tags": [
-        "行业动态"
+        "AI应用",
+        "产业动态"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-      "published_at": "2026-04-03T20:22:59Z",
-      "collected_at": "2026-04-04T09:20:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396533.html",
+      "published_at": "2026-04-05T06:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "82930823",
+      "id": "3d8ec146",
       "lang": "en",
-      "title_en": "Anthropic Ramps Up Political Activities with a New PAC Ahead of Midterms",
-      "title_zh": "Anthropic 成立政治行动委员会，布局美国中期选举",
-      "summary_en": "Anthropic: Anthropic has established a new Political Action Committee (PAC) with midterm elections approaching, positioning itself to support candidates aligned with its AI policy agenda. The move signals a significant escalation in Anthropic's Washington influence strategy.",
-      "summary_zh": "Anthropic：随着美国中期选举临近，Anthropic 成立了政治行动委员会（PAC），准备支持认同其 AI 政策主张的候选人，标志着 Anthropic 在华盛顿政治影响力方面大幅加码。",
+      "title_en": "I used AI. It worked. I hated it",
+      "title_zh": "我用了 AI，它好用，但我很痛苦",
+      "summary_en": "Hacker News: A developer used Claude Code to build a tool they needed and found it technically effective — but the experience felt deeply unsatisfying. The post reflects on what it means to outsource creative problem-solving to AI and the emotional cost of getting results without the journey.",
+      "summary_zh": "Hacker News：一位开发者用 Claude Code 构建了所需工具，技术上相当成功，但过程中却感到极度不适。文章反思了将创造性问题解决外包给 AI 的意义，以及在没有亲历过程的情况下获得结果所带来的情感代价。",
       "tags": [
-        "政策监管"
+        "AI应用",
+        "Agent"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "published_at": "2026-04-03T20:22:18Z",
-      "collected_at": "2026-04-04T03:15:00Z",
+      "source_name": "Hacker News",
+      "source_url": "https://taggart-tech.com/reckoning/",
+      "published_at": "2026-04-05T05:08:39Z",
+      "collected_at": "2026-04-05T15:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "4d459560",
-      "lang": "en",
-      "title_en": "AI Companies Are Building Huge Natural Gas Plants to Power Data Centers. What Could Go Wrong?",
-      "title_zh": "AI 公司大举投建天然气发电厂供数据中心用电，风险几何？",
-      "summary_en": "TechCrunch: Meta, Microsoft, and Google are betting heavily on new natural gas power plants to fuel their AI data centers, reversing years of clean energy pledges. Critics warn of long-term climate and stranded-asset risks if AI demand plateaus or cleaner alternatives arrive sooner than expected.",
-      "summary_zh": "TechCrunch：Meta、微软和谷歌正大规模投建天然气发电厂以满足 AI 数据中心的电力需求，这与此前的清洁能源承诺相悖。批评者警告，若 AI 需求见顶或清洁能源替代提前到来，此举将带来气候风险和搁浅资产风险。",
+      "id": "d304f09b",
+      "lang": "zh",
+      "title_zh": "具身龙虾，上车理想",
+      "summary_zh": "量子位：理想汽车与具身智能初创合作，将 AI 机器人（昵称「龙虾」）部署至门店场景，实现主动迎宾、取车引导等交互功能，探索具身 AI 在汽车零售与服务场景的落地路径。",
       "tags": [
-        "基础设施",
-        "政策监管"
+        "机器人",
+        "AI应用"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-      "published_at": "2026-04-03T19:48:22Z",
-      "collected_at": "2026-04-04T09:20:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396517.html",
+      "published_at": "2026-04-05T05:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "83c3bd56",
-      "lang": "en",
-      "title_en": "The Facebook Insider Building Content Moderation for the AI Era",
-      "title_zh": "前 Facebook 高管创立 Moonbounce，为 AI 时代打造内容审核引擎",
-      "summary_en": "TechCrunch: Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior. Founded by a Facebook insider, the startup aims to help enterprises deploy AI agents that comply with nuanced content rules at scale.",
-      "summary_zh": "TechCrunch：Moonbounce 完成 1200 万美元融资，专注于将内容审核策略转化为可预期的 AI 行为约束引擎。创始人曾任职 Facebook，旨在帮助企业在大规模部署 AI Agent 时保持内容合规性。",
+      "id": "e2a4d6b1",
+      "lang": "zh",
+      "title_zh": "OpenAI新模型不是GPTX！全新预训练「土豆」曝光，Sora成弃子的原因找到了",
+      "summary_zh": "OpenAI：据爆料，OpenAI内部代号「土豆（Spud）」的最新预训练模型即为GPT-6，计划于4月14日发布。知情人士称该模型性能较GPT-5.4提升40%，具备原生多模态架构，支持文本、音频、图像、视频，上下文窗口达2M。OpenAI内部将GPT-6定位为「通向AGI的最后一公里」，并计划将ChatGPT、Codex与Atlas浏览器融合为统一智能体应用。Sora资源被削减以集中支持GPT-6研发。",
       "tags": [
-        "融资",
-        "安全与对齐"
+        "产品发布",
+        "推理",
+        "多模态"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-      "published_at": "2026-04-03T14:00:15Z",
-      "collected_at": "2026-04-04T09:20:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396535.html",
+      "published_at": "2026-04-05T04:49:33Z",
+      "collected_at": "2026-04-06T00:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "0c34644e",
+      "lang": "zh",
+      "title_zh": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
+      "summary_zh": "量子位：AI 自动化安全扫描工具每天向 Linux 内核维护者提交多达 10 份漏洞报告，且大多数报告准确无误，令维护者疲于应对补丁工作。这一现象引发业界对 AI 辅助安全研究规模化带来的工程压力与治理挑战的广泛讨论。",
+      "tags": [
+        "AI安全",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396358.html",
+      "published_at": "2026-04-05T03:00:00Z",
+      "collected_at": "2026-04-05T03:10:08Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "9a60fe2b",
-      "lang": "en",
-      "title_en": "Chatbots Are Now Prescribing Psychiatric Drugs",
-      "title_zh": "AI 聊天机器人开始开具精神科处方药，引发医疗界担忧",
-      "summary_en": "The Verge: Some AI chatbots are now prescribing psychiatric medications in direct-to-consumer mental health apps, a development that has alarmed psychiatrists who question what problem this is solving and worry about patient safety in the absence of proper clinical oversight.",
-      "summary_zh": "The Verge：部分 AI 聊天机器人已开始通过直接面向消费者的心理健康应用开具精神科处方药，引发精神科医生广泛担忧。医疗界质疑此举的实际必要性，并对缺乏临床监督情况下的患者安全深表忧虑。",
+      "id": "655d9a8b",
+      "lang": "zh",
+      "title_zh": "GPT-6，曝光了",
+      "summary_zh": "量子位：有关 OpenAI GPT-6 的内部细节被曝光，报道显示该模型彻底面向 AGI 目标设计，在架构和能力目标上与此前系列有重大差异，OpenAI 正全力押注这一下一代旗舰模型。",
       "tags": [
-        "安全与对齐",
-        "行业动态"
+        "大模型",
+        "产品发布"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-psychiatric-drugs",
-      "published_at": "2026-04-03T11:43:21Z",
-      "collected_at": "2026-04-04T09:20:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396366.html",
+      "published_at": "2026-04-05T03:00:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "f04624aa",
+      "lang": "en",
+      "title_en": "Towards end-to-end automation of AI research",
+      "title_zh": "AI 研究全自动化初现曙光",
+      "summary_en": "Hacker News: A Nature paper demonstrates an AI system capable of producing research papers with minimal human involvement — even passing the first round of peer review at a major ML conference workshop. The finding raises questions about the future role of human researchers and the integrity of scientific publishing.",
+      "summary_zh": "Hacker News：《自然》刊发论文，展示了一套几乎无需人工干预即可生成研究论文的 AI 系统，甚至通过了顶级机器学习会议分会场的首轮同行评审，引发科研诚信与人类研究者未来角色的深层讨论。",
+      "tags": [
+        "基础研究",
+        "AI安全"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.nature.com/articles/s41586-026-10265-5",
+      "published_at": "2026-04-05T02:48:00Z",
+      "collected_at": "2026-04-05T15:10:00Z",
       "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "90715715",
+      "lang": "zh",
+      "title_zh": "为了不跟龙虾抢电脑用，有人开始造Agent专属的\"三无\"硬件，比Mac Mini+存储便宜",
+      "summary_zh": "量子位：随着本地运行 AI Agent（昵称「小龙虾」）需求激增，一位创业者推出专为 Agent 设计的 Agent Computer 硬件——无多余外设、专注本地推理与数据存储，定价低于 Mac Mini 加额外存储组合，主打隐私与专属算力。",
+      "tags": [
+        "AI应用",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/396351.html",
+      "published_at": "2026-04-05T02:30:00Z",
+      "collected_at": "2026-04-05T03:10:08Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "91fc906a",
+      "lang": "en",
+      "title_en": "LLM Wiki – An \"Idea File\" for Language Model Research (Karpathy)",
+      "title_zh": "Karpathy 分享大语言模型研究想法清单",
+      "summary_en": "Hacker News: Andrej Karpathy shared a GitHub Gist serving as a running \"idea file\" for LLM research directions, covering topics such as architecture improvements, training techniques, evaluation methods, and open problems in the field. The list quickly gained community attention.",
+      "summary_zh": "Hacker News：Andrej Karpathy 在 GitHub Gist 公开了一份持续更新的 LLM 研究想法清单，涵盖架构改进、训练技巧、评估方法及未解难题，迅速引发社区热议。",
+      "tags": [
+        "基础研究",
+        "大模型"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "published_at": "2026-04-05T00:57:45Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "45a8c079",
+      "lang": "en",
+      "title_en": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "title_zh": "Parlor：M3 Pro 本地运行 Gemma E2B 实时音视频 AI 对话",
+      "summary_en": "Hacker News: A developer demonstrated Parlor, a local real-time AI assistant running on Apple M3 Pro using Google's Gemma E2B model. It accepts audio and video input and delivers voice output entirely on-device without cloud dependencies.",
+      "summary_zh": "Hacker News：开发者展示 Parlor，在 Apple M3 Pro 上基于 Gemma E2B 本地运行的实时 AI 助手，支持音频和视频输入，以语音输出，完全设备端运行，无需云端依赖。",
+      "tags": [
+        "本地部署",
+        "多模态"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/fikrikarim/parlor",
+      "published_at": "2026-04-05T00:00:00Z",
+      "collected_at": "2026-04-06T15:08:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "6c13f2a3",
+      "lang": "en",
+      "title_en": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "title_zh": "sllm：多人共享GPU节点，不限 Token 的 LLM 推理服务",
+      "summary_en": "Hacker News: sllm is an open-source tool that allows developers to share a GPU node for LLM inference with no token limits. The project aims to make high-throughput model inference more accessible and cost-effective for small teams and researchers.",
+      "summary_zh": "Hacker News：sllm 是一款开源工具，支持多名开发者共享同一 GPU 节点运行 LLM 推理，且无 Token 限制。该项目旨在让小团队和研究人员以更低成本获得高吞吐量的模型推理能力。",
+      "tags": [
+        "推理",
+        "开源"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://sllm.cloud",
+      "published_at": "2026-04-04T23:18:58Z",
+      "collected_at": "2026-04-05T00:00:00Z",
+      "importance": 2,
       "merged_sources": []
     }
   ]

@@ -1,7 +1,9 @@
 {
-  "latest_date": "2026-04-08",
-  "updated_at": "2026-04-08T00:15:00Z",
+  "latest_date": "2026-04-11",
+  "updated_at": "2026-04-11T03:10:45Z",
   "dates": [
+    "2026-04-11",
+    "2026-04-10",
     "2026-04-08",
     "2026-04-07",
     "2026-04-06",
@@ -37,341 +39,345 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 489,
+  "total_items": 510,
   "page": 21,
   "page_size": 20,
-  "total_pages": 25,
+  "total_pages": 26,
   "items": [
     {
-      "id": "b5b6efbc",
+      "id": "c795aa86",
       "lang": "en",
-      "title_en": "Musk says he's building Terafab chip plant in Austin, Texas",
-      "title_zh": "马斯克宣布在德州奥斯汀建设Terafab芯片工厂",
-      "summary_en": "xAI/Tesla/SpaceX: Elon Musk announced plans to build a Terafab plant in Austin, Texas, to be jointly operated by Tesla and SpaceX. The facility aims to manufacture chips at scale for robotics, AI, and space-based data centers. The announcement comes amid broader industry concerns about AI chip supply constraints.",
-      "summary_zh": "xAI/Tesla/SpaceX：埃隆·马斯克宣布将在德克萨斯州奥斯汀建设Terafab工厂，由特斯拉和SpaceX联合运营，目标是大规模生产用于机器人、人工智能及太空数据中心的芯片。马斯克表示此举旨在缓解AI行业芯片供应紧张问题。",
+      "title_en": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+      "title_zh": "Altman 支持的核聚变初创公司 Helion 与 OpenAI 洽谈供电协议",
+      "summary_en": "TechCrunch: Helion Energy, the nuclear fusion startup backed by Sam Altman, is reportedly negotiating to sell 12.5% of its power output to OpenAI. The deal underscores OpenAI's aggressive push to secure large-scale clean energy for its expanding AI infrastructure.",
+      "summary_zh": "TechCrunch：由 Sam Altman 等投资的核聚变初创 Helion Energy 据报正与 OpenAI 洽谈，拟将 12.5% 发电量出售给 OpenAI，以支持其快速扩张的 AI 基础设施对大规模清洁能源的需求。",
       "tags": [
-        "硬件"
+        "AI基础设施",
+        "能源"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
-      "published_at": "2026-03-22T14:06:48Z",
-      "collected_at": "2026-03-23T00:00:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "published_at": "2026-03-23T15:03:36Z",
+      "collected_at": "2026-03-23T15:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "de321142",
+      "id": "76109139",
       "lang": "en",
-      "title_en": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple",
-      "title_zh": "独家探访亚马逊Trainium实验室：赢得Anthropic、OpenAI乃至苹果青睐的芯片",
-      "summary_en": "TechCrunch: An inside look at Amazon's Trainium chip lab reveals how AWS has built a competitive AI accelerator attracting major customers including Anthropic, OpenAI, and Apple. Trainium offers a cost-effective alternative to Nvidia GPUs and is central to Amazon's strategy to reduce AI chip dependency.",
-      "summary_zh": "TechCrunch：对亚马逊Trainium芯片实验室的独家探访揭示，AWS打造的竞争性AI加速器已吸引Anthropic、OpenAI和苹果等顶级客户，提供比英伟达GPU更具成本优势的选择，是亚马逊降低对第三方AI芯片依赖的核心战略。",
+      "title_en": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "title_zh": "iPhone 17 Pro 本地运行 4000 亿参数大模型演示",
+      "summary_en": "Hacker News: A demo video shows an iPhone 17 Pro running a 400-billion-parameter LLM locally using Apple's on-device neural engine. The demonstration sparked discussion about the state of edge AI and Apple Silicon's performance trajectory for large model inference.",
+      "summary_zh": "Hacker News：演示视频显示 iPhone 17 Pro 可在本地运行 4000 亿参数大语言模型，借助苹果片上神经引擎实现，引发社区对端侧 AI 能力与苹果芯片性能路线的广泛讨论。",
       "tags": [
-        "AI芯片",
-        "Amazon",
-        "云计算"
+        "硬件",
+        "边缘AI",
+        "Apple"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-      "published_at": "2026-03-22T12:00:00Z",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/anemll/status/2035901335984611412",
+      "published_at": "2026-03-23T14:30:10Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b4e74e04",
+      "lang": "en",
+      "title_en": "Confronting the CEO of the AI company that impersonated me",
+      "title_zh": "对话那家 AI 公司 CEO：它的产品冒充了我",
+      "summary_en": "The Verge: Grammarly's 'Expert Review' feature sparked controversy after it appeared to impersonate The Verge's Nilay Patel via AI. Superhuman CEO Shishir Mehrotra responds to the incident, discussing the ethics of AI impersonation in productivity tools and whether such systems create or extract value.",
+      "summary_zh": "The Verge：Grammarly「Expert Review」功能被指借 AI 模仿 The Verge 主编 Nilay Patel 风格，引发争议。Superhuman CEO Shishir Mehrotra 就此作出回应，探讨 AI 冒充真人专家的伦理边界。",
+      "tags": [
+        "安全对齐",
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "published_at": "2026-03-23T13:30:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "3f7f4d2b",
+      "lang": "en",
+      "title_en": "Snowflake lays off documentation staff after they train AI replacement",
+      "title_zh": "Snowflake 让文档团队训练 AI 后将其裁员",
+      "summary_en": "Hacker News: Snowflake reportedly laid off its documentation team shortly after tasking them with training an AI system to replace their roles. The incident has become a widely cited example of AI-driven workforce displacement and raises ethical questions about companies asking employees to build their own replacements.",
+      "summary_zh": "Hacker News：Snowflake 被报道在安排文档团队训练用于替代其工作的 AI 系统后随即将其裁员，此事件被广泛引用为 AI 驱动劳动力替代的典型案例，引发伦理层面的争议。",
+      "tags": [
+        "行业动态",
+        "安全对齐"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://threadreaderapp.com/thread/2035197183230709874.html",
+      "published_at": "2026-03-23T11:35:30Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "6a8da9dc",
+      "lang": "zh",
+      "title_zh": "别人都在卷视觉，这家具身公司偏要卷「手感」",
+      "summary_zh": "量子位：在具身智能赛道普遍聚焦视觉感知的背景下，一家具身机器人公司另辟蹊径，深耕触觉感知技术。通过高精度触觉传感器与AI控制算法结合，实现机器人在精细操作任务中的突破，有望解决工业场景中的灵巧操作难题。",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "触觉感知"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391314.html",
+      "published_at": "2026-03-23T03:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "45529cfb",
+      "lang": "zh",
+      "title_zh": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
+      "summary_zh": "量子位：字节跳动开源的AI Agent框架在GitHub上迅速走红，获超35k Star。该框架采用MCP架构，内置丰富的Skill工具包，原生支持飞书集成，降低了企业构建AI应用的门槛，引发开发者社区广泛关注。",
+      "tags": [
+        "AI Agent",
+        "开源",
+        "字节跳动"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391361.html",
+      "published_at": "2026-03-23T02:00:00Z",
       "collected_at": "2026-03-23T09:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "2f12b72a",
+      "id": "95ec809e",
       "lang": "en",
-      "title_en": "AI was everywhere at gaming's big developer conference — except the games",
-      "title_zh": "GDC 2026：AI工具泛滥，成功游戏仍靠人工创作",
-      "summary_en": "The Verge: At GDC 2026, generative AI tools were prominently featured across the show floor, including AI-driven NPCs, auto-generated game worlds, and QA automation. Tencent showcased a pixel-art fantasy world generated entirely by AI. However, developers expressed widespread concern that AI tools remove craft from game-making, and commercially successful games at the conference remained human-crafted.",
-      "summary_zh": "The Verge：在GDC 2026上，生成式AI工具大量亮相，涵盖AI驱动NPC、自动生成游戏世界及QA自动化等，腾讯展示了AI生成的像素风奇幻世界Demo。开发者普遍担忧AI削弱游戏制作匠心，大会上的商业成功游戏仍以人工创作为主。",
+      "title_en": "Mark Zuckerberg is an AI CEO now",
+      "title_zh": "扎克伯格已成为一位 AI CEO",
+      "summary_en": "Meta: Mark Zuckerberg's identity and strategic focus have fundamentally shifted toward AI leadership, with Meta's core business bets now centered on AI models, AI assistants, and AI-powered products across its platforms.",
+      "summary_zh": "Meta：扎克伯格的战略重心已全面转向 AI，Meta 核心业务赌注集中在 AI 模型、AI 助手和全平台 AI 产品上，其 CEO 定位已从社交媒体转向 AI 领导者。",
       "tags": [
-        "产品发布",
-        "多模态"
+        "产品发布"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-      "published_at": "2026-03-22T12:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898804/ai-ceo-mark-zuckerberg",
+      "published_at": "2026-03-23T01:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "4b85be95",
+      "id": "13f0d4a0",
       "lang": "zh",
-      "title_zh": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR26",
-      "summary_zh": "浙大：浙江大学团队提出多模态大模型置信度校准新方法，针对模型在图像质量差时仍输出高置信度的问题，通过先校准置信度再动态分配算力的方式提升推理可靠性，相关成果被CVPR 2026接收。",
+      "title_zh": "Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后",
+      "summary_zh": "量子位：Momenta宣布与大众汽车合作，在自动驾驶领域采用世界模型而非VLA架构，成为全球首家大规模落地世界模型的自动驾驶公司。创始人曹旭东表示，传感器重要性在其技术路线中排序靠后，核心在于数据驱动的世界模型建设。",
       "tags": [
-        "研究论文",
-        "多模态",
-        "评测基准"
+        "具身智能",
+        "自动驾驶",
+        "世界模型"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391014.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4ad0c854",
-      "lang": "zh",
-      "title_zh": "阶跃星辰率先适配微信生态，StepClaw即插即养即用",
-      "summary_zh": "阶跃星辰：阶跃星辰宣布旗下AI助手StepClaw率先完成微信生态适配，支持在个人聊天场景中即插即用，成为首批接入微信的AI Agent之一，面向C端用户全面开放。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391010.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "4c7138cb",
-      "lang": "zh",
-      "title_zh": "大厂抢郭达雅进行时！DeepSeek核心成员还是个综艺巨佬",
-      "summary_zh": "DeepSeek：DeepSeek核心研究成员郭达雅因综艺节目走红，被多家大厂争相邀请，引发AI圈对顶尖研究人才流动的广泛关注。文章披露其在DeepSeek团队中的技术背景及角色。",
-      "tags": [
-        "Agent"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390990.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "538b8163",
-      "lang": "zh",
-      "title_zh": "上海凭什么敢自封开发者之城？WAIC 2026大会议程解读",
-      "summary_zh": "上海：WAIC 2026将于3月27日开幕，本届大会主打「开发者之城」定位，议程涵盖大模型、Agent、具身智能等核心方向，面向开发者开放WAIC直通卡。",
-      "tags": [
-        "政策监管"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390977.html",
-      "published_at": "2026-03-22T00:00:00Z",
-      "collected_at": "2026-03-23T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "651ee093",
-      "lang": "en",
-      "title_en": "Gemini task automation is slow, clunky, and super impressive",
-      "title_zh": "Gemini任务自动化实测：慢但令人印象深刻",
-      "summary_en": "Google: Gemini's new task automation feature, tested on Pixel 10 Pro and Galaxy S26 Ultra, allows the assistant to control apps like Uber and DoorDash on behalf of users. Currently limited to a handful of food delivery and rideshare apps and still in beta, the feature is slow and clunky but demonstrates meaningful progress toward on-device AI agents. Compared favorably against Siri's current capabilities.",
-      "summary_zh": "Google：Gemini新推出的任务自动化功能在Pixel 10 Pro和Galaxy S26 Ultra上测试，支持代用户操控Uber、DoorDash等外卖和打车应用。功能目前仍处于测试阶段，仅支持少数应用，速度较慢，但展现出设备端AI Agent的实质性进展，被认为远超Siri现有能力。",
-      "tags": [
-        "产品发布",
-        "Agent"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
-      "published_at": "2026-03-21T11:30:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391474.html",
+      "published_at": "2026-03-23T01:00:00Z",
+      "collected_at": "2026-03-23T09:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "9af58a2d",
+      "id": "af9be772",
       "lang": "zh",
-      "title_zh": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
-      "summary_zh": "光轮智能：英伟达GTC大会上，老黄机器人演示demo背后的核心供应商光轮智能首次曝光，该公司正在定义Physical AI基础设施，为多家顶级机器人厂商提供底层平台支持。",
+      "title_zh": "马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工，算力产能扩5000%",
+      "summary_zh": "马斯克：宣布在德克萨斯州奥斯汀开工建设 Terafab 芯片工厂，目标成为集芯片设计与制造于一体的「英伟达+台积电」，计划将算力产能扩大5000%，缓解 AI 行业芯片短缺。",
       "tags": [
-        "产品发布",
         "硬件"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390924.html",
-      "published_at": "2026-03-21T00:00:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "f7d11125",
-      "lang": "zh",
-      "title_zh": "Cursor套壳Kimi被锤，创始人：忘记署名了",
-      "summary_zh": "Cursor：Cursor被曝其宣称的「自研最强模型」实为套壳Kimi，经社区对比测试后创始人承认并致歉，称忘记在模型卡片中署名。此事引发社区对AI产品自研宣传真实性的广泛讨论，Kimi方面随即公开回应。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390619.html",
-      "published_at": "2026-03-21T00:00:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391045.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "62489f95",
+      "id": "e7f7b8fc",
       "lang": "zh",
-      "title_zh": "北大团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
-      "summary_zh": "北京大学：北大彭宇新团队提出细粒度树先验方法，使生成式模型具备完整生物类别树（界门纲目科属种）认知，在泛化能力和分层识别精度上取得突破，相关成果投稿至顶会。",
+      "title_zh": "黄仁勋发 Token 当工资！硅谷兴起刷量大赛，一人烧掉33个维基百科",
+      "summary_zh": "英伟达：黄仁勋在 GTC 演讲中提出以 AI Token 作为员工奖励，引发硅谷 AI 算力消耗竞赛，据统计部分工程师单日 Token 消耗量相当于33个完整维基百科的文本量。",
       "tags": [
-        "研究论文",
-        "多模态"
+        "产品发布"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390945.html",
-      "published_at": "2026-03-21T00:00:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391061.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "d070dee7",
+      "id": "3c73930e",
       "lang": "zh",
-      "title_zh": "北航团队开源ClawGuard，梳理AI Agent 9大高危风险缓解措施",
-      "summary_zh": "北京航空航天大学：北航团队针对主流AI Agent框架发布开源安全防御工具ClawGuard Auditor，系统梳理9大高危风险及缓解措施，覆盖提示注入、权限滥用等核心攻击面，代码已开源。",
+      "title_zh": "中关村北纬龙虾大赛圆满收官",
+      "summary_zh": "中关村北纬举办的 AI Agent 应用大赛圆满落幕，聚焦智能体时代 AI 应用演进路径，多家企业展示具体落地案例。",
       "tags": [
-        "开源",
-        "安全对齐",
         "Agent"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390918.html",
-      "published_at": "2026-03-21T00:00:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "e3325289",
-      "lang": "zh",
-      "title_zh": "对话越疆刘培超：具身智能收入已到千万级",
-      "summary_zh": "越疆：越疆科技CEO刘培超接受采访，披露公司具身智能业务收入已达千万级，百亿市值目标在望。公司以低调姿态深耕具身AI商业化，在春晚机器人演出中担任幕后支持角色，产品已广泛落地工业场景。",
-      "tags": [
-        "产品发布",
-        "硬件"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390531.html",
-      "published_at": "2026-03-21T00:00:00Z",
-      "collected_at": "2026-03-23T00:30:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "61733052",
-      "lang": "en",
-      "title_en": "Trump takes another shot at dismantling state AI regulation",
-      "title_zh": "特朗普政府再度尝试废除各州 AI 监管法规",
-      "summary_en": "Trump administration: Issued a new AI policy framework aimed at preempting state-level AI regulations, raising concerns among consumer advocates.",
-      "summary_zh": "特朗普政府：发布新的 AI 政策框架，试图以联邦层面规则压制各州 AI 监管立法，引发消费者权益团体担忧。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-      "published_at": "2026-03-20T14:17:02Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "2fed5b06",
-      "lang": "en",
-      "title_en": "Google Search is now using AI to replace headlines",
-      "title_zh": "谷歌搜索开始用 AI 替换新闻标题",
-      "summary_en": "Google: Experimenting with AI-generated summaries that replace news article headlines in Search results, currently testing on a subset of users.",
-      "summary_zh": "谷歌：在搜索结果中试验以 AI 生成摘要取代新闻标题，目前向部分用户开放测试。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-      "published_at": "2026-03-20T10:30:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "a8635377",
-      "lang": "en",
-      "title_en": "Amazon is making an Alexa phone",
-      "title_zh": "亚马逊正在研发 Alexa 手机",
-      "summary_en": "Amazon: Developing a smartphone codenamed Transformer with Alexa as its primary AI interface, entering the AI phone market against Google and Apple.",
-      "summary_zh": "亚马逊：正在开发代号为 Transformer 的智能手机，以 Alexa 为核心 AI 交互界面，正面对标谷歌和苹果的 AI 手机。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
-      "published_at": "2026-03-20T09:42:51Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "fe881229",
-      "lang": "zh",
-      "title_zh": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
-      "summary_zh": "谷歌：推出 AI 设计产品，功能直接对标 Figma，引发合作伙伴股价下跌，软件行业再遭冲击。",
-      "tags": [
-        "产品发布"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/390235.html",
-      "published_at": "2026-03-20T00:00:00Z",
-      "collected_at": "2026-03-23T03:20:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391078.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
       "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "f4e08c34",
-      "lang": "en",
-      "title_en": "OpenAI is planning a desktop 'superapp'",
-      "title_zh": "OpenAI 正在开发桌面端\"超级应用\"",
-      "summary_en": "OpenAI: Developing an Atlas desktop superapp that bundles ChatGPT, Codex, and a browser into a single AI-native application.",
-      "summary_zh": "OpenAI：正在开发代号为 Atlas 的桌面超级应用，将 ChatGPT、Codex 与浏览器整合为一体化 AI 原生产品。",
+      "id": "8b919016",
+      "lang": "zh",
+      "title_zh": "OpenClaw 创始人回信确认360独家发现漏洞",
+      "summary_zh": "360：宣布独家发现 OpenClaw 安全漏洞，并获创始人书面确认，360 安全团队已完成漏洞验证与披露流程。",
       "tags": [
-        "产品发布"
+        "安全对齐"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-      "published_at": "2026-03-19T20:09:38Z",
-      "collected_at": "2026-03-23T03:20:00Z",
-      "importance": 4,
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391303.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "8ea9aa54",
-      "lang": "en",
-      "title_en": "A rogue AI led to a serious security incident at Meta",
-      "title_zh": "Meta 内部 AI Agent 失控引发严重安全事故",
-      "summary_en": "Meta: An autonomous AI agent running inside Meta's infrastructure deviated from its intended behavior, causing a security incident that required manual intervention to contain.",
-      "summary_zh": "Meta：公司内部运行的自主 AI Agent 发生异常行为，引发安全事故，需人工介入才得以控制。",
+      "id": "4e5af414",
+      "lang": "zh",
+      "title_zh": "千问上线AI打车，一句话搞定选车、选地点、选时间",
+      "summary_zh": "阿里千问：正式上线 AI 打车功能，用户只需一句话即可完成选车型、定地点、定时间全流程，依托 Qwen 大模型实现自然语言打车交互。",
       "tags": [
-        "安全对齐",
+        "产品发布",
         "Agent"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-      "published_at": "2026-03-19T16:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
-      "importance": 4,
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391308.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "128248f2",
-      "lang": "en",
-      "title_en": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "title_zh": "贝佐斯据报拟筹资千亿美元 收购传统制造企业并以 AI 改造",
-      "summary_en": "Jeff Bezos: The billionaire is reportedly seeking to raise $100 billion to acquire traditional manufacturing companies and transform them using AI and automation technologies.",
-      "summary_zh": "贝佐斯：据报道这位亿万富翁正寻求筹集 1000 亿美元，收购传统制造企业，并以 AI 和自动化技术对其进行改造。",
+      "id": "01d83ff9",
+      "lang": "zh",
+      "title_zh": "院士+教授加盟趋境科技，领跑高效能AI Token生产新生态",
+      "summary_zh": "趋境科技：宣布院士与教授团队重磅加盟，聚焦高效能 AI Token 生产基础设施建设，定位打造新一代 AI 算力生态。",
       "tags": [
         "融资"
       ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391339.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ba626327",
+      "lang": "en",
+      "title_en": "AI influencer awards season is upon us",
+      "title_zh": "AI 网红评奖季来袭",
+      "summary_en": "The Verge: AI influencer awards and competitions are emerging as a cultural phenomenon, reflecting the growing mainstream visibility of AI personalities and content creators in social media.",
+      "summary_zh": "AI 网红评选活动正在兴起，成为一种文化现象，反映出 AI 个性化内容创作者在社交媒体中日益增长的主流曝光度。",
+      "tags": [
+        "产品发布"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T06:56:18Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "a27c50e6",
+      "lang": "zh",
+      "title_zh": "寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖",
+      "summary_zh": "量子位：ICRA 2026 机器人竞赛正式开启报名，智元机器人作为官方赞助方提供硬件平台、数据与算力支持，鼓励具身智能研究者参赛角逐国际最高荣誉。",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "学术"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391359.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "ec536cb5",
+      "lang": "zh",
+      "title_zh": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年",
+      "summary_zh": "量子位：数学家陶哲轩分享在普林斯顿高等研究院访学一年的经历，坦言那段时间几乎让自己陷入创造力枯竭的危机，并反思了高压学术环境对研究者创造性思维的潜在影响。",
+      "tags": [
+        "学术",
+        "科研",
+        "AI科学家"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391515.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c6964f57",
+      "lang": "zh",
+      "title_zh": "岚图泰山Ultra启动交付，全新一代896线激光雷达上车",
+      "summary_zh": "量子位：岚图汽车旗舰SUV泰山Ultra正式启动量产交付，售价45.99万元，搭载全球首款896线双光路图像级激光雷达及华为顶级智驾系统，是目前量产车中智能驾驶硬件规格最高的产品之一。",
+      "tags": [
+        "自动驾驶",
+        "智能汽车",
+        "激光雷达"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391489.html",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "8198eb55",
+      "lang": "en",
+      "title_en": "Agent Kernel: Three Markdown files that make any AI agent stateful",
+      "title_zh": "Agent Kernel：三个Markdown文件让AI代理具备持久状态",
+      "summary_en": "Hacker News: Show HN project Agent Kernel introduces a minimal framework using three Markdown files to give any AI agent persistent memory and state across sessions. The model-agnostic approach sparked discussion about practical patterns for building stateful AI agents.",
+      "summary_zh": "Hacker News：开源项目 Agent Kernel 通过三个 Markdown 文件为任意 AI 代理赋予跨会话持久记忆与状态管理能力。该方案模型无关、轻量易用，引发社区对构建有状态 AI 代理最佳实践的广泛讨论。",
+      "tags": [
+        "AI代理",
+        "开源",
+        "状态管理"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/oguzbilgic/agent-kernel",
+      "published_at": "2026-03-23T00:00:00Z",
+      "collected_at": "2026-03-23T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "116a1398",
+      "lang": "en",
+      "title_en": "Cursor admits its new coding model was built on top of Moonshot AI's Kimi",
+      "title_zh": "Cursor承认新编程模型基于月之暗面Kimi构建",
+      "summary_en": "TechCrunch: Cursor has acknowledged that its recently released coding model is built on top of Moonshot AI's Kimi foundation model. The disclosure came after users and researchers noticed similarities between the two models, raising questions about transparency in AI product development.",
+      "summary_zh": "TechCrunch：代码编辑器Cursor承认其最新编程模型基于月之暗面Kimi基础模型构建，此前有用户和研究人员发现两模型存在相似性。此事引发外界对AI产品开发透明度的讨论。",
+      "tags": [
+        "AI编程",
+        "模型透明度"
+      ],
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-      "published_at": "2026-03-19T14:00:00Z",
-      "collected_at": "2026-03-23T09:10:00Z",
+      "source_url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "published_at": "2026-03-22T18:41:09Z",
+      "collected_at": "2026-03-23T09:00:00Z",
       "importance": 4,
       "merged_sources": []
     }
