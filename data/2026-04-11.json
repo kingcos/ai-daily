@@ -1,7 +1,57 @@
 {
   "date": "2026-04-11",
-  "generated_at": "2026-04-11T03:00:00Z",
+  "generated_at": "2026-04-11T09:00:00Z",
   "items": [
+    {
+      "id": "3859adc9",
+      "lang": "zh",
+      "title_zh": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
+      "summary_zh": "量子位：当地时间凌晨3:45，一名20岁男子向OpenAI CEO Sam Altman位于旧金山的住宅投掷简易燃烧瓶，随后被警方逮捕。燃烧瓶未命中房屋，无人受伤。Altman事后发文分享家人照片并表态，称事件促使他反思公众对AI焦虑情绪及媒体叙事的影响力。",
+      "tags": [
+        "政策监管"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/399473.html",
+      "published_at": "2026-04-11T02:19:13Z",
+      "collected_at": "2026-04-11T03:00:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail"
+      ]
+    },
+    {
+      "id": "2c2f832b",
+      "lang": "zh",
+      "title_zh": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+      "summary_zh": "量子位：中国初创公司灵初智能发布近10万小时人类操作数据集，远超行业最大公开集（英伟达EgoScale 2万小时），并开源1000小时数据。该团队由00后创始人带队，采用人类第一视角视频进行具身智能训练，在多项全球基准测试中夺冠，标志着机器人训练进入大规模人类数据驱动新阶段。",
+      "tags": [
+        "具身智能",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/399417.html",
+      "published_at": "2026-04-11T02:07:08Z",
+      "collected_at": "2026-04-11T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e1099284",
+      "lang": "zh",
+      "title_zh": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
+      "summary_zh": "量子位：普林斯顿刘壮团队（陈丹琦参与）发布开源视觉推理强化学习框架Vero，无需思维链标注数据，在30余项测试中达到8B视觉语言模型SOTA。Vero解决了以往RL方案只能覆盖特定视觉任务、多任务混训易崩溃的问题，证明学术界在合适投入下可追平顶尖工业界表现。",
+      "tags": [
+        "推理",
+        "开源",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/399393.html",
+      "published_at": "2026-04-11T01:23:42Z",
+      "collected_at": "2026-04-11T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
     {
       "id": "eb632442",
       "lang": "en",
@@ -72,53 +122,93 @@
       "merged_sources": []
     },
     {
-      "id": "2c2f832b",
-      "lang": "zh",
-      "title_zh": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
-      "summary_zh": "量子位：中国初创公司灵初智能发布近10万小时人类操作数据集，远超行业最大公开集（英伟达EgoScale 2万小时），并开源1000小时数据。该团队由00后创始人带队，采用人类第一视角视频进行具身智能训练，在多项全球基准测试中夺冠，标志着机器人训练进入大规模人类数据驱动新阶段。",
+      "id": "5f7353e6",
+      "lang": "en",
+      "title_en": "PSA: If you use the Meta AI app, your friends will find out",
+      "title_zh": "提示：使用Meta AI应用将通知你的Instagram好友",
+      "summary_en": "TechCrunch: Meta's AI app automatically notifies Instagram contacts when a user joins, causing unintended social disclosure. The behavior, triggered by Meta's Muse Spark model launch driving new downloads, highlights growing privacy concerns around AI consumer apps that tap into existing social graphs without clear user consent.",
+      "summary_zh": "TechCrunch：Meta AI应用会在用户注册时自动向其Instagram联系人发送通知，引发意外社交曝光。随着Meta Muse Spark模型推出带动新用户涌入，此行为引发广泛隐私担忧，凸显AI消费应用利用社交关系图谱时用户知情权不足的问题。",
       "tags": [
-        "具身智能",
-        "开源"
+        "行业动态",
+        "安全"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/399417.html",
-      "published_at": "2026-04-11T02:07:08Z",
-      "collected_at": "2026-04-11T03:00:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
+      "published_at": "2026-04-10T13:52:02Z",
+      "collected_at": "2026-04-11T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "866d15f3",
+      "lang": "en",
+      "title_en": "Snap gets closer to releasing new AI glasses after years-long hiatus",
+      "title_zh": "Snap与高通合作推进AI眼镜研发",
+      "summary_en": "TechCrunch: Snap announced a partnership with Qualcomm to develop its next-generation AI-powered Spectacles smart glasses, marking renewed momentum after a multi-year pause. The collaboration aims to bring on-device AI processing to the AR glasses, with hardware details and availability timeline still pending.",
+      "summary_zh": "TechCrunch：Snap宣布与高通合作开发下一代AI驱动的Spectacles智能眼镜，沉寂多年后重新提速。此次合作将为AR眼镜引入端侧AI处理能力，具体硬件细节和上市时间尚未公布。",
+      "tags": [
+        "多模态",
+        "产品发布"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
+      "published_at": "2026-04-10T12:00:00Z",
+      "collected_at": "2026-04-11T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "9e1f1fc1",
+      "lang": "en",
+      "title_en": "Our response to the Axios developer tool compromise",
+      "title_zh": "OpenAI回应Axios开发工具安全事件",
+      "summary_en": "OpenAI: OpenAI disclosed that a March 31, 2026 supply chain attack on the Axios developer library exposed a code-signing certificate used in macOS app builds. No user data or systems were compromised. OpenAI is revoking and rotating the certificate, requiring all macOS users to update ChatGPT Desktop, Codex, Codex CLI, and Atlas apps before May 8, 2026.",
+      "summary_zh": "OpenAI：2026年3月31日，广泛使用的第三方开发库Axios遭遇供应链攻击，OpenAI用于macOS应用签名的代码证书在GitHub Actions工作流中被暴露。经调查未发现用户数据或系统被入侵。OpenAI正在吊销并更换证书，要求所有macOS用户在2026年5月8日前更新ChatGPT Desktop、Codex、Codex CLI和Atlas应用。",
+      "tags": [
+        "安全",
+        "工具链"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/our-response-to-the-axios-developer-tool-compromise/",
+      "published_at": "2026-04-10T00:00:00Z",
+      "collected_at": "2026-04-11T09:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "3859adc9",
-      "lang": "zh",
-      "title_zh": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
-      "summary_zh": "量子位：当地时间凌晨3:45，一名20岁男子向OpenAI CEO Sam Altman位于旧金山的住宅投掷简易燃烧瓶，随后被警方逮捕。燃烧瓶未命中房屋，无人受伤。Altman事后发文分享家人照片并表态，称事件促使他反思公众对AI焦虑情绪及媒体叙事的影响力。",
+      "id": "be604f21",
+      "lang": "en",
+      "title_en": "Gen Z's love-hate relationship with AI",
+      "title_zh": "Z世代对AI又爱又恨",
+      "summary_en": "The Verge: A Gallup survey found Gen Z users are less hopeful and more angry about AI compared to other age groups, yet they remain heavy users. The data suggests Gen Z's anxiety stems from concerns about job displacement and authenticity, but widespread adoption continues despite negative attitudes.",
+      "summary_zh": "The Verge：盖洛普调查显示，与其他年龄段相比，Z世代对AI的希望感更低、愤怒情绪更强，但他们仍是AI重度用户。数据表明Z世代的焦虑源于对就业替代和真实性的担忧，但负面态度并未阻止他们广泛使用AI工具。",
       "tags": [
-        "政策监管"
+        "行业动态",
+        "社会影响"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/399473.html",
-      "published_at": "2026-04-11T02:19:13Z",
-      "collected_at": "2026-04-11T03:00:00Z",
-      "importance": 4,
-      "merged_sources": [
-        "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail"
-      ]
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "published_at": "2026-04-10T00:00:00Z",
+      "collected_at": "2026-04-11T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
     },
     {
-      "id": "e1099284",
-      "lang": "zh",
-      "title_zh": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
-      "summary_zh": "量子位：普林斯顿刘壮团队（陈丹琦参与）发布开源视觉推理强化学习框架Vero，无需思维链标注数据，在30余项测试中达到8B视觉语言模型SOTA。Vero解决了以往RL方案只能覆盖特定视觉任务、多任务混训易崩溃的问题，证明学术界在合适投入下可追平顶尖工业界表现。",
+      "id": "a26ac25d",
+      "lang": "en",
+      "title_en": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "title_zh": "微软开始从Windows 11应用中移除Copilot按钮",
+      "summary_en": "The Verge: Microsoft has begun removing dedicated Copilot buttons from Windows 11 built-in apps, starting with Notepad. The move is part of a broader effort to reduce unnecessary UI clutter in Windows 11 and signals a shift away from hard-wired AI entry points toward more integrated, context-aware AI features.",
+      "summary_zh": "The Verge：微软已开始从Windows 11内置应用中移除专用Copilot按钮，从记事本起率先实施。此举是整治Windows 11界面冗余的一部分，标志着微软正从硬编码AI入口转向更深度集成的上下文感知AI功能。",
       "tags": [
-        "推理",
-        "开源",
-        "多模态"
+        "产品发布",
+        "行业动态"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/399393.html",
-      "published_at": "2026-04-11T01:23:42Z",
-      "collected_at": "2026-04-11T03:00:00Z",
-      "importance": 4,
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "published_at": "2026-04-10T00:00:00Z",
+      "collected_at": "2026-04-11T09:00:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]

@@ -1,6 +1,6 @@
 {
   "latest_date": "2026-04-11",
-  "updated_at": "2026-04-11T03:10:45Z",
+  "updated_at": "2026-04-11T09:00:00Z",
   "dates": [
     "2026-04-11",
     "2026-04-10",
@@ -39,10 +39,10 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 510,
+  "total_items": 12,
   "page": 1,
   "page_size": 20,
-  "total_pages": 26,
+  "total_pages": 1,
   "items": [
     {
       "id": "3859adc9",
@@ -164,222 +164,92 @@
       "merged_sources": []
     },
     {
-      "id": "8a0c4ea2",
-      "lang": "zh",
-      "title_zh": "别只用AI写脚本了，现在AI打广告可真是城会玩了！",
-      "summary_zh": "量子位：AI 生成广告创意已进入新阶段，品牌开始用 AI 工具制作完整广告片，效果令人惊艳，引发营销行业对 AI 创意能力边界的重新审视。",
-      "tags": [
-        "应用",
-        "生成式AI"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/398181.html",
-      "published_at": "2026-04-10T06:00:00Z",
-      "collected_at": "2026-04-10T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "53bf7d4d",
-      "lang": "zh",
-      "title_zh": "马斯克说漏嘴了！Claude Opus参数5T，Sonnet 1T",
-      "summary_zh": "量子位：据马斯克言论透露，Anthropic Claude Opus 模型参数量约为 5 万亿，Sonnet 约为 1 万亿。但据量子位核实，Grok 4.2 总参数量约为 0.5T，马斯克所述参数来源存疑。",
-      "tags": [
-        "模型",
-        "产业"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/398420.html",
-      "published_at": "2026-04-10T05:30:00Z",
-      "collected_at": "2026-04-10T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "aba821e6",
-      "lang": "zh",
-      "title_zh": "Claude神之bug：给自己下指令，还诬赖用户？？Hacker News炸了",
-      "summary_zh": "量子位：Claude 被发现存在严重 bug，会在对话中自行生成指令并将其归咎于用户，导致异常行为。该事件在 Hacker News 引发热议，有评论称【这是我见过最严重的 bug】。",
-      "tags": [
-        "安全",
-        "产品"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/398385.html",
-      "published_at": "2026-04-10T05:00:00Z",
-      "collected_at": "2026-04-10T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "0d34a548",
-      "lang": "zh",
-      "title_zh": "大模型能【原地】改参数了！字节Seed&北大新论文：测试时推理无需加层重训练",
-      "summary_zh": "量子位：字节跳动 Seed 团队与北京大学合作发布新论文，提出在测试时推理阶段无需增加网络层或重新训练即可动态修改模型参数的方法，大幅降低模型适应新任务的成本。",
-      "tags": [
-        "研究",
-        "推理"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/398741.html",
-      "published_at": "2026-04-10T04:30:00Z",
-      "collected_at": "2026-04-10T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "5f1a21ba",
-      "lang": "zh",
-      "title_zh": "生数科技完成近20亿元B轮融资，以通用世界模型定义下一代数字与物理世界生产力底座",
-      "summary_zh": "量子位：生数科技宣布完成近 20 亿元人民币 B 轮融资，将以通用世界模型为核心，构建面向数字与物理世界的下一代生产力基础设施，继续深耕世界模型赛道。",
-      "tags": [
-        "融资",
-        "产业"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/398772.html",
-      "published_at": "2026-04-10T04:00:00Z",
-      "collected_at": "2026-04-10T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "7af8b0f0",
-      "lang": "zh",
-      "title_zh": "刷屏的SBTI，底层算法有点东西",
-      "summary_zh": "量子位：最近刷屏的 SBTI（空间基础测试框架）背后算法深度解析，揭示其在 AI 评测领域的创新设计思路，测评维度覆盖广泛且难以刷分，引发业界广泛讨论。",
-      "tags": [
-        "研究",
-        "评测"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/398788.html",
-      "published_at": "2026-04-10T03:00:00Z",
-      "collected_at": "2026-04-10T09:10:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "83585f8d",
-      "lang": "zh",
-      "title_zh": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
-      "summary_zh": "量子位：LeCun 为国产开源大模型点赞，指出中国开源模型在性价比上超过主流竞品10倍以上，并已在硅谷科技圈引发广泛关注，标志着中国AI模型在全球竞争力上的显著提升。",
-      "tags": [
-        "开源",
-        "产业"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/04/398807.html",
-      "published_at": "2026-04-10T02:00:00Z",
-      "collected_at": "2026-04-10T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "b53082f0",
+      "id": "5f7353e6",
       "lang": "en",
-      "title_en": "Reverse engineering Gemini's SynthID detection",
-      "title_zh": "逆向破解 Gemini 的 SynthID 水印检测",
-      "summary_en": "Hacker News: A researcher has reverse-engineered Google Gemini's SynthID watermark detection system, publishing findings on GitHub. The project reveals how SynthID embeds and detects AI-generated content markers, raising questions about watermark robustness.",
-      "summary_zh": "Hacker News：一名研究员成功逆向分析了谷歌 Gemini 的 SynthID 水印检测系统，并在 GitHub 公开发现。该项目揭示了 SynthID 如何嵌入和检测 AI 生成内容标记，引发水印鲁棒性讨论。",
+      "title_en": "PSA: If you use the Meta AI app, your friends will find out",
+      "title_zh": "提示：使用Meta AI应用将通知你的Instagram好友",
+      "summary_en": "TechCrunch: Meta's AI app automatically notifies Instagram contacts when a user joins, causing unintended social disclosure. The behavior, triggered by Meta's Muse Spark model launch driving new downloads, highlights growing privacy concerns around AI consumer apps that tap into existing social graphs without clear user consent.",
+      "summary_zh": "TechCrunch：Meta AI应用会在用户注册时自动向其Instagram联系人发送通知，引发意外社交曝光。随着Meta Muse Spark模型推出带动新用户涌入，此行为引发广泛隐私担忧，凸显AI消费应用利用社交关系图谱时用户知情权不足的问题。",
       "tags": [
-        "研究",
+        "行业动态",
         "安全"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/aloshdenny/reverse-SynthID",
-      "published_at": "2026-04-10T00:10:25Z",
-      "collected_at": "2026-04-10T09:10:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
+      "published_at": "2026-04-10T13:52:02Z",
+      "collected_at": "2026-04-11T09:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "12aa5eec",
+      "id": "866d15f3",
       "lang": "en",
-      "title_en": "ChatGPT has a new $100 per month Pro subscription",
-      "title_zh": "ChatGPT 推出每月 100 美元新版 Pro 订阅",
-      "summary_en": "OpenAI: OpenAI has introduced a new $100/month Pro subscription tier for ChatGPT, positioned between the existing Plus and the $200 Pro plans. The new plan offers expanded access to advanced models and features for power users seeking a middle-ground option.",
-      "summary_zh": "OpenAI：OpenAI 推出了每月 100 美元的 ChatGPT 新 Pro 订阅套餐，定位于现有 Plus 与 200 美元 Pro 计划之间，为高需求用户提供更多高级模型访问权限。",
+      "title_en": "Snap gets closer to releasing new AI glasses after years-long hiatus",
+      "title_zh": "Snap与高通合作推进AI眼镜研发",
+      "summary_en": "TechCrunch: Snap announced a partnership with Qualcomm to develop its next-generation AI-powered Spectacles smart glasses, marking renewed momentum after a multi-year pause. The collaboration aims to bring on-device AI processing to the AR glasses, with hardware details and availability timeline still pending.",
+      "summary_zh": "TechCrunch：Snap宣布与高通合作开发下一代AI驱动的Spectacles智能眼镜，沉寂多年后重新提速。此次合作将为AR眼镜引入端侧AI处理能力，具体硬件细节和上市时间尚未公布。",
       "tags": [
-        "产品发布",
-        "商业"
+        "多模态",
+        "产品发布"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
-      "published_at": "2026-04-09T22:57:15Z",
-      "collected_at": "2026-04-10T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "5388b731",
-      "lang": "en",
-      "title_en": "Florida launches investigation into OpenAI",
-      "title_zh": "佛罗里达州对 OpenAI 展开调查",
-      "summary_en": "The Verge: Florida has launched an official investigation into OpenAI, adding to the growing list of government scrutiny facing the AI company. The probe reflects increasing regulatory attention on AI firms' business practices and potential legal issues.",
-      "summary_zh": "The Verge：佛罗里达州正式启动对 OpenAI 的调查，这是该公司面临的又一州级监管行动。此次调查反映了政府对 AI 企业商业行为的持续关注与审查力度加大。",
-      "tags": [
-        "监管",
-        "商业"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
-      "published_at": "2026-04-09T22:17:06Z",
-      "collected_at": "2026-04-10T09:10:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "82583c72",
-      "lang": "en",
-      "title_en": "Instant 1.0, a backend for AI-coded apps",
-      "title_zh": "Instant 1.0 发布：专为 AI 编程应用设计的后端",
-      "summary_en": "Hacker News: InstantDB has launched Instant 1.0, a backend platform designed specifically for apps built with AI coding tools. It offers real-time sync, offline support, and a simple data model optimized for the rapid iteration style of AI-generated codebases.",
-      "summary_zh": "Hacker News：InstantDB 正式发布 Instant 1.0，这是一个专为 AI 编程工具构建应用设计的后端平台，提供实时同步、离线支持和简洁数据模型，适配 AI 生成代码的快速迭代开发方式。",
-      "tags": [
-        "产品发布",
-        "开发工具"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.instantdb.com/essays/architecture",
-      "published_at": "2026-04-09T18:30:59Z",
-      "collected_at": "2026-04-10T09:10:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
+      "published_at": "2026-04-10T12:00:00Z",
+      "collected_at": "2026-04-11T09:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "5053022d",
+      "id": "9e1f1fc1",
       "lang": "en",
-      "title_en": "Google's Gemini AI can answer your questions with 3D models and simulation",
-      "title_zh": "谷歌 Gemini 可用 3D 模型和模拟回答问题",
-      "summary_en": "Google: Google has expanded Gemini AI's capabilities to answer queries using interactive 3D models and simulations. The new feature enables more immersive and visual explanations across science, engineering, and educational use cases.",
-      "summary_zh": "Google：谷歌扩展了 Gemini AI 的能力，使其能通过交互式 3D 模型和模拟来回答用户问题。新功能让科学、工程和教育场景的解释更加直观立体。",
+      "title_en": "Our response to the Axios developer tool compromise",
+      "title_zh": "OpenAI回应Axios开发工具安全事件",
+      "summary_en": "OpenAI: OpenAI disclosed that a March 31, 2026 supply chain attack on the Axios developer library exposed a code-signing certificate used in macOS app builds. No user data or systems were compromised. OpenAI is revoking and rotating the certificate, requiring all macOS users to update ChatGPT Desktop, Codex, Codex CLI, and Atlas apps before May 8, 2026.",
+      "summary_zh": "OpenAI：2026年3月31日，广泛使用的第三方开发库Axios遭遇供应链攻击，OpenAI用于macOS应用签名的代码证书在GitHub Actions工作流中被暴露。经调查未发现用户数据或系统被入侵。OpenAI正在吊销并更换证书，要求所有macOS用户在2026年5月8日前更新ChatGPT Desktop、Codex、Codex CLI和Atlas应用。",
       "tags": [
-        "产品发布",
-        "多模态"
+        "安全",
+        "工具链"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-      "published_at": "2026-04-09T17:57:58Z",
-      "collected_at": "2026-04-10T09:10:00Z",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/our-response-to-the-axios-developer-tool-compromise/",
+      "published_at": "2026-04-10T00:00:00Z",
+      "collected_at": "2026-04-11T09:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "97063f49",
+      "id": "be604f21",
       "lang": "en",
-      "title_en": "Research-Driven Agents: When an agent reads before it codes",
-      "title_zh": "研究驱动的 Agent：先读文献再写代码",
-      "summary_en": "Hacker News: SkyPilot's engineering blog describes a research-driven agent pattern where AI agents first retrieve and read relevant documentation and papers before generating code. The approach improves accuracy in complex engineering tasks by grounding generation in domain knowledge.",
-      "summary_zh": "Hacker News：SkyPilot 工程博客介绍了一种研究驱动的 Agent 模式，使 AI 先检索并阅读相关文档和论文再生成代码，通过将生成锚定于领域知识来提升复杂工程任务的准确性。",
+      "title_en": "Gen Z's love-hate relationship with AI",
+      "title_zh": "Z世代对AI又爱又恨",
+      "summary_en": "The Verge: A Gallup survey found Gen Z users are less hopeful and more angry about AI compared to other age groups, yet they remain heavy users. The data suggests Gen Z's anxiety stems from concerns about job displacement and authenticity, but widespread adoption continues despite negative attitudes.",
+      "summary_zh": "The Verge：盖洛普调查显示，与其他年龄段相比，Z世代对AI的希望感更低、愤怒情绪更强，但他们仍是AI重度用户。数据表明Z世代的焦虑源于对就业替代和真实性的担忧，但负面态度并未阻止他们广泛使用AI工具。",
       "tags": [
-        "Agent",
-        "研究"
+        "行业动态",
+        "社会影响"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://blog.skypilot.co/research-driven-agents/",
-      "published_at": "2026-04-09T16:58:49Z",
-      "collected_at": "2026-04-10T09:10:00Z",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "published_at": "2026-04-10T00:00:00Z",
+      "collected_at": "2026-04-11T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "a26ac25d",
+      "lang": "en",
+      "title_en": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "title_zh": "微软开始从Windows 11应用中移除Copilot按钮",
+      "summary_en": "The Verge: Microsoft has begun removing dedicated Copilot buttons from Windows 11 built-in apps, starting with Notepad. The move is part of a broader effort to reduce unnecessary UI clutter in Windows 11 and signals a shift away from hard-wired AI entry points toward more integrated, context-aware AI features.",
+      "summary_zh": "The Verge：微软已开始从Windows 11内置应用中移除专用Copilot按钮，从记事本起率先实施。此举是整治Windows 11界面冗余的一部分，标志着微软正从硬编码AI入口转向更深度集成的上下文感知AI功能。",
+      "tags": [
+        "产品发布",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "published_at": "2026-04-10T00:00:00Z",
+      "collected_at": "2026-04-11T09:00:00Z",
       "importance": 3,
       "merged_sources": []
     }
