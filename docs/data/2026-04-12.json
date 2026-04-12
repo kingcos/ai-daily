@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T09:13:45Z",
+  "generated_at": "2026-04-12T15:08:00Z",
   "items": [
     {
       "id": "74df87e5",
@@ -21,6 +21,42 @@
       "merged_sources": []
     },
     {
+      "id": "d5da6c46",
+      "lang": "en",
+      "title_en": "At the HumanX conference, everyone was talking about Claude",
+      "title_zh": "HumanX 大会现场：Claude 成为最热话题",
+      "summary_en": "TechCrunch: At the HumanX AI conference in San Francisco's Moscone Center, Claude emerged as the most-discussed chatbot among attendees and vendors. Multiple panels highlighted Anthropic's growing enterprise traction, while ChatGPT was notably absent from conversations. Several vendors reported switching from OpenAI to Claude, citing quality concerns and OpenAI's perceived lack of strategic focus.",
+      "summary_zh": "TechCrunch：在旧金山 Moscone 中心举办的 HumanX AI 大会上，Claude 成为现场最热议的 AI 助手。多个论坛和展商纷纷提到 Anthropic 的企业市场扩张，而 ChatGPT 话题度明显下滑。多位展商表示已从 OpenAI 切换至 Claude，并对 OpenAI 的产品质量和战略方向表示担忧。",
+      "tags": [
+        "产品发布",
+        "评测基准"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "published_at": "2026-04-12T15:00:00Z",
+      "collected_at": "2026-04-12T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "b5a91867",
+      "lang": "en",
+      "title_en": "The AI code wars are heating up",
+      "title_zh": "AI 编程大战白热化",
+      "summary_en": "The Verge: David Pierce traces the evolution of AI coding tools from GitHub Copilot in 2021 to the current three-way battle among OpenAI, Google, and Anthropic. The analysis covers how AI assistance moved from autocomplete to full code generation, and examines how Claude has emerged as the preferred coding assistant for many enterprise developers and teams, displacing earlier dominance by OpenAI.",
+      "summary_zh": "The Verge：David Pierce 梳理了 AI 编程工具从 2021 年 GitHub Copilot 到当前 OpenAI、Google 和 Anthropic 三方角逐的演变历程。文章分析了 AI 辅助编程从自动补全到完整代码生成的进化，以及 Claude 如何在企业开发者中取代 OpenAI 成为首选编程助手。",
+      "tags": [
+        "编程",
+        "评测基准"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "published_at": "2026-04-12T12:00:00Z",
+      "collected_at": "2026-04-12T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "73f79f05",
       "lang": "en",
       "title_en": "How a dancer with ALS used brainwaves to perform live",
@@ -35,6 +71,54 @@
       "source_url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
       "published_at": "2026-04-12T02:09:13Z",
       "collected_at": "2026-04-12T09:13:45Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "1191e54d",
+      "lang": "zh",
+      "title_zh": "「Claude Code之父」其实是野路子来的……",
+      "summary_zh": "量子位：Claude Code 核心创始人 Boris Cherny 经济学专业出身，靠自学编程入行，历任 Meta 首席工程师并著有 TypeScript 领域经典教材。文章回顾了其跨界成长路径，以及如何主导构建了 Claude Code 这一 AI 编程产品，展示了非科班背景在 AI 工程领域的成功路径。",
+      "tags": [
+        "编程",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/400306.html",
+      "published_at": "2026-04-12T12:00:00Z",
+      "collected_at": "2026-04-12T15:08:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "3c35d2ac",
+      "lang": "zh",
+      "title_zh": "字节扣子2.5发布，手机对话就能Vibe Coding",
+      "summary_zh": "量子位：字节跳动 AI 平台扣子（Coze）发布 2.5 版本，集成云电脑、云手机、长期记忆和专属邮箱等能力，支持 7×24 小时后台自主运行，并开放 Agent World 生态。用户可通过手机对话直接进行 Vibe Coding，降低 AI Agent 使用门槛，无需安装插件或配置复杂环境。",
+      "tags": [
+        "产品发布",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/400197.html",
+      "published_at": "2026-04-12T10:00:00Z",
+      "collected_at": "2026-04-12T15:08:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "a4e3f92c",
+      "lang": "zh",
+      "title_zh": "HTML-in-Canvas 引爆前端！AI 时代视觉效果全变了",
+      "summary_zh": "量子位：HTML-in-Canvas 技术在前端社区引发热议，开发者借助 AI 工具实现了碎片特效、鱼眼镜头等过去难以落地的视觉效果，将 AI 辅助创意编程推向新的视觉表达高度。多名开发者在社区展示了实时交互特效、射击破碎效果及可调节鱼眼网页等案例。",
+      "tags": [
+        "编程",
+        "产品发布"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/399996.html",
+      "published_at": "2026-04-12T08:00:00Z",
+      "collected_at": "2026-04-12T15:08:00Z",
       "importance": 3,
       "merged_sources": []
     },
