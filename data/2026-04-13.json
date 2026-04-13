@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T09:20:00Z",
+  "generated_at": "2026-04-13T15:10:00Z",
   "items": [
     {
       "id": "f3418d2d",
@@ -154,6 +154,169 @@
       "source_url": "https://www.qbitai.com/2026/04/400567.html",
       "published_at": "2026-04-13T00:00:00Z",
       "collected_at": "2026-04-13T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "c995c6c2",
+      "lang": "en",
+      "title_en": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "title_zh": "扎克伯格据报开发 AI 数字分身以代为参加会议",
+      "summary_en": "The Verge: Meta CEO Mark Zuckerberg is reportedly developing an AI clone of himself to attend meetings and handle interactions on his behalf. The system would use generative AI to replicate his communication style and decision-making patterns, enabling him to be effectively present in more engagements simultaneously.",
+      "summary_zh": "The Verge：据报道，Meta CEO 马克·扎克伯格正在开发自己的 AI 数字分身，用于代替本人参加会议和处理互动事务。该系统将利用生成式 AI 复制其沟通风格与决策模式，让其同时出席更多场合。",
+      "tags": [
+        "AI应用",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T15:10:00Z",
+      "importance": 4,
+      "merged_sources": [
+        "https://news.ycombinator.com/item?id=47752402"
+      ]
+    },
+    {
+      "id": "3bd16c88",
+      "lang": "en",
+      "title_en": "Sam Altman reportedly targeted in second attack",
+      "title_zh": "山姆·奥尔特曼据报再次遭遇人身攻击",
+      "summary_en": "The Verge: OpenAI CEO Sam Altman was reportedly targeted in a second violent incident at his home, following a prior case where a 20-year-old was arrested for throwing a Molotov cocktail at his residence. The escalating incidents raise ongoing security concerns for prominent AI executives.",
+      "summary_zh": "The Verge：OpenAI CEO 山姆·奥尔特曼据报在家中再次遭遇暴力事件，此前已有一名 20 岁男子因向其住所投掷燃烧瓶而被捕，高知名度 AI 高管的人身安全风险持续引发关注。",
+      "tags": [
+        "行业动态",
+        "OpenAI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "85cdc681",
+      "lang": "en",
+      "title_en": "The largest orbital compute cluster is open for business",
+      "title_zh": "史上最大轨道计算集群正式开业",
+      "summary_en": "TechCrunch: Kepler Communications has launched the world's largest orbital compute cluster with 40 GPUs operating in Earth orbit. Its latest customer Sophia Space marks a commercial milestone for space-based AI computing, enabling low-latency compute for satellite-adjacent applications.",
+      "summary_zh": "TechCrunch：Kepler Communications 在地球轨道部署 40 块 GPU，打造出史上最大轨道计算集群并正式开放服务，最新客户 Sophia Space 的接入标志着太空 AI 算力商业化迈出重要一步。",
+      "tags": [
+        "基础设施",
+        "行业动态"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "de40685a",
+      "lang": "en",
+      "title_en": "European AI: A playbook to own it",
+      "title_zh": "欧洲 AI 战略手册：如何掌握主导权",
+      "summary_en": "Hacker News (Mistral): Mistral AI has published a strategic playbook on how Europe can assert leadership in global AI. It covers sovereign compute infrastructure, regulatory positioning, talent retention, and competitive strategies for European AI companies against US and Chinese rivals.",
+      "summary_zh": "Hacker News（Mistral）：Mistral AI 发布欧洲 AI 战略手册，阐述欧洲如何在全球 AI 竞争中争取主导权，涵盖主权算力基础设施建设、监管定位、人才留用及欧洲 AI 企业竞争策略。",
+      "tags": [
+        "行业动态",
+        "AI政策"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://europe.mistral.ai/",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T15:10:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "3beae6e5",
+      "lang": "en",
+      "title_en": "I ran Gemma 4 as a local model in Codex CLI",
+      "title_zh": "在 Codex CLI 中本地运行 Gemma 4",
+      "summary_en": "Hacker News: A developer demonstrates running Google's Gemma 4 model locally inside OpenAI's Codex CLI, covering installation, configuration, and coding task results. The walkthrough shows that open-weight models can now competently power agentic coding workflows without cloud dependencies.",
+      "summary_zh": "Hacker News：一名开发者演示了在 OpenAI Codex CLI 中本地运行 Google Gemma 4 模型的全流程，涵盖安装配置与实际编程任务测试，证明开源权重模型已可独立支撑 Agent 编程工作流。",
+      "tags": [
+        "开源模型",
+        "AI工具",
+        "大模型"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "a4ef6b5e",
+      "lang": "en",
+      "title_en": "AI could be the end of the digital wave, not the next big thing",
+      "title_zh": "AI 或许是数字浪潮的终结而非下一个风口",
+      "summary_en": "Hacker News: A contrarian analysis arguing AI represents the culmination of the digital computing wave rather than the start of a new one. Drawing on technology S-curves, the piece suggests AI may concentrate rather than democratize economic value, raising questions about long-term structural transformation.",
+      "summary_zh": "Hacker News：一篇反向分析认为 AI 是数字计算浪潮的终点而非新起点，援引技术 S 曲线理论指出 AI 可能集中而非分散经济价值，对长期结构性转型具有深远影响。",
+      "tags": [
+        "行业动态",
+        "AI政策"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave/",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "3845e654",
+      "lang": "en",
+      "title_en": "Show HN: Claudraband – Claude Code for the Power User",
+      "title_zh": "Claudraband：专为高级用户打造的 Claude Code 增强工具",
+      "summary_en": "Hacker News: Claudraband is an open-source interface built on top of Claude Code, offering multi-session management, workflow automation, and enhanced context handling. Targeting developers who need fine-grained control over complex agentic coding tasks.",
+      "summary_zh": "Hacker News：Claudraband 是构建在 Claude Code 之上的开源高级用户界面，提供多会话管理、工作流自动化和增强上下文处理，专为需要精细控制复杂 Agent 编程任务的开发者设计。",
+      "tags": [
+        "AI工具",
+        "开源模型"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/halfwhey/claudraband",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T15:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "700ca58c",
+      "lang": "en",
+      "title_en": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+      "title_zh": "用 Claude 和 Codex 三周构建社交媒体管理工具",
+      "summary_en": "Hacker News: A developer shares their experience building a full-featured social media management tool in three weeks using Claude and Codex as AI coding assistants, demonstrating the rapid development velocity achievable with AI-assisted software engineering.",
+      "summary_zh": "Hacker News：一名开发者分享借助 Claude 和 Codex 仅用三周构建完整社交媒体管理工具的经历，展示了 AI 辅助软件工程所能实现的极速开发效率。",
+      "tags": [
+        "AI工具",
+        "AI应用"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/brightbeanxyz/brightbean-studio",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T15:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "dc4fd554",
+      "lang": "zh",
+      "title_zh": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
+      "summary_zh": "量子位：清华大学交叉信息研究院官网已下撤吴翼的教职相关信息，吴翼此前已正式入职 Meta AI。此事折射出顶尖 AI 研究人才加速向科技巨头流动的趋势，也引发学界对高校 AI 人才保留机制的关注。",
+      "tags": [
+        "行业动态",
+        "AI研究"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/401002.html",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T15:10:00Z",
       "importance": 3,
       "merged_sources": []
     }
