@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T03:10:00Z",
+  "generated_at": "2026-04-13T09:20:00Z",
   "items": [
     {
       "id": "f3418d2d",
@@ -90,6 +90,71 @@
       "published_at": "2026-04-13T02:04:39Z",
       "collected_at": "2026-04-13T03:10:00Z",
       "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "73aa92ab",
+      "lang": "zh",
+      "title_zh": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
+      "summary_zh": "量子位：开源AI Agent工具Hermes Agent在GitHub上线一月标星超6.66万。该Agent强调持续学习与自我进化，完成复杂任务后自动提取可复用Skills并持续改进。最新版原生接入微信，支持图片、视频、文件、语音消息，安装仅需一行命令。",
+      "tags": [
+        "产品发布",
+        "Agent",
+        "开源"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/400522.html",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "72d464a0",
+      "lang": "zh",
+      "title_zh": "Claude未公开Mythos被质疑采用字节Seed架构",
+      "summary_zh": "量子位：社区热议Anthropic内部未公开的Mythos模型是否采用字节Seed团队的循环语言模型架构，Yoshua Bengio亦参与该论文。Mythos在GraphWalks BFS测试中超越GPT-5.4，与循环架构擅长图搜索的特性高度吻合，暗示进步来自架构创新而非Scaling Law。",
+      "tags": [
+        "研究论文",
+        "推理"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/400500.html",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T09:20:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "35e00599",
+      "lang": "zh",
+      "title_zh": "AI Hedge Fund开源：巴菲特芒格炼化为投资Agent",
+      "summary_zh": "量子位：开源项目AI Hedge Fund将巴菲特、芒格等12位顶级投资人炼化为AI Agent，内置6位分析师汇总观点，支持实时分析与回测。兼容OpenAI、Anthropic、Groq、DeepSeek等13种大模型，支持本地运行，已获GitHub 51.7k Star和9k+Fork，由独立开发者Virat Singh打造。",
+      "tags": [
+        "开源",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/400350.html",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T09:20:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "761d4270",
+      "lang": "zh",
+      "title_zh": "智能座舱供应商冲刺港股，估值630亿",
+      "summary_zh": "量子位：国内智能座舱解决方案头部供应商宣布冲刺港股IPO，估值630亿元，是小米、理想、小鹏等多家车企共同供应商，业务聚焦汽车智能座舱芯片及系统，市占率位居同赛道首位。",
+      "tags": [
+        "融资",
+        "硬件"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/04/400567.html",
+      "published_at": "2026-04-13T00:00:00Z",
+      "collected_at": "2026-04-13T09:20:00Z",
+      "importance": 3,
       "merged_sources": []
     }
   ]
