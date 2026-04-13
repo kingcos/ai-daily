@@ -1,7 +1,9 @@
 {
-  "latest_date": "2026-04-11",
-  "updated_at": "2026-04-11T03:10:45Z",
+  "latest_date": "2026-04-13",
+  "updated_at": "2026-04-13T03:10:00Z",
   "dates": [
+    "2026-04-13",
+    "2026-04-12",
     "2026-04-11",
     "2026-04-10",
     "2026-04-08",
@@ -39,383 +41,362 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 510,
+  "total_items": 537,
   "page": 20,
   "page_size": 20,
-  "total_pages": 26,
+  "total_pages": 27,
   "items": [
     {
-      "id": "7204a8f0",
+      "id": "d0007d81",
       "lang": "en",
-      "title_en": "Claude Code Cheat Sheet",
-      "title_zh": "Claude Code 速查手册上线",
-      "summary_en": "Hacker News: A community-contributed Claude Code cheat sheet surfaced on Hacker News, consolidating key commands, workflows, and tips for using Anthropic's Claude Code agentic coding tool. The resource quickly gained traction among developers integrating Claude Code into daily workflows.",
-      "summary_zh": "Hacker News：一份社区整理的 Claude Code 速查手册在 Hacker News 走红，汇聚了 Anthropic 编程代理工具 Claude Code 的核心命令、工作流与使用技巧，受到广泛开发者关注。",
+      "title_en": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "title_zh": "Mirage 融资 7500 万美元，继续开发 AI 视频编辑应用 Captions",
+      "summary_en": "TechCrunch: Mirage has raised $75 million to further develop AI models powering its video editing application Captions. The funding will be used to advance its AI-driven video production capabilities and expand the app's features for creators.",
+      "summary_zh": "TechCrunch：Mirage 完成 7500 万美元融资，将用于进一步开发其视频编辑应用 Captions 背后的 AI 模型，推进 AI 驱动的视频制作能力，并为创作者拓展更多功能。",
       "tags": [
-        "AI工具",
-        "Anthropic",
-        "代码生成"
+        "融资",
+        "多模态",
+        "产品发布"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://cc.storyfox.cz",
-      "published_at": "2026-03-23T21:44:20Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 2,
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+      "published_at": "2026-03-24T13:05:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "8dbaa11d",
+      "id": "dc202831",
       "lang": "en",
-      "title_en": "Flipper Zero gets an AI upgrade",
-      "title_zh": "Flipper Zero 获得 AI 能力升级",
-      "summary_en": "Hacker News: Flipper Zero, the popular open-source multi-tool hacking device, has received an AI-powered upgrade that adds natural language command processing and automated protocol analysis. The integration allows users to describe attack scenarios in plain language, lowering the barrier for security research and testing.",
-      "summary_zh": "Hacker News：广受欢迎的开源多功能安全工具 Flipper Zero 获得 AI 升级，新增自然语言命令处理与自动协议分析功能。用户可用日常语言描述测试场景，进一步降低安全研究的门槛。",
+      "title_en": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "title_zh": "Agile Robots 成为最新与 Google DeepMind 合作的机器人公司",
+      "summary_en": "TechCrunch: Agile Robots has announced a partnership with Google DeepMind, joining a growing list of robotics companies collaborating with the AI research lab. The partnership aims to integrate DeepMind's AI capabilities into Agile Robots' humanoid and legged robot platforms.",
+      "summary_zh": "TechCrunch：Agile Robots 宣布与 Google DeepMind 建立合作关系，加入越来越多与该 AI 研究实验室合作的机器人公司行列，旨在将 DeepMind 的 AI 能力整合到其人形及腿足机器人平台。",
       "tags": [
-        "AI工具",
-        "安全",
-        "AI应用"
+        "机器人",
+        "合作",
+        "Google DeepMind"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967",
-      "published_at": "2026-03-23T20:56:48Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 2,
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "published_at": "2026-03-24T12:05:00Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "55acb1bc",
+      "id": "f55cdd45",
       "lang": "en",
-      "title_en": "How I'm Productive with Claude Code",
-      "title_zh": "开发者实战：如何用 Claude Code 提升生产力",
-      "summary_en": "Hacker News: A developer shared a detailed workflow post on how they effectively use Claude Code for daily engineering tasks, including prompt strategies, task scoping, and debugging patterns. The post gained significant engagement as practical, experience-driven guidance on agentic coding tools.",
-      "summary_zh": "Hacker News：一位开发者分享了在日常工程任务中高效使用 Claude Code 的实战工作流，涵盖提示策略、任务拆解和调试模式，因其实践导向而获得大量关注。",
+      "title_en": "Update on the OpenAI Foundation",
+      "title_zh": "OpenAI基金会最新动态",
+      "summary_en": "OpenAI: The OpenAI Foundation announces plans to invest at least $1 billion across four mission areas including curing diseases, jobs and economic impact, AI resilience, and supporting communities, marking a major philanthropic expansion following recapitalization.",
+      "summary_zh": "OpenAI：OpenAI基金会宣布计划在四个使命领域投资至少10亿美元，包括治愈疾病、就业与经济影响、AI韧性以及社区支持，标志着公司重组后的重大慈善扩张。",
       "tags": [
-        "AI工具",
-        "代码生成",
-        "Anthropic"
+        "行业动态"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://neilkakkar.com/productive-with-claude-code.html",
-      "published_at": "2026-03-23T20:49:10Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "832385b8",
-      "lang": "en",
-      "title_en": "OpenAI is building a fully automated researcher",
-      "title_zh": "OpenAI 正在打造全自动化科研代理",
-      "summary_en": "Hacker News: MIT Technology Review reported that OpenAI is investing heavily in building a fully automated AI researcher capable of independently conducting experiments, reviewing literature, and generating novel hypotheses. The project represents a key step in OpenAI's roadmap toward AI systems that can contribute to scientific discovery autonomously.",
-      "summary_zh": "Hacker News：MIT Technology Review 报道，OpenAI 正大力投入研发全自动化 AI 科研代理，该系统可独立开展实验、检索文献并提出新假设。这是 OpenAI 通向自主科学发现路线图上的关键一步。",
-      "tags": [
-        "OpenAI",
-        "AI研究",
-        "代理"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "published_at": "2026-03-23T20:43:30Z",
-      "collected_at": "2026-03-24T00:00:00Z",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/update-on-the-openai-foundation/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "de93a185",
+      "id": "9ad30de2",
       "lang": "en",
-      "title_en": "LLMs learn what programmers create, not how programmers work",
-      "title_zh": "LLM 学的是程序员的产出，而非工作方式",
-      "summary_en": "Hacker News: A widely discussed Hacker News thread examined the fundamental limitation that LLMs are trained on code artifacts—commits, files, documentation—rather than the iterative, exploratory process of how programmers actually think and work. This gap may explain persistent failure modes in AI-assisted development.",
-      "summary_zh": "Hacker News：一篇热门讨论指出，LLM 是从代码产物（提交记录、文件、文档）中学习的，而非程序员实际的探索性思维过程，这一根本差距或许解释了 AI 辅助编程中持续出现的失效模式。",
+      "title_en": "Powering Product Discovery in ChatGPT",
+      "title_zh": "ChatGPT推出沉浸式购物产品发现功能",
+      "summary_en": "OpenAI: ChatGPT launches richer, visually immersive shopping experiences powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and deeper merchant integration within the chat interface.",
+      "summary_zh": "OpenAI：ChatGPT推出基于Agentic Commerce Protocol的沉浸式购物体验，支持产品发现、对比购物及商家深度集成，进一步强化AI购物助手能力。",
       "tags": [
-        "LLM",
-        "代码生成",
-        "AI研究"
+        "产品发布"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://news.ycombinator.com/item?id=47494696",
-      "published_at": "2026-03-23T20:31:48Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "b97ff49b",
-      "lang": "en",
-      "title_en": "Bernie Sanders AI gotcha video flops but the memes are great",
-      "title_zh": "伯尼·桑德斯 AI 整蛊视频翻车，反成表情包素材",
-      "summary_en": "TechCrunch: A political AI-generated video attempting to embarrass Bernie Sanders backfired, generating mockery rather than the intended controversy. The incident highlights ongoing public skepticism toward AI-generated political content and the difficulty of deploying deepfakes effectively in political contexts.",
-      "summary_zh": "TechCrunch：一段试图用 AI 生成视频整蛊桑德斯的尝试以失败告终，视频本身反而变成被广泛传播的表情包。此事件折射出公众对 AI 政治内容的高度警惕，以及深度伪造在政治场景中难以奏效的现实。",
-      "tags": [
-        "AI伦理",
-        "深度伪造"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-      "published_at": "2026-03-23T20:15:59Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "db49c0f4",
-      "lang": "en",
-      "title_en": "Elizabeth Warren calls Pentagon's decision to bar Anthropic from defense contracts 'retaliation'",
-      "title_zh": "沃伦批评五角大楼将Anthropic逐出国防合同为政治报复",
-      "summary_en": "TechCrunch: Senator Elizabeth Warren publicly criticized the Pentagon's decision to exclude Anthropic from defense supply chain contracts, calling it political retaliation. The move raised concerns about the government using procurement power to punish AI companies critical of administration policies.",
-      "summary_zh": "TechCrunch：参议员伊丽莎白·沃伦公开批评五角大楼将Anthropic排除在国防供应链合同之外的决定，称其为政治报复行为。此举引发外界对政府利用采购权力打压批评行政当局政策的AI公司的担忧。",
-      "tags": [
-        "政策法规",
-        "产业动态"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-      "published_at": "2026-03-23T20:08:45Z",
-      "collected_at": "2026-03-24T03:00:00Z",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
       "importance": 4,
+      "merged_sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features"
+      ]
+    },
+    {
+      "id": "fe256ebf",
+      "lang": "en",
+      "title_en": "Helping developers build safer AI experiences for teens",
+      "title_zh": "OpenAI发布青少年AI安全策略，助力开发者构建更安全的产品",
+      "summary_en": "OpenAI: OpenAI released open-source prompt-based teen safety policies designed for use with gpt-oss-safeguard. The policies cover six risk areas including violent/sexual content, harmful body ideals, dangerous activities, roleplay, and age-restricted goods, helping developers build age-appropriate AI protections for young users without starting from scratch. Developed with input from Common Sense Media and everyone.ai.",
+      "summary_zh": "OpenAI：OpenAI发布基于提示词的青少年安全策略，可直接与gpt-oss-safeguard配合使用。策略涵盖暴力/色情内容、有害体型观念、危险活动、角色扮演、限龄商品六大风险领域，帮助开发者在开源生态中为未成年用户构建年龄适配的安全保护机制。策略由Common Sense Media等机构参与制定，并通过ROOST Model Community开源发布。",
+      "tags": [
+        "AI安全",
+        "开发者工具"
+      ],
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/helping-developers-build-safer-ai-experiences-for-teens/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "b9f640a2",
+      "id": "28c6dab0",
       "lang": "en",
-      "title_en": "Nvidia CEO Jensen Huang says 'I think we've achieved AGI'",
-      "title_zh": "黄仁勋：我认为我们已经实现了 AGI",
-      "summary_en": "The Verge: Nvidia CEO Jensen Huang told Lex Fridman in a podcast that he believes AGI has been achieved, then slightly walked back the claim under scrutiny. Huang's comment sparked debate over how AGI should be defined, with many arguing current systems still fall short of general reasoning capabilities.",
-      "summary_zh": "The Verge：英伟达 CEO 黄仁勋在与 Lex Fridman 的播客对话中表示，他认为 AGI 已经实现，随后在追问下有所保留。此言论引发广泛讨论，业界对 AGI 的定义和当前模型能力存在明显分歧。",
+      "title_en": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "title_zh": "Anthropic为Claude Code新增自动模式，扩大自主执行权限",
+      "summary_en": "TechCrunch: Anthropic has launched auto mode for Claude Code, enabling the AI agent to execute multi-step development tasks with fewer manual approvals. The update reflects a broader industry trend toward more autonomous agentic coding tools, while Anthropic maintains safety guardrails to limit unintended actions.",
+      "summary_zh": "TechCrunch：Anthropic为Claude Code推出自动模式，允许AI代理自主完成多步骤开发任务，减少人工审批环节。此举体现了AI编程工具走向更高自主性的行业趋势，但Anthropic仍保留安全限制。",
       "tags": [
-        "AGI",
-        "英伟达",
-        "业界观点"
+        "产品发布",
+        "AI Agent"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-      "published_at": "2026-03-23T19:42:33Z",
-      "collected_at": "2026-03-24T00:00:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T03:00:00Z",
       "importance": 4,
-      "merged_sources": []
+      "merged_sources": [
+        "https://claude.com/blog/auto-mode",
+        "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
+      ]
     },
     {
-      "id": "72d373b8",
+      "id": "dc202831",
       "lang": "en",
-      "title_en": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
-      "title_zh": "Sam Altman支持的核聚变初创Helion洽谈向OpenAI供电",
-      "summary_en": "TechCrunch: Helion Energy, a fusion power startup backed by Sam Altman, is reportedly in talks to supply electricity to OpenAI's data centers. The deal highlights OpenAI's aggressive push to secure long-term energy sources to power its growing AI infrastructure demands.",
-      "summary_zh": "TechCrunch：据报道，由Sam Altman投资的核聚变能源初创公司Helion Energy正与OpenAI洽谈向其数据中心供电的协议，彰显了OpenAI为满足AI基础设施日益增长的能源需求而积极寻求长期电力来源的战略布局。",
+      "title_en": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "title_zh": "Agile Robots与Google DeepMind合作，引入机器人基础模型",
+      "summary_en": "TechCrunch: Agile Robots has announced a partnership with Google DeepMind to integrate DeepMind's robotics foundation models into its robots. The collaboration also involves data collection to advance DeepMind's AI research, making Agile Robots the latest in a growing list of robotics firms teaming up with the AI lab.",
+      "summary_zh": "TechCrunch：Agile Robots宣布与Google DeepMind合作，将DeepMind机器人基础模型集成到其机器人产品中，同时为DeepMind AI研究提供数据支持，成为又一家与该AI实验室携手的机器人企业。",
       "tags": [
-        "产业动态",
-        "基础设施"
+        "模型与技术",
+        "行业动态"
       ],
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
-      "published_at": "2026-03-23T19:30:00Z",
-      "collected_at": "2026-03-24T03:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "33635af9",
-      "lang": "en",
-      "title_en": "Autoresearch on an old research idea",
-      "title_zh": "用AI自动化研究旧课题：从文献检索到实验验证的全流程探索",
-      "summary_en": "Hacker News: A researcher shared their experience using AI-powered autoresearch tools to revisit and extend an old research idea. The post details how LLM-based pipelines handled literature search, hypothesis generation, and preliminary experimental validation with minimal human input.",
-      "summary_zh": "Hacker News：一名研究者分享了使用AI自动化研究工具从零重拾旧课题的经历，详述了基于LLM的流水线如何在极少人工干预下完成文献检索、假设生成和初步实验验证等全流程工作。",
-      "tags": [
-        "AI应用",
-        "研究工具"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "published_at": "2026-03-23T18:40:00Z",
-      "collected_at": "2026-03-24T03:00:00Z",
+      "source_url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "published_at": "2026-03-24T12:00:00Z",
+      "collected_at": "2026-03-25T03:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "9e624714",
+      "id": "56974e3d",
       "lang": "en",
-      "title_en": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-      "title_zh": "Vibe 编程新星 Lovable 积极寻求收购目标",
-      "summary_en": "TechCrunch: Lovable, a fast-growing vibe-coding platform that lets users build apps through natural language, is actively seeking acquisitions of startups and teams to accelerate growth. The company's founder noted strong product-market fit and the desire to bring in complementary tooling or talent.",
-      "summary_zh": "TechCrunch：高速增长的 Vibe 编程平台 Lovable 正积极寻求收购创业公司和团队。其创始人表示，Lovable 已验证产品市场契合度，希望通过并购引入互补工具或人才以加速发展。",
+      "title_en": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "title_zh": "OpenAI宣布关停Sora并终止与迪士尼的合作",
+      "summary_en": "The Verge: OpenAI is winding down its Sora AI video generation model and app, and ending a recently-announced partnership with Disney, marking a significant strategic retreat from the AI video generation market just 25 months after Sora's debut.",
+      "summary_zh": "The Verge：OpenAI宣布关停Sora AI视频生成模型及应用，并终止与迪士尼的合作协议，距Sora发布仅25个月，是OpenAI在AI视频赛道的重大战略退出。",
       "tags": [
-        "AI工具",
-        "投资融资",
-        "代码生成"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
-      "published_at": "2026-03-23T18:22:04Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "af0ea955",
-      "lang": "en",
-      "title_en": "Designing AI for Disruptive Science",
-      "title_zh": "如何为颠覆性科学研究设计 AI 系统",
-      "summary_en": "Hacker News: A long-form essay on Asimov Press explores design principles for AI systems intended to accelerate disruptive scientific research, arguing that current AI tools optimize for incremental progress rather than paradigm-shifting discoveries. The piece proposes architectural and incentive changes to better align AI with high-risk, high-reward science.",
-      "summary_zh": "Hacker News：Asimov Press 发表长文，探讨为颠覆性科学研究设计 AI 系统的原则，指出当前 AI 工具偏向渐进式进展而非范式转变型发现，并提出架构与激励机制改革建议。",
-      "tags": [
-        "AI研究",
-        "科学",
-        "AI伦理"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.asimov.press/p/ai-science",
-      "published_at": "2026-03-23T18:19:05Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "ab92028f",
-      "lang": "en",
-      "title_en": "Apple WWDC set for June 8-12 with AI advancements and Siri improvements",
-      "title_zh": "苹果 WWDC 定档 6 月 8-12 日，AI 与 Siri 升级成重头戏",
-      "summary_en": "TechCrunch: Apple confirmed WWDC 2026 will be held June 8–12, with expectations focused heavily on AI advancements and a substantially upgraded Siri. The conference is seen as Apple's opportunity to close the gap with competitors in on-device AI and conversational assistant capabilities.",
-      "summary_zh": "TechCrunch：苹果确认 WWDC 2026 将于 6 月 8 日至 12 日举行，外界期待苹果在此次大会上展示大幅升级的 Siri 及全面的设备端 AI 能力，以缩小与竞争对手的差距。",
-      "tags": [
-        "苹果",
-        "Siri",
-        "模型发布"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-      "published_at": "2026-03-23T18:00:45Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "63d71f26",
-      "lang": "en",
-      "title_en": "Outworked – An Open Source Office UI for Claude Code Agents",
-      "title_zh": "Outworked：Claude Code 代理的开源办公 UI",
-      "summary_en": "Hacker News: Outworked is an open-source project that provides a structured office-style UI for managing and monitoring Claude Code agents, supporting task assignment, status tracking, and output review. It targets teams deploying multiple agentic coding sessions simultaneously.",
-      "summary_zh": "Hacker News：Outworked 是一个开源项目，为 Claude Code 代理提供类办公界面的管理与监控 UI，支持任务分配、状态追踪与输出审查，适用于同时运行多个编程代理的团队。",
-      "tags": [
-        "AI工具",
-        "代理",
-        "开源"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/outworked/outworked",
-      "published_at": "2026-03-23T17:44:22Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 2,
-      "merged_sources": []
-    },
-    {
-      "id": "b4e74e04",
-      "lang": "en",
-      "title_en": "Confronting the CEO of the AI company that impersonated me",
-      "title_zh": "与仿冒我的AI公司CEO正面交锋",
-      "summary_en": "The Verge: The Verge podcast confronts Superhuman/Grammarly CEO Shishir Mehrotra over AI tools that impersonated the host's voice and writing style without consent. The episode raises sharp questions about AI identity fraud, consent, and the accountability of AI companies using user data to build personal digital replicas.",
-      "summary_zh": "The Verge：The Verge播客主持人与Superhuman/Grammarly CEO Shishir Mehrotra正面对话，追问其AI工具在未经授权的情况下模仿主持人声音和写作风格一事。本期节目深入探讨了AI身份欺诈、用户同意权及AI公司利用用户数据构建数字分身的责任问题。",
-      "tags": [
-        "AI伦理",
         "行业动态"
       ],
       "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
-      "published_at": "2026-03-23T17:30:00Z",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "published_at": "2026-03-24T10:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 5,
+      "merged_sources": [
+        "https://www.qbitai.com/2026/03/391799.html"
+      ]
+    },
+    {
+      "id": "eabcc45a",
+      "lang": "en",
+      "title_en": "Arm's first CPU ever will plug into Meta's AI data centers later this year",
+      "title_zh": "Arm首款自研CPU将于年内接入Meta的AI数据中心",
+      "summary_en": "The Verge: Arm is launching its first in-house designed CPU called the AGI CPU, which will be deployed by Meta in its AI data centers later this year, signaling Arm's strategic move from licensing architecture to building its own silicon.",
+      "summary_zh": "The Verge：Arm发布首款自研CPU（命名为AGI CPU），将于年内部署在Meta的AI数据中心，标志着Arm从授权架构向自研芯片的战略转型。",
+      "tags": [
+        "模型与技术"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "published_at": "2026-03-24T10:00:00Z",
+      "collected_at": "2026-03-25T01:12:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "22db4cab",
+      "lang": "en",
+      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "title_zh": "ProofShot：为AI编程智能体提供UI视觉验证能力",
+      "summary_en": "ProofShot: ProofShot is an open tool that gives AI coding agents visual verification capabilities for the UIs they generate. It enables agents to capture screenshots of their output and compare actual vs. intended UI state, helping detect visual discrepancies without manual review. Submitted as a Show HN project.",
+      "summary_zh": "ProofShot：ProofShot是一款为AI编程智能体提供UI视觉验证能力的开源工具。该工具使智能体能够截图并检查自身生成的界面，帮助识别实际UI与预期之间的视觉差异，降低人工审核成本。",
+      "tags": [
+        "AI编程",
+        "工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://proofshot.argil.io/",
+      "published_at": "2026-03-24T07:46:00Z",
+      "collected_at": "2026-03-24T09:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "580668b1",
+      "lang": "en",
+      "title_en": "Pool spare GPU capacity to run LLMs at larger scale",
+      "title_zh": "聚合闲置GPU算力以更大规模运行大语言模型",
+      "summary_en": "Hacker News: An open-source project, mesh-llm, proposes pooling idle GPU capacity across machines to run large language models at greater scale without dedicated infrastructure. The approach enables distributed LLM inference by treating spare compute as a shared mesh network.",
+      "summary_zh": "Hacker News：开源项目mesh-llm提出将多台机器闲置GPU算力汇集起来，无需专属基础设施即可大规模运行大语言模型，将空余算力视为共享网格网络，实现分布式LLM推理。",
+      "tags": [
+        "开源",
+        "基础设施"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/michaelneale/mesh-llm",
+      "published_at": "2026-03-24T05:43:00Z",
       "collected_at": "2026-03-24T09:05:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "13cd4b0b",
+      "id": "6354345b",
       "lang": "en",
-      "title_en": "Fast regex search: indexing text for agent tools",
-      "title_zh": "Cursor：为 AI 代理工具构建正则搜索索引",
-      "summary_en": "Cursor: Cursor published a technical deep-dive into building regex search indexes for agent tools, enabling fast pattern matching across large codebases. The system allows AI agents to locate text without relying on semantic embeddings, improving accuracy for structured queries in monorepos.",
-      "summary_zh": "Cursor：Cursor 发布技术文章，介绍为 AI 代理工具构建正则表达式搜索索引的方案，实现对大型代码库的快速模式匹配。该系统无需依赖语义向量，直接支持结构化查询，尤其适用于大型 Monorepo 场景。",
+      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "title_zh": "ProofShot：让AI编程Agent能看见并验证自己构建的UI",
+      "summary_en": "Hacker News: ProofShot is a new tool that provides AI coding agents with visual verification capabilities, allowing them to take screenshots and validate that the UI they generate matches intended designs. The Show HN post highlights growing demand for closed-loop feedback in AI-assisted software development.",
+      "summary_zh": "Hacker News：ProofShot是一款为AI编程Agent提供视觉验证能力的新工具，使其能截图并确认自动生成的UI是否符合预期设计，体现了AI辅助软件开发中对闭环反馈机制的迫切需求。",
       "tags": [
-        "AI工具",
-        "Cursor",
-        "代理"
-      ],
-      "source_name": "Cursor",
-      "source_url": "https://cursor.com/blog/fast-regex-search",
-      "published_at": "2026-03-23T16:50:37Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "16e7e33a",
-      "lang": "en",
-      "title_en": "Cq – Stack Overflow for AI coding agents",
-      "title_zh": "Cq：专为 AI 编程代理打造的 Stack Overflow",
-      "summary_en": "Hacker News: Mozilla.ai introduced Cq, an open platform designed as a Stack Overflow equivalent for AI coding agents, allowing agents to query structured knowledge bases and share solutions. The project aims to improve agent reliability by grounding responses in curated, authoritative Q&A rather than raw web data.",
-      "summary_zh": "Hacker News：Mozilla.ai 推出 Cq，这是一个面向 AI 编程代理的开放知识平台，相当于代理版 Stack Overflow。该平台允许 AI 代理查询结构化知识库并共享解决方案，以提升代理回答的准确性与可靠性。",
-      "tags": [
-        "AI工具",
-        "代理",
-        "开源"
+        "AI编程",
+        "工具与平台"
       ],
       "source_name": "Hacker News",
-      "source_url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-      "published_at": "2026-03-23T16:11:03Z",
-      "collected_at": "2026-03-24T00:00:00Z",
+      "source_url": "https://proofshot.argil.io/",
+      "published_at": "2026-03-24T04:23:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "6947468d",
-      "lang": "en",
-      "title_en": "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO",
-      "title_zh": "扎克伯格正在打造 AI 代理辅助其 CEO 决策",
-      "summary_en": "Hacker News: According to a WSJ report, Meta CEO Mark Zuckerberg is developing an AI agent designed to assist with executive decision-making, including analyzing business data, preparing briefings, and streamlining internal communications. The project reflects broader C-suite interest in AI-augmented leadership.",
-      "summary_zh": "Hacker News：《华尔街日报》报道，Meta CEO 扎克伯格正在开发一款 AI 代理，用于辅助高管决策，包括分析商业数据、准备汇报材料和优化内部沟通。此举折射出高层管理者对 AI 赋能领导力的浓厚兴趣。",
+      "id": "77da0ae0",
+      "lang": "zh",
+      "title_zh": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
+      "summary_zh": "量子位：英伟达CEO黄仁勋抛出重磅论断，称AGI已经实现，并直言Ilya Sutskever关于预训练触顶的判断是错的，认为合成数据将进一步推动数据规模扩张。他预测全球将出现10亿级AI程序员，并强调推理计算比预训练更难、更重要，引发业界广泛讨论。",
       "tags": [
-        "代理",
-        "Meta",
-        "AI应用"
+        "行业动态",
+        "模型能力"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5",
-      "published_at": "2026-03-23T16:04:20Z",
-      "collected_at": "2026-03-24T00:00:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391750.html",
+      "published_at": "2026-03-24T03:00:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "6f6397af",
+      "lang": "zh",
+      "title_zh": "RoboChallenge Table30 V2 正式发布，泛化时代开幕",
+      "summary_zh": "量子位：具身智能评测基准RoboChallenge Table30 V2正式发布，新增18个双臂灵巧操作任务，总计30个高难度任务，专注考核模型泛化能力。新版本重构了学习与测试协议，终结了为比赛调参的旧模式，旨在为全球具身智能研究者提供公平开放的真机竞技场。",
+      "tags": [
+        "具身智能",
+        "评测基准"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391744.html",
+      "published_at": "2026-03-24T02:30:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "4e744749",
+      "id": "9355a186",
       "lang": "en",
-      "title_en": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-      "title_zh": "初创公司 Gimlet Labs 以优雅方案破解 AI 推理瓶颈",
-      "summary_en": "TechCrunch: Gimlet Labs raised an $80 million Series A for its chip-agnostic AI inference technology that runs workloads simultaneously across NVIDIA, AMD, Intel, ARM, Cerebras, and d-Matrix chips. The approach addresses the fragmented inference hardware landscape by abstracting away underlying chip differences.",
-      "summary_zh": "TechCrunch：AI 推理初创公司 Gimlet Labs 完成 8000 万美元 A 轮融资，其技术可同时调度 NVIDIA、AMD、Intel、ARM、Cerebras 及 d-Matrix 等多种芯片执行推理任务，有效解决推理硬件碎片化问题。",
+      "title_en": "Epoch confirms GPT-5.4 Pro solved a Frontier Math Open Problem for the first time",
+      "title_zh": "Epoch AI确认：GPT-5.4 Pro首次解决FrontierMath开放数学难题",
+      "summary_en": "Epoch AI: Epoch confirmed that OpenAI's GPT-5.4 Pro successfully solved an open problem from the FrontierMath benchmark, marking the first time any AI model has cracked a problem in this rigorous mathematical challenge set designed to push beyond current AI capabilities.",
+      "summary_zh": "Epoch AI：研究机构Epoch确认，OpenAI的GPT-5.4 Pro成功解决了FrontierMath基准测试中的一道开放数学难题，标志着AI模型首次攻克该为突破当前AI能力极限而设计的严苛数学挑战赛中的开放性问题。",
       "tags": [
-        "AI基础设施",
-        "推理",
-        "投资融资"
+        "模型能力",
+        "评测基准"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-      "published_at": "2026-03-23T16:00:00Z",
-      "collected_at": "2026-03-24T00:00:00Z",
+      "source_name": "Hacker News",
+      "source_url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "published_at": "2026-03-24T01:53:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "0722ab48",
+      "id": "4f759cf2",
       "lang": "en",
-      "title_en": "Littlebird raises $11M for its AI-assisted 'recall' tool that reads your computer screen",
-      "title_zh": "Littlebird 融资 1100 万美元，打造读屏 AI 上下文召回工具",
-      "summary_en": "TechCrunch: Littlebird raised $11M to build an AI tool that reads your screen in real time to capture context, answer questions, and automate tasks without relying on screenshots. The product positions itself as a privacy-aware alternative to AI recall tools, capturing context as text rather than images.",
-      "summary_zh": "TechCrunch：Littlebird 完成 1100 万美元融资，其 AI 产品可实时读取屏幕内容、捕获上下文并自动回答问题，无需截图存储。该产品以隐私友好方式区别于微软 Recall 等竞品。",
+      "title_en": "I Created My First AI-Assisted Pull Request and I Feel Like a Fraud",
+      "title_zh": "我用 AI 辅助完成了第一个 Pull Request，却感觉像个骗子",
+      "summary_en": "Hacker News: A developer reflects on using AI coding tools to submit their first AI-assisted pull request, exploring feelings of imposter syndrome and questions about authenticity in AI-augmented software development. The personal essay resonates with many developers navigating the shift toward AI-assisted workflows.",
+      "summary_zh": "Hacker News：一位开发者分享了使用 AI 编程工具提交第一个 AI 辅助 Pull Request 的心路历程，探讨了在 AI 增强软件开发中关于冒名顶替综合症和真实性的思考，引发了大量开发者对 AI 辅助工作流的共鸣。",
       "tags": [
-        "AI工具",
-        "投资融资",
-        "隐私"
+        "工具与平台",
+        "行业动态"
       ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-      "published_at": "2026-03-23T16:00:00Z",
-      "collected_at": "2026-03-24T00:00:00Z",
+      "source_name": "Hacker News",
+      "source_url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
+      "published_at": "2026-03-24T01:42:38Z",
+      "collected_at": "2026-03-24T03:08:59.590728Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "6162e5ae",
+      "lang": "zh",
+      "title_zh": "LeCun的世界模型单GPU就能跑了",
+      "summary_zh": "量子位：新研究实现仅需单GPU即可稳定训练LeCun提倡的世界模型（JEPA类架构），只靠像素输入无需复杂技巧，能预测执行某动作后世界的变化。通过SIGReg正则化解决了以往JEPA方案的崩溃问题，可直接用于机器人和智能体规划控制，兼顾速度与稳定性。",
+      "tags": [
+        "具身智能",
+        "模型能力"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391698.html",
+      "published_at": "2026-03-24T01:30:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "12f145df",
+      "lang": "zh",
+      "title_zh": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
+      "summary_zh": "量子位：华为诺亚方舟实验室前研究员周凯文创办具身智能公司，采用视频生成合成数据方式训练家用机器人，首个发布模型即登顶具身基础模型榜单。该公司半年内完成三轮融资，被视为具身智能赛道又一重量级选手入场。",
+      "tags": [
+        "具身智能",
+        "创业融资"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391668.html",
+      "published_at": "2026-03-24T01:00:00Z",
+      "collected_at": "2026-03-24T09:05:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "28f46213",
+      "lang": "zh",
+      "title_zh": "Claude Code新增Computer Use能力！GUI操控电脑和真人无差别",
+      "summary_zh": "量子位：Anthropic为Claude Code升级了Computer Use能力，使其可通过实时截图看到屏幕内容，并像真人一样模拟鼠标键盘操作。无需API接口或CLI改造，任何传统软件（包括Photoshop、视频剪辑等）都纳入Agent操控范围，被视为对开源竞品的精准反击，公司估值随之暴涨300%。",
+      "tags": [
+        "产品发布",
+        "AI编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391567.html",
+      "published_at": "2026-03-24T00:00:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "b4c1ffd8",
+      "lang": "zh",
+      "title_zh": "OpenClaw 2026.3.22-beta.1发布：插件安全大升级",
+      "summary_zh": "量子位：OpenClaw发布新版本2026.3.22-beta.1，带来史上最大插件安全升级：统一ClawHub插件分发、引入运行时注入机制、新增原生SSH沙盒支持，并全面优化安卓移动端与社交媒体集成。官方提醒已接入微信集成的用户需谨慎升级以避免兼容性问题。",
+      "tags": [
+        "产品发布",
+        "AI工具"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391520.html",
+      "published_at": "2026-03-24T00:00:00Z",
+      "collected_at": "2026-03-24T03:00:00Z",
       "importance": 3,
       "merged_sources": []
     }

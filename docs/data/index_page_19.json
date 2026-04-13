@@ -1,7 +1,9 @@
 {
-  "latest_date": "2026-04-11",
-  "updated_at": "2026-04-11T03:10:45Z",
+  "latest_date": "2026-04-13",
+  "updated_at": "2026-04-13T03:10:00Z",
   "dates": [
+    "2026-04-13",
+    "2026-04-12",
     "2026-04-11",
     "2026-04-10",
     "2026-04-08",
@@ -39,356 +41,368 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 510,
+  "total_items": 537,
   "page": 19,
   "page_size": 20,
-  "total_pages": 26,
+  "total_pages": 27,
   "items": [
     {
-      "id": "56974e3d",
+      "id": "48227e4c",
       "lang": "en",
-      "title_en": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-      "title_zh": "OpenAI宣布关停Sora并终止与迪士尼的合作",
-      "summary_en": "The Verge: OpenAI is winding down its Sora AI video generation model and app, and ending a recently-announced partnership with Disney, marking a significant strategic retreat from the AI video generation market just 25 months after Sora's debut.",
-      "summary_zh": "The Verge：OpenAI宣布关停Sora AI视频生成模型及应用，并终止与迪士尼的合作协议，距Sora发布仅25个月，是OpenAI在AI视频赛道的重大战略退出。",
+      "title_en": "Lyria 3 Pro: Create longer AI music tracks across more Google products",
+      "title_zh": "Lyria 3 Pro：创作更长AI音乐，登陆更多谷歌产品",
+      "summary_en": "Google DeepMind: Lyria 3 Pro enables AI music generation of tracks up to three minutes long with structural awareness, expanding beyond the previous 30-second limit, and is being integrated into Gemini, YouTube, and other Google surfaces.",
+      "summary_zh": "Google DeepMind：Lyria 3 Pro支持生成最长3分钟、具备结构感知能力的AI音乐，突破此前30秒上限，并将集成至Gemini、YouTube等谷歌产品。",
       "tags": [
-        "行业动态"
+        "模型发布",
+        "多模态"
       ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-      "published_at": "2026-03-24T10:00:00Z",
-      "collected_at": "2026-03-25T01:12:00Z",
-      "importance": 5,
-      "merged_sources": [
-        "https://www.qbitai.com/2026/03/391799.html"
-      ]
-    },
-    {
-      "id": "eabcc45a",
-      "lang": "en",
-      "title_en": "Arm's first CPU ever will plug into Meta's AI data centers later this year",
-      "title_zh": "Arm首款自研CPU将于年内接入Meta的AI数据中心",
-      "summary_en": "The Verge: Arm is launching its first in-house designed CPU called the AGI CPU, which will be deployed by Meta in its AI data centers later this year, signaling Arm's strategic move from licensing architecture to building its own silicon.",
-      "summary_zh": "The Verge：Arm发布首款自研CPU（命名为AGI CPU），将于年内部署在Meta的AI数据中心，标志着Arm从授权架构向自研芯片的战略转型。",
-      "tags": [
-        "模型与技术"
-      ],
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-      "published_at": "2026-03-24T10:00:00Z",
-      "collected_at": "2026-03-25T01:12:00Z",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "published_at": "2026-03-25T16:01:39Z",
+      "collected_at": "2026-03-26T00:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "22db4cab",
+      "id": "56d86022",
       "lang": "en",
-      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-      "title_zh": "ProofShot：为AI编程智能体提供UI视觉验证能力",
-      "summary_en": "ProofShot: ProofShot is an open tool that gives AI coding agents visual verification capabilities for the UIs they generate. It enables agents to capture screenshots of their output and compare actual vs. intended UI state, helping detect visual discrepancies without manual review. Submitted as a Show HN project.",
-      "summary_zh": "ProofShot：ProofShot是一款为AI编程智能体提供UI视觉验证能力的开源工具。该工具使智能体能够截图并检查自身生成的界面，帮助识别实际UI与预期之间的视觉差异，降低人工审核成本。",
+      "title_en": "Harvey confirms $11B valuation as Sequoia triples down on AI legal tech",
+      "title_zh": "AI法律科技公司Harvey估值确认达110亿美元，红杉三度加注",
+      "summary_en": "Harvey: The AI-powered legal tech startup has confirmed an $11 billion valuation with continued backing from Sequoia, Andreessen Horowitz, and Kleiner Perkins, making it one of the highest-valued AI vertical SaaS companies in the legal sector.",
+      "summary_zh": "Harvey：这家AI法律科技初创公司确认估值达110亿美元，获得红杉、a16z、Kleiner Perkins等机构持续加码，成为法律垂直AI领域估值最高的公司之一。",
       "tags": [
-        "AI编程",
-        "工具",
-        "智能体"
+        "投融资",
+        "AI应用",
+        "法律AI"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://proofshot.argil.io/",
-      "published_at": "2026-03-24T07:46:00Z",
-      "collected_at": "2026-03-24T09:00:00Z",
-      "importance": 2,
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+      "published_at": "2026-03-25T15:27:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "580668b1",
+      "id": "bedf0dbb",
       "lang": "en",
-      "title_en": "Pool spare GPU capacity to run LLMs at larger scale",
-      "title_zh": "聚合闲置GPU算力以更大规模运行大语言模型",
-      "summary_en": "Hacker News: An open-source project, mesh-llm, proposes pooling idle GPU capacity across machines to run large language models at greater scale without dedicated infrastructure. The approach enables distributed LLM inference by treating spare compute as a shared mesh network.",
-      "summary_zh": "Hacker News：开源项目mesh-llm提出将多台机器闲置GPU算力汇集起来，无需专属基础设施即可大规模运行大语言模型，将空余算力视为共享网格网络，实现分布式LLM推理。",
+      "title_en": "Granola raises $125M at $1.5B valuation, expanding to enterprise AI",
+      "title_zh": "AI会议助手Granola融资1.25亿美元，估值15亿挺进企业AI",
+      "summary_en": "Granola: The AI meeting assistant raised $125M at a $1.5B valuation, nearly 6x its previous $250M mark, as it expands from meeting notetaking into a broader enterprise AI platform supporting AI agents.",
+      "summary_zh": "Granola：AI会议助手完成1.25亿美元融资，估值升至15亿美元（较此前2.5亿美元暴涨近6倍），正从会议记录扩展为支持AI代理的企业级AI平台。",
       "tags": [
-        "开源",
-        "基础设施"
+        "投融资",
+        "AI应用",
+        "企业软件"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/michaelneale/mesh-llm",
-      "published_at": "2026-03-24T05:43:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "published_at": "2026-03-25T14:48:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "6354345b",
+      "id": "ce61270d",
       "lang": "en",
-      "title_en": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-      "title_zh": "ProofShot：让AI编程Agent能看见并验证自己构建的UI",
-      "summary_en": "Hacker News: ProofShot is a new tool that provides AI coding agents with visual verification capabilities, allowing them to take screenshots and validate that the UI they generate matches intended designs. The Show HN post highlights growing demand for closed-loop feedback in AI-assisted software development.",
-      "summary_zh": "Hacker News：ProofShot是一款为AI编程Agent提供视觉验证能力的新工具，使其能截图并确认自动生成的UI是否符合预期设计，体现了AI辅助软件开发中对闭环反馈机制的迫切需求。",
+      "title_en": "Ensu: Ente launches a local LLM app (Hacker News #1)",
+      "title_zh": "Ensu：Ente推出本地LLM应用（Hacker News热榜第一）",
+      "summary_en": "Ente: Ensu is a new local LLM application from the privacy-focused photo storage company, enabling users to run language models entirely on-device without cloud data transfer, topping Hacker News with a score of 322.",
+      "summary_zh": "Ente：隐私照片存储Ente团队推出本地LLM应用Ensu，支持完全在设备端运行大语言模型，无需上传云端，在Hacker News以322分登顶热榜。",
       "tags": [
-        "AI编程",
-        "工具与平台"
+        "开源工具",
+        "本地AI",
+        "隐私"
       ],
       "source_name": "Hacker News",
-      "source_url": "https://proofshot.argil.io/",
-      "published_at": "2026-03-24T04:23:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
+      "source_url": "https://ente.com/blog/ensu/",
+      "published_at": "2026-03-25T12:49:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "77da0ae0",
+      "id": "c1df6772",
+      "lang": "en",
+      "title_en": "Cursor self-hosted cloud agents now generally available",
+      "title_zh": "Cursor自托管云端Agent正式发布：代码和工具执行留在企业内网",
+      "summary_en": "Cursor: Self-hosted cloud agents are now generally available, letting enterprises run Cursor's AI coding agents entirely within their own infrastructure—code, secrets, and build artifacts never leave the environment—while still benefiting from Cursor's orchestration and model access. Customers like Brex, Money Forward, and Notion have already adopted this feature.",
+      "summary_zh": "Cursor：自托管云端Agent正式发布，企业可在自有基础设施内运行Cursor AI编程代理，代码、密钥及构建产物全程不离开内网，同时享用Cursor的调度与模型能力，Brex、Money Forward等企业已采用。",
+      "tags": [
+        "产品发布",
+        "代码工具",
+        "Agent",
+        "企业软件"
+      ],
+      "source_name": "Cursor",
+      "source_url": "https://cursor.com/blog/self-hosted-cloud-agents",
+      "published_at": "2026-03-25T12:00:00Z",
+      "collected_at": "2026-03-26T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "ed549ebd",
+      "lang": "en",
+      "title_en": "Senate Democrats push bill to codify Anthropic red lines on autonomous weapons",
+      "title_zh": "美国参议院民主党人推动立法，将Anthropic AI红线写入法律",
+      "summary_en": "U.S. Congress: Sen. Adam Schiff is working on legislation to codify Anthropic's self-imposed red lines banning AI in autonomous weapons and mass surveillance decisions, amid growing Pentagon-Anthropic tensions over AI deployment in defense.",
+      "summary_zh": "美国国会：参议员亚当·希夫正推动立法，将Anthropic自设的AI红线——禁止AI参与自主武器及大规模监控——写入法律，背景是Anthropic与五角大楼在AI军事应用上的矛盾升级。",
+      "tags": [
+        "政策监管",
+        "AI安全",
+        "军事AI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+      "published_at": "2026-03-25T11:05:46Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "75939090",
+      "lang": "en",
+      "title_en": "Zuckerberg and Jensen Huang join Trump's new AI-focused tech advisory panel",
+      "title_zh": "扎克伯格与黄仁勋加入特朗普AI科技顾问委员会",
+      "summary_en": "White House: Meta CEO Mark Zuckerberg, Nvidia CEO Jensen Huang, Oracle's Larry Ellison, and Google co-founder Sergey Brin are among the first members of Trump's President's Council of Advisors on Science and Technology, with a strong AI focus.",
+      "summary_zh": "白宫：Meta CEO扎克伯格、英伟达CEO黄仁勋、甲骨文拉里·埃里森及谷歌联创谢尔盖·布林成为特朗普新设总统科技顾问委员会首批成员，该委员会着重聚焦AI产业。",
+      "tags": [
+        "政策监管",
+        "行业动态"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
+      "published_at": "2026-03-25T10:41:21Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "336ca8c8",
       "lang": "zh",
-      "title_zh": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
-      "summary_zh": "量子位：英伟达CEO黄仁勋抛出重磅论断，称AGI已经实现，并直言Ilya Sutskever关于预训练触顶的判断是错的，认为合成数据将进一步推动数据规模扩张。他预测全球将出现10亿级AI程序员，并强调推理计算比预训练更难、更重要，引发业界广泛讨论。",
+      "title_zh": "OpenAI关停Sora！25个月从封神到退场",
+      "title_en": "OpenAI shuts down Sora: 25 months from hype to exit",
+      "summary_zh": "量子位：OpenAI正式关停视频生成模型Sora，距其发布仅25个月；同步曝光与迪士尼10亿美元合作谈判破裂，折射出AI视频赛道的激烈竞争与商业化困境。",
+      "summary_en": "Qbitai: OpenAI has officially shut down Sora video generation model just 25 months after launch, concurrent with reports that a billion-dollar Disney deal fell through, highlighting fierce competition and commercialization challenges in AI video.",
+      "tags": [
+        "产品动态",
+        "OpenAI",
+        "AI视频"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391799.html",
+      "published_at": "2026-03-25T08:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 5,
+      "merged_sources": []
+    },
+    {
+      "id": "03758a62",
+      "lang": "en",
+      "title_en": "Anthropic's Claude Code gets a safer auto mode",
+      "title_zh": "Anthropic Claude Code新增更安全自动模式",
+      "summary_en": "Anthropic: Claude Code's new auto mode lets the AI make permissions-level decisions on behalf of users, offering a safer alternative to unrestricted agent access for automated coding tasks.",
+      "summary_zh": "Anthropic：Claude Code新增自动模式，允许AI代替用户做出权限层面的决策，为自动化编程任务提供更安全的代理替代方案。",
+      "tags": [
+        "产品更新",
+        "代码工具",
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+      "published_at": "2026-03-25T07:39:46Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "fd089818",
+      "lang": "zh",
+      "title_zh": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
+      "title_en": "DeepSeek urgently hiring for Agent roles: 17 positions posted, Vibe Coding a priority",
+      "summary_zh": "量子位：DeepSeek一次性发布17个Agent方向招聘岗位，明确优先考虑有重度Vibe Coding经验的候选人，反映其在智能体研发上的大规模投入与战略紧迫性。",
+      "summary_en": "Qbitai: DeepSeek simultaneously posted 17 open Agent-focused positions, explicitly prioritizing candidates with heavy Vibe Coding experience, signaling a major accelerated push into agentic AI research and development.",
       "tags": [
         "行业动态",
-        "模型能力"
+        "DeepSeek",
+        "Agent"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392024.html",
+      "published_at": "2026-03-25T07:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "afaa88eb",
+      "lang": "zh",
+      "title_zh": "黄仁勋暴论：AGI已经实现，Ilya错了，程序员将有10亿",
+      "title_en": "Jensen Huang: AGI has been achieved, Ilya is wrong, there will be 1 billion programmers",
+      "summary_zh": "量子位：英伟达CEO黄仁勋公开宣称AGI已经实现，认为Ilya Sutskever对AGI的定义有误；并预测随着AI辅助编程普及，全球程序员数量将迈向10亿规模。",
+      "summary_en": "Qbitai: Nvidia CEO Jensen Huang claimed AGI has already been achieved and that Ilya Sutskever's definition is incorrect; he also predicted that AI-assisted programming will eventually enable one billion people to become programmers.",
+      "tags": [
+        "行业观点",
+        "AGI"
       ],
       "source_name": "量子位",
       "source_url": "https://www.qbitai.com/2026/03/391750.html",
-      "published_at": "2026-03-24T03:00:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 5,
-      "merged_sources": []
-    },
-    {
-      "id": "6f6397af",
-      "lang": "zh",
-      "title_zh": "RoboChallenge Table30 V2 正式发布，泛化时代开幕",
-      "summary_zh": "量子位：具身智能评测基准RoboChallenge Table30 V2正式发布，新增18个双臂灵巧操作任务，总计30个高难度任务，专注考核模型泛化能力。新版本重构了学习与测试协议，终结了为比赛调参的旧模式，旨在为全球具身智能研究者提供公平开放的真机竞技场。",
-      "tags": [
-        "具身智能",
-        "评测基准"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391744.html",
-      "published_at": "2026-03-24T02:30:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "9355a186",
-      "lang": "en",
-      "title_en": "Epoch confirms GPT-5.4 Pro solved a Frontier Math Open Problem for the first time",
-      "title_zh": "Epoch AI确认：GPT-5.4 Pro首次解决FrontierMath开放数学难题",
-      "summary_en": "Epoch AI: Epoch confirmed that OpenAI's GPT-5.4 Pro successfully solved an open problem from the FrontierMath benchmark, marking the first time any AI model has cracked a problem in this rigorous mathematical challenge set designed to push beyond current AI capabilities.",
-      "summary_zh": "Epoch AI：研究机构Epoch确认，OpenAI的GPT-5.4 Pro成功解决了FrontierMath基准测试中的一道开放数学难题，标志着AI模型首次攻克该为突破当前AI能力极限而设计的严苛数学挑战赛中的开放性问题。",
-      "tags": [
-        "模型能力",
-        "评测基准"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-      "published_at": "2026-03-24T01:53:00Z",
-      "collected_at": "2026-03-24T03:00:00Z",
+      "published_at": "2026-03-25T06:00:00Z",
+      "collected_at": "2026-03-26T00:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "4f759cf2",
+      "id": "0c9c67ce",
       "lang": "en",
-      "title_en": "I Created My First AI-Assisted Pull Request and I Feel Like a Fraud",
-      "title_zh": "我用 AI 辅助完成了第一个 Pull Request，却感觉像个骗子",
-      "summary_en": "Hacker News: A developer reflects on using AI coding tools to submit their first AI-assisted pull request, exploring feelings of imposter syndrome and questions about authenticity in AI-augmented software development. The personal essay resonates with many developers navigating the shift toward AI-assisted workflows.",
-      "summary_zh": "Hacker News：一位开发者分享了使用 AI 编程工具提交第一个 AI 辅助 Pull Request 的心路历程，探讨了在 AI 增强软件开发中关于冒名顶替综合症和真实性的思考，引发了大量开发者对 AI 辅助工作流的共鸣。",
+      "title_en": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "title_zh": "Kleiner Perkins完成35亿美元募资，全力押注AI",
+      "summary_en": "TechCrunch: Kleiner Perkins has closed a $3.5 billion fundraise, allocating $1 billion for early-stage AI startups and $2.5 billion for late-stage growth businesses, signaling a major strategic pivot by one of Silicon Valley's most storied venture firms to double down on AI.",
+      "summary_zh": "TechCrunch：Kleiner Perkins完成35亿美元募资，其中10亿美元用于早期AI创业公司，25亿美元投向成长期企业，标志着这家老牌硅谷风投全面押注AI的战略转型。",
       "tags": [
-        "工具与平台",
-        "行业动态"
+        "行业动态",
+        "投融资"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
-      "published_at": "2026-03-24T01:42:38Z",
-      "collected_at": "2026-03-24T03:08:59.590728Z",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "published_at": "2026-03-25T00:47:20Z",
+      "collected_at": "2026-03-25T03:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "42714d8c",
+      "lang": "zh",
+      "title_zh": "它石智航联合六大机构发布OmniVTA视触觉世界模型",
+      "summary_zh": "它石智航：它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村学院及北京航空航天大学，发布OmniVTA视触觉操作框架和OmniViTac大规模视触觉数据集。该系统让机器人从被动感知升级为对触觉进行主动预测和闭环精准控制，支持复杂灵巧操作任务。相关论文已在arXiv发布。",
+      "tags": [
+        "研究论文",
+        "多模态"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392105.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "7bb8054a",
+      "lang": "zh",
+      "title_zh": "DeepSeek急招Agent方向，重度Vibe Coding优先",
+      "summary_zh": "DeepSeek：DeepSeek一口气发布17个招聘岗位，核心聚焦Agent方向，覆盖算法研究、数据评测及基础设施全链条。多个岗位明确要求或优先考虑重度使用Claude Code、Cursor、Copilot等AI编程工具的候选人，全栈开发岗还要求作为Vibe Coding重度用户持续探索模型能力。",
+      "tags": [
+        "Agent",
+        "编程"
+      ],
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/392024.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
       "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "6162e5ae",
+      "id": "5a0e5ffa",
       "lang": "zh",
-      "title_zh": "LeCun的世界模型单GPU就能跑了",
-      "summary_zh": "量子位：新研究实现仅需单GPU即可稳定训练LeCun提倡的世界模型（JEPA类架构），只靠像素输入无需复杂技巧，能预测执行某动作后世界的变化。通过SIGReg正则化解决了以往JEPA方案的崩溃问题，可直接用于机器人和智能体规划控制，兼顾速度与稳定性。",
-      "tags": [
-        "具身智能",
-        "模型能力"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391698.html",
-      "published_at": "2026-03-24T01:30:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "12f145df",
-      "lang": "zh",
-      "title_zh": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
-      "summary_zh": "量子位：华为诺亚方舟实验室前研究员周凯文创办具身智能公司，采用视频生成合成数据方式训练家用机器人，首个发布模型即登顶具身基础模型榜单。该公司半年内完成三轮融资，被视为具身智能赛道又一重量级选手入场。",
-      "tags": [
-        "具身智能",
-        "创业融资"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391668.html",
-      "published_at": "2026-03-24T01:00:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 4,
-      "merged_sources": []
-    },
-    {
-      "id": "28f46213",
-      "lang": "zh",
-      "title_zh": "Claude Code新增Computer Use能力！GUI操控电脑和真人无差别",
-      "summary_zh": "量子位：Anthropic为Claude Code升级了Computer Use能力，使其可通过实时截图看到屏幕内容，并像真人一样模拟鼠标键盘操作。无需API接口或CLI改造，任何传统软件（包括Photoshop、视频剪辑等）都纳入Agent操控范围，被视为对开源竞品的精准反击，公司估值随之暴涨300%。",
+      "title_zh": "WorkBuddy：微信里的AI专家团队工作流",
+      "summary_zh": "WorkBuddy：WorkBuddy是一款可在微信中使用的AI工作流产品，支持多个AI专家角色协同作业，覆盖运营策略、选题、内容生产等环节。用户可通过配置AI角色分工，在微信内完成自媒体内容全流程，并支持定时推送AI热点摘要等自动化功能。",
       "tags": [
         "产品发布",
-        "AI编程"
+        "Agent"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391567.html",
-      "published_at": "2026-03-24T00:00:00Z",
-      "collected_at": "2026-03-24T03:00:00Z",
-      "importance": 5,
+      "source_url": "https://www.qbitai.com/2026/03/391894.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
+      "importance": 2,
       "merged_sources": []
     },
     {
-      "id": "b4c1ffd8",
+      "id": "0f161b31",
       "lang": "zh",
-      "title_zh": "OpenClaw 2026.3.22-beta.1发布：插件安全大升级",
-      "summary_zh": "量子位：OpenClaw发布新版本2026.3.22-beta.1，带来史上最大插件安全升级：统一ClawHub插件分发、引入运行时注入机制、新增原生SSH沙盒支持，并全面优化安卓移动端与社交媒体集成。官方提醒已接入微信集成的用户需谨慎升级以避免兼容性问题。",
+      "title_zh": "昆仑万维Mureka V8登顶全球AI音乐模型榜",
+      "summary_zh": "昆仑万维：昆仑万维旗下AI音乐模型Mureka V8在Artificial Analysis音乐模型榜单中登顶，超越Suno V4.5、Udio v1.5 Allegro等国际主流模型，实现人声（vocal）与器乐（instrument）双项第一。测试显示其在低复杂度提示词下也具备较强的理解和生成能力。",
       "tags": [
         "产品发布",
-        "AI工具"
+        "多模态",
+        "评测基准"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391520.html",
-      "published_at": "2026-03-24T00:00:00Z",
-      "collected_at": "2026-03-24T03:00:00Z",
+      "source_url": "https://www.qbitai.com/2026/03/391839.html",
+      "published_at": "2026-03-25T00:00:00Z",
+      "collected_at": "2026-03-25T09:00:00Z",
       "importance": 3,
       "merged_sources": []
     },
     {
-      "id": "1cddf2bd",
-      "lang": "en",
-      "title_en": "LiteLLM Python package compromised by supply-chain attack",
-      "title_zh": "LiteLLM Python 包遭受供应链攻击",
-      "summary_en": "Hacker News: The popular LiteLLM Python package was compromised through a supply-chain attack. LiteLLM is widely used for routing AI model API calls across providers. Users are advised to audit their dependencies and update to a safe version immediately.",
-      "summary_zh": "Hacker News：广泛用于 AI 模型 API 路由的 Python 包 LiteLLM 遭受供应链攻击，代码被篡改。用户被建议立即审查依赖并升级到安全版本。",
+      "id": "877123e3",
+      "lang": "zh",
+      "title_zh": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
+      "summary_zh": "量子位：一加全新小屏旗舰一加 15T 正式发布，搭载第五代骁龙 8 至尊版处理器与 ColorOS 16 系统，全面集成 AI 功能。机型配备 6.32 英寸屏幕、7500mAh 大电池及 LUMO 凝光影像系统，165Hz 高帧游戏体验，售价 4299 元起。",
       "tags": [
-        "安全",
-        "开源"
+        "产品发布",
+        "手机"
       ],
-      "source_name": "Hacker News",
-      "source_url": "https://github.com/BerriAI/litellm/issues/24512",
-      "published_at": "2026-03-24T00:00:00Z",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/03/391775.html",
+      "published_at": "2026-03-24T14:35:34Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "66c9a554",
+      "lang": "en",
+      "title_en": "Anthropic's Claude Code and Cowork can control your computer",
+      "title_zh": "Anthropic Claude Code 与 Cowork 现可控制电脑",
+      "summary_en": "Anthropic: Anthropic has announced that Claude Code and its new Cowork feature can now control computers directly, enabling GUI-level automation tasks. The capability allows Claude to interact with desktop applications and perform complex multi-step workflows on behalf of users.",
+      "summary_zh": "Anthropic：Anthropic 宣布 Claude Code 及新功能 Cowork 现可直接控制电脑，实现 GUI 级别的自动化操作，让 Claude 能够与桌面应用程序交互并代替用户执行复杂的多步骤工作流。",
+      "tags": [
+        "产品发布",
+        "AI Agent",
+        "编程工具"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+      "published_at": "2026-03-24T13:32:23Z",
       "collected_at": "2026-03-24T15:00:00Z",
       "importance": 4,
       "merged_sources": []
     },
     {
-      "id": "ba73106b",
+      "id": "5ca1f58b",
       "lang": "en",
-      "title_en": "So where are all the AI apps?",
-      "title_zh": "AI 应用都在哪里？",
-      "summary_en": "Hacker News: Answer.AI poses the question of why truly transformative AI-native consumer applications remain scarce despite the rapid advancement of foundation models. The essay explores the gap between model capabilities and real-world application development, and what might be needed to bridge it.",
-      "summary_zh": "Hacker News：Answer.AI 探讨了尽管基础模型快速发展，但真正变革性的 AI 原生消费应用为何依然稀缺，分析了模型能力与实际应用开发之间的差距。",
-      "tags": [
-        "行业观察",
-        "AI Agent"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-      "published_at": "2026-03-24T00:00:00Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "40f44cee",
-      "lang": "en",
-      "title_en": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "title_zh": "LLM 神经解剖学 II：现代 LLM 破解与通用语言的线索",
-      "summary_en": "Hacker News: This research post explores interpretability in large language models through the lens of 'neuroanatomy', examining how modern LLMs process information internally and presenting evidence suggesting the possible existence of universal representational structures across different models.",
-      "summary_zh": "Hacker News：本研究从「神经解剖学」视角探索大型语言模型的可解释性，分析 LLM 内部信息处理机制，并提出不同模型间可能存在通用表征结构的证据。",
-      "tags": [
-        "可解释性",
-        "研究"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://dnhkng.github.io/posts/rys-ii/",
-      "published_at": "2026-03-24T00:00:00Z",
-      "collected_at": "2026-03-24T15:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "cea750e1",
-      "lang": "en",
-      "title_en": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-      "title_zh": "贝莱德CEO芬克：AI繁荣可能加剧贫富分化",
-      "summary_en": "The Guardian: BlackRock CEO Larry Fink warned in his annual letter that the AI boom risks significantly widening wealth inequality. He called on companies and policymakers to ensure AI productivity gains are broadly shared, or risk severe social and political backlash.",
-      "summary_zh": "The Guardian：贝莱德CEO拉里·芬克在年度致股东信中警告，AI繁荣可能大幅加剧贫富不均，呼吁企业和政策制定者确保AI生产力红利广泛普惠，否则将面临严重的社会和政治反弹。",
-      "tags": [
-        "产业动态",
-        "政策法规"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
-      "published_at": "2026-03-23T23:32:00Z",
-      "collected_at": "2026-03-24T03:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "7befec30",
-      "lang": "en",
-      "title_en": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-      "title_zh": "Air Street 完成 2.32 亿美元基金，成欧洲最大 AI 专项 VC 之一",
-      "summary_en": "TechCrunch: London-based Air Street Capital closed a $232M Fund III focused exclusively on early-stage AI companies in Europe and North America. The fund signals continued strong investor appetite for AI infrastructure and applied AI startups despite market volatility.",
-      "summary_zh": "TechCrunch：伦敦 AI 专项风投 Air Street Capital 完成 2.32 亿美元第三期基金，专注欧洲和北美早期 AI 创业公司。这一规模使其成为欧洲最大的单人管理 AI 风险基金之一，显示资本对 AI 赛道仍保持高度热情。",
-      "tags": [
-        "投资融资",
-        "AI生态"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-      "published_at": "2026-03-23T22:36:39Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "d0c04e26",
-      "lang": "en",
-      "title_en": "GSA extends comments on AI clause after industry pushback",
-      "title_zh": "行业反弹后，美国 GSA 延长 AI 条款意见征集期",
-      "summary_en": "Hacker News: The U.S. General Services Administration extended its public comment period on a sweeping AI contract clause after significant pushback from industry groups, who argued the requirements were overly burdensome for AI vendors doing business with the federal government.",
-      "summary_zh": "Hacker News：美国总务管理局（GSA）在收到行业团体强烈反对后，延长了一项涵盖广泛 AI 合同条款的公众意见征集期。行业方认为相关要求对与联邦政府合作的 AI 企业过于苛刻。",
-      "tags": [
-        "AI政策",
-        "监管"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://fedscoop.com/gsa-extends-comments-on-sweeping-ai-clause-after-industry-pushback/",
-      "published_at": "2026-03-23T22:29:09Z",
-      "collected_at": "2026-03-24T00:00:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "767903a7",
-      "lang": "zh",
-      "title_zh": "阿里在海外上了个企业级龙虾，我用它30分钟手搓了一家网店",
-      "summary_zh": "量子位：阿里巴巴在海外推出面向中小企业的AI Agent平台，整合选品、营销、客服等多个Agent，可30分钟内搭建完整网店，直连供应商，支持Telegram/Discord实时更新，旨在帮助全球用户低门槛创业。",
+      "title_en": "Anthropic's Claude Code and Cowork can control your computer",
+      "title_zh": "Anthropic Claude Code 与 Cowork 获得电脑控制能力",
+      "summary_en": "Anthropic: Anthropic has expanded Claude Code and its Cowork collaboration tool with computer use capabilities, allowing the AI to autonomously control desktop applications and perform complex multi-step tasks. The update brings agentic capabilities directly into developer workflows.",
+      "summary_zh": "Anthropic：Anthropic 为 Claude Code 和协作工具 Cowork 新增了电脑控制功能，使 AI 能够自主操作桌面应用程序并执行复杂的多步骤任务，将智能体能力直接融入开发者工作流。",
       "tags": [
         "产品发布",
-        "AI Agent"
+        "Agent"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-computer-use",
+      "published_at": "2026-03-24T13:32:23Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "e77aa854",
+      "lang": "zh",
+      "title_zh": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
+      "summary_zh": "量子位：量子位将于 3 月 26 日举办 AI 初创全球化线下沙龙，邀请小影科技、FluxA、谷歌、京东、声网、Meshy 等企业分享出海实践经验，面向有全球化意向的 AI 创业团队开放报名。",
+      "tags": [
+        "行业活动",
+        "出海"
       ],
       "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/391584.html",
-      "published_at": "2026-03-23T22:00:00Z",
-      "collected_at": "2026-03-24T09:05:00Z",
-      "importance": 3,
+      "source_url": "https://www.qbitai.com/2026/03/391760.html",
+      "published_at": "2026-03-24T13:09:56Z",
+      "collected_at": "2026-03-24T15:00:00Z",
+      "importance": 2,
       "merged_sources": []
     }
   ]

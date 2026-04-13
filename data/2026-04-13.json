@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-13",
+  "generated_at": "2026-04-13T03:10:00Z",
+  "items": [
+    {
+      "id": "f3418d2d",
+      "lang": "en",
+      "title_en": "PocketLLM – Run local LLMs from a USB stick",
+      "title_zh": "PocketLLM：从 U 盘运行本地大模型",
+      "summary_en": "Hacker News: PocketLLM is an open-source project that packages a local LLM runtime onto a USB stick, enabling users to run large language models on any compatible machine without installation. The project targets privacy-conscious users and air-gapped environments where cloud AI is unavailable.",
+      "summary_zh": "Hacker News：PocketLLM 是一个开源项目，将本地大模型运行环境打包到 U 盘，让用户在任意兼容设备上无需安装即可运行大语言模型，主要面向注重隐私及无网络环境的用户群体。",
+      "tags": [
+        "开源工具",
+        "端侧AI"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/vraj00222/pocketllm",
+      "published_at": "2026-04-13T03:01:11Z",
+      "collected_at": "2026-04-13T03:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f2b3b604",
+      "lang": "en",
+      "title_en": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "title_zh": "苹果的意外护城河：这位「AI 落后者」或许最终胜出",
+      "summary_en": "Hacker News: An analysis arguing that Apple's privacy-focused, on-device AI strategy—often mocked as behind OpenAI and Google—may become a structural competitive advantage as regulatory scrutiny of cloud AI data practices intensifies and users increasingly demand local, private inference.",
+      "summary_zh": "Hacker News：一篇分析文章指出，苹果以隐私为核心、聚焦端侧推理的 AI 策略——常被嘲讽落后于 OpenAI 和谷歌——随着云端 AI 数据合规监管趋严及用户对本地私密推理需求上升，可能演变为结构性竞争优势。",
+      "tags": [
+        "行业分析",
+        "端侧AI"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "published_at": "2026-04-13T02:53:10Z",
+      "collected_at": "2026-04-13T03:10:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "77bca057",
+      "lang": "en",
+      "title_en": "Show HN: A better alternative to CLI and MCP for local agentic tools",
+      "title_zh": "Show HN：本地智能体工具的 CLI/MCP 替代方案——命名管道",
+      "summary_en": "Hacker News: A developer shares named-pipes, a Unix named-pipe-based IPC framework for locally running agentic tools that provides stateful in-memory communication faster than MCP or CLI subprocesses. Includes a CLI tool (cpipe), HTTP server mode, and an ACP server for Claude Code integration.",
+      "summary_zh": "Hacker News：开发者发布 named-pipes，一个基于 Unix 命名管道的本地智能体工具 IPC 框架，提供有状态内存通信，速度快于 MCP 或 CLI 子进程，附带 cpipe 命令行工具、HTTP 服务器模式及面向 Claude Code 的 ACP 服务器接口。",
+      "tags": [
+        "开源工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/stefanwebb/named-pipes",
+      "published_at": "2026-04-13T02:21:23Z",
+      "collected_at": "2026-04-13T03:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "c7a447f5",
+      "lang": "en",
+      "title_en": "ReceiptBot – Stop Node.js AI agents from reading .env and burning your budget",
+      "title_zh": "ReceiptBot：防止 Node.js AI 智能体读取 .env 文件超额消费",
+      "summary_en": "Hacker News: ReceiptBot is an open-source Node.js middleware that intercepts AI agent API calls, enforces per-session token budgets, and blocks file-system reads of sensitive config files like .env. It targets developers building cost-controlled agentic pipelines to prevent runaway spend.",
+      "summary_zh": "Hacker News：ReceiptBot 是一个开源 Node.js 中间件，拦截 AI 智能体 API 调用、按会话强制执行 Token 预算，并阻止读取 .env 等敏感配置文件，面向需要成本控制的智能体开发者。",
+      "tags": [
+        "开源工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/redshadow912/ReceiptBot",
+      "published_at": "2026-04-13T02:15:11Z",
+      "collected_at": "2026-04-13T03:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "888fbd2b",
+      "lang": "en",
+      "title_en": "Writing should have a soul and its own Claude Skill",
+      "title_zh": "写作应有灵魂：开源我的 Claude 写作 Skill",
+      "summary_en": "Hacker News: The team at Lago open-sources their internal Claude writing skill—a structured system prompt that enforces style consistency, voice, and editorial principles across AI-assisted writing. The post argues that AI-assisted writing needs opinionated guardrails to preserve a brand's authentic voice.",
+      "summary_zh": "Hacker News：Lago 团队开源其内部 Claude 写作 Skill——一套结构化系统提示词，用于在 AI 辅助写作中保持文风一致性与编辑原则，作者认为 AI 辅助写作需要有主见的约束机制以保留品牌真实声音。",
+      "tags": [
+        "提示工程",
+        "开源工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://getlago.substack.com/p/open-sourcing-my-writing-claude-skill",
+      "published_at": "2026-04-13T02:04:39Z",
+      "collected_at": "2026-04-13T03:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    }
+  ]
+}

@@ -1,7 +1,8 @@
 {
-  "latest_date": "2026-04-12",
-  "updated_at": "2026-04-12T15:12:09Z",
+  "latest_date": "2026-04-13",
+  "updated_at": "2026-04-13T03:10:00Z",
   "dates": [
+    "2026-04-13",
     "2026-04-12",
     "2026-04-11",
     "2026-04-10",
@@ -40,27 +41,99 @@
     "2026-03-06",
     "2026-03-05"
   ],
-  "total_items": 10,
+  "total_items": 537,
   "page": 1,
   "page_size": 20,
-  "total_pages": 1,
+  "total_pages": 27,
   "items": [
     {
-      "id": "74df87e5",
+      "id": "f3418d2d",
       "lang": "en",
-      "title_en": "Anthropic silently downgraded cache TTL from 1h → 5M on March 6th",
-      "title_zh": "Anthropic 悄然将缓存 TTL 从 1 小时缩短至 5 分钟",
-      "summary_en": "Anthropic: Anthropic's prompt caching TTL for claude-code was silently downgraded from 1 hour to 5 minutes around March 6, 2026, without announcement. Developers report unexpected quota exhaustion and cost inflation; the GitHub issue attracted significant community attention calling for transparency and a revert.",
-      "summary_zh": "Anthropic：Anthropic 于 2026 年 3 月 6 日前后悄然将 claude-code 提示缓存的 TTL 从 1 小时缩短至 5 分钟，未作任何公告。开发者反馈 quota 大量消耗及费用异常攀升，该 GitHub Issue 引发社区广泛关注，要求官方透明说明并回滚。",
+      "title_en": "PocketLLM – Run local LLMs from a USB stick",
+      "title_zh": "PocketLLM：从 U 盘运行本地大模型",
+      "summary_en": "Hacker News: PocketLLM is an open-source project that packages a local LLM runtime onto a USB stick, enabling users to run large language models on any compatible machine without installation. The project targets privacy-conscious users and air-gapped environments where cloud AI is unavailable.",
+      "summary_zh": "Hacker News：PocketLLM 是一个开源项目，将本地大模型运行环境打包到 U 盘，让用户在任意兼容设备上无需安装即可运行大语言模型，主要面向注重隐私及无网络环境的用户群体。",
       "tags": [
-        "产品发布",
-        "安全对齐"
+        "开源工具",
+        "端侧AI"
       ],
       "source_name": "Hacker News",
-      "source_url": "https://github.com/anthropics/claude-code/issues/46829",
-      "published_at": "2026-04-12T05:45:52Z",
-      "collected_at": "2026-04-12T09:13:45Z",
+      "source_url": "https://github.com/vraj00222/pocketllm",
+      "published_at": "2026-04-13T03:01:11Z",
+      "collected_at": "2026-04-13T03:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "f2b3b604",
+      "lang": "en",
+      "title_en": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "title_zh": "苹果的意外护城河：这位「AI 落后者」或许最终胜出",
+      "summary_en": "Hacker News: An analysis arguing that Apple's privacy-focused, on-device AI strategy—often mocked as behind OpenAI and Google—may become a structural competitive advantage as regulatory scrutiny of cloud AI data practices intensifies and users increasingly demand local, private inference.",
+      "summary_zh": "Hacker News：一篇分析文章指出，苹果以隐私为核心、聚焦端侧推理的 AI 策略——常被嘲讽落后于 OpenAI 和谷歌——随着云端 AI 数据合规监管趋严及用户对本地私密推理需求上升，可能演变为结构性竞争优势。",
+      "tags": [
+        "行业分析",
+        "端侧AI"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "published_at": "2026-04-13T02:53:10Z",
+      "collected_at": "2026-04-13T03:10:00Z",
       "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "77bca057",
+      "lang": "en",
+      "title_en": "Show HN: A better alternative to CLI and MCP for local agentic tools",
+      "title_zh": "Show HN：本地智能体工具的 CLI/MCP 替代方案——命名管道",
+      "summary_en": "Hacker News: A developer shares named-pipes, a Unix named-pipe-based IPC framework for locally running agentic tools that provides stateful in-memory communication faster than MCP or CLI subprocesses. Includes a CLI tool (cpipe), HTTP server mode, and an ACP server for Claude Code integration.",
+      "summary_zh": "Hacker News：开发者发布 named-pipes，一个基于 Unix 命名管道的本地智能体工具 IPC 框架，提供有状态内存通信，速度快于 MCP 或 CLI 子进程，附带 cpipe 命令行工具、HTTP 服务器模式及面向 Claude Code 的 ACP 服务器接口。",
+      "tags": [
+        "开源工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/stefanwebb/named-pipes",
+      "published_at": "2026-04-13T02:21:23Z",
+      "collected_at": "2026-04-13T03:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "c7a447f5",
+      "lang": "en",
+      "title_en": "ReceiptBot – Stop Node.js AI agents from reading .env and burning your budget",
+      "title_zh": "ReceiptBot：防止 Node.js AI 智能体读取 .env 文件超额消费",
+      "summary_en": "Hacker News: ReceiptBot is an open-source Node.js middleware that intercepts AI agent API calls, enforces per-session token budgets, and blocks file-system reads of sensitive config files like .env. It targets developers building cost-controlled agentic pipelines to prevent runaway spend.",
+      "summary_zh": "Hacker News：ReceiptBot 是一个开源 Node.js 中间件，拦截 AI 智能体 API 调用、按会话强制执行 Token 预算，并阻止读取 .env 等敏感配置文件，面向需要成本控制的智能体开发者。",
+      "tags": [
+        "开源工具",
+        "智能体"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/redshadow912/ReceiptBot",
+      "published_at": "2026-04-13T02:15:11Z",
+      "collected_at": "2026-04-13T03:10:00Z",
+      "importance": 2,
+      "merged_sources": []
+    },
+    {
+      "id": "888fbd2b",
+      "lang": "en",
+      "title_en": "Writing should have a soul and its own Claude Skill",
+      "title_zh": "写作应有灵魂：开源我的 Claude 写作 Skill",
+      "summary_en": "Hacker News: The team at Lago open-sources their internal Claude writing skill—a structured system prompt that enforces style consistency, voice, and editorial principles across AI-assisted writing. The post argues that AI-assisted writing needs opinionated guardrails to preserve a brand's authentic voice.",
+      "summary_zh": "Hacker News：Lago 团队开源其内部 Claude 写作 Skill——一套结构化系统提示词，用于在 AI 辅助写作中保持文风一致性与编辑原则，作者认为 AI 辅助写作需要有主见的约束机制以保留品牌真实声音。",
+      "tags": [
+        "提示工程",
+        "开源工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://getlago.substack.com/p/open-sourcing-my-writing-claude-skill",
+      "published_at": "2026-04-13T02:04:39Z",
+      "collected_at": "2026-04-13T03:10:00Z",
+      "importance": 2,
       "merged_sources": []
     },
     {
@@ -96,24 +169,6 @@
       "source_url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
       "published_at": "2026-04-12T12:00:00Z",
       "collected_at": "2026-04-12T15:08:00Z",
-      "importance": 3,
-      "merged_sources": []
-    },
-    {
-      "id": "73f79f05",
-      "lang": "en",
-      "title_en": "How a dancer with ALS used brainwaves to perform live",
-      "title_zh": "ALS 舞者用脑电波完成现场表演",
-      "summary_en": "Researchers: A dancer diagnosed with ALS used a brain-computer interface to translate brainwave signals into live performance movements, enabling real-time artistic expression despite severe motor impairment. The technology demonstrates practical BCI applications bridging neuroscience and human expression.",
-      "summary_zh": "研究团队：一名确诊 ALS 的舞者借助脑机接口将脑电波信号转化为现场表演动作，在严重运动障碍的情况下实现了实时艺术表达。该技术展示了脑机接口在神经科学与人类表达领域的实际应用潜力。",
-      "tags": [
-        "研究论文",
-        "硬件"
-      ],
-      "source_name": "Hacker News",
-      "source_url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
-      "published_at": "2026-04-12T02:09:13Z",
-      "collected_at": "2026-04-12T09:13:45Z",
       "importance": 3,
       "merged_sources": []
     },
@@ -166,6 +221,42 @@
       "merged_sources": []
     },
     {
+      "id": "74df87e5",
+      "lang": "en",
+      "title_en": "Anthropic silently downgraded cache TTL from 1h → 5M on March 6th",
+      "title_zh": "Anthropic 悄然将缓存 TTL 从 1 小时缩短至 5 分钟",
+      "summary_en": "Anthropic: Anthropic's prompt caching TTL for claude-code was silently downgraded from 1 hour to 5 minutes around March 6, 2026, without announcement. Developers report unexpected quota exhaustion and cost inflation; the GitHub issue attracted significant community attention calling for transparency and a revert.",
+      "summary_zh": "Anthropic：Anthropic 于 2026 年 3 月 6 日前后悄然将 claude-code 提示缓存的 TTL 从 1 小时缩短至 5 分钟，未作任何公告。开发者反馈 quota 大量消耗及费用异常攀升，该 GitHub Issue 引发社区广泛关注，要求官方透明说明并回滚。",
+      "tags": [
+        "产品发布",
+        "安全对齐"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/anthropics/claude-code/issues/46829",
+      "published_at": "2026-04-12T05:45:52Z",
+      "collected_at": "2026-04-12T09:13:45Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "73f79f05",
+      "lang": "en",
+      "title_en": "How a dancer with ALS used brainwaves to perform live",
+      "title_zh": "ALS 舞者用脑电波完成现场表演",
+      "summary_en": "Researchers: A dancer diagnosed with ALS used a brain-computer interface to translate brainwave signals into live performance movements, enabling real-time artistic expression despite severe motor impairment. The technology demonstrates practical BCI applications bridging neuroscience and human expression.",
+      "summary_zh": "研究团队：一名确诊 ALS 的舞者借助脑机接口将脑电波信号转化为现场表演动作，在严重运动障碍的情况下实现了实时艺术表达。该技术展示了脑机接口在神经科学与人类表达领域的实际应用潜力。",
+      "tags": [
+        "研究论文",
+        "硬件"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+      "published_at": "2026-04-12T02:09:13Z",
+      "collected_at": "2026-04-12T09:13:45Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
       "id": "b2b4ac10",
       "lang": "zh",
       "title_zh": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
@@ -211,6 +302,101 @@
       "source_url": "https://www.qbitai.com/2026/04/399975.html",
       "published_at": "2026-04-12T00:00:00Z",
       "collected_at": "2026-04-12T09:13:45Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "485ee081",
+      "lang": "en",
+      "title_en": "Your article about AI doesn't need AI art",
+      "title_zh": "AI 文章不需要 AI 生成配图",
+      "summary_en": "The Verge: A New Yorker illustration by David Szauder featuring an AI-generated portrait of Sam Altman reignited debate over whether publications should use generative AI art to illustrate articles about AI. Critics argue the practice is self-defeating and undermines the integrity of editorial illustration.",
+      "summary_zh": "The Verge：《纽约客》刊发了 David Szauder 创作的 AI 生成 Sam Altman 肖像插图，再度引发媒体是否应以生成式 AI 配图报道 AI 议题的争议。批评者认为此举自相矛盾，有损编辑插画的公信力。",
+      "tags": [
+        "媒体",
+        "生成式AI",
+        "伦理"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "published_at": "2026-04-11T15:00:00Z",
+      "collected_at": "2026-04-11T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "ae304c5a",
+      "lang": "en",
+      "title_en": "Meta is set to pay its top AI executives almost a billion each in bonuses",
+      "title_zh": "Meta 将向顶级 AI 高管发放近十亿美元绩效奖金",
+      "summary_en": "Financial Times/MSN: Meta is preparing performance bonuses approaching $1 billion each for its top AI executives, contingent on hitting targets. The extraordinary packages reflect intense big-tech competition for AI talent as Meta accelerates AI research and infrastructure investments.",
+      "summary_zh": "金融时报/MSN：Meta 计划向顶级 AI 高管发放接近 10 亿美元的绩效奖金，与目标挂钩。天价薪酬折射出大型科技公司在 AI 人才争夺上的激烈竞争，Meta 正加速推进 AI 研究与基础设施投入。",
+      "tags": [
+        "AI人才",
+        "大型科技",
+        "薪酬"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://www.msn.com/en-my/news/other/meta-is-set-to-pay-its-top-ai-executives-almost-a-billion-each-in-bonuses-if-they-hit-their-targets/ar-AA1ZszqA",
+      "published_at": "2026-04-11T14:03:00Z",
+      "collected_at": "2026-04-11T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "212feef9",
+      "lang": "en",
+      "title_en": "My baby deer plushie told me that Mitski's dad was a CIA operative",
+      "title_zh": "AI 鹿玩偶幻觉频发：售价 399 美元的 AI 伴侣玩具测评",
+      "summary_en": "The Verge: Fawn Friends, a $399 AI-powered living plushie marketed as a companion device, was found prone to hallucinations during review—confidently fabricating false information including bizarre conspiracy claims about musician Mitski's family. The product highlights ongoing AI reliability issues in consumer companion devices.",
+      "summary_zh": "The Verge：售价 399 美元的 AI 智能绒毛玩具 Fawn Friends 主打陪伴体验，但测评发现其存在严重幻觉问题，会自信地编造错误信息，甚至捏造歌手 Mitski 家庭的荒诞阴谋论，凸显消费级 AI 伴侣产品的可靠性隐患。",
+      "tags": [
+        "AI产品",
+        "幻觉",
+        "消费者AI"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "published_at": "2026-04-11T14:00:00Z",
+      "collected_at": "2026-04-11T15:00:00Z",
+      "importance": 3,
+      "merged_sources": []
+    },
+    {
+      "id": "a2bc875f",
+      "lang": "en",
+      "title_en": "Cirrus Labs to join OpenAI",
+      "title_zh": "Cirrus Labs 宣布加入 OpenAI Agent 基础设施团队",
+      "summary_en": "Cirrus Labs: Cirrus Labs, a bootstrapped developer tooling startup founded in 2017, announced it will join OpenAI as part of the Agent Infrastructure team. Known for cloud CI/CD tools, the company was acquired without having raised outside capital, bringing its engineering expertise to accelerate OpenAI's agent infrastructure.",
+      "summary_zh": "Cirrus Labs：2017 年创立、从未外部融资的开发工具初创公司 Cirrus Labs 宣布以 Agent 基础设施团队身份加入 OpenAI。该公司以云端 CI/CD 工具见长，此次收购将把其工程团队引入 OpenAI，加速 Agent 基础设施建设。",
+      "tags": [
+        "收购",
+        "OpenAI",
+        "开发工具"
+      ],
+      "source_name": "Hacker News",
+      "source_url": "https://cirruslabs.org/",
+      "published_at": "2026-04-11T13:01:00Z",
+      "collected_at": "2026-04-11T15:00:00Z",
+      "importance": 4,
+      "merged_sources": []
+    },
+    {
+      "id": "ec4254ff",
+      "lang": "en",
+      "title_en": "How Iran out-shitposted the White House",
+      "title_zh": "伊朗如何用 AI 视频在信息战中压倒白宫",
+      "summary_en": "The Verge: During the 2026 Iran conflict, Iranian propagandists created AI-generated Lego-style videos that went massively viral, outpacing official US communications. The analysis examines how low-fidelity but emotionally resonant AI content shaped public war perception despite information blackouts.",
+      "summary_zh": "The Verge：2026 年美伊冲突期间，伊朗宣传者制作的乐高风格 AI 视频大规模病毒式传播，传播效果远超美国官方声明。文章分析了低保真但情感共鸣强烈的 AI 内容如何在信息封锁下主导公众对战争的认知。",
+      "tags": [
+        "AI生成内容",
+        "地缘政治",
+        "媒体"
+      ],
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "published_at": "2026-04-11T13:00:00Z",
+      "collected_at": "2026-04-11T15:00:00Z",
       "importance": 4,
       "merged_sources": []
     }
